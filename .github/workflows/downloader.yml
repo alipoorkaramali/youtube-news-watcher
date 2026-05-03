@@ -1,0 +1,89 @@
+name: YouTube Video Downloader
+
+on:
+  schedule:
+    # هر ۳۰ دقیقه یکبار اجرا می‌شود
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # برای تست دستی
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install yt-dlp and ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install yt-dlp
+
+      - name: Wait 15 minutes for new videos to settle
+        run: sleep 900  # 900 ثانیه = ۱۵ دقیقه
+
+      - name: Read links and download
+        run: |
+          # تعریف کلیدواژه برای دانلود ویدیویی (اخبار ۶ عصر)
+          VIDEO_KEYWORD="اخبار ساعت شش"
+          
+          # اگر فایل خروجی وجود نداشت، پایان بده
+          if [ ! -f logs/new_videos.txt ]; then
+            echo "ℹ️ فایل لینک‌ها پیدا نشد."
+            exit 0
+          fi
+          
+          # خواندن فایل و پردازش خطوط جدید
+          while IFS= read -r line; do
+            # استخراج لینک از خط (چهارمین فیلد پس از جداکننده |)
+            LINK=$(echo "$line" | awk -F'|' '{print $4}' | xargs)
+            TITLE=$(echo "$line" | awk -F'|' '{print $2}' | xargs)
+            
+            # اگر لینک خالی بود، رد کن
+            if [ -z "$LINK" ]; then
+              continue
+            fi
+            
+            echo "----------------------------------------"
+            echo "🎯 پردازش: $TITLE"
+            
+            # اگر تیتر شامل کلیدواژه ویدیویی بود، دانلود ویدیو؛ در غیر این صورت دانلود صوت
+            if echo "$TITLE" | grep -qi "$VIDEO_KEYWORD"; then
+              echo "📹 دانلود ویدیو (MP4 با کیفیت بالا)..."
+              mkdir -p downloads/video
+              yt-dlp -f "bestvideo[height<=1080]+bestaudio/best[height<=1080]" \
+                --merge-output-format mp4 \
+                --force-overwrites \
+                --no-playlist \
+                "$LINK" \
+                -o "downloads/video/%(title)s.%(ext)s"
+            else
+              echo "🎵 دانلود صوت (MP3 با کیفیت بالا)..."
+              mkdir -p downloads/audio
+              yt-dlp -f "bestaudio[ext=m4a]/bestaudio/best" \
+                --audio-format mp3 \
+                --audio-quality 0 \
+                --force-overwrites \
+                --no-playlist \
+                "$LINK" \
+                -o "downloads/audio/%(title)s.%(ext)s"
+            fi
+            
+            # ثبت نتیجه
+            if [ $? -eq 0 ]; then
+              echo "✅ دانلود موفق: $TITLE"
+            else
+              echo "❌ خطا در دانلود: $TITLE"
+            fi
+          done < logs/new_videos.txt
+          
+          echo "✅ پردازش همه لینک‌ها به پایان رسید."
+
+      - name: Commit downloaded files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add downloads/
+          git diff --staged --quiet || (git commit -m "Add downloaded media" && git push)
