@@ -5,5 +5,12 @@
     "start_time_iran": "15:00",
     "check_every_minutes": 60,
     "max_attempts": 5
+  },
+  {
+    "channel": "Iran International",
+    "title_desc": "اخبار نیم روزی",
+    "start_time_iran": "15:00",
+    "check_every_minutes": 60,
+    "max_attempts": 5
   }
 ]
