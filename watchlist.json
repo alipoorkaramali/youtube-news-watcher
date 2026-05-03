@@ -1,15 +1,15 @@
 [
   {
     "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
-    "title_keyword": "خبار ساعت شش عصر",
+    "title_keyword": "اخبار ساعت شش",
     "start_time_iran": "19:00",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
   {
     "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
-    "title_keyword": "اخبار بامدادی",
-    "start_time_iran": "8:00",
+    "title_keyword": "اخبار نیمروزی",
+    "start_time_iran": "15:00",
     "check_every_minutes": 60,
     "max_attempts": 5
   }
