@@ -15,16 +15,19 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ایران ==================
 def iran_offset():
+    """افست ایران نسبت به UTC (تقریبی بر اساس ماه میلادی)"""
     now = datetime.now()
-    if 3 <= now.month <= 9:
+    if 3 <= now.month <= 9:   # نیمه اول سال (ساعت تابستانی)
         return timedelta(hours=4, minutes=30)
-    else:
+    else:                     # نیمه دوم سال
         return timedelta(hours=3, minutes=30)
 
 def iran_now():
+    """زمان فعلی ایران (آگاه از منطقه زمانی)"""
     return datetime.now(timezone.utc) + iran_offset()
 
 def parse_iran_time(time_str):
+    """تبدیل رشته HH:MM به time (بدون تاریخ)"""
     try:
         h, m = map(int, time_str.split(':'))
         return datetime.strptime(f"{h:02d}:{m:02d}", "%H:%M").time()
@@ -32,13 +35,22 @@ def parse_iran_time(time_str):
         return None
 
 def next_check_utc(iran_start, interval_min, attempt):
-    today_iran = iran_now().date()
-    start_dt_iran = datetime.combine(today_iran, iran_start)
-    start_utc = start_dt_iran - iran_offset()
+    """
+    محاسبه زمان UTC بررسی بعدی:
+    - iran_start: زمان شروع به وقت ایران (time)
+    - interval_min: فاصلهٔ بین تلاش‌ها (دقیقه)
+    - attempt: شمارهٔ تلاش (از صفر شروع می‌شود)
+    خروجی یک datetime آگاه از UTC است.
+    """
+    today_iran = iran_now().date()                     # تاریخ ایران
+    start_dt_iran = datetime.combine(today_iran, iran_start)  # زمان شروع به وقت ایران (naive)
+    utc_offset = iran_offset()                         # اختلاف ایران با UTC
+    start_utc = (start_dt_iran - utc_offset).replace(tzinfo=timezone.utc)  # تبدیل به UTC آگاه
     return start_utc + timedelta(minutes=interval_min * attempt)
 
-# ================== کش وضعیت ==================
+# ================== مدیریت وضعیت (state) ==================
 def safe_name(*parts):
+    """ساخت یک نام فایل امن برای کش"""
     raw = "_".join(parts)
     return re.sub(r'[^\w@.-]', '_', raw)[:60]
 
@@ -58,8 +70,8 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== RSS ==================
-RSS_CACHE = {}
+# ================== دریافت RSS ==================
+RSS_CACHE = {}  # کش در طول یک اجرا
 
 def fetch_rss(channel_id):
     if channel_id in RSS_CACHE:
@@ -208,7 +220,7 @@ def main():
     try:
         items = load_watchlist()
         if not items:
-            print("ℹ️ هیچ آیتم معتبری وجود ندارد.")
+            print("ℹ️ هیچ آیتم معتبری برای بررسی وجود ندارد.")
             return
         for item in items:
             process_item(item)
