@@ -30,11 +30,11 @@ on:
 jobs:
   add:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← حذف هشدار Node.js 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1   # بهینه و بدون مشکل detached HEAD
 
       - name: Append new item to watchlist.json
         env:
@@ -59,12 +59,11 @@ jobs:
           echo "محتویات جدید watchlist.json:"
           cat watchlist.json
 
-      - name: Commit and push updated watchlist
+      - name: Commit updated watchlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add watchlist.json
-          # بررسی می‌کنیم که آیا تغییری برای commit وجود دارد
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
