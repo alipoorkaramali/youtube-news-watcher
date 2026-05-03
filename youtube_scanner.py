@@ -7,8 +7,6 @@ from datetime import datetime, timedelta, timezone
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "logs/new_videos.txt"
 STATE_DIR = "cache/states"
-CACHE_CHANNEL_DIR = "cache/channels"   # کش شناسه کانال (در صورت نیاز)
-CACHE_TITLE_DIR = "cache/titles"       # کش کلیدواژه عنوان (در صورت نیاز)
 
 MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
@@ -39,22 +37,10 @@ def next_check_utc(iran_start, interval_min, attempt):
     start_utc = start_dt_iran - iran_offset()
     return start_utc + timedelta(minutes=interval_min * attempt)
 
-# ================== کش‌ها ==================
+# ================== کش وضعیت ==================
 def safe_name(*parts):
     raw = "_".join(parts)
     return re.sub(r'[^\w@.-]', '_', raw)[:60]
-
-def load_cache(path):
-    if os.path.exists(path):
-        with open(path, 'r', encoding='utf-8') as f:
-            content = f.read().strip()
-            return content if content else None
-    return None
-
-def save_cache(path, value):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
-        f.write(value)
 
 def get_state_path(channel_id, keyword):
     return os.path.join(STATE_DIR, safe_name(channel_id, keyword) + ".json")
@@ -110,7 +96,7 @@ def get_relative_time(pub_date):
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
         print(f"📭 فایل {WATCHLIST_FILE} وجود ندارد. ساختن فایل خالی.")
-        with open(WATCHLIST_FILE, 'w') as f:
+        with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
             f.write("[]")
         return []
     with open(WATCHLIST_FILE, 'r', encoding='utf-8') as f:
@@ -123,23 +109,33 @@ def load_watchlist():
     except json.JSONDecodeError as e:
         print(f"❌ فایل JSON معتبر نیست: {e}")
         sys.exit(1)
-    # اعتبارسنجی فیلدهای اجباری
+
     valid_items = []
     for idx, item in enumerate(items):
-        if 'channel_id' not in item or not item['channel_id'].startswith('UC'):
-            print(f"⚠️ آیتم {idx+1}: فیلد channel_id معتبر نیست. نادیده گرفته شد.")
+        cid = item.get('channel_id', '')
+        keyword = item.get('title_keyword', '')
+        start = item.get('start_time_iran', '')
+        if not cid.startswith('UC'):
+            print(f"⚠️ آیتم {idx+1}: channel_id نامعتبر ('{cid}'). نادیده گرفته شد.")
             continue
-        if 'title_keyword' not in item or not item['title_keyword'].strip():
-            print(f"⚠️ آیتم {idx+1}: فیلد title_keyword خالی است. نادیده گرفته شد.")
+        if not keyword.strip():
+            print(f"⚠️ آیتم {idx+1}: title_keyword خالی است. نادیده گرفته شد.")
             continue
-        if 'start_time_iran' not in item or not parse_iran_time(item['start_time_iran']):
-            print(f"⚠️ آیتم {idx+1}: start_time_iran نامعتبر است. نادیده گرفته شد.")
+        if not parse_iran_time(start):
+            print(f"⚠️ آیتم {idx+1}: start_time_iran نامعتبر ('{start}'). نادیده گرفته شد.")
             continue
-        valid_items.append(item)
+        valid_items.append({
+            'channel_id': cid,
+            'title_keyword': keyword.strip(),
+            'start_time_iran': start,
+            'check_every_minutes': max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL),
+            'max_attempts': min(item.get('max_attempts', 5), MAX_ATTEMPTS_LIMIT)
+        })
+
     if len(valid_items) > MAX_ITEMS:
         print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} مورد اول بررسی می‌شود.")
         valid_items = valid_items[:MAX_ITEMS]
-    unique_channels = set(item['channel_id'] for item in valid_items)
+    unique_channels = set(it['channel_id'] for it in valid_items)
     if len(unique_channels) > MAX_UNIQUE_CHANNELS:
         print(f"⚠️ تعداد کانال‌ها بیش از {MAX_UNIQUE_CHANNELS} است. اجرا متوقف شد.")
         sys.exit(1)
@@ -154,37 +150,35 @@ def should_check(item, state):
     if state.get('found'):
         return False, state
 
-    max_attempts = min(item.get('max_attempts', 5), MAX_ATTEMPTS_LIMIT)
-    if state['attempts'] >= max_attempts:
+    if state['attempts'] >= item['max_attempts']:
         return False, state
 
     start_time = parse_iran_time(item['start_time_iran'])
-    if not start_time:
-        return False, state
-
-    interval = max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL)
+    interval = item['check_every_minutes']
     next_utc = next_check_utc(start_time, interval, state['attempts'])
     now_utc = datetime.now(timezone.utc)
     return now_utc >= next_utc, state
 
 def process_item(item):
-    channel_id = item['channel_id']
-    keyword = item['title_keyword'].strip()
-    state = load_state(channel_id, keyword)
+    cid = item['channel_id']
+    kw = item['title_keyword']
+    state = load_state(cid, kw)
     check, state = should_check(item, state)
     if not check:
-        return state, None
+        return
 
-    print(f"\n🔍 بررسی: {channel_id} - '{keyword}' (تلاش {state['attempts']+1})")
-    videos = fetch_rss(channel_id)
+    print(f"\n🔍 بررسی: {cid} - '{kw}' (تلاش {state['attempts']+1})")
+    videos = fetch_rss(cid)
     if not videos:
-        return state, None
+        state['attempts'] += 1
+        save_state(cid, kw, state)
+        return
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=2)
     recent = [v for v in videos if v['published_date'] >= cutoff]
     matched = None
     for v in recent:
-        if keyword.lower() in v['title'].lower():
+        if kw.lower() in v['title'].lower():
             matched = v
             break
 
@@ -207,15 +201,14 @@ def process_item(item):
         print("  ❌ یافت نشد")
         state['attempts'] += 1
 
-    save_state(channel_id, keyword, state)
-    return state, matched
+    save_state(cid, kw, state)
 
 def main():
     print("🚀 شروع اسکن...")
     try:
         items = load_watchlist()
         if not items:
-            print("ℹ️ هیچ آیتم معتبری برای بررسی وجود ندارد.")
+            print("ℹ️ هیچ آیتم معتبری وجود ندارد.")
             return
         for item in items:
             process_item(item)
