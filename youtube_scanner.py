@@ -7,9 +7,8 @@ from datetime import datetime, timedelta, timezone
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "logs/new_videos.txt"
 STATE_DIR = "cache/states"
-CACHE_CHANNEL_DIR = "cache/channels"
-CACHE_TITLE_DIR = "cache/titles"
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+CACHE_CHANNEL_DIR = "cache/channels"   # کش شناسه کانال (در صورت نیاز)
+CACHE_TITLE_DIR = "cache/titles"       # کش کلیدواژه عنوان (در صورت نیاز)
 
 MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
@@ -57,149 +56,21 @@ def save_cache(path, value):
     with open(path, 'w', encoding='utf-8') as f:
         f.write(value)
 
-def get_channel_cache_path(channel):
-    return os.path.join(CACHE_CHANNEL_DIR, safe_name(channel) + ".txt")
+def get_state_path(channel_id, keyword):
+    return os.path.join(STATE_DIR, safe_name(channel_id, keyword) + ".json")
 
-def load_channel_id(channel):
-    return load_cache(get_channel_cache_path(channel))
-
-def save_channel_id(channel, cid):
-    save_cache(get_channel_cache_path(channel), cid)
-
-def get_title_cache_path(channel, desc):
-    return os.path.join(CACHE_TITLE_DIR, safe_name(channel, desc) + ".txt")
-
-def load_title_keyword(channel, desc):
-    return load_cache(get_title_cache_path(channel, desc))
-
-def save_title_keyword(channel, desc, keyword):
-    save_cache(get_title_cache_path(channel, desc), keyword)
-
-def get_state_path(channel, desc):
-    return os.path.join(STATE_DIR, safe_name(channel, desc) + ".json")
-
-def load_state(channel, desc):
-    path = get_state_path(channel, desc)
+def load_state(channel_id, keyword):
+    path = get_state_path(channel_id, keyword)
     if os.path.exists(path):
         with open(path, 'r') as f:
             return json.load(f)
     return {"date": "", "found": False, "attempts": 0}
 
-def save_state(channel, desc, state):
-    path = get_state_path(channel, desc)
+def save_state(channel_id, keyword, state):
+    path = get_state_path(channel_id, keyword)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w') as f:
         json.dump(state, f)
-
-# ================== شناسایی کانال ==================
-def extract_channel_id_from_url(url):
-    m = re.search(r'/channel/(UC[\w-]+)', url)
-    return m.group(1) if m else None
-
-def extract_channel_id_from_handle(handle):
-    if handle.startswith('@'):
-        handle = handle[1:]
-    url = f'https://www.youtube.com/@{handle}/about'
-    headers = {'User-Agent': 'Mozilla/5.0', 'Accept-Language': 'en-US,en;q=0.9'}
-    try:
-        resp = requests.get(url, headers=headers, timeout=15)
-        resp.raise_for_status()
-        m = re.search(r'var ytInitialData\s*=\s*({.*?});', resp.text)
-        if m:
-            data = json.loads(m.group(1))
-            cid = data.get('metadata', {}).get('channelMetadataRenderer', {}).get('externalId')
-            if cid: return cid
-        m2 = re.search(r'<meta itemprop="channelId" content="(UC[\w-]+)"', resp.text)
-        if m2: return m2.group(1)
-    except Exception as e:
-        print(f"⚠️ خطا در استخراج شناسه: {e}")
-    return None
-
-def find_channel_with_deepseek(name):
-    if not DEEPSEEK_API_KEY:
-        return None
-    prompt = (
-        f"Find the official YouTube channel handle for: '{name}'. "
-        "Return ONLY the handle starting with @, or 'NOT_FOUND'."
-    )
-    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "deepseek-chat", "messages": [
-        {"role": "system", "content": "Only output the handle starting with @."},
-        {"role": "user", "content": prompt}
-    ], "max_tokens": 50, "temperature": 0}
-    try:
-        r = requests.post("https://api.deepseek.com/v1/chat/completions", headers=headers, json=payload, timeout=20)
-        r.raise_for_status()
-        answer = r.json()["choices"][0]["message"]["content"].strip().strip('"\'')
-        if answer.startswith('@'):
-            return answer
-        elif answer and answer != 'NOT_FOUND' and re.match(r'^[\w.-]+$', answer):
-            return f"@{answer}"
-    except Exception as e:
-        print(f"⚠️ خطای DeepSeek: {e}")
-    return None
-
-def resolve_channel_id(channel_input):
-    cached = load_channel_id(channel_input)
-    if cached and cached.startswith('UC'):
-        print(f"  📦 شناسه از کش: {cached}")
-        return cached
-
-    if 'youtube.com' in channel_input or 'youtu.be' in channel_input:
-        cid = extract_channel_id_from_url(channel_input)
-        if cid:
-            save_channel_id(channel_input, cid)
-            return cid
-
-    if channel_input.startswith('@'):
-        cid = extract_channel_id_from_handle(channel_input)
-        if cid:
-            save_channel_id(channel_input, cid)
-            return cid
-        corrected = find_channel_with_deepseek(channel_input[1:])
-        if corrected:
-            cid = extract_channel_id_from_handle(corrected)
-            if cid:
-                save_channel_id(channel_input, cid)
-                return cid
-
-    handle = find_channel_with_deepseek(channel_input)
-    if handle:
-        cid = extract_channel_id_from_handle(handle)
-        if cid:
-            save_channel_id(channel_input, cid)
-            return cid
-    return None
-
-def guess_title_keyword(channel_input, title_desc):
-    cached = load_title_keyword(channel_input, title_desc)
-    if cached:
-        print(f"  📦 کلیدواژه از کش: «{cached}»")
-        return cached
-    if not DEEPSEEK_API_KEY:
-        return None
-    prompt = (
-        f"Channel: '{channel_input}'.\n"
-        f"I need to find a daily video described as: '{title_desc}'.\n"
-        "What is a common keyword or short phrase that likely appears in the video title? "
-        "Output only the keyword/phrase in the same language as the channel. If unknown, say 'UNKNOWN'."
-    )
-    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
-    payload = {"model": "deepseek-chat", "messages": [
-        {"role": "system", "content": "Only output the keyword/phrase."},
-        {"role": "user", "content": prompt}
-    ], "max_tokens": 50, "temperature": 0}
-    try:
-        r = requests.post("https://api.deepseek.com/v1/chat/completions", headers=headers, json=payload, timeout=20)
-        r.raise_for_status()
-        answer = r.json()["choices"][0]["message"]["content"].strip().strip('"\'')
-        if answer and answer.upper() != "UNKNOWN":
-            print(f"  🤖 کلیدواژه پیشنهادی: «{answer}»")
-            save_title_keyword(channel_input, title_desc, answer)
-            return answer
-    except Exception as e:
-        print(f"  ⚠️ خطای DeepSeek: {e}")
-    return None
 
 # ================== RSS ==================
 RSS_CACHE = {}
@@ -252,20 +123,33 @@ def load_watchlist():
     except json.JSONDecodeError as e:
         print(f"❌ فایل JSON معتبر نیست: {e}")
         sys.exit(1)
-    if len(items) > MAX_ITEMS:
+    # اعتبارسنجی فیلدهای اجباری
+    valid_items = []
+    for idx, item in enumerate(items):
+        if 'channel_id' not in item or not item['channel_id'].startswith('UC'):
+            print(f"⚠️ آیتم {idx+1}: فیلد channel_id معتبر نیست. نادیده گرفته شد.")
+            continue
+        if 'title_keyword' not in item or not item['title_keyword'].strip():
+            print(f"⚠️ آیتم {idx+1}: فیلد title_keyword خالی است. نادیده گرفته شد.")
+            continue
+        if 'start_time_iran' not in item or not parse_iran_time(item['start_time_iran']):
+            print(f"⚠️ آیتم {idx+1}: start_time_iran نامعتبر است. نادیده گرفته شد.")
+            continue
+        valid_items.append(item)
+    if len(valid_items) > MAX_ITEMS:
         print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} مورد اول بررسی می‌شود.")
-        items = items[:MAX_ITEMS]
-    unique_channels = set(item.get('channel', '') for item in items)
+        valid_items = valid_items[:MAX_ITEMS]
+    unique_channels = set(item['channel_id'] for item in valid_items)
     if len(unique_channels) > MAX_UNIQUE_CHANNELS:
         print(f"⚠️ تعداد کانال‌ها بیش از {MAX_UNIQUE_CHANNELS} است. اجرا متوقف شد.")
         sys.exit(1)
-    return items
+    return valid_items
 
 def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
         state = {"date": str(today), "found": False, "attempts": 0}
-        save_state(item['channel'], item['title_desc'], state)
+        save_state(item['channel_id'], item['title_keyword'], state)
 
     if state.get('found'):
         return False, state
@@ -276,7 +160,6 @@ def should_check(item, state):
 
     start_time = parse_iran_time(item['start_time_iran'])
     if not start_time:
-        print(f"  ⚠️ ساعت شروع نامعتبر: {item['start_time_iran']}")
         return False, state
 
     interval = max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL)
@@ -284,13 +167,15 @@ def should_check(item, state):
     now_utc = datetime.now(timezone.utc)
     return now_utc >= next_utc, state
 
-def process_item(item, channel_id, title_keyword):
-    state = load_state(item['channel'], item['title_desc'])
+def process_item(item):
+    channel_id = item['channel_id']
+    keyword = item['title_keyword'].strip()
+    state = load_state(channel_id, keyword)
     check, state = should_check(item, state)
     if not check:
         return state, None
 
-    print(f"\n🔍 بررسی: {item['channel']} - {item['title_desc']} (تلاش {state['attempts']+1})")
+    print(f"\n🔍 بررسی: {channel_id} - '{keyword}' (تلاش {state['attempts']+1})")
     videos = fetch_rss(channel_id)
     if not videos:
         return state, None
@@ -299,7 +184,7 @@ def process_item(item, channel_id, title_keyword):
     recent = [v for v in videos if v['published_date'] >= cutoff]
     matched = None
     for v in recent:
-        if title_keyword.lower() in v['title'].lower():
+        if keyword.lower() in v['title'].lower():
             matched = v
             break
 
@@ -322,7 +207,7 @@ def process_item(item, channel_id, title_keyword):
         print("  ❌ یافت نشد")
         state['attempts'] += 1
 
-    save_state(item['channel'], item['title_desc'], state)
+    save_state(channel_id, keyword, state)
     return state, matched
 
 def main():
@@ -330,25 +215,10 @@ def main():
     try:
         items = load_watchlist()
         if not items:
-            print("ℹ️ هیچ آیتمی برای بررسی وجود ندارد.")
+            print("ℹ️ هیچ آیتم معتبری برای بررسی وجود ندارد.")
             return
-
-        channel_map = {}
         for item in items:
-            channel_map.setdefault(item.get('channel', ''), []).append(item)
-
-        for channel_input, its in channel_map.items():
-            channel_id = resolve_channel_id(channel_input)
-            if not channel_id:
-                print(f"❌ شناسه کانال برای '{channel_input}' پیدا نشد.")
-                continue
-            RSS_CACHE.clear()
-            for item in its:
-                title_keyword = guess_title_keyword(channel_input, item.get('title_desc', ''))
-                if not title_keyword:
-                    print(f"⚠️ کلیدواژه برای '{item.get('title_desc', '')}' یافت نشد.")
-                    continue
-                process_item(item, channel_id, title_keyword)
+            process_item(item)
         print("✅ اسکن به پایان رسید.")
     except Exception:
         print("💥 خطای پیش‌بینی نشده:")
