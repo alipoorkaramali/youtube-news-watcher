@@ -15,19 +15,16 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ایران ==================
 def iran_offset():
-    """افست ایران نسبت به UTC (تقریبی بر اساس ماه میلادی)"""
     now = datetime.now()
-    if 3 <= now.month <= 9:   # نیمه اول سال (ساعت تابستانی)
+    if 3 <= now.month <= 9:
         return timedelta(hours=4, minutes=30)
-    else:                     # نیمه دوم سال
+    else:
         return timedelta(hours=3, minutes=30)
 
 def iran_now():
-    """زمان فعلی ایران (آگاه از منطقه زمانی)"""
     return datetime.now(timezone.utc) + iran_offset()
 
 def parse_iran_time(time_str):
-    """تبدیل رشته HH:MM به time (بدون تاریخ)"""
     try:
         h, m = map(int, time_str.split(':'))
         return datetime.strptime(f"{h:02d}:{m:02d}", "%H:%M").time()
@@ -35,22 +32,14 @@ def parse_iran_time(time_str):
         return None
 
 def next_check_utc(iran_start, interval_min, attempt):
-    """
-    محاسبه زمان UTC بررسی بعدی:
-    - iran_start: زمان شروع به وقت ایران (time)
-    - interval_min: فاصلهٔ بین تلاش‌ها (دقیقه)
-    - attempt: شمارهٔ تلاش (از صفر شروع می‌شود)
-    خروجی یک datetime آگاه از UTC است.
-    """
-    today_iran = iran_now().date()                     # تاریخ ایران
-    start_dt_iran = datetime.combine(today_iran, iran_start)  # زمان شروع به وقت ایران (naive)
-    utc_offset = iran_offset()                         # اختلاف ایران با UTC
-    start_utc = (start_dt_iran - utc_offset).replace(tzinfo=timezone.utc)  # تبدیل به UTC آگاه
+    today_iran = iran_now().date()
+    start_dt_iran = datetime.combine(today_iran, iran_start)
+    utc_offset = iran_offset()
+    start_utc = (start_dt_iran - utc_offset).replace(tzinfo=timezone.utc)
     return start_utc + timedelta(minutes=interval_min * attempt)
 
-# ================== مدیریت وضعیت (state) ==================
+# ================== وضعیت ==================
 def safe_name(*parts):
-    """ساخت یک نام فایل امن برای کش"""
     raw = "_".join(parts)
     return re.sub(r'[^\w@.-]', '_', raw)[:60]
 
@@ -70,8 +59,8 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت RSS ==================
-RSS_CACHE = {}  # کش در طول یک اجرا
+# ================== RSS ==================
+RSS_CACHE = {}
 
 def fetch_rss(channel_id):
     if channel_id in RSS_CACHE:
@@ -195,9 +184,13 @@ def process_item(item):
             break
 
     if matched:
+        # اطمینان از وجود پوشه خروجی
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
-            existing = f.read()
+        # خواندن ایمن فایل (اگر وجود ندارد، محتوای خالی)
+        existing = ""
+        if os.path.exists(OUTPUT_FILE):
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                existing = f.read()
         if matched['link'] not in existing:
             rel = get_relative_time(matched['published_date'])
             now_iso = datetime.now(timezone.utc).isoformat()
