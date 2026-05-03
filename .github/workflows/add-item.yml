@@ -3,12 +3,12 @@ name: Add Watch Item
 on:
   workflow_dispatch:
     inputs:
-      channel:
-        description: 'نام کانال (یا هندل @)'
+      channel_id:
+        description: 'شناسه کانال (UC...)'
         required: true
         type: string
-      title_desc:
-        description: 'توضیح ویدیو (مثلاً «اخبار شش عصر»)'
+      title_keyword:
+        description: 'کلیدواژه ثابت در عنوان ویدیو'
         required: true
         type: string
       start_time_iran:
@@ -30,33 +30,34 @@ on:
 jobs:
   add:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← حذف هشدار Node.js 20
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Append new item to watchlist.json
         env:
-          CHANNEL: ${{ github.event.inputs.channel }}
-          TITLE_DESC: ${{ github.event.inputs.title_desc }}
+          CHANNEL_ID: ${{ github.event.inputs.channel_id }}
+          TITLE_KEYWORD: ${{ github.event.inputs.title_keyword }}
           START_TIME: ${{ github.event.inputs.start_time_iran }}
           INTERVAL: ${{ github.event.inputs.check_every_minutes }}
           ATTEMPTS: ${{ github.event.inputs.max_attempts }}
         run: |
           NEW_ITEM=$(jq -n \
-            --arg ch "$CHANNEL" \
-            --arg td "$TITLE_DESC" \
+            --arg cid "$CHANNEL_ID" \
+            --arg kw "$TITLE_KEYWORD" \
             --arg st "$START_TIME" \
             --argjson iv "$INTERVAL" \
             --argjson ma "$ATTEMPTS" \
-            '{channel: $ch, title_desc: $td, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
+            '{channel_id: $cid, title_keyword: $kw, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
           if [ -f watchlist.json ]; then
             jq ". += [$NEW_ITEM]" watchlist.json > tmp.json && mv tmp.json watchlist.json
           else
             echo "[$NEW_ITEM]" > watchlist.json
           fi
-          echo "محتویات جدید watchlist.json:"
+          echo "محتویات جدید:"
           cat watchlist.json
 
       - name: Commit updated watchlist
@@ -65,7 +66,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add watchlist.json
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes."
           else
             git commit -m "Add new watch item via form"
             git push
