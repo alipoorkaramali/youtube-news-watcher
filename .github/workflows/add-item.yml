@@ -1,0 +1,63 @@
+name: Add Watch Item
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'نام کانال (یا هندل @)'
+        required: true
+        type: string
+      title_desc:
+        description: 'توضیح ویدیو (مثلاً «اخبار شش عصر»)'
+        required: true
+        type: string
+      start_time_iran:
+        description: 'ساعت شروع به وقت ایران (HH:MM)'
+        required: true
+        type: string
+        default: '19:00'
+      check_every_minutes:
+        description: 'فاصلهٔ بین تلاش‌ها (دقیقه)'
+        required: false
+        type: number
+        default: 60
+      max_attempts:
+        description: 'حداکثر تلاش در روز'
+        required: false
+        type: number
+        default: 5
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append new item to watchlist.json
+        env:
+          CHANNEL: ${{ github.event.inputs.channel }}
+          TITLE_DESC: ${{ github.event.inputs.title_desc }}
+          START_TIME: ${{ github.event.inputs.start_time_iran }}
+          INTERVAL: ${{ github.event.inputs.check_every_minutes }}
+          ATTEMPTS: ${{ github.event.inputs.max_attempts }}
+        run: |
+          NEW_ITEM=$(jq -n \
+            --arg ch "$CHANNEL" \
+            --arg td "$TITLE_DESC" \
+            --arg st "$START_TIME" \
+            --argjson iv "$INTERVAL" \
+            --argjson ma "$ATTEMPTS" \
+            '{channel: $ch, title_desc: $td, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
+          if [ -f watchlist.json ]; then
+            jq ". += [$NEW_ITEM]" watchlist.json > tmp.json && mv tmp.json watchlist.json
+          else
+            echo "[$NEW_ITEM]" > watchlist.json
+          fi
+          cat watchlist.json
+
+      - name: Commit updated watchlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add watchlist.json
+          git diff --staged --quiet || (git commit -m "Add new watch item via form" && git push)
