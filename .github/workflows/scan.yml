@@ -2,8 +2,12 @@ name: YouTube Multi-Watcher
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:          # ← این خط باعث می‌شود دکمهٔ "Run workflow" نشان داده شود
+    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه
+  workflow_dispatch:          # دکمه اجرای دستی
+
+# صراحتاً اجازهٔ نوشتن به مخزن داده شود
+permissions:
+  contents: write
 
 jobs:
   watch:
@@ -23,9 +27,9 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python youtube_scanner.py
 
+      # استفاده از Action حرفه‌ای برای commit و push (بدون خطای ۱۲۸)
       - name: Commit logs and cache
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add logs/new_videos.txt cache/
-          git diff --staged --quiet || (git commit -m "Update logs & cache" && git push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update logs & cache'
+          file_pattern: 'logs/ cache/'
