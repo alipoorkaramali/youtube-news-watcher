@@ -1,1 +1,2 @@
 requests
+pip install soundcloud-lib
