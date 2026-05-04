@@ -1,4 +1,4 @@
-name: Add Watch Item
+name: Add Watch Item v.1
 
 on:
   workflow_dispatch:
