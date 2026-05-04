@@ -49,5 +49,13 @@
     "start_time_iran": "07:40",
     "check_every_minutes": 60,
     "max_attempts": 5
+  },
+  {
+    "platform": "soundcloud_playlist",
+    "channel_id": "https://soundcloud.com/iranintl",
+    "title_keyword": "اخبار شبانگاهی",
+    "start_time_iran": "18:40",
+    "check_every_minutes": 60,
+    "max_attempts": 5
   }
 ]
