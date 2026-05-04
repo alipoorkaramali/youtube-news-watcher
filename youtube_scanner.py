@@ -1,25 +1,26 @@
+import os
+import json
+import sys
+import traceback
+import re
+import subprocess
 import requests
 import xml.etree.ElementTree as ET
-import os, json, sys, traceback, re
 from datetime import datetime, timedelta, timezone
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "logs/new_videos.txt"
 STATE_DIR = "cache/states"
-
 MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
 MIN_CHECK_INTERVAL = 30
 MAX_ATTEMPTS_LIMIT = 10
 
-# ================== ابزارهای زمان ایران ==================
+# ================== ابزارهای زمان ==================
 def iran_offset():
     now = datetime.now()
-    if 3 <= now.month <= 9:
-        return timedelta(hours=4, minutes=30)
-    else:
-        return timedelta(hours=3, minutes=30)
+    return timedelta(hours=4, minutes=30) if 3 <= now.month <= 9 else timedelta(hours=3, minutes=30)
 
 def iran_now():
     return datetime.now(timezone.utc) + iran_offset()
@@ -59,7 +60,52 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== RSS (یوتیوب + ساندکلاد) ==================
+# ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
+def fetch_soundcloud_playlist(playlist_url):
+    """
+    دریافت اطلاعات آهنگ‌های یک پلی‌لیست ساندکلاد با استفاده از yt-dlp.
+    برمی‌گرداند لیستی از دیکشنری‌ها با کلیدهای title, link, published_date
+    """
+    print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
+    try:
+        # اجرای yt-dlp به صورت flat (بدون دانلود) و گرفتن خروجی JSON
+        cmd = [
+            "yt-dlp",
+            "--flat-playlist",
+            "-J",               # خروجی JSON
+            "--no-warnings",
+            playlist_url
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        data = json.loads(result.stdout)
+        tracks = []
+        for entry in data.get('entries', []):
+            title = entry.get('title')
+            link = entry.get('webpage_url') or entry.get('url')
+            # برخی ورژن‌ها تاریخ را در 'upload_date' به فرمت YYYYMMDD می‌دهند
+            upload_date_str = entry.get('upload_date')
+            if upload_date_str:
+                # تبدیل به datetime
+                pub_date = datetime.strptime(upload_date_str, "%Y%m%d").replace(tzinfo=timezone.utc)
+            else:
+                # اگر تاریخ موجود نبود، از timestamp یا زمان آپلود استفاده کن
+                timestamp = entry.get('timestamp')
+                if timestamp:
+                    pub_date = datetime.fromtimestamp(timestamp, tz=timezone.utc)
+                else:
+                    pub_date = datetime.now(timezone.utc)  # fallback
+            if title and link:
+                tracks.append({
+                    "title": title,
+                    "link": link,
+                    "published_date": pub_date
+                })
+        return tracks
+    except Exception as e:
+        print(f"  ❌ خطا در دریافت پلی‌لیست ساندکلاد: {e}")
+        return []
+
+# ================== RSS یوتیوب ==================
 RSS_CACHE = {}
 
 def fetch_rss_youtube(channel_id):
@@ -76,32 +122,8 @@ def fetch_rss_youtube(channel_id):
         pub_str = entry.find('published', ns).text
         pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
         videos.append({"title": title, "link": link, "published_date": pub_date})
+    RSS_CACHE[channel_id] = videos
     return videos
-
-def fetch_rss_soundcloud(user_id):
-    # آیدی کاربر می‌تواند مثلاً "123456" یا "soundcloud:users:123456" باشد
-    clean_id = user_id.split(":")[-1] if ":" in user_id else user_id
-    url = f"https://feeds.soundcloud.com/users/soundcloud:users:{clean_id}/tracks"
-    print(f"  📡 دریافت RSS ساندکلاد برای {clean_id}")
-    resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SC-Watcher/1.0)'})
-    resp.raise_for_status()
-    root = ET.fromstring(resp.content)
-    # RSS ساندکلاد معمولاً از Atom با namespaceهای متفاوت استفاده می‌کند
-    # <entry><title>...</title><link rel="alternate" type="text/html" href="..."/><published>...</published></entry>
-    ns = {'atom': 'http://www.w3.org/2005/Atom'}
-    tracks = []
-    for entry in root.findall('atom:entry', ns):
-        title = entry.find('atom:title', ns).text.strip()
-        # پیدا کردن لینک با rel="alternate"
-        link = None
-        for l in entry.findall('atom:link', ns):
-            if l.attrib.get('rel') == 'alternate':
-                link = l.attrib.get('href')
-                break
-        pub_str = entry.find('atom:published', ns).text
-        pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
-        tracks.append({"title": title, "link": link, "published_date": pub_date})
-    return tracks
 
 def fetch_rss(platform, channel_id):
     cache_key = f"{platform}_{channel_id}"
@@ -111,13 +133,13 @@ def fetch_rss(platform, channel_id):
     try:
         if platform == 'youtube':
             videos = fetch_rss_youtube(channel_id)
-        elif platform == 'soundcloud':
-            videos = fetch_rss_soundcloud(channel_id)
+        elif platform == 'soundcloud_playlist':
+            videos = fetch_soundcloud_playlist(channel_id)
         else:
             print(f"  ❌ پلتفرم نامعتبر: {platform}")
             return []
     except Exception as e:
-        print(f"  ❌ خطا RSS: {e}")
+        print(f"  ❌ خطا در دریافت فید: {e}")
         return []
 
     RSS_CACHE[cache_key] = videos
@@ -127,14 +149,11 @@ def get_relative_time(pub_date):
     delta = datetime.now(timezone.utc) - pub_date
     h = int(delta.total_seconds() // 3600)
     m = int((delta.total_seconds() % 3600) // 60)
-    if h > 0:
-        return f"{h} hours ago"
-    return f"{m} minutes ago"
+    return f"{h} hours ago" if h > 0 else f"{m} minutes ago"
 
 # ================== منطق اصلی ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
-        print(f"📭 فایل {WATCHLIST_FILE} وجود ندارد. ساختن فایل خالی.")
         with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
             f.write("[]")
         return []
@@ -151,7 +170,7 @@ def load_watchlist():
 
     valid_items = []
     for idx, item in enumerate(items):
-        plat = item.get('platform', 'youtube')  # پیش‌فرض یوتیوب
+        plat = item.get('platform', 'youtube')
         cid = item.get('channel_id', '')
         keyword = item.get('title_keyword', '')
         start = item.get('start_time_iran', '')
@@ -174,7 +193,7 @@ def load_watchlist():
         })
 
     if len(valid_items) > MAX_ITEMS:
-        print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} مورد اول بررسی می‌شود.")
+        print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} اول بررسی می‌شود.")
         valid_items = valid_items[:MAX_ITEMS]
     unique_channels = set(it['channel_id'] for it in valid_items)
     if len(unique_channels) > MAX_UNIQUE_CHANNELS:
@@ -216,8 +235,14 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=2)
-    recent = [v for v in videos if v['published_date'] >= cutoff]
+    # برای پلی‌لیست ساندکلاد، فقط آهنگ‌های امروز را در نظر بگیریم
+    if plat == 'soundcloud_playlist':
+        today = datetime.now(timezone.utc).date()
+        recent = [v for v in videos if v['published_date'].date() == today]
+    else:
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=2)
+        recent = [v for v in videos if v['published_date'] >= cutoff]
+
     matched = None
     for v in recent:
         if kw.lower() in v['title'].lower():
@@ -233,8 +258,7 @@ def process_item(item):
         if matched['link'] not in existing:
             rel = get_relative_time(matched['published_date'])
             now_iso = datetime.now(timezone.utc).isoformat()
-            # فرمت جدید: timestamp | platform | title | rel_time | url
-            line = f"{now_iso} | {plat} | {matched['title']} | {rel} | {matched['link']}\n"
+            line = f"{now_iso} | soundcloud | {matched['title']} | {rel} | {matched['link']}\n"
             with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
