@@ -1,4 +1,4 @@
-name: Add Watch Item v1
+name: Add Watch Item
 
 on:
   workflow_dispatch:
@@ -10,13 +10,13 @@ on:
         default: 'youtube'
         options:
           - 'youtube'
-          - 'soundcloud'
+          - 'soundcloud_playlist'
       channel_id:
-        description: 'شناسه کانال/کاربر (UC... برای یوتیوب، یا آیدی ساندکلاد)'
+        description: 'شناسه کانال یوتیوب (UC...) / لینک پلی‌لیست ساندکلاد'
         required: true
         type: string
       title_keyword:
-        description: 'کلیدواژه ثابت در عنوان ویدیو/ترک'
+        description: 'کلیدواژه ثابت در عنوان ویدیو/آهنگ'
         required: true
         type: string
       start_time_iran:
