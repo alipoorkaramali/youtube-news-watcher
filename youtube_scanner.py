@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import os, json, sys, traceback, re
 from datetime import datetime, timedelta, timezone
-from html import unescape
+from sclib import SoundcloudAPI, Playlist, Track  # << کتابخانهٔ جدید
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
@@ -60,70 +60,61 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت پلی‌لیست ساندکلاد (روش مستقیم و مقاوم) ==================
+# ================== دریافت داده از ساندکلاد (کاملاً بازنویسی شده) ==================
 def fetch_soundcloud_playlist(playlist_url):
     """
-    دریافت لیست آهنگ‌های یک پروفایل/پلی‌لیست ساندکلاد با استفاده از scraping صفحه.
-    این روش مستقیماً JSON نهفته در HTML را استخراج می‌کند و به yt-dlp متکی نیست.
+    دریافت لیست آهنگ‌های یک پلی‌لیست ساندکلاد با استفاده از soundcloud-lib.
+    این تابع برای platform: soundcloud_playlist استفاده می‌شود.
     """
-    print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
+    print(f"  📡 دریافت پلی‌لیست ساندکلاد (جدید): {playlist_url}")
     try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-        }
-        resp = requests.get(playlist_url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        html = resp.text
-
-        # استخراج JSON از تگ <script> حاوی "hydratable"
-        # الگوی معمول: window.__sc_hydration = [...] یا data-hydratable="..."
-        # ابتدا به دنبال window.__sc_hydration باشیم
-        pattern = r'window\.__sc_hydration\s*=\s*(\[.*?\]);'
-        match = re.search(pattern, html, re.DOTALL)
-        if not match:
-            # روش دوم: جستجوی data-hydratable
-            pattern2 = r'data-hydratable="([^"]+)"'
-            match = re.search(pattern2, html)
-            if match:
-                import html as html_mod
-                hyd_data = html_mod.unescape(match.group(1))
-                data = json.loads(hyd_data)
-            else:
-                print("  ❌ نتوانستم JSON پلی‌لیست را در صفحه پیدا کنم.")
-                return []
-        else:
-            data = json.loads(match.group(1))
-
-        # تحلیل ساختار JSON
+        api = SoundcloudAPI()
+        playlist = api.resolve(playlist_url)
+        if not isinstance(playlist, Playlist):
+            print("  ❌ شیء برگشتی یک Playlist نیست، شاید لینک اشتباه باشد.")
+            return []
         tracks = []
-        if isinstance(data, list):
-            for item in data:
-                if isinstance(item, dict) and item.get('type') == 'track':
-                    track = item.get('data', {})
-                    title = track.get('title')
-                    permalink = track.get('permalink_url')
-                    if title and permalink:
-                        # تاریخ ایجاد
-                        timestamp = track.get('created_at')
-                        if timestamp:
-                            try:
-                                pub_date = datetime.strptime(timestamp, "%Y/%m/%d %H:%M:%S %z").replace(tzinfo=timezone.utc)
-                            except:
-                                pub_date = datetime.now(timezone.utc)
-                        else:
-                            pub_date = datetime.now(timezone.utc)
-                        tracks.append({
-                            "title": title,
-                            "link": permalink,
-                            "published_date": pub_date
-                        })
-
-        if not tracks:
-            print("  ℹ️ هیچ آهنگی در پلی‌لیست یافت نشد.")
+        for track in playlist.tracks:
+            # track.created_at معمولاً یک datetime object است
+            pub_date = track.created_at if track.created_at else datetime.now(timezone.utc)
+            if not pub_date.tzinfo:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            tracks.append({
+                "title": track.title,
+                "link": track.permalink_url,
+                "published_date": pub_date
+            })
         return tracks
-
     except Exception as e:
         print(f"  ❌ خطا در دریافت پلی‌لیست ساندکلاد: {e}")
+        return []
+
+def fetch_soundcloud_user(user_url):
+    """
+    دریافت لیست آهنگ‌های یک کاربر ساندکلاد.
+    برای platform: soundcloud_user استفاده می‌شود.
+    """
+    print(f"  📡 دریافت آهنگ‌های کاربر ساندکلاد: {user_url}")
+    try:
+        api = SoundcloudAPI()
+        user = api.resolve(user_url)
+        if not user:
+            print("  ❌ کاربر پیدا نشد.")
+            return []
+        tracks = []
+        # user.tracks یک جنراتور است که تمام آهنگ‌ها را برمی‌گرداند
+        for track in user.tracks:
+            pub_date = track.created_at if track.created_at else datetime.now(timezone.utc)
+            if not pub_date.tzinfo:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            tracks.append({
+                "title": track.title,
+                "link": track.permalink_url,
+                "published_date": pub_date
+            })
+        return tracks
+    except Exception as e:
+        print(f"  ❌ خطا در دریافت آهنگ‌های کاربر ساندکلاد: {e}")
         return []
 
 # ================== RSS یوتیوب (بدون تغییر) ==================
@@ -156,6 +147,8 @@ def fetch_rss(platform, channel_id):
             videos = fetch_rss_youtube(channel_id)
         elif platform == 'soundcloud_playlist':
             videos = fetch_soundcloud_playlist(channel_id)
+        elif platform == 'soundcloud_user':
+            videos = fetch_soundcloud_user(channel_id)
         else:
             print(f"  ❌ پلتفرم نامعتبر: {platform}")
             return []
@@ -259,8 +252,8 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    # برای ساندکلاد فقط آهنگ‌های امروز را در نظر بگیرید
-    if plat == 'soundcloud_playlist':
+    # برای ساندکلاد فقط آهنگ‌های امروز بررسی شود
+    if plat in ('soundcloud_playlist', 'soundcloud_user'):
         today = datetime.now(timezone.utc).date()
         recent = [v for v in videos if v['published_date'].date() == today]
     else:
