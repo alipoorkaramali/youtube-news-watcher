@@ -35,14 +35,6 @@
     "max_attempts": 5
   },
   {
-    "platform": "soundcloud",
-    "channel_id": "soundcloud:users:24019477",
-    "title_keyword": "اخبار نیمروزی",
-    "start_time_iran": "14:40",
-    "check_every_minutes": 45,
-    "max_attempts": 5
-  },
-  {
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
     "title_keyword": "اخبار نیمروزی",
