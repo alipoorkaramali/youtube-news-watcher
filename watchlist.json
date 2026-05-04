@@ -41,5 +41,13 @@
     "start_time_iran": "14:30",
     "check_every_minutes": 60,
     "max_attempts": 5
+  },
+  {
+    "platform": "soundcloud_playlist",
+    "channel_id": "https://soundcloud.com/iranintl",
+    "title_keyword": "اخبار بامدادی",
+    "start_time_iran": "07:40",
+    "check_every_minutes": 60,
+    "max_attempts": 5
   }
 ]
