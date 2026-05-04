@@ -2,8 +2,8 @@ name: YouTube Multi-Watcher v.1
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # هر ۱۵ دقیقه
-  workflow_dispatch:          # دکمه اجرای دستی
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -26,9 +26,8 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python youtube_scanner.py
 
-      # استفاده از Action حرفه‌ای برای commit و push
       - name: Commit logs, cache, and new_videos
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Update logs & cache & new_videos'
-          file_pattern: 'logs/ cache/ new_videos.txt'
+          file_pattern: 'logs/ cache/'
