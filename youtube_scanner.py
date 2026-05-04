@@ -59,20 +59,14 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== RSS ==================
+# ================== RSS (یوتیوب + ساندکلاد) ==================
 RSS_CACHE = {}
 
-def fetch_rss(channel_id):
-    if channel_id in RSS_CACHE:
-        return RSS_CACHE[channel_id]
+def fetch_rss_youtube(channel_id):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    print(f"  📡 دریافت RSS برای {channel_id}")
-    try:
-        resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; YT-Watcher/1.0)'})
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"  ❌ خطا RSS: {e}")
-        return []
+    print(f"  📡 دریافت RSS یوتیوب برای {channel_id}")
+    resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; YT-Watcher/1.0)'})
+    resp.raise_for_status()
     root = ET.fromstring(resp.content)
     ns = {'': 'http://www.w3.org/2005/Atom'}
     videos = []
@@ -82,7 +76,51 @@ def fetch_rss(channel_id):
         pub_str = entry.find('published', ns).text
         pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
         videos.append({"title": title, "link": link, "published_date": pub_date})
-    RSS_CACHE[channel_id] = videos
+    return videos
+
+def fetch_rss_soundcloud(user_id):
+    # آیدی کاربر می‌تواند مثلاً "123456" یا "soundcloud:users:123456" باشد
+    clean_id = user_id.split(":")[-1] if ":" in user_id else user_id
+    url = f"https://feeds.soundcloud.com/users/soundcloud:users:{clean_id}/tracks"
+    print(f"  📡 دریافت RSS ساندکلاد برای {clean_id}")
+    resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SC-Watcher/1.0)'})
+    resp.raise_for_status()
+    root = ET.fromstring(resp.content)
+    # RSS ساندکلاد معمولاً از Atom با namespaceهای متفاوت استفاده می‌کند
+    # <entry><title>...</title><link rel="alternate" type="text/html" href="..."/><published>...</published></entry>
+    ns = {'atom': 'http://www.w3.org/2005/Atom'}
+    tracks = []
+    for entry in root.findall('atom:entry', ns):
+        title = entry.find('atom:title', ns).text.strip()
+        # پیدا کردن لینک با rel="alternate"
+        link = None
+        for l in entry.findall('atom:link', ns):
+            if l.attrib.get('rel') == 'alternate':
+                link = l.attrib.get('href')
+                break
+        pub_str = entry.find('atom:published', ns).text
+        pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
+        tracks.append({"title": title, "link": link, "published_date": pub_date})
+    return tracks
+
+def fetch_rss(platform, channel_id):
+    cache_key = f"{platform}_{channel_id}"
+    if cache_key in RSS_CACHE:
+        return RSS_CACHE[cache_key]
+
+    try:
+        if platform == 'youtube':
+            videos = fetch_rss_youtube(channel_id)
+        elif platform == 'soundcloud':
+            videos = fetch_rss_soundcloud(channel_id)
+        else:
+            print(f"  ❌ پلتفرم نامعتبر: {platform}")
+            return []
+    except Exception as e:
+        print(f"  ❌ خطا RSS: {e}")
+        return []
+
+    RSS_CACHE[cache_key] = videos
     return videos
 
 def get_relative_time(pub_date):
@@ -113,11 +151,12 @@ def load_watchlist():
 
     valid_items = []
     for idx, item in enumerate(items):
+        plat = item.get('platform', 'youtube')  # پیش‌فرض یوتیوب
         cid = item.get('channel_id', '')
         keyword = item.get('title_keyword', '')
         start = item.get('start_time_iran', '')
-        if not cid.startswith('UC'):
-            print(f"⚠️ آیتم {idx+1}: channel_id نامعتبر ('{cid}'). نادیده گرفته شد.")
+        if not cid.strip():
+            print(f"⚠️ آیتم {idx+1}: channel_id خالی است. نادیده گرفته شد.")
             continue
         if not keyword.strip():
             print(f"⚠️ آیتم {idx+1}: title_keyword خالی است. نادیده گرفته شد.")
@@ -126,7 +165,8 @@ def load_watchlist():
             print(f"⚠️ آیتم {idx+1}: start_time_iran نامعتبر ('{start}'). نادیده گرفته شد.")
             continue
         valid_items.append({
-            'channel_id': cid,
+            'platform': plat,
+            'channel_id': cid.strip(),
             'title_keyword': keyword.strip(),
             'start_time_iran': start,
             'check_every_minutes': max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL),
@@ -161,6 +201,7 @@ def should_check(item, state):
     return now_utc >= next_utc, state
 
 def process_item(item):
+    plat = item['platform']
     cid = item['channel_id']
     kw = item['title_keyword']
     state = load_state(cid, kw)
@@ -168,8 +209,8 @@ def process_item(item):
     if not check:
         return
 
-    print(f"\n🔍 بررسی: {cid} - '{kw}' (تلاش {state['attempts']+1})")
-    videos = fetch_rss(cid)
+    print(f"\n🔍 بررسی [{plat.upper()}] {cid} - '{kw}' (تلاش {state['attempts']+1})")
+    videos = fetch_rss(plat, cid)
     if not videos:
         state['attempts'] += 1
         save_state(cid, kw, state)
@@ -184,9 +225,7 @@ def process_item(item):
             break
 
     if matched:
-        # اطمینان از وجود پوشه خروجی
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-        # خواندن ایمن فایل (اگر وجود ندارد، محتوای خالی)
         existing = ""
         if os.path.exists(OUTPUT_FILE):
             with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
@@ -194,13 +233,14 @@ def process_item(item):
         if matched['link'] not in existing:
             rel = get_relative_time(matched['published_date'])
             now_iso = datetime.now(timezone.utc).isoformat()
-            line = f"{now_iso} | {matched['title']} | {rel} | {matched['link']}\n"
+            # فرمت جدید: timestamp | platform | title | rel_time | url
+            line = f"{now_iso} | {plat} | {matched['title']} | {rel} | {matched['link']}\n"
             with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
         else:
-            print("  ℹ️ ویدیو تکراری است")
+            print("  ℹ️ تکراری است")
             state['found'] = True
     else:
         print("  ❌ یافت نشد")
