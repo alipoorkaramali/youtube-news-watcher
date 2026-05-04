@@ -14,8 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Clear logs/new_videos.txt
-        run: truncate -s 0 logs/new_videos.txt
+      - name: Ensure logs directory and clear file
+        run: |
+          mkdir -p logs                     # اگر پوشه logs نباشد، می‌سازد
+          true > logs/new_videos.txt         # فایل را خالی می‌کند (در صورت عدم وجود، فایل خالی می‌سازد)
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
