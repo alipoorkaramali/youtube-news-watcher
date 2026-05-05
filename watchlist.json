@@ -38,7 +38,7 @@
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
     "title_keyword": "اخبار نیم‌روزی",
-    "start_time_iran": "14:30",
+    "start_time_iran": "15:30",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
@@ -46,7 +46,7 @@
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
     "title_keyword": "اخبار بامدادی",
-    "start_time_iran": "07:40",
+    "start_time_iran": "08:40",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
@@ -54,7 +54,7 @@
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
     "title_keyword": "اخبار شبانگاهی",
-    "start_time_iran": "18:40",
+    "start_time_iran": "19:40",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
