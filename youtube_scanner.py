@@ -240,11 +240,13 @@ def process_item(item):
         today = datetime.now(timezone.utc).date()
         recent = [v for v in videos if v['published_date'].date() == today]
     else:
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=2)
+        # ✅ اصلاح‌شده: بررسی ۲۴ ساعت اخیر به جای ۲ ساعت
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
         recent = [v for v in videos if v['published_date'] >= cutoff]
 
     matched = None
     for v in recent:
+        # تطبیق عنوان به صورت شامل بودن (in) بدون توجه به بزرگی/کوچکی حروف
         if kw.lower() in v['title'].lower():
             matched = v
             break
