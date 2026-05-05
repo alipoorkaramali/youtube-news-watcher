@@ -1,13 +1,92 @@
-name: Debug Scanner Output
+name: Full Diagnostic
 
 on: workflow_dispatch
 
 jobs:
-  debug:
+  diagnose:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
       - name: Install dependencies
-        run: pip install requests soundcloud-lib
-      - name: Run debug script
-        run: python debug_youtube_scanner.py
+        run: |
+          pip install --upgrade pip
+          pip install requests soundcloud-lib
+          python -c "import sclib; print('soundcloud-lib imported successfully')"
+          python -c "import requests; print('requests imported')"
+
+      - name: Test YouTube RSS directly (curl)
+        run: |
+          echo "=== Testing YouTube RSS with curl ==="
+          curl -v -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+               "https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw" 2>&1 | head -50
+
+      - name: Test YouTube RSS with Python (full debug)
+        run: |
+          python << 'EOF'
+          import requests
+          import xml.etree.ElementTree as ET
+          url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw"
+          headers = {"User-Agent": "Mozilla/5.0 (compatible; Debugger/2.0)"}
+          print(f"Requesting {url}")
+          try:
+              r = requests.get(url, headers=headers, timeout=30)
+              print(f"Status: {r.status_code}")
+              print(f"Content-Type: {r.headers.get('content-type')}")
+              if r.status_code == 200:
+                  root = ET.fromstring(r.content)
+                  ns = {'': 'http://www.w3.org/2005/Atom'}
+                  entries = root.findall('entry', ns)
+                  print(f"Number of entries: {len(entries)}")
+                  for entry in entries[:10]:
+                      title = entry.find('title', ns).text.strip()
+                      print(f"  - {title}")
+              else:
+                  print("Response body (first 500 chars):", r.text[:500])
+          except Exception as e:
+              print("Error:", str(e))
+          EOF
+
+      - name: Test SoundCloud library
+        run: |
+          python << 'EOF'
+          from sclib import SoundcloudAPI, Playlist
+          import traceback
+          print("Testing SoundCloud Playlist...")
+          try:
+              api = SoundcloudAPI()
+              print("SoundcloudAPI created")
+              # تست با پلی‌لیست ایران اینترنشنال (اگر پیج کاربریه پلی‌لیست نیست، ممکنه خطا بده)
+              url = "https://soundcloud.com/iranintl"
+              print(f"Resolving {url}")
+              obj = api.resolve(url)
+              print(f"Type: {type(obj)}, value: {obj}")
+              if isinstance(obj, Playlist):
+                  print(f"Playlist title: {obj.title}")
+                  for track in obj.tracks[:5]:
+                      print(f" - {track.title}")
+              else:
+                  print("Not a playlist. Checking user object...")
+                  # try as user
+                  from sclib import User
+                  if isinstance(obj, User):
+                      print(f"User: {obj.username}")
+                      for track in obj.tracks[:5]:
+                          print(f" - {track.title}")
+                  else:
+                      print("Unknown object type")
+          except Exception:
+              print("Error occurred:")
+              traceback.print_exc()
+          EOF
+
+      - name: Run original scanner with traceback
+        env:
+          PYTHONFAULTHANDLER: 1
+        run: |
+          python -u youtube_scanner.py
