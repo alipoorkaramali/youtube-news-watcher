@@ -1,0 +1,13 @@
+name: Debug Scanner Output
+
+on: workflow_dispatch
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: pip install requests soundcloud-lib
+      - name: Run debug script
+        run: python debug_youtube_scanner.py
