@@ -1,26 +1,26 @@
+import os
+import json
+import sys
+import traceback
+import re
+import subprocess
 import requests
 import xml.etree.ElementTree as ET
-import os, json, sys, traceback, re
 from datetime import datetime, timedelta, timezone
-from sclib import SoundcloudAPI, Playlist, Track
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "logs/new_videos.txt"
 STATE_DIR = "cache/states"
-
 MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
 MIN_CHECK_INTERVAL = 30
 MAX_ATTEMPTS_LIMIT = 10
 
-# ================== ابزارهای زمان ایران ==================
+# ================== ابزارهای زمان ==================
 def iran_offset():
     now = datetime.now()
-    if 3 <= now.month <= 9:
-        return timedelta(hours=4, minutes=30)
-    else:
-        return timedelta(hours=3, minutes=30)
+    return timedelta(hours=4, minutes=30) if 3 <= now.month <= 9 else timedelta(hours=3, minutes=30)
 
 def iran_now():
     return datetime.now(timezone.utc) + iran_offset()
@@ -60,51 +60,49 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت پلی‌لیست ساندکلاد با soundcloud-lib ==================
+# ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
 def fetch_soundcloud_playlist(playlist_url):
-    print(f"  📡 دریافت پلی‌لیست ساندکلاد (جدید): {playlist_url}")
+    """
+    دریافت اطلاعات آهنگ‌های یک پلی‌لیست ساندکلاد با استفاده از yt-dlp.
+    برمی‌گرداند لیستی از دیکشنری‌ها با کلیدهای title, link, published_date
+    """
+    print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
-        api = SoundcloudAPI()
-        playlist = api.resolve(playlist_url)
-        if not isinstance(playlist, Playlist):
-            print("  ❌ شیء برگشتی یک Playlist نیست، شاید لینک اشتباه باشد.")
-            return []
+        # اجرای yt-dlp به صورت flat (بدون دانلود) و گرفتن خروجی JSON
+        cmd = [
+            "yt-dlp",
+            "--flat-playlist",
+            "-J",               # خروجی JSON
+            "--no-warnings",
+            playlist_url
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        data = json.loads(result.stdout)
         tracks = []
-        for track in playlist.tracks:
-            pub_date = track.created_at if track.created_at else datetime.now(timezone.utc)
-            if not pub_date.tzinfo:
-                pub_date = pub_date.replace(tzinfo=timezone.utc)
-            tracks.append({
-                "title": track.title,
-                "link": track.permalink_url,
-                "published_date": pub_date
-            })
+        for entry in data.get('entries', []):
+            title = entry.get('title')
+            link = entry.get('webpage_url') or entry.get('url')
+            # برخی ورژن‌ها تاریخ را در 'upload_date' به فرمت YYYYMMDD می‌دهند
+            upload_date_str = entry.get('upload_date')
+            if upload_date_str:
+                # تبدیل به datetime
+                pub_date = datetime.strptime(upload_date_str, "%Y%m%d").replace(tzinfo=timezone.utc)
+            else:
+                # اگر تاریخ موجود نبود، از timestamp یا زمان آپلود استفاده کن
+                timestamp = entry.get('timestamp')
+                if timestamp:
+                    pub_date = datetime.fromtimestamp(timestamp, tz=timezone.utc)
+                else:
+                    pub_date = datetime.now(timezone.utc)  # fallback
+            if title and link:
+                tracks.append({
+                    "title": title,
+                    "link": link,
+                    "published_date": pub_date
+                })
         return tracks
     except Exception as e:
         print(f"  ❌ خطا در دریافت پلی‌لیست ساندکلاد: {e}")
-        return []
-
-def fetch_soundcloud_user(user_url):
-    print(f"  📡 دریافت آهنگ‌های کاربر ساندکلاد: {user_url}")
-    try:
-        api = SoundcloudAPI()
-        user = api.resolve(user_url)
-        if not user:
-            print("  ❌ کاربر پیدا نشد.")
-            return []
-        tracks = []
-        for track in user.tracks:
-            pub_date = track.created_at if track.created_at else datetime.now(timezone.utc)
-            if not pub_date.tzinfo:
-                pub_date = pub_date.replace(tzinfo=timezone.utc)
-            tracks.append({
-                "title": track.title,
-                "link": track.permalink_url,
-                "published_date": pub_date
-            })
-        return tracks
-    except Exception as e:
-        print(f"  ❌ خطا در دریافت آهنگ‌های کاربر ساندکلاد: {e}")
         return []
 
 # ================== RSS یوتیوب ==================
@@ -137,8 +135,6 @@ def fetch_rss(platform, channel_id):
             videos = fetch_rss_youtube(channel_id)
         elif platform == 'soundcloud_playlist':
             videos = fetch_soundcloud_playlist(channel_id)
-        elif platform == 'soundcloud_user':
-            videos = fetch_soundcloud_user(channel_id)
         else:
             print(f"  ❌ پلتفرم نامعتبر: {platform}")
             return []
@@ -153,14 +149,11 @@ def get_relative_time(pub_date):
     delta = datetime.now(timezone.utc) - pub_date
     h = int(delta.total_seconds() // 3600)
     m = int((delta.total_seconds() % 3600) // 60)
-    if h > 0:
-        return f"{h} hours ago"
-    return f"{m} minutes ago"
+    return f"{h} hours ago" if h > 0 else f"{m} minutes ago"
 
 # ================== منطق اصلی ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
-        print(f"📭 فایل {WATCHLIST_FILE} وجود ندارد. ساختن فایل خالی.")
         with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
             f.write("[]")
         return []
@@ -179,38 +172,28 @@ def load_watchlist():
     for idx, item in enumerate(items):
         plat = item.get('platform', 'youtube')
         cid = item.get('channel_id', '')
-        keyword_raw = item.get('title_keyword', '')
+        keyword = item.get('title_keyword', '')
         start = item.get('start_time_iran', '')
-
-        # مدیریت چند کلیدواژه
-        if isinstance(keyword_raw, str):
-            keyword_list = [keyword_raw.strip()]
-        elif isinstance(keyword_raw, list):
-            keyword_list = [k.strip() for k in keyword_raw if k.strip()]
-        else:
-            keyword_list = []
-
         if not cid.strip():
             print(f"⚠️ آیتم {idx+1}: channel_id خالی است. نادیده گرفته شد.")
             continue
-        if not keyword_list:
+        if not keyword.strip():
             print(f"⚠️ آیتم {idx+1}: title_keyword خالی است. نادیده گرفته شد.")
             continue
         if not parse_iran_time(start):
             print(f"⚠️ آیتم {idx+1}: start_time_iran نامعتبر ('{start}'). نادیده گرفته شد.")
             continue
-
         valid_items.append({
             'platform': plat,
             'channel_id': cid.strip(),
-            'keyword_list': keyword_list,
+            'title_keyword': keyword.strip(),
             'start_time_iran': start,
             'check_every_minutes': max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL),
             'max_attempts': min(item.get('max_attempts', 5), MAX_ATTEMPTS_LIMIT)
         })
 
     if len(valid_items) > MAX_ITEMS:
-        print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} مورد اول بررسی می‌شود.")
+        print(f"⚠️ تعداد آیتم‌ها بیش از {MAX_ITEMS} است. فقط {MAX_ITEMS} اول بررسی می‌شود.")
         valid_items = valid_items[:MAX_ITEMS]
     unique_channels = set(it['channel_id'] for it in valid_items)
     if len(unique_channels) > MAX_UNIQUE_CHANNELS:
@@ -218,50 +201,51 @@ def load_watchlist():
         sys.exit(1)
     return valid_items
 
-def process_item(item):
-    plat = item['platform']
-    cid = item['channel_id']
-    kw_list = item['keyword_list']
-    # یک نام ترکیبی برای فایل وضعیت
-    kw_joined = "_or_".join(kw_list)
-
-    state = load_state(cid, kw_joined)
-
+def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
         state = {"date": str(today), "found": False, "attempts": 0}
-        save_state(cid, kw_joined, state)
+        save_state(item['channel_id'], item['title_keyword'], state)
 
     if state.get('found'):
-        return
+        return False, state
+
     if state['attempts'] >= item['max_attempts']:
-        return
+        return False, state
 
     start_time = parse_iran_time(item['start_time_iran'])
     interval = item['check_every_minutes']
     next_utc = next_check_utc(start_time, interval, state['attempts'])
     now_utc = datetime.now(timezone.utc)
-    if now_utc < next_utc:
+    return now_utc >= next_utc, state
+
+def process_item(item):
+    plat = item['platform']
+    cid = item['channel_id']
+    kw = item['title_keyword']
+    state = load_state(cid, kw)
+    check, state = should_check(item, state)
+    if not check:
         return
 
-    state['attempts'] += 1
-    save_state(cid, kw_joined, state)
-
-    print(f"\n🔍 بررسی [{plat.upper()}] {cid} - کلیدواژه‌ها: {', '.join(kw_list)} (تلاش {state['attempts']})")
+    print(f"\n🔍 بررسی [{plat.upper()}] {cid} - '{kw}' (تلاش {state['attempts']+1})")
     videos = fetch_rss(plat, cid)
     if not videos:
+        state['attempts'] += 1
+        save_state(cid, kw, state)
         return
 
-    if plat in ('soundcloud_playlist', 'soundcloud_user'):
-        today_date = datetime.now(timezone.utc).date()
-        recent = [v for v in videos if v['published_date'].date() == today_date]
+    # برای پلی‌لیست ساندکلاد، فقط آهنگ‌های امروز را در نظر بگیریم
+    if plat == 'soundcloud_playlist':
+        today = datetime.now(timezone.utc).date()
+        recent = [v for v in videos if v['published_date'].date() == today]
     else:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=2)
         recent = [v for v in videos if v['published_date'] >= cutoff]
 
     matched = None
     for v in recent:
-        if any(kw.lower() in v['title'].lower() for kw in kw_list):
+        if kw.lower() in v['title'].lower():
             matched = v
             break
 
@@ -274,7 +258,7 @@ def process_item(item):
         if matched['link'] not in existing:
             rel = get_relative_time(matched['published_date'])
             now_iso = datetime.now(timezone.utc).isoformat()
-            line = f"{now_iso} | {plat} | {matched['title']} | {rel} | {matched['link']}\n"
+            line = f"{now_iso} | soundcloud | {matched['title']} | {rel} | {matched['link']}\n"
             with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
@@ -284,8 +268,9 @@ def process_item(item):
             state['found'] = True
     else:
         print("  ❌ یافت نشد")
+        state['attempts'] += 1
 
-    save_state(cid, kw_joined, state)
+    save_state(cid, kw, state)
 
 def main():
     print("🚀 شروع اسکن...")
