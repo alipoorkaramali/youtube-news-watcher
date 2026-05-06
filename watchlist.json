@@ -37,7 +37,7 @@
   {
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
-    "title_keyword": "اخبار نیمروزی",
+    "title_keyword": "اخبار نیم‌روزی",
     "start_time_iran": "15:30",
     "check_every_minutes": 60,
     "max_attempts": 5
