@@ -235,10 +235,16 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    # برای پلی‌لیست ساندکلاد، فقط آهنگ‌های امروز را در نظر بگیریم
+    # برای پلی‌لیست ساندکلاد، فقط آهنگ‌های امروز به وقت ایران را در نظر بگیریم
     if plat == 'soundcloud_playlist':
-        today = datetime.now(timezone.utc).date()
-        recent = [v for v in videos if v['published_date'].date() == today]
+        today_iran = iran_now().date()
+        recent = []
+        for v in videos:
+            # تبدیل تاریخ انتشار ویدیو از UTC به وقت ایران
+            pub_date_iran = v['published_date'].astimezone(timezone.utc) + iran_offset()
+            # اگر تاریخ (فقط روز) برابر با امروز ایران بود، آن را نگه می‌داریم
+            if pub_date_iran.date() == today_iran:
+                recent.append(v)
     else:
         # ✅ اصلاح‌شده: بررسی ۲۴ ساعت اخیر به جای ۲ ساعت
         cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
