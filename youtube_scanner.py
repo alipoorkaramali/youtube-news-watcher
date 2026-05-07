@@ -39,6 +39,39 @@ def next_check_utc(iran_start, interval_min, attempt):
     start_utc = (start_dt_iran - utc_offset).replace(tzinfo=timezone.utc)
     return start_utc + timedelta(minutes=interval_min * attempt)
 
+# ================== تبدیل تاریخ میلادی به شمسی ==================
+def gregorian_to_jalali(gy, gm, gd):
+    # الگوریتم استاندارد تبدیل (منبع: چهارمیلب)
+    g_d_m = [0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]
+    if (gy % 4 == 0 and gy % 100 != 0) or (gy % 400 == 0):
+        g_d_m[2] = 29
+    gy2 = gy - 1600
+    gy -= 1600
+    if gm > 2:
+        gy2 += 1
+    days = 365 * gy + (gy + 3) // 4 - (gy + 99) // 100 + (gy + 399) // 400 - 80 + gd + g_d_m[gm-1]
+    jy = 979
+    while days >= 365:
+        if jy % 33 in [1, 5, 9, 13, 17, 22, 26, 30]:
+            if days >= 366:
+                days -= 366
+                jy += 1
+            else:
+                break
+        else:
+            days -= 365
+            jy += 1
+    if jy % 33 in [1, 5, 9, 13, 17, 22, 26, 30]:
+        jm_days = [31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29]
+    else:
+        jm_days = [31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 30]
+    jm = 1
+    while days >= jm_days[jm-1]:
+        days -= jm_days[jm-1]
+        jm += 1
+    jd = days + 1
+    return (jy, jm, jd)
+
 # ================== وضعیت ==================
 def safe_name(*parts):
     raw = "_".join(parts)
@@ -68,11 +101,10 @@ def fetch_soundcloud_playlist(playlist_url):
     """
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
-        # اجرای yt-dlp به صورت flat (بدون دانلود) و گرفتن خروجی JSON
         cmd = [
             "yt-dlp",
             "--flat-playlist",
-            "-J",               # خروجی JSON
+            "-J",
             "--no-warnings",
             playlist_url
         ]
@@ -82,18 +114,15 @@ def fetch_soundcloud_playlist(playlist_url):
         for entry in data.get('entries', []):
             title = entry.get('title')
             link = entry.get('webpage_url') or entry.get('url')
-            # برخی ورژن‌ها تاریخ را در 'upload_date' به فرمت YYYYMMDD می‌دهند
             upload_date_str = entry.get('upload_date')
             if upload_date_str:
-                # تبدیل به datetime
                 pub_date = datetime.strptime(upload_date_str, "%Y%m%d").replace(tzinfo=timezone.utc)
             else:
-                # اگر تاریخ موجود نبود، از timestamp یا زمان آپلود استفاده کن
                 timestamp = entry.get('timestamp')
                 if timestamp:
                     pub_date = datetime.fromtimestamp(timestamp, tz=timezone.utc)
                 else:
-                    pub_date = datetime.now(timezone.utc)  # fallback
+                    pub_date = datetime.now(timezone.utc)
             if title and link:
                 tracks.append({
                     "title": title,
@@ -235,24 +264,42 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    # برای پلی‌لیست ساندکلاد، فقط آهنگ‌های امروز به وقت ایران را در نظر بگیریم
+    # ========== فیلتر بر اساس پلتفرم ==========
     if plat == 'soundcloud_playlist':
-        today_iran = iran_now().date()
+        # استخراج تاریخ شمسی امروز
+        today_greg = iran_now().date()
+        jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
+        today_persian = (jy, jm, jd)
+
+        # نگاشت نام ماه‌های شمسی به عدد
+        persian_months = {
+            'فروردین':1, 'اردیبهشت':2, 'خرداد':3,
+            'تیر':4, 'مرداد':5, 'شهریور':6,
+            'مهر':7, 'آبان':8, 'آذر':9,
+            'دی':10, 'بهمن':11, 'اسفند':12
+        }
+
         recent = []
         for v in videos:
-            # تبدیل تاریخ انتشار ویدیو از UTC به وقت ایران
-            pub_date_iran = v['published_date'].astimezone(timezone.utc) + iran_offset()
-            # اگر تاریخ (فقط روز) برابر با امروز ایران بود، آن را نگه می‌داریم
-            if pub_date_iran.date() == today_iran:
-                recent.append(v)
+            title = v['title']
+            # الگوی: یک یا دو رقم + فاصله + نام ماه + (اختیاری) فاصله + سال ۴ رقمی
+            match = re.search(r'(\d{1,2})\s+'
+                              r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
+                              r'(?:\s+(\d{4}))?', title)
+            if match:
+                day = int(match.group(1))
+                month = persian_months[match.group(2)]
+                year = int(match.group(3)) if match.group(3) else jy  # سال جاری شمسی اگر ذکر نشده
+                if (year, month, day) == today_persian:
+                    recent.append(v)
+            # اگر تطابقی در عنوان پیدا نشد، از قلم می‌اندازیم
     else:
-        # ✅ اصلاح‌شده: بررسی ۲۴ ساعت اخیر به جای ۲ ساعت
+        # یوتیوب و سایر پلتفرم‌ها: ۲۴ ساعت اخیر
         cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
         recent = [v for v in videos if v['published_date'] >= cutoff]
 
     matched = None
     for v in recent:
-        # تطبیق عنوان به صورت شامل بودن (in) بدون توجه به بزرگی/کوچکی حروف
         if kw.lower() in v['title'].lower():
             matched = v
             break
