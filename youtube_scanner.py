@@ -41,7 +41,6 @@ def next_check_utc(iran_start, interval_min, attempt):
 
 # ================== تبدیل تاریخ میلادی به شمسی ==================
 def gregorian_to_jalali(gy, gm, gd):
-    # الگوریتم استاندارد تبدیل (منبع: چهارمیلب)
     g_d_m = [0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]
     if (gy % 4 == 0 and gy % 100 != 0) or (gy % 400 == 0):
         g_d_m[2] = 29
@@ -264,14 +263,12 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    # ========== فیلتر بر اساس پلتفرم ==========
+    # ========== فقط بخش زیر برای ساندکلاد تغییر کرده ==========
     if plat == 'soundcloud_playlist':
-        # استخراج تاریخ شمسی امروز
         today_greg = iran_now().date()
         jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
         today_persian = (jy, jm, jd)
 
-        # نگاشت نام ماه‌های شمسی به عدد
         persian_months = {
             'فروردین':1, 'اردیبهشت':2, 'خرداد':3,
             'تیر':4, 'مرداد':5, 'شهریور':6,
@@ -282,21 +279,21 @@ def process_item(item):
         recent = []
         for v in videos:
             title = v['title']
-            # الگوی: یک یا دو رقم + فاصله + نام ماه + (اختیاری) فاصله + سال ۴ رقمی
             match = re.search(r'(\d{1,2})\s+'
                               r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
                               r'(?:\s+(\d{4}))?', title)
             if match:
                 day = int(match.group(1))
                 month = persian_months[match.group(2)]
-                year = int(match.group(3)) if match.group(3) else jy  # سال جاری شمسی اگر ذکر نشده
+                year = int(match.group(3)) if match.group(3) else jy
                 if (year, month, day) == today_persian:
                     recent.append(v)
-            # اگر تطابقی در عنوان پیدا نشد، از قلم می‌اندازیم
+        # اگر تطابقی پیدا نشود، recent خالی می‌ماند
     else:
-        # یوتیوب و سایر پلتفرم‌ها: ۲۴ ساعت اخیر
+        # ========== بخش یوتیوب و سایر پلتفرم‌ها کاملاً بدون تغییر ==========
         cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
         recent = [v for v in videos if v['published_date'] >= cutoff]
+    # ============================================================
 
     matched = None
     for v in recent:
