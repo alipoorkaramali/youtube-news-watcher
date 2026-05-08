@@ -310,7 +310,8 @@ def process_item(item):
         if matched['link'] not in existing:
             rel = get_relative_time(matched['published_date'])
             now_iso = datetime.now(timezone.utc).isoformat()
-            line = f"{now_iso} | soundcloud | {matched['title']} | {rel} | {matched['link']}\n"
+            plat_label = 'soundcloud' if plat == 'soundcloud_playlist' else plat
+            line = f"{now_iso} | {plat_label} | {matched['title']} | {rel} | {matched['link']}\n"
             with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
