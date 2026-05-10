@@ -6,7 +6,7 @@ on:
       youtube_channel_id:
         description: 'شناسهٔ کانال یوتیوب (برای تست RSS)'
         required: false
-        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'
+        default: 'UCat6bC0Wrqq9Bcq7EkH_yQw'
       soundcloud_url:
         description: 'لینک پلی‌لیست یا کاربر ساندکلاد'
         required: false
