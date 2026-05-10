@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       youtube_channel_id:
-        description: 'شناسهٔ کانال یوتیوب (برای تست RSS)'
+        description: 'شناسهٔ کانال یوتیوب (RSS)'
         required: false
-        default: 'UCat6bC0Wrqq9Bcq7EkH_yQw'
+        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'
       soundcloud_url:
-        description: 'لینک پلی‌لیست یا کاربر ساندکلاد'
+        description: 'لینک ساندکلاد (پلی‌لیست یا کاربر)'
         required: false
         default: 'https://soundcloud.com/iranintl'
 
@@ -18,77 +18,91 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: نمایش فایل watchlist.json
+        run: cat watchlist.json
 
-      - name: Install dependencies
+      - name: نصب نیازمندی‌های پایتون
         run: pip install requests
 
-      - name: Display watchlist
-        run: |
-          echo "=== watchlist.json ==="
-          cat watchlist.json
-          echo "Use these IDs/URLs as inputs."
-
-      # ---------- یوتیوب (با کوکی و User‑Agent) ----------
-      - name: Test YouTube RSS (with cookies)
+      # ===================== تست یوتیوب =====================
+      - name: 🎥 تست RSS یوتیوب (با تلاش مجدد)
         if: github.event.inputs.youtube_channel_id != ''
         run: |
           python -c "
-          import requests, xml.etree.ElementTree as ET, os
+          import requests, time, os, xml.etree.ElementTree as ET
           from http.cookiejar import MozillaCookieJar
 
           cid = '${{ github.event.inputs.youtube_channel_id }}'
           url = f'https://www.youtube.com/feeds/videos.xml?channel_id={cid}'
           headers = {
-              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
           }
           cookies = {}
           if os.path.exists('cookies.txt'):
-              try:
-                  cj = MozillaCookieJar('cookies.txt')
-                  cj.load(ignore_discard=True, ignore_expires=True)
-                  cookies = {c.name: c.value for c in cj if '.youtube.com' in c.domain}
-              except: pass
+            try:
+              cj = MozillaCookieJar('cookies.txt')
+              cj.load(ignore_discard=True, ignore_expires=True)
+              cookies = {c.name: c.value for c in cj if '.youtube.com' in c.domain}
+            except: pass
 
-          try:
+          for attempt in range(3):
+            try:
               r = requests.get(url, headers=headers, cookies=cookies, timeout=30)
-              print(f'Status: {r.status_code}')
+              print(f'Attempt {attempt+1}, status: {r.status_code}')
               if r.status_code == 200:
-                  root = ET.fromstring(r.content)
-                  ns = {'': 'http://www.w3.org/2005/Atom'}
-                  entries = root.findall('entry', ns)
-                  print(f'✅ {len(entries)} videos found')
-                  for i, e in enumerate(entries[:5]):
-                      title = e.find('title', ns).text.strip()
-                      link = e.find('link', ns).attrib['href']
-                      pub = e.find('published', ns).text
-                      print(f'  {i+1}. {title}')
-                      print(f'     {link}')
+                root = ET.fromstring(r.content)
+                ns = {'': 'http://www.w3.org/2005/Atom'}
+                entries = root.findall('entry', ns)
+                print(f'✅ {len(entries)} video(s) found')
+                for i, e in enumerate(entries[:5]):
+                  title = e.find('title', ns).text.strip()
+                  link = e.find('link', ns).attrib['href']
+                  print(f'{i+1}. {title}  ({link})')
+                break
+              elif r.status_code in (403, 429, 500):
+                print('⏳ Rate-limited or server error, waiting 15s...')
+                time.sleep(15)
               elif r.status_code == 404:
-                  print('❌ Channel not found (404)')
+                print('❌ Channel not found (404)')
+                break
               else:
-                  print(f'⚠️ {r.status_code}: {r.text[:200]}')
-          except Exception as ex:
-              print(f'Error: {ex}')
+                print(f'⚠️ Unexpected status: {r.status_code}')
+                break
+            except Exception as e:
+              print(f'Error: {e}')
+              time.sleep(10)
+          else:
+            print('❌ Failed after 3 attempts – likely rate limiting.')
           "
 
-      # ---------- ساندکلاد (با yt‑dlp) ----------
-      - name: Test SoundCloud (via yt‑dlp)
+      # ===================== تست ساندکلاد (نسخهٔ جدید) =====================
+      - name: ☁️ تست پلی‌لیست ساندکلاد (با yt-dlp)
         if: github.event.inputs.soundcloud_url != ''
         run: |
-          yt-dlp --flat-playlist -J "${{ github.event.inputs.soundcloud_url }}" > sc.json 2>/dev/null && \
-          python -c "
-          import json
-          with open('sc.json') as f:
-              data = json.load(f)
-          entries = data.get('entries', [])
-          print(f'✅ {len(entries)} tracks found')
-          for i, e in enumerate(entries[:5]):
-              print(f'{i+1}. {e.get(\"title\")} - {e.get(\"webpage_url\") or e.get(\"url\")}')
-          " || echo "❌ Could not fetch playlist"
+          echo "--- اجرای yt-dlp با verbose برای بررسی خطا ---"
+          yt-dlp --verbose --flat-playlist --no-warnings --print-to-file "%(title)s | %(webpage_url)s" /tmp/sc_output.txt "${{ github.event.inputs.soundcloud_url }}" || true
+          
+          echo "--- تحلیل خروجی ---"
+          if [ -f /tmp/sc_output.txt ]; then
+            LINE_COUNT=$(wc -l < /tmp/sc_output.txt)
+            if [ "$LINE_COUNT" -gt 0 ]; then
+              echo "✅ $LINE_COUNT tracks found. نمایش ۵ مورد اول:"
+              head -n 5 /tmp/sc_output.txt
+            else
+              echo "⚠️ yt-dlp اجرا شد اما هیچ ترکی پیدا نشد. لینک ممکنه معتبر نباشه."
+            fi
+          else
+            echo "❌ yt-dlp نتونست خروجی تولید کنه. به لاگ‌های بالا برای خطای احتمالی مراجعه کن."
+          fi
 
-      - name: Run original scanner
-        run: python -u youtube_scanner.py
+      # ===================== اجرای اسکنر اصلی با جزئیات =====================
+      - name: اجرای اسکنر اصلی با لاگ کامل
+        run: |
+          echo "--- اجرای youtube_scanner.py ---"
+          python -u youtube_scanner.py
+          if [ -f "logs/new_videos.txt" ]; then
+            echo "--- محتوای logs/new_videos.txt ---"
+            cat "logs/new_videos.txt"
+          else
+            echo "--- logs/new_videos.txt پیدا نشد ---"
+          fi
