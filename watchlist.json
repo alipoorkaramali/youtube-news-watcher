@@ -65,12 +65,5 @@
     "start_time_iran": "21:00",
     "check_every_minutes": 60,
     "max_attempts": 5
-  },
-  {
-    "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
-    "title_keyword": "۶۰ دقیقه",
-    "start_time_iran": "7:25",
-    "check_every_minutes": 8,
-    "max_attempts": 3
   }
 ]
