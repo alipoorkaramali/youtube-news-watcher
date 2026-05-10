@@ -7,7 +7,7 @@
     "max_attempts": 5
   },
   {
-    "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
+    "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
     "title_keyword": "اخبار نیم‌روزی",
     "start_time_iran": "15:00",
     "check_every_minutes": 60,
@@ -21,14 +21,14 @@
     "max_attempts": 3
   },
   {
-    "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
+    "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
     "title_keyword": "اخبار بامدادی",
     "start_time_iran": "09:00",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
   {
-    "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
+    "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
     "title_keyword": "اخبار شبانگاهی",
     "start_time_iran": "18:30",
     "check_every_minutes": 60,
