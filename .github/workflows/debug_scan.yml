@@ -1,14 +1,14 @@
-name: Full Diagnostic
+name: Full Diagnostic⚙️🔎🤔
 
 on:
   workflow_dispatch:
     inputs:
       youtube_channel_id:
-        description: 'شناسه کانال یوتیوب (برای تست RSS)'
+        description: 'شناسهٔ کانال یوتیوب (برای تست RSS)'
         required: false
         default: 'UCat6bC0Wrqq9Bcq7EkH_yQw'
       soundcloud_url:
-        description: 'لینک پلی‌لیست یا کاربر ساندکلاد (برای تست)'
+        description: 'لینک پلی‌لیست یا صفحهٔ کاربر ساندکلاد'
         required: false
         default: 'https://soundcloud.com/iranintl'
 
@@ -30,7 +30,16 @@ jobs:
           python -c "import sclib; print('soundcloud-lib imported successfully')"
           python -c "import requests; print('requests imported')"
 
-      - name: Test YouTube RSS directly (curl)
+      # ---------- نمایش محتوای watchlist.json برای راهنمایی کاربر ----------
+      - name: 📋 Display current watchlist.json
+        run: |
+          echo "=== Contents of watchlist.json ==="
+          cat watchlist.json
+          echo ""
+          echo "👆 You can copy a channel ID or SoundCloud URL from above and paste it when manually triggering this workflow."
+
+      # ---------- تست RSS یوتیوب ----------
+      - name: Test YouTube RSS (curl quick check)
         if: github.event.inputs.youtube_channel_id != ''
         run: |
           echo "=== Testing YouTube RSS: channel_id=${{ github.event.inputs.youtube_channel_id }} ==="
@@ -41,7 +50,7 @@ jobs:
           if [ "$STATUS" -eq 200 ]; then
             echo "✅ RSS feed is accessible."
           elif [ "$STATUS" -eq 404 ]; then
-            echo "❌ Channel not found (404). The channel ID is likely invalid or the channel does not exist."
+            echo "❌ Channel not found (404). The channel ID is likely invalid or does not exist."
           else
             echo "⚠️ Unexpected status: $STATUS"
           fi
@@ -52,9 +61,7 @@ jobs:
           python << 'EOF'
           import requests, xml.etree.ElementTree as ET, os
 
-          channel_id = os.environ.get('CHANNEL_ID', '')
-          if not channel_id:
-              channel_id = "${{ github.event.inputs.youtube_channel_id }}"
+          channel_id = "${{ github.event.inputs.youtube_channel_id }}"
           url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
@@ -83,19 +90,16 @@ jobs:
           except Exception as e:
               print("Error:", str(e))
           EOF
-        env:
-          CHANNEL_ID: ${{ github.event.inputs.youtube_channel_id }}
 
+      # ---------- تست ساندکلاد (اصلاح‌شده) ----------
       - name: Test SoundCloud library
         if: github.event.inputs.soundcloud_url != ''
         run: |
           python << 'EOF'
-          from sclib import SoundcloudAPI, Playlist, User
-          import traceback, os
+          from sclib import SoundcloudAPI, Playlist   # User دیگر import نمی‌شود
+          import traceback
 
-          url = os.environ.get('SC_URL', '').strip()
-          if not url:
-              url = "${{ github.event.inputs.soundcloud_url }}"
+          url = "${{ github.event.inputs.soundcloud_url }}"
           print(f"Testing SoundCloud URL: {url}")
           try:
               api = SoundcloudAPI()
@@ -107,22 +111,15 @@ jobs:
                   print(f"   Number of tracks: {len(tracks)}")
                   for i, track in enumerate(tracks[:5]):
                       print(f"   {i+1}. {track.title}")
-              elif isinstance(obj, User):
-                  print("✅ User profile found (not a playlist).")
-                  print(f"   Username: {obj.username}")
-                  tracks = list(obj.tracks)
-                  print(f"   Recent tracks (up to 5):")
-                  for i, track in enumerate(tracks[:5]):
-                      print(f"   {i+1}. {track.title}")
               else:
-                  print(f"⚠️ Resolved to unknown type: {type(obj)}")
+                  print(f"⚠️ Resolved to type: {type(obj).__name__} (not a Playlist).")
+                  print("   This test only supports playlists; for user profiles, check individual tracks.")
           except Exception:
               print("❌ Error occurred while testing SoundCloud:")
               traceback.print_exc()
           EOF
-        env:
-          SC_URL: ${{ github.event.inputs.soundcloud_url }}
 
+      # ---------- اجرای اسکنر اصلی ----------
       - name: Run original scanner (from watchlist.json)
         env:
           PYTHONFAULTHANDLER: 1
