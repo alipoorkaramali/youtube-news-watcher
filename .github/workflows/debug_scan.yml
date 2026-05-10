@@ -21,8 +21,12 @@ jobs:
       - name: نمایش فایل watchlist.json
         run: cat watchlist.json
 
-      - name: نصب نیازمندی‌های پایتون
-        run: pip install requests
+      - name: نصب نیازمندی‌ها (Python + yt‑dlp)
+        run: |
+          pip install requests
+          # نصب yt‑dlp
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
 
       # ===================== تست یوتیوب =====================
       - name: 🎥 تست RSS یوتیوب (با تلاش مجدد)
@@ -75,30 +79,28 @@ jobs:
             print('❌ Failed after 3 attempts – likely rate limiting.')
           "
 
-      # ===================== تست ساندکلاد (نسخهٔ جدید) =====================
-      - name: ☁️ تست پلی‌لیست ساندکلاد (با yt-dlp)
+      # ===================== تست ساندکلاد (با yt‑dlp نصب‌شده) =====================
+      - name: ☁️ تست پلی‌لیست ساندکلاد (yt‑dlp)
         if: github.event.inputs.soundcloud_url != ''
         run: |
-          echo "--- اجرای yt-dlp با verbose برای بررسی خطا ---"
-          yt-dlp --verbose --flat-playlist --no-warnings --print-to-file "%(title)s | %(webpage_url)s" /tmp/sc_output.txt "${{ github.event.inputs.soundcloud_url }}" || true
-          
-          echo "--- تحلیل خروجی ---"
-          if [ -f /tmp/sc_output.txt ]; then
-            LINE_COUNT=$(wc -l < /tmp/sc_output.txt)
-            if [ "$LINE_COUNT" -gt 0 ]; then
-              echo "✅ $LINE_COUNT tracks found. نمایش ۵ مورد اول:"
-              head -n 5 /tmp/sc_output.txt
-            else
-              echo "⚠️ yt-dlp اجرا شد اما هیچ ترکی پیدا نشد. لینک ممکنه معتبر نباشه."
-            fi
+          yt-dlp --flat-playlist -J --no-warnings "${{ github.event.inputs.soundcloud_url }}" > sc.json 2>/dev/null
+          if [ $? -eq 0 ]; then
+            python -c "
+            import json
+            with open('sc.json') as f:
+                data = json.load(f)
+            entries = data.get('entries', [])
+            print(f'✅ {len(entries)} tracks found')
+            for i, e in enumerate(entries[:5]):
+                print(f'{i+1}. {e.get(\"title\")} - {e.get(\"webpage_url\") or e.get(\"url\")}')
+            "
           else
-            echo "❌ yt-dlp نتونست خروجی تولید کنه. به لاگ‌های بالا برای خطای احتمالی مراجعه کن."
+            echo "❌ Could not fetch playlist (blocked or invalid URL)"
           fi
 
-      # ===================== اجرای اسکنر اصلی با جزئیات =====================
+      # ===================== اجرای اسکنر اصلی =====================
       - name: اجرای اسکنر اصلی با لاگ کامل
         run: |
-          echo "--- اجرای youtube_scanner.py ---"
           python -u youtube_scanner.py
           if [ -f "logs/new_videos.txt" ]; then
             echo "--- محتوای logs/new_videos.txt ---"
