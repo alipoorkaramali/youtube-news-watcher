@@ -16,9 +16,9 @@
   {
     "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
     "title_keyword": "۶۰ دقیقه",
-    "start_time_iran": "23:15",
-    "check_every_minutes": 60,
-    "max_attempts": 5
+    "start_time_iran": "23:00",
+    "check_every_minutes": 8,
+    "max_attempts": 3
   },
   {
     "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
