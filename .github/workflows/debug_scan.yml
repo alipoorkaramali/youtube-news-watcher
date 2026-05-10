@@ -24,7 +24,6 @@ jobs:
       - name: نصب نیازمندی‌ها (Python + yt‑dlp)
         run: |
           pip install requests
-          # نصب yt‑dlp
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
@@ -79,21 +78,21 @@ jobs:
             print('❌ Failed after 3 attempts – likely rate limiting.')
           "
 
-      # ===================== تست ساندکلاد (با yt‑dlp نصب‌شده) =====================
+      # ===================== تست ساندکلاد (با yt‑dlp) =====================
       - name: ☁️ تست پلی‌لیست ساندکلاد (yt‑dlp)
         if: github.event.inputs.soundcloud_url != ''
         run: |
           yt-dlp --flat-playlist -J --no-warnings "${{ github.event.inputs.soundcloud_url }}" > sc.json 2>/dev/null
           if [ $? -eq 0 ]; then
-            python -c "
-            import json
-            with open('sc.json') as f:
-                data = json.load(f)
-            entries = data.get('entries', [])
-            print(f'✅ {len(entries)} tracks found')
-            for i, e in enumerate(entries[:5]):
-                print(f'{i+1}. {e.get(\"title\")} - {e.get(\"webpage_url\") or e.get(\"url\")}')
-            "
+            python << 'EOF'
+import json
+with open('sc.json') as f:
+    data = json.load(f)
+entries = data.get('entries', [])
+print(f'✅ {len(entries)} tracks found')
+for i, e in enumerate(entries[:5]):
+    print(f'{i+1}. {e.get("title")} - {e.get("webpage_url") or e.get("url")}')
+EOF
           else
             echo "❌ Could not fetch playlist (blocked or invalid URL)"
           fi
