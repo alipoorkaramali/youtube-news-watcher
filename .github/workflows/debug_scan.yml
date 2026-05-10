@@ -21,14 +21,14 @@ jobs:
       - name: نمایش فایل watchlist.json
         run: cat watchlist.json
 
-      - name: نصب نیازمندی‌ها (Python + yt‑dlp)
+      - name: نصب نیازمندی‌ها
         run: |
           pip install requests
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
-      # ===================== تست یوتیوب =====================
-      - name: 🎥 تست RSS یوتیوب (با تلاش مجدد)
+      # ===================== YOUTUBE =====================
+      - name: تست RSS یوتیوب
         if: github.event.inputs.youtube_channel_id != ''
         run: |
           python -c "
@@ -78,27 +78,27 @@ jobs:
             print('❌ Failed after 3 attempts – likely rate limiting.')
           "
 
-      # ===================== تست ساندکلاد (با yt‑dlp) =====================
-      - name: ☁️ تست پلی‌لیست ساندکلاد (yt‑dlp)
+      # ===================== SOUNDCLOUD =====================
+      - name: تست ساندکلاد
         if: github.event.inputs.soundcloud_url != ''
         run: |
-          yt-dlp --flat-playlist -J --no-warnings "${{ github.event.inputs.soundcloud_url }}" > sc.json 2>/dev/null
+          yt-dlp --flat-playlist -J --no-warnings "${{ github.event.inputs.soundcloud_url }}" > /tmp/sc.json 2>/dev/null
           if [ $? -eq 0 ]; then
-            python << 'EOF'
-import json
-with open('sc.json') as f:
-    data = json.load(f)
-entries = data.get('entries', [])
-print(f'✅ {len(entries)} tracks found')
-for i, e in enumerate(entries[:5]):
-    print(f'{i+1}. {e.get("title")} - {e.get("webpage_url") or e.get("url")}')
-EOF
+            python -c "
+          import json
+          with open('/tmp/sc.json') as f:
+              data = json.load(f)
+          entries = data.get('entries', [])
+          print(f'✅ {len(entries)} tracks found')
+          for i, e in enumerate(entries[:5]):
+              print(f'{i+1}. {e.get(\"title\")} - {e.get(\"webpage_url\") or e.get(\"url\")}')
+          "
           else
-            echo "❌ Could not fetch playlist (blocked or invalid URL)"
+            echo "❌ Could not fetch playlist"
           fi
 
-      # ===================== اجرای اسکنر اصلی =====================
-      - name: اجرای اسکنر اصلی با لاگ کامل
+      # ===================== SCANNER =====================
+      - name: اجرای اسکنر اصلی
         run: |
           python -u youtube_scanner.py
           if [ -f "logs/new_videos.txt" ]; then
