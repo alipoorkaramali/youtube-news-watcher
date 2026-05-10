@@ -7,6 +7,7 @@ import subprocess
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+import time   # <-- برای تلاش مجدد (retry) در صورت خطای ۵۰۰ یوتیوب
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
@@ -136,10 +137,42 @@ def fetch_soundcloud_playlist(playlist_url):
 # ================== RSS یوتیوب ==================
 RSS_CACHE = {}
 
+# ‼️ اصلاح‌شده: اضافه کردن User‑Agent واقعی، کوکی‌ها و تلاش مجدد برای خطای ۵۰۰ یوتیوب
 def fetch_rss_youtube(channel_id):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     print(f"  📡 دریافت RSS یوتیوب برای {channel_id}")
-    resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; YT-Watcher/1.0)'})
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+    }
+
+    # بارگذاری کوکی‌های یوتیوب از فایل cookies.txt (در صورت وجود)
+    cookies = {}
+    if os.path.exists('cookies.txt'):
+        try:
+            from http.cookiejar import MozillaCookieJar
+            cj = MozillaCookieJar('cookies.txt')
+            cj.load(ignore_discard=True, ignore_expires=True)
+            cookies = {c.name: c.value for c in cj if c.domain.endswith('.youtube.com') or c.domain == 'www.youtube.com'}
+        except Exception:
+            pass
+
+    max_retries = 2
+    for attempt in range(max_retries + 1):
+        try:
+            resp = requests.get(url, headers=headers, cookies=cookies, timeout=30)
+            if resp.status_code == 200:
+                break
+            elif resp.status_code == 500 and attempt < max_retries:
+                print(f"  ⚠️ خطای 500 (تلاش {attempt+1})، ۱۰ ثانیه صبر می‌کنیم...")
+                time.sleep(10)
+        except Exception as e:
+            if attempt < max_retries:
+                print(f"  ⚠️ استثنا در تلاش {attempt+1}: {e} - ۱۰ ثانیه صبر می‌کنیم...")
+                time.sleep(10)
+            else:
+                raise
+
     resp.raise_for_status()
     root = ET.fromstring(resp.content)
     ns = {'': 'http://www.w3.org/2005/Atom'}
