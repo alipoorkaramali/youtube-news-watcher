@@ -1,4 +1,4 @@
-name: Full Diagnostic⚙️🔎🤔
+name: Full Diagnostic
 
 on:
   workflow_dispatch:
@@ -6,9 +6,9 @@ on:
       youtube_channel_id:
         description: 'شناسهٔ کانال یوتیوب (برای تست RSS)'
         required: false
-        default: 'UCat6bC0Wrqq9Bcq7EkH_yQw'
+        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'          # معتبر از watchlist شما
       soundcloud_url:
-        description: 'لینک پلی‌لیست یا صفحهٔ کاربر ساندکلاد'
+        description: 'لینک پلی‌لیست یا کاربر ساندکلاد'
         required: false
         default: 'https://soundcloud.com/iranintl'
 
@@ -23,39 +23,37 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install requests & yt‑dlp
         run: |
-          pip install --upgrade pip
-          pip install requests soundcloud-lib
-          python -c "import sclib; print('soundcloud-lib imported successfully')"
-          python -c "import requests; print('requests imported')"
+          pip install requests
+          # از قبل در image هست، اما برای اطمینان:
+          pip install -U yt-dlp
 
-      # ---------- نمایش محتوای watchlist.json برای راهنمایی کاربر ----------
-      - name: 📋 Display current watchlist.json
+      - name: 📋 Show current watchlist.json
         run: |
           echo "=== Contents of watchlist.json ==="
           cat watchlist.json
           echo ""
-          echo "👆 You can copy a channel ID or SoundCloud URL from above and paste it when manually triggering this workflow."
+          echo "👆 Copy any channel ID or SoundCloud URL and paste when triggering manually."
 
       # ---------- تست RSS یوتیوب ----------
-      - name: Test YouTube RSS (curl quick check)
+      - name: Quick YouTube RSS check (curl)
         if: github.event.inputs.youtube_channel_id != ''
         run: |
-          echo "=== Testing YouTube RSS: channel_id=${{ github.event.inputs.youtube_channel_id }} ==="
+          echo "=== Testing channel: ${{ github.event.inputs.youtube_channel_id }} ==="
           STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
             -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" \
             "https://www.youtube.com/feeds/videos.xml?channel_id=${{ github.event.inputs.youtube_channel_id }}")
           echo "HTTP Status: $STATUS"
           if [ "$STATUS" -eq 200 ]; then
-            echo "✅ RSS feed is accessible."
+            echo "✅ RSS feed reachable."
           elif [ "$STATUS" -eq 404 ]; then
-            echo "❌ Channel not found (404). The channel ID is likely invalid or does not exist."
+            echo "❌ Channel not found (404). ID is probably wrong."
           else
             echo "⚠️ Unexpected status: $STATUS"
           fi
 
-      - name: Test YouTube RSS with Python (detailed)
+      - name: Detailed YouTube RSS (Python)
         if: github.event.inputs.youtube_channel_id != ''
         run: |
           python << 'EOF'
@@ -74,7 +72,7 @@ jobs:
                   root = ET.fromstring(r.content)
                   ns = {'': 'http://www.w3.org/2005/Atom'}
                   entries = root.findall('entry', ns)
-                  print(f"✅ Number of entries: {len(entries)}")
+                  print(f"✅ {len(entries)} video(s) found")
                   for i, entry in enumerate(entries[:5]):
                       title = entry.find('title', ns).text.strip()
                       link = entry.find('link', ns).attrib['href']
@@ -83,44 +81,37 @@ jobs:
                       print(f"     Link: {link}")
                       print(f"     Published: {pub}")
               elif r.status_code == 404:
-                  print("❌ Channel not found (404). Check the channel ID.")
+                  print("❌ Channel not found (404).")
               else:
-                  print(f"⚠️ Unexpected status: {r.status_code}")
-                  print("Response preview:", r.text[:300])
+                  print(f"⚠️ Status {r.status_code}: {r.text[:300]}")
           except Exception as e:
               print("Error:", str(e))
           EOF
 
-      # ---------- تست ساندکلاد (اصلاح‌شده) ----------
-      - name: Test SoundCloud library
+      # ---------- تست ساندکلاد (با yt‑dlp، مانند اسکنر اصلی) ----------
+      - name: Test SoundCloud with yt‑dlp
         if: github.event.inputs.soundcloud_url != ''
         run: |
-          python << 'EOF'
-          from sclib import SoundcloudAPI, Playlist   # User دیگر import نمی‌شود
-          import traceback
-
-          url = "${{ github.event.inputs.soundcloud_url }}"
-          print(f"Testing SoundCloud URL: {url}")
-          try:
-              api = SoundcloudAPI()
-              obj = api.resolve(url)
-              if isinstance(obj, Playlist):
-                  print("✅ Playlist found!")
-                  print(f"   Title: {obj.title}")
-                  tracks = list(obj.tracks)
-                  print(f"   Number of tracks: {len(tracks)}")
-                  for i, track in enumerate(tracks[:5]):
-                      print(f"   {i+1}. {track.title}")
-              else:
-                  print(f"⚠️ Resolved to type: {type(obj).__name__} (not a Playlist).")
-                  print("   This test only supports playlists; for user profiles, check individual tracks.")
-          except Exception:
-              print("❌ Error occurred while testing SoundCloud:")
-              traceback.print_exc()
-          EOF
+          URL="${{ github.event.inputs.soundcloud_url }}"
+          echo "Fetching playlist: $URL"
+          yt-dlp --flat-playlist -J --no-warnings "$URL" > /tmp/sc.json 2>/dev/null
+          if [ $? -eq 0 ]; then
+              python << 'EOF'
+              import json
+              with open('/tmp/sc.json') as f:
+                  data = json.load(f)
+              entries = data.get('entries', [])
+              print(f"✅ Number of tracks in playlist: {len(entries)}")
+              for i, e in enumerate(entries[:5]):
+                  print(f"  {i+1}. {e.get('title')}")
+                  print(f"     URL: {e.get('webpage_url') or e.get('url')}")
+              EOF
+          else
+              echo "❌ Could not fetch playlist. Check the URL."
+          fi
 
       # ---------- اجرای اسکنر اصلی ----------
-      - name: Run original scanner (from watchlist.json)
+      - name: Run original scanner
         env:
           PYTHONFAULTHANDLER: 1
         run: |
