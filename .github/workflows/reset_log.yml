@@ -1,4 +1,4 @@
-name: Daily Reset new_videos.txt
+name: Daily Reset new_videos🧹
 
 on:
   schedule:
