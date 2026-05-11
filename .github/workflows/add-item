@@ -1,4 +1,4 @@
-name: Add Watch Item
+name: Add Watch Item➕🌱
 
 on:
   workflow_dispatch:
