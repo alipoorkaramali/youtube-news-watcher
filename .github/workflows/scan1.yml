@@ -24,8 +24,6 @@ jobs:
           pip install yt-dlp   # برای استخراج اطلاعات پلی‌لیست ساندکلاد
 
       - name: Run scanner
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python youtube_scanner.py
 
       - name: Commit logs and cache
