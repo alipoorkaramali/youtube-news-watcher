@@ -7,7 +7,7 @@ import subprocess
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-import time   # <-- برای تلاش مجدد (retry) در صورت خطای ۵۰۰ یوتیوب
+import time
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
@@ -20,8 +20,8 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
-    now = datetime.now()
-    return timedelta(hours=4, minutes=30) if 3 <= now.month <= 9 else timedelta(hours=3, minutes=30)
+    # تغییر: ایران دیگر ساعت تابستانی/زمستانی ندارد، همیشه UTC+3:30
+    return timedelta(hours=3, minutes=30)
 
 def iran_now():
     return datetime.now(timezone.utc) + iran_offset()
@@ -95,10 +95,6 @@ def save_state(channel_id, keyword, state):
 
 # ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
 def fetch_soundcloud_playlist(playlist_url):
-    """
-    دریافت اطلاعات آهنگ‌های یک پلی‌لیست ساندکلاد با استفاده از yt-dlp.
-    برمی‌گرداند لیستی از دیکشنری‌ها با کلیدهای title, link, published_date
-    """
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
         cmd = [
@@ -137,7 +133,6 @@ def fetch_soundcloud_playlist(playlist_url):
 # ================== RSS یوتیوب ==================
 RSS_CACHE = {}
 
-# ‼️ اصلاح‌شده: اضافه کردن User‑Agent واقعی، کوکی‌ها و تلاش مجدد برای خطای ۵۰۰ یوتیوب
 def fetch_rss_youtube(channel_id):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     print(f"  📡 دریافت RSS یوتیوب برای {channel_id}")
@@ -146,7 +141,6 @@ def fetch_rss_youtube(channel_id):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
     }
 
-    # بارگذاری کوکی‌های یوتیوب از فایل cookies.txt (در صورت وجود)
     cookies = {}
     if os.path.exists('cookies.txt'):
         try:
@@ -296,7 +290,6 @@ def process_item(item):
         save_state(cid, kw, state)
         return
 
-    # ========== فقط بخش زیر برای ساندکلاد تغییر کرده ==========
     if plat == 'soundcloud_playlist':
         today_greg = iran_now().date()
         jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
@@ -321,12 +314,9 @@ def process_item(item):
                 year = int(match.group(3)) if match.group(3) else jy
                 if (year, month, day) == today_persian:
                     recent.append(v)
-        # اگر تطابقی پیدا نشود، recent خالی می‌ماند
     else:
-        # ========== بخش یوتیوب و سایر پلتفرم‌ها کاملاً بدون تغییر ==========
         cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
         recent = [v for v in videos if v['published_date'] >= cutoff]
-    # ============================================================
 
     matched = None
     for v in recent:
@@ -359,6 +349,13 @@ def process_item(item):
     save_state(cid, kw, state)
 
 def main():
+    # ========== تغییر: اضافه شدن شرط ساعت کاری (فقط بین 9 صبح تا 12 شب ایران) ==========
+    current_hour = iran_now().hour
+    if not (9 <= current_hour <= 23):
+        print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
+        return
+    # ========================================================================
+
     print("🚀 شروع اسکن...")
     try:
         items = load_watchlist()
