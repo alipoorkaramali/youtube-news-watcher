@@ -2,7 +2,7 @@ name: Daily Reset new_videos🧹
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # هر روز ساعت 00:00 UTC
+    - cron: '45 20 * * *'   # 20:45 UTC = 00:15 IRST (12:15 AM)
   workflow_dispatch:
 
 permissions:
@@ -16,11 +16,11 @@ jobs:
 
       - name: Ensure logs directory and clear file
         run: |
-          mkdir -p logs                     # اگر پوشه logs نباشد، می‌سازد
-          true > logs/new_videos.txt         # فایل را خالی می‌کند (در صورت عدم وجود، فایل خالی می‌سازد)
+          mkdir -p logs
+          true > logs/new_videos.txt
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Daily log reset'
+          commit_message: 'Daily log reset at 12:15 AM IRST'
           file_pattern: 'logs/new_videos.txt'
