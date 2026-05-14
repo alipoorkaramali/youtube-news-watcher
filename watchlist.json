@@ -10,14 +10,6 @@
   {
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/iranintl",
-    "title_keyword": "اخبار بامدادی",
-    "start_time_iran": "08:00",
-    "check_every_minutes": 60,
-    "max_attempts": 5
-  },
-  {
-    "platform": "soundcloud_playlist",
-    "channel_id": "https://soundcloud.com/iranintl",
     "title_keyword": "اخبار شبانگاهی",
     "start_time_iran": "19:00",
     "check_every_minutes": 60,
@@ -68,6 +60,14 @@
     "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
     "title_keyword": "اخبار شبانگاهی",
     "start_time_iran": "19:00",
+    "check_every_minutes": 60,
+    "max_attempts": 5
+  },
+  {
+    "platform": "soundcloud_playlist",
+    "channel_id": "https://soundcloud.com/iranintl",
+    "title_keyword": "اخبار بامدادی",
+    "start_time_iran": "8:00",
     "check_every_minutes": 60,
     "max_attempts": 5
   }
