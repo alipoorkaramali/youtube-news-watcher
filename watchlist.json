@@ -65,5 +65,13 @@
     "start_time_iran": "21:00",
     "check_every_minutes": 60,
     "max_attempts": 5
+  },
+  {
+    "platform": "youtube",
+    "channel_id": "UCat6bC0Wrqq9Bcq7EkH_yQw",
+    "title_keyword": "نیم",
+    "start_time_iran": "15:00",
+    "check_every_minutes": 60,
+    "max_attempts": 5
   }
 ]
