@@ -1,4 +1,4 @@
-name: Add Watch Item v.1➕✅
+name: Add Watch Item v.2➕✅
 
 on:
   workflow_dispatch:
@@ -40,12 +40,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
-      - name: Append new item to watchlist.json
+      - name: Append or replace item in watchlist.json
         env:
           PLATFORM: ${{ github.event.inputs.platform }}
           CHANNEL_ID: ${{ github.event.inputs.channel_id }}
@@ -62,12 +60,18 @@ jobs:
             --argjson iv "$INTERVAL" \
             --argjson ma "$ATTEMPTS" \
             '{platform: $platform, channel_id: $cid, title_keyword: $kw, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
-          if [ -f watchlist.json ]; then
-            jq ". += [$NEW_ITEM]" watchlist.json > tmp.json && mv tmp.json watchlist.json
-          else
+
+          if [ ! -f watchlist.json ]; then
             echo "[$NEW_ITEM]" > watchlist.json
+          else
+            # حذف آیتم‌هایی که پلتفرم و کلیدواژه یکسان دارند
+            jq --arg platform "$PLATFORM" --arg kw "$TITLE_KEYWORD" \
+              'map(select(.platform != $platform or .title_keyword != $kw))' watchlist.json > tmp.json
+            # اضافه کردن آیتم جدید
+            jq ". += [$NEW_ITEM]" tmp.json > watchlist.json
+            rm tmp.json
           fi
-          echo "محتویات جدید:"
+          echo "محتویات نهایی watchlist.json:"
           cat watchlist.json
 
       - name: Commit updated watchlist
@@ -78,6 +82,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Add new watch item via form"
+            git commit -m "Add/replace watch item via form"
             git push
           fi
