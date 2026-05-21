@@ -1,0 +1,42 @@
+name: Full Diagnostic🩺🧑‍⚕️
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_channel_id:
+        description: 'YouTube Channel ID (RSS)'
+        required: false
+        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'
+      soundcloud_url:
+        description: 'SoundCloud URL (playlist or user)'
+        required: false
+        default: 'https://soundcloud.com/iranintl'
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          pip install requests soundcloud-lib
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+
+      - name: Run diagnostic script
+        run: python debug_youtube_rss.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add diagnostic_results.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update diagnostic results [skip ci]"
+            git push
+          fi
