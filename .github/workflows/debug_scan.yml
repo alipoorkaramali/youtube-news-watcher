@@ -1,0 +1,175 @@
+name: Full Diagnostic🩺🧑‍⚕️
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_channel_id:
+        description: 'شناسهٔ کانال یوتیوب (RSS)'
+        required: false
+        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'
+      soundcloud_url:
+        description: 'لینک ساندکلاد (پلی‌لیست یا کاربر)'
+        required: false
+        default: 'https://soundcloud.com/iranintl'
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: نمایش فایل watchlist.json (اختیاری)
+        run: cat watchlist.json || echo "watchlist.json not found"
+
+      - name: نصب نیازمندی‌ها
+        run: |
+          pip install requests
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+
+      - name: پاک کردن فایل نتایج قبلی (در صورت وجود)
+        run: rm -f diagnostic_results.txt
+
+      # ===================== YOUTUBE =====================
+      - name: تست RSS یوتیوب و ذخیره در فایل
+        if: github.event.inputs.youtube_channel_id != ''
+        run: |
+          python -c "
+          import requests, time, os, xml.etree.ElementTree as ET
+          from http.cookiejar import MozillaCookieJar
+
+          cid = '${{ github.event.inputs.youtube_channel_id }}'
+          url = f'https://www.youtube.com/feeds/videos.xml?channel_id={cid}'
+          headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+          }
+          cookies = {}
+          if os.path.exists('cookies.txt'):
+            try:
+              cj = MozillaCookieJar('cookies.txt')
+              cj.load(ignore_discard=True, ignore_expires=True)
+              cookies = {c.name: c.value for c in cj if '.youtube.com' in c.domain}
+            except: pass
+
+          output_file = 'diagnostic_results.txt'
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write('=== YouTube RSS Results ===\n')
+              f.write(f'Channel ID: {cid}\n')
+
+          for attempt in range(3):
+              try:
+                  r = requests.get(url, headers=headers, cookies=cookies, timeout=30)
+                  print(f'Attempt {attempt+1}, status: {r.status_code}')
+                  if r.status_code == 200:
+                      root = ET.fromstring(r.content)
+                      ns = {'': 'http://www.w3.org/2005/Atom'}
+                      entries = root.findall('entry', ns)
+                      total = len(entries)
+                      print(f'✅ {total} video(s) found')
+                      with open(output_file, 'a', encoding='utf-8') as f:
+                          f.write(f'Total videos: {total}\n\n')
+                      # نمایش و ذخیره همه ویدیوها (در صورت زیاد بودن، فقط ۱۵ تا اول را کامل نشان بده)
+                      limit = 15
+                      for i, e in enumerate(entries):
+                          title = e.find('title', ns).text.strip()
+                          link = e.find('link', ns).attrib['href']
+                          published = e.find('published', ns)
+                          pub_str = published.text if published is not None else 'Unknown'
+                          line = f'{i+1}. {title}\n   Link: {link}\n   Published: {pub_str}\n'
+                          print(line)
+                          with open(output_file, 'a', encoding='utf-8') as f:
+                              f.write(line)
+                          if i+1 >= limit and total > limit:
+                              remaining = total - limit
+                              msg = f'\n... and {remaining} more videos (limit 15 for brevity).\n'
+                              print(msg)
+                              with open(output_file, 'a', encoding='utf-8') as f:
+                                  f.write(msg)
+                              break
+                      break
+                  elif r.status_code in (403, 429, 500):
+                      print('⏳ Rate-limited or server error, waiting 15s...')
+                      time.sleep(15)
+                  elif r.status_code == 404:
+                      print('❌ Channel not found (404)')
+                      with open(output_file, 'a', encoding='utf-8') as f:
+                          f.write('❌ Channel not found (404)\n')
+                      break
+                  else:
+                      print(f'⚠️ Unexpected status: {r.status_code}')
+                      break
+              except Exception as e:
+                  print(f'Error: {e}')
+                  time.sleep(10)
+          else:
+              print('❌ Failed after 3 attempts – likely rate limiting.')
+              with open(output_file, 'a', encoding='utf-8') as f:
+                  f.write('❌ Failed after 3 attempts – likely rate limiting.\n')
+          "
+
+      # ===================== SOUNDCLOUD =====================
+      - name: تست ساندکلاد و ذخیره در فایل
+        if: github.event.inputs.soundcloud_url != ''
+        run: |
+          yt-dlp --flat-playlist -J --no-warnings "${{ github.event.inputs.soundcloud_url }}" > /tmp/sc.json 2>/dev/null
+          if [ $? -eq 0 ]; then
+            python -c "
+            import json
+            with open('/tmp/sc.json') as f:
+                data = json.load(f)
+            entries = data.get('entries', [])
+            total = len(entries)
+            print(f'✅ {total} tracks found')
+            with open('diagnostic_results.txt', 'a', encoding='utf-8') as f:
+                f.write('\n=== SoundCloud Results ===\n')
+                f.write(f'URL: ${{ github.event.inputs.soundcloud_url }}\n')
+                f.write(f'Total tracks: {total}\n\n')
+            limit = 15
+            for i, e in enumerate(entries):
+                title = e.get('title')
+                url = e.get('webpage_url') or e.get('url')
+                line = f'{i+1}. {title}\n   Link: {url}\n'
+                print(line)
+                with open('diagnostic_results.txt', 'a', encoding='utf-8') as f:
+                    f.write(line)
+                if i+1 >= limit and total > limit:
+                    remaining = total - limit
+                    msg = f'\n... and {remaining} more tracks (limit 15 for brevity).\n'
+                    print(msg)
+                    with open('diagnostic_results.txt', 'a', encoding='utf-8') as f:
+                        f.write(msg)
+                    break
+            "
+          else
+            echo "❌ Could not fetch playlist"
+            echo "❌ Could not fetch playlist" >> diagnostic_results.txt
+          fi
+
+      # ===================== SCANNER اصلی (اختیاری) =====================
+      - name: اجرای اسکنر اصلی
+        run: |
+          python -u youtube_scanner.py || echo "Scanner script failed"
+          if [ -f "logs/new_videos.txt" ]; then
+            echo "--- محتوای logs/new_videos.txt ---"
+            cat "logs/new_videos.txt"
+            echo -e "\n--- Append scanner output to diagnostic file ---"
+            echo -e "\n=== Scanner Output (new_videos.txt) ===\n" >> diagnostic_results.txt
+            cat "logs/new_videos.txt" >> diagnostic_results.txt
+          else
+            echo "--- logs/new_videos.txt پیدا نشد ---"
+          fi
+
+      # ===================== COMMIT AND PUSH RESULTS =====================
+      - name: Commit and push diagnostic results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add diagnostic_results.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update diagnostic results [skip ci]"
+            git push
+          fi
