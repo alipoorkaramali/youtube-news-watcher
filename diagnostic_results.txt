@@ -415,39 +415,40 @@
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
-✅ 8712 آهنگ/ویدئو پیدا شد.
-1. جام جهان‌نما ۲۴ مه ۲۰۲۶ / ۳ خرداد ۱۴۰۵
+✅ 8713 آهنگ/ویدئو پیدا شد.
+1. جام جهان‌نما ۲۵ مه ۲۰۲۶ / ۴ خرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/hri7f32u4wrv
+2. جام جهان‌نما ۲۴ مه ۲۰۲۶ / ۳ خرداد ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ogroauqdfvu2
-2. جام جهان‌نما ۲۳ مه ۲۰۲۶ / ۲ خرداد ۱۴۰۵
+3. جام جهان‌نما ۲۳ مه ۲۰۲۶ / ۲ خرداد ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/0vtwdyabvces
-3. جام جهان‌نما ۲۲ مه ۲۰۲۶ / ۱ خرداد ۱۴۰۵
+4. جام جهان‌نما ۲۲ مه ۲۰۲۶ / ۱ خرداد ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ukwkjjs9vdt4
-4. جام جهان‌نما ۲۱ مه ۲۰۲۶ / ۳۱ اردیبهشت ۱۴۰۵
+5. جام جهان‌نما ۲۱ مه ۲۰۲۶ / ۳۱ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/iw8h7bntzpky
-5. جام جهان‌نما ۲۰ مه ۲۰۲۶ / ۳۰ اردیبهشت ۱۴۰۵
+6. جام جهان‌نما ۲۰ مه ۲۰۲۶ / ۳۰ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/w0dxv4efcnll
-6. جام جهان‌نما ۱۹ مه ۲۰۲۶ / ۲۹ اردیبهشت ۱۴۰۵
+7. جام جهان‌نما ۱۹ مه ۲۰۲۶ / ۲۹ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/myyihzt0of44
-7. جام جهان‌نما ۱۸ مه ۲۰۲۶ / ۲۸ اردیبهشت ۱۴۰۵
+8. جام جهان‌نما ۱۸ مه ۲۰۲۶ / ۲۸ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/0ihzldfmnkkn
-8. جام جهان‌نما ۱۷ مه ۲۰۲۶ / ۲۷ اردیبهشت ۱۴۰۵
+9. جام جهان‌نما ۱۷ مه ۲۰۲۶ / ۲۷ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ygttvpsx3ky6
-9. جام جهان‌نما ۱۶ مه ۲۰۲۶ / ۲۶ اردیبهشت ۱۴۰۵
+10. جام جهان‌نما ۱۶ مه ۲۰۲۶ / ۲۶ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/dpvfr0arhrc1
-10. جام جهان‌نما ۱۵ مه ۲۰۲۶ / ۲۵ اردیبهشت ۱۴۰۵
+11. جام جهان‌نما ۱۵ مه ۲۰۲۶ / ۲۵ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ozjzfhsadp9b
-11. جام جهان‌نما ۱۴ مه ۲۰۲۶ / ۲۴ اردیبهشت ۱۴۰۵
+12. جام جهان‌نما ۱۴ مه ۲۰۲۶ / ۲۴ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/sf7hkxxr0rr5
-12. جام جهان‌نما ۱۳ مه ۲۰۲۶ / ۲۳ اردیبهشت ۱۴۰۵
+13. جام جهان‌نما ۱۳ مه ۲۰۲۶ / ۲۳ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/o2srkhfsaz1a
-13. جام جهان‌نما ۱۲ مه ۲۰۲۶ / ۲۲ اردیبهشت ۱۴۰۵
+14. جام جهان‌نما ۱۲ مه ۲۰۲۶ / ۲۲ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/plalxzevaziq
-14. جام جهان‌نما ۱۱ مه ۲۰۲۶ / ۲۱ اردیبهشت ۱۴۰۵
+15. جام جهان‌نما ۱۱ مه ۲۰۲۶ / ۲۱ اردیبهشت ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ikldamgbos5m
-15. جام جهان‌نما ۱۰ مه ۲۰۲۶ / ۲۰ اردیبهشت ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/n3hejresla0a
-... و 8697 مورد دیگر (محدودیت 15)
+... و 8698 مورد دیگر (محدودیت 15)
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [✅ همسان] جام جهان‌نما ۲۵ مه ۲۰۲۶ / ۴ خرداد ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۴ مه ۲۰۲۶ / ۳ خرداد ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۳ مه ۲۰۲۶ / ۲ خرداد ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۲ مه ۲۰۲۶ / ۱ خرداد ۱۴۰۵
@@ -462,7 +463,6 @@
    [✅ همسان] جام جهان‌نما ۱۳ مه ۲۰۲۶ / ۲۳ اردیبهشت ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۲ مه ۲۰۲۶ / ۲۲ اردیبهشت ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۱ مه ۲۰۲۶ / ۲۱ اردیبهشت ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۰ مه ۲۰۲۶ / ۲۰ اردیبهشت ۱۴۰۵
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
