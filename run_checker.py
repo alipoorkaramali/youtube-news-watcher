@@ -13,7 +13,8 @@ def iran_offset():
     return timedelta(hours=3, minutes=30)
 
 def iran_now():
-    return datetime.now(timezone.utc) + iran_offset()
+    # زمان فعلی با منطقه زمانی ایران (aware)
+    return datetime.now(timezone.utc).astimezone(timezone(iran_offset()))
 
 def parse_iran_time(time_str):
     try:
@@ -52,14 +53,16 @@ def load_watchlist():
         })
     return items
 
-# ================== محاسبه زمان بعدی برای یک آیتم ==================
+# ================== محاسبه زمان بعدی برای یک آیتم (اصلاح‌شده) ==================
 def next_check_time(item, attempt):
     """محاسبه زمان UTC برای تلاش بعدی یک آیتم"""
     now_iran = iran_now()
     today = now_iran.date()
     
-    # زمان شروع امروز
+    # زمان شروع امروز با منطقه زمانی ایران
     start_today = datetime.combine(today, item['start_time_iran'])
+    # افزودن منطقه زمانی ایران به start_today تا aware شود
+    start_today = start_today.replace(tzinfo=timezone(iran_offset()))
     
     # اگر زمان شروع امروز گذشته باشد، به فردا موکول می‌شود
     if start_today <= now_iran:
@@ -69,7 +72,7 @@ def next_check_time(item, attempt):
     delay_minutes = item['check_every_minutes'] * attempt
     next_time = start_today + timedelta(minutes=delay_minutes)
     
-    # تبدیل به UTC (برای مقایسه با زمان فعلی سرور)
+    # تبدیل به UTC (برای ذخیره و مقایسه با زمان فعلی سرور)
     utc_offset = iran_offset()
     next_time_utc = (next_time - utc_offset).replace(tzinfo=timezone.utc)
     
