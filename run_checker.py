@@ -6,10 +6,13 @@ import subprocess
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
-MIN_CHECK_INTERVAL = 30
+MIN_CHECK_INTERVAL = 30  # حداقل فاصله زمانی بین اسکن‌ها (دقیقه)
+
+# ================== افست ایران ==================
 IRAN_OFFSET = timedelta(hours=3, minutes=30)
 
 def iran_now():
+    """بازگرداندن زمان فعلی به وقت ایران (به صورت UTC-aware)"""
     return datetime.now(timezone.utc) + IRAN_OFFSET
 
 def parse_iran_time(time_str):
@@ -19,6 +22,7 @@ def parse_iran_time(time_str):
     except:
         return None
 
+# ================== خواندن watchlist ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
         print(f"⚠️ فایل {WATCHLIST_FILE} یافت نشد.")
@@ -29,6 +33,7 @@ def load_watchlist():
         except:
             print("❌ فایل JSON معتبر نیست.")
             return []
+    
     items = []
     for item in data:
         start = item.get('start_time_iran')
@@ -47,17 +52,31 @@ def load_watchlist():
         })
     return items
 
+# ================== محاسبه زمان بعدی برای یک آیتم (با UTC) ==================
 def next_check_time_utc(item, attempt):
+    """محاسبه زمان UTC برای تلاش بعدی یک آیتم"""
     now_utc = datetime.now(timezone.utc)
-    now_iran = now_utc + IRAN_OFFSET
+    now_iran = now_utc + IRAN_OFFSET  # زمان ایران (برای محاسبه تاریخ)
+    
     today_iran = now_iran.date()
+    
+    # زمان شروع امروز به وقت ایران (بدون منطقه)
     start_today_iran = datetime.combine(today_iran, item['start_time_iran'])
+    
+    # تبدیل به UTC
     start_today_utc = start_today_iran - IRAN_OFFSET
-    # ⭐ دیگر به فردا موکول نمی‌کنیم تا اگر زمان گذشته باشد، بلافاصله اسکن شود
+    
+    # اگر زمان شروع امروز گذشته باشد، به فردا موکول می‌شود
+    if start_today_utc <= now_utc:
+        start_today_utc += timedelta(days=1)
+    
+    # اضافه کردن فاصله زمانی بر اساس تعداد تلاش‌ها
     delay_minutes = item['check_every_minutes'] * attempt
     next_time_utc = start_today_utc + timedelta(minutes=delay_minutes)
+    
     return next_time_utc
 
+# ================== تابع اصلی اجرا ==================
 def run_scanner():
     now_iran = iran_now()
     print(f"[{now_iran.strftime('%Y-%m-%d %H:%M:%S')} به وقت ایران] 🔄 اجرای چک‌کننده...")
@@ -74,21 +93,27 @@ def run_scanner():
     except Exception as e:
         print(f"❌ خطا در اجرای اسکنر: {e}")
 
+# ================== تابع اصلی ==================
 def main():
     print("🚀 Railway YouTube/SoundCloud Checker Service شروع به کار کرد...")
     print("📋 زمان‌بندی هوشمند بر اساس هر آیتم (خواب مجزا)")
+    
     items = load_watchlist()
     if not items:
         print("⚠️ هیچ آیتم معتبری در watchlist.json یافت نشد. خروج.")
         return
+    
+    # دیکشنری برای ذخیره آخرین وضعیت هر آیتم
     last_attempts = {idx: 0 for idx in range(len(items))}
     
     while True:
         now_utc = datetime.now(timezone.utc)
         min_sleep = None
+        
         for idx, item in enumerate(items):
             attempt = last_attempts[idx]
             next_time_utc = next_check_time_utc(item, attempt)
+            
             if now_utc >= next_time_utc:
                 print(f"⏰ زمان اسکن برای '{item['title_keyword']}' رسیده است.")
                 run_scanner()
@@ -99,6 +124,7 @@ def main():
                 diff = (next_time_utc - now_utc).total_seconds()
                 if min_sleep is None or diff < min_sleep:
                     min_sleep = diff
+        
         if min_sleep is not None and min_sleep > 0:
             print(f"💤 در حال استراحت به مدت {int(min_sleep//60)} دقیقه و {int(min_sleep%60)} ثانیه...")
             time.sleep(min_sleep)
