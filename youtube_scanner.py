@@ -339,12 +339,14 @@ def process_item(item):
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
 
-            # ===================== Trigger دانلودر =====================
-            print(f"🎯 ویدیو پیدا شد! در حال trigger دانلودر...")
+            # ===================== 🎯 Trigger دانلودر با requests =====================
+            print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
             try:
                 downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
                 gh_pat = os.getenv("GH_PAT")
-                if gh_pat:
+                if not gh_pat:
+                    print("⚠️ GH_PAT تنظیم نشده است. درخواست ارسال نشد.")
+                else:
                     payload = {
                         "event_type": "trigger-download",
                         "client_payload": {
@@ -354,22 +356,27 @@ def process_item(item):
                             "mega_folder": "YoutubeDownloads"
                         }
                     }
-                    cmd = [
-                        "curl", "-X", "POST",
-                        "-H", "Accept: application/vnd.github.v3+json",
-                        "-H", f"Authorization: token {gh_pat}",
-                        f"https://api.github.com/repos/{downloader_repo}/dispatches",
-                        "-d", json.dumps(payload)
-                    ]
-                    result = subprocess.run(cmd, capture_output=True, text=True)
-                    print("✅ Trigger دانلودر ارسال شد")
-                    if result.stderr:
-                        print("Response:", result.stderr)
-                else:
-                    print("⚠️ GH_PAT تنظیم نشده است")
+                    headers = {
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {gh_pat}",
+                        "Content-Type": "application/json"
+                    }
+                    api_url = f"https://api.github.com/repos/{downloader_repo}/dispatches"
+                    
+                    response = requests.post(api_url, json=payload, headers=headers, timeout=30)
+                    
+                    if response.status_code == 204:
+                        print("✅ درخواست دانلود با موفقیت به GitHub ارسال شد.")
+                    else:
+                        print(f"⚠️ خطا در ارسال درخواست: وضعیت {response.status_code}")
+                        print(f"   پاسخ: {response.text}")
+            except requests.exceptions.Timeout:
+                print("⚠️ خطا: زمان‌ارسال درخواست به پایان رسید (timeout).")
+            except requests.exceptions.ConnectionError:
+                print("⚠️ خطا: اتصال به GitHub برقرار نشد.")
             except Exception as e:
                 print(f"⚠️ خطا در trigger دانلودر: {e}")
-            # ============================================================
+            # ========================================================================
 
         else:
             print("  ℹ️ تکراری است")
