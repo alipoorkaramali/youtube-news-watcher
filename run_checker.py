@@ -107,9 +107,10 @@ def calculate_sleep_time(items):
 class HealthHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
-        self.send_header('Content-type', 'text/html')
+        self.send_header('Content-type', 'text/html; charset=utf-8')
         self.end_headers()
-        self.wfile.write(b"✅ Service is running")
+        # استفاده از encode برای کاراکترهای غیر-ASCII
+        self.wfile.write("✅ Service is running".encode('utf-8'))
 
 def run_http_server():
     server = HTTPServer(('0.0.0.0', 5000), HealthHandler)
