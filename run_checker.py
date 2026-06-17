@@ -2,7 +2,7 @@ import time
 import json
 import os
 import subprocess
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 
 # ======================================================
 #  تنظیمات
@@ -11,11 +11,11 @@ WATCHLIST_FILE = "watchlist.json"
 IRAN_OFFSET = timedelta(hours=3, minutes=30)
 
 # ======================================================
-#  توابع زمان
+#  توابع زمان (همه naive هستند)
 # ======================================================
 def iran_now():
-    """زمان فعلی به‌وقت ایران (با منطقه‌ی زمانی)"""
-    return datetime.now(timezone.utc) + IRAN_OFFSET
+    """زمان فعلی به‌وقت ایران (naive)"""
+    return datetime.now() + IRAN_OFFSET
 
 def parse_iran_time(time_str):
     """تبدیل رشته‌ی زمان (مثلاً '18:45') به شیء time"""
