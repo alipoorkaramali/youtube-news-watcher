@@ -1,97 +1,145 @@
 import time
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import subprocess
-from zoneinfo import ZoneInfo  # اضافه کردن کتابخانه منطقه زمانی
 
-# تابع برای خواندن فایل watchlist.json و استخراج همه زمان‌های شروع
-def get_start_times():
+# ================== تنظیمات ==================
+WATCHLIST_FILE = "watchlist.json"
+MIN_CHECK_INTERVAL = 30  # حداقل فاصله زمانی بین اسکن‌ها (دقیقه)
+
+# ================== ابزارهای زمان ==================
+def iran_offset():
+    return timedelta(hours=3, minutes=30)
+
+def iran_now():
+    return datetime.now(timezone.utc) + iran_offset()
+
+def parse_iran_time(time_str):
     try:
-        with open('watchlist.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        times = []
-        for item in data:
-            start_str = item.get('start_time_iran')
-            if start_str:
-                try:
-                    hour, minute = map(int, start_str.split(':'))
-                    times.append((hour, minute))
-                except:
-                    pass
-        times = list(set(times))
-        return times
-    except Exception as e:
-        print(f"⚠️ خطا در خواندن watchlist.json: {e}")
+        h, m = map(int, time_str.split(':'))
+        return datetime.strptime(f"{h:02d}:{m:02d}", "%H:%M").time()
+    except:
+        return None
+
+# ================== خواندن watchlist ==================
+def load_watchlist():
+    if not os.path.exists(WATCHLIST_FILE):
+        print(f"⚠️ فایل {WATCHLIST_FILE} یافت نشد.")
         return []
+    with open(WATCHLIST_FILE, 'r', encoding='utf-8') as f:
+        try:
+            data = json.load(f)
+        except:
+            print("❌ فایل JSON معتبر نیست.")
+            return []
+    
+    items = []
+    for item in data:
+        start = item.get('start_time_iran')
+        if not start:
+            continue
+        start_time = parse_iran_time(start)
+        if not start_time:
+            continue
+        items.append({
+            'platform': item.get('platform', 'youtube'),
+            'channel_id': item.get('channel_id', ''),
+            'title_keyword': item.get('title_keyword', ''),
+            'start_time_iran': start_time,
+            'check_every_minutes': max(item.get('check_every_minutes', 60), MIN_CHECK_INTERVAL),
+            'max_attempts': item.get('max_attempts', 5)
+        })
+    return items
 
-# تابع محاسبه فاصله تا نزدیک‌ترین زمان آینده (بر اساس ساعت ایران)
-def seconds_until_next_start(times):
-    # ⭐ دریافت زمان فعلی بر اساس منطقه زمانی ایران
-    now = datetime.now(ZoneInfo("Asia/Tehran"))
-    current_time = now.time()
+# ================== محاسبه زمان بعدی برای یک آیتم ==================
+def next_check_time(item, attempt):
+    """محاسبه زمان UTC برای تلاش بعدی یک آیتم"""
+    now_iran = iran_now()
+    today = now_iran.date()
     
-    if not times:
-        return 300
+    # زمان شروع امروز
+    start_today = datetime.combine(today, item['start_time_iran'])
+    
+    # اگر زمان شروع امروز گذشته باشد، به فردا موکول می‌شود
+    if start_today <= now_iran:
+        start_today = start_today + timedelta(days=1)
+    
+    # اضافه کردن فاصله زمانی بر اساس تعداد تلاش‌ها
+    delay_minutes = item['check_every_minutes'] * attempt
+    next_time = start_today + timedelta(minutes=delay_minutes)
+    
+    # تبدیل به UTC (برای مقایسه با زمان فعلی سرور)
+    utc_offset = iran_offset()
+    next_time_utc = (next_time - utc_offset).replace(tzinfo=timezone.utc)
+    
+    return next_time_utc
 
-    start_times = [datetime.strptime(f"{h:02d}:{m:02d}", "%H:%M").time() for h, m in times]
-    
-    next_start = None
-    min_diff = None
-    
-    for t in start_times:
-        candidate_today = datetime.combine(now.date(), t).replace(tzinfo=ZoneInfo("Asia/Tehran"))
-        if candidate_today > now:
-            diff = (candidate_today - now).total_seconds()
-        else:
-            candidate_tomorrow = datetime.combine(now.date() + timedelta(days=1), t).replace(tzinfo=ZoneInfo("Asia/Tehran"))
-            diff = (candidate_tomorrow - now).total_seconds()
-        
-        if min_diff is None or diff < min_diff:
-            min_diff = diff
-            next_start = candidate_today if candidate_today > now else candidate_tomorrow
-    
-    if min_diff is None:
-        return 300
-    if min_diff < 0:
-        min_diff = 0
-    
-    # چاپ زمان باقی‌مانده بر اساس ساعت ایران
-    print(f"⏳ تا زمان بعدی ({next_start.strftime('%H:%M')} به وقت ایران) {int(min_diff//60)} دقیقه و {int(min_diff%60)} ثانیه باقی مانده.")
-    return min_diff
-
+# ================== تابع اصلی اجرا ==================
 def run_scanner():
-    # ⭐ ثبت زمان اجرا بر اساس ساعت ایران
-    now_iran = datetime.now(ZoneInfo("Asia/Tehran"))
-    print(f"[{now_iran.strftime('%Y-%m-%d %H:%M:%S')} به وقت ایران] 🔄 اجرای چک‌کننده...")
+    print(f"[{iran_now().strftime('%Y-%m-%d %H:%M:%S')} به وقت ایران] 🔄 اجرای چک‌کننده...")
     try:
-        result = subprocess.run(["python", "youtube_scanner.py"], 
-                              capture_output=True, text=True, timeout=600)
+        result = subprocess.run(
+            ["python", "youtube_scanner.py"],
+            capture_output=True,
+            text=True,
+            timeout=600
+        )
         print(result.stdout)
         if result.stderr:
             print("⚠️ stderr:", result.stderr)
     except Exception as e:
         print(f"❌ خطا در اجرای اسکنر: {e}")
 
+# ================== تابع اصلی ==================
 def main():
     print("🚀 Railway YouTube/SoundCloud Checker Service شروع به کار کرد...")
-    print("📋 زمان‌بندی هوشمند بر اساس ساعت ایران (Asia/Tehran)")
+    print("📋 زمان‌بندی هوشمند بر اساس هر آیتم (خواب مجزا)")
     
-    start_times = get_start_times()
-    if not start_times:
-        print("⚠️ هیچ زمان شروع معتبری در watchlist.json یافت نشد. از حالت پیش‌فرض ۵ دقیقه‌ای استفاده می‌شود.")
+    # بارگذاری لیست آیتم‌ها
+    items = load_watchlist()
+    if not items:
+        print("⚠️ هیچ آیتم معتبری در watchlist.json یافت نشد. خروج.")
+        return
+    
+    # دیکشنری برای ذخیره آخرین وضعیت هر آیتم
+    last_attempts = {idx: 0 for idx in range(len(items))}
     
     while True:
-        if start_times:
-            sleep_seconds = seconds_until_next_start(start_times)
-        else:
-            sleep_seconds = 300
+        now_utc = datetime.now(timezone.utc)
         
-        if sleep_seconds > 0:
-            print(f"💤 در حال استراحت به مدت {int(sleep_seconds//60)} دقیقه و {int(sleep_seconds%60)} ثانیه...")
-            time.sleep(sleep_seconds)
+        # پیدا کردن آیتم‌هایی که زمانشان رسیده
+        min_sleep = None
+        for idx, item in enumerate(items):
+            attempt = last_attempts[idx]
+            next_time = next_check_time(item, attempt)
+            
+            # اگر زمان رسیده باشد، اجرا کن
+            if now_utc >= next_time:
+                print(f"⏰ زمان اسکن برای '{item['title_keyword']}' رسیده است.")
+                run_scanner()  # یک بار اسکن کامل اجرا می‌شود
+                
+                # افزایش تعداد تلاش‌ها برای این آیتم
+                last_attempts[idx] += 1
+                
+                # بعد از اسکن، یک بار دیگر حلقه را بررسی می‌کنیم
+                # اما برای جلوگیری از اسکن مجدد در همان لحظه، یک وقفه کوتاه می‌گذاریم
+                time.sleep(10)
+                break  # بعد از اجرا، دوباره از اول حلقه می‌رویم
+            else:
+                # محاسبه زمان باقی‌مانده تا این آیتم
+                diff = (next_time - now_utc).total_seconds()
+                if min_sleep is None or diff < min_sleep:
+                    min_sleep = diff
         
-        run_scanner()
+        # اگر هیچ آیتمی زمانش نرسیده بود، تا نزدیک‌ترین زمان بخواب
+        if min_sleep is not None and min_sleep > 0:
+            print(f"💤 در حال استراحت به مدت {int(min_sleep//60)} دقیقه و {int(min_sleep%60)} ثانیه...")
+            time.sleep(min_sleep)
+        elif min_sleep is None:
+            # اگر هیچ آیتمی وجود نداشته باشد (نباید اتفاق بیفتد)
+            print("⚠️ هیچ آیتمی برای برنامه‌ریزی وجود ندارد. ۵ دقیقه استراحت...")
+            time.sleep(300)
 
 if __name__ == "__main__":
     main()
