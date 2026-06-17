@@ -4,14 +4,13 @@ import os
 import subprocess
 import threading
 from datetime import datetime, timedelta
-from flask import Flask
+from http.server import HTTPServer, BaseHTTPRequestHandler
 
 # ======================================================
 #  تنظیمات
 # ======================================================
 WATCHLIST_FILE = "watchlist.json"
 IRAN_OFFSET = timedelta(hours=3, minutes=30)
-app = Flask(__name__)
 
 # ======================================================
 #  توابع زمان (همه naive هستند)
@@ -103,14 +102,18 @@ def calculate_sleep_time(items):
     return min_diff
 
 # ======================================================
-#  وب سرور (برای جلوگیری از توقف کانتینر)
+#  وب سرور ساده با http.server (بدون نیاز به Flask)
 # ======================================================
-@app.route('/')
-def health_check():
-    return "✅ Service is running", 200
+class HealthHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/html')
+        self.end_headers()
+        self.wfile.write(b"✅ Service is running")
 
-def run_flask():
-    app.run(host='0.0.0.0', port=5000)
+def run_http_server():
+    server = HTTPServer(('0.0.0.0', 5000), HealthHandler)
+    server.serve_forever()
 
 # ======================================================
 #  تابع اصلی (اجرای همزمان وب سرور و اسکریپت)
@@ -125,9 +128,9 @@ def main():
         return
     
     # راه‌اندازی وب سرور در یک ترد جداگانه
-    flask_thread = threading.Thread(target=run_flask, daemon=True)
-    flask_thread.start()
-    print("🌐 وب سرور برای سلامت سرویس در پورت ۵۰۰۰ راه‌اندازی شد.")
+    http_thread = threading.Thread(target=run_http_server, daemon=True)
+    http_thread.start()
+    print("🌐 وب سرور ساده برای سلامت سرویس در پورت ۵۰۰۰ راه‌اندازی شد.")
     
     while True:
         sleep_seconds = calculate_sleep_time(items)
