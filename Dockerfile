@@ -2,10 +2,11 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
+# نصب وابستگی‌ها
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt yt-dlp
 
 COPY . .
 
-# برای اجرای دوره‌ای
-CMD ["sh", "-c", "while true; do python youtube_scanner.py; sleep 900; done"]
+# اجرای اسکریپت با حلقه هوشمند
+CMD ["python", "run_checker.py"]
