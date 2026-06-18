@@ -1,28 +1,24 @@
 import time
+from datetime import datetime
 import subprocess
-from datetime import datetime, timedelta
-import os
 
 def run_scanner():
-    print(f"[{datetime.now()}] شروع چک‌کننده...")
+    print(f"[{datetime.now()}] 🔄 اجرای چک‌کننده...")
     try:
         result = subprocess.run(["python", "youtube_scanner.py"], 
-                              capture_output=True, text=True, timeout=300)
+                              capture_output=True, text=True, timeout=600)
         print(result.stdout)
         if result.stderr:
-            print("خطا:", result.stderr)
+            print("⚠️ خطا:", result.stderr)
     except Exception as e:
-        print(f"خطای اجرا: {e}")
+        print(f"❌ خطای کلی: {e}")
 
 def main():
-    print("🚀 چک‌کننده Railway شروع به کار کرد...")
+    print("🚀 Railway Checker Service شروع به کار کرد...")
+    
     while True:
-        now = datetime.now()
-        print(f"[{now}] چک در حال انجام... (هر ۵ دقیقه بیدار می‌شوم)")
-        
         run_scanner()
-        
-        # خواب هوشمند (۵ دقیقه)
+        # هر ۵ دقیقه یکبار بیدار می‌شه (اسکریپت داخلی خودش منطق زمان‌بندی رو داره)
         time.sleep(300)
 
 if __name__ == "__main__":
