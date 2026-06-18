@@ -20,6 +20,7 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
+    # تغییر: ایران دیگر ساعت تابستانی/زمستانی ندارد، همیشه UTC+3:30
     return timedelta(hours=3, minutes=30)
 
 def iran_now():
@@ -338,48 +339,6 @@ def process_item(item):
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
-
-                        # ===================== Trigger دانلودر =====================
-            print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
-            try:
-                downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
-                gh_pat = os.getenv("GH_PAT")
-                
-                if not gh_pat:
-                    print("⚠️ GH_PAT تنظیم نشده است")
-                else:
-                    payload = {
-                        "event_type": "trigger-download",
-                        "client_payload": {
-                            "url": matched['link'],
-                            "platform": plat_label,
-                            "type": "video",
-                            "mega_folder": "YoutubeDownloads",
-                            "keyword": kw
-                        }
-                    }
-
-                    headers = {
-                        "Accept": "application/vnd.github.v3+json",
-                        "Authorization": f"token {gh_pat}",
-                        "Content-Type": "application/json"
-                    }
-
-                    response = requests.post(
-                        f"https://api.github.com/repos/{downloader_repo}/dispatches",
-                        headers=headers,
-                        json=payload,
-                        timeout=20
-                    )
-
-                    if response.status_code == 204:
-                        print("✅ درخواست دانلود با موفقیت به GitHub ارسال شد.")
-                    else:
-                        print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
-            except Exception as e:
-                print(f"⚠️ خطا در trigger دانلودر: {type(e).__name__} - {e}")
-        # =================================================================================
-
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
@@ -389,11 +348,13 @@ def process_item(item):
 
     save_state(cid, kw, state)
 
-    def main():
+def main():
+    # ========== تغییر: اضافه شدن شرط ساعت کاری (فقط بین 9 صبح تا 12 شب ایران) ==========
     current_hour = iran_now().hour
     if not (9 <= current_hour <= 23):
         print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
         return
+    # ========================================================================
 
     print("🚀 شروع اسکن...")
     try:
