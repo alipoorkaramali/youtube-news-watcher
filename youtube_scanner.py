@@ -351,7 +351,8 @@ def process_item(item):
                             "url": matched['link'],
                             "platform": plat_label,
                             "type": "video",
-                            "mega_folder": "YoutubeDownloads"
+                            "mega_folder": "YoutubeDownloads",
+                            "keyword": kw  # <-- اضافه شد
                         }
                     }
                     cmd = [
