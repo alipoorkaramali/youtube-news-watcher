@@ -7,4 +7,5 @@ RUN pip install --no-cache-dir -r requirements.txt yt-dlp
 
 COPY . .
 
-CMD ["sh", "-c", "python run_checker.py"]
+# CMD مطمئن
+CMD ["python", "run_checker.py"]
