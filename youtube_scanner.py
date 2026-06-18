@@ -389,11 +389,11 @@ def process_item(item):
 
     save_state(cid, kw, state)
 
-def main():
-    current_hour = iran_now().hour
-    if not (9 <= current_hour <= 23):
-        print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
-        return
+    # === برای تست دستی: محدودیت ساعت را کامنت کنید ===
+    # if not (9 <= current_hour <= 23):
+    #     print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
+    #     return
+    # ===================================================
 
     print("🚀 شروع اسکن...")
     try:
