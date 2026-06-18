@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "DOCKERFILE"
+  },
+  "deploy": {
+    "startCommand": "while true; do python youtube_scanner.py; sleep 900; done",
+    "restartPolicy": "ON_FAILURE"
+  }
+}
