@@ -15,11 +15,9 @@ def run_scanner():
 
 def main():
     print("🚀 Railway Checker Service شروع به کار کرد...")
-    
     while True:
         run_scanner()
-        # هر ۵ دقیقه یکبار بیدار می‌شه (اسکریپت داخلی خودش منطق زمان‌بندی رو داره)
-        time.sleep(300)
+        time.sleep(300)   # هر ۵ دقیقه
 
 if __name__ == "__main__":
     main()
