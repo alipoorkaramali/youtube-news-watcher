@@ -391,12 +391,10 @@ def process_item(item):
 
 # ================== main ==================
 def main():
-    # ===== محدودیت ساعت برای تست غیرفعال شده است =====
-    # current_hour = iran_now().hour
-    # if not (9 <= current_hour <= 23):
-    #     print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
-    #     return
-    print("⚠️ حالت تست: محدودیت ساعت (۹ صبح تا ۱۲ شب) غیرفعال است.")
+    current_hour = iran_now().hour
+    if not (9 <= current_hour <= 23):
+        print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
+        return
 
     print("🚀 شروع اسکن...")
     try:
