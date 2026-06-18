@@ -10,14 +10,6 @@
   {
     "platform": "youtube",
     "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
-    "title_keyword": "اخبار ساعت شش",
-    "start_time_iran": "00:53",
-    "check_every_minutes": 60,
-    "max_attempts": 5
-  },
-  {
-    "platform": "youtube",
-    "channel_id": "UCHZk9MrT3DGWmVqdsj5y0EA",
     "title_keyword": "۶۰ دقیقه",
     "start_time_iran": "23:00",
     "check_every_minutes": 30,
