@@ -20,6 +20,7 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
+    # تغییر: ایران دیگر ساعت تابستانی/زمستانی ندارد، همیشه UTC+3:30
     return timedelta(hours=3, minutes=30)
 
 def iran_now():
@@ -338,40 +339,6 @@ def process_item(item):
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
-
-            # ===================== Trigger دانلودر =====================
-            print(f"🎯 ویدیو پیدا شد! در حال trigger دانلودر...")
-            try:
-                downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
-                gh_pat = os.getenv("GH_PAT")
-                if gh_pat:
-                    payload = {
-                        "event_type": "trigger-download",
-                        "client_payload": {
-                            "url": matched['link'],
-                            "platform": plat_label,
-                            "type": "video",
-                            "mega_folder": "YoutubeDownloads",
-                            "keyword": kw  # <-- اضافه شد
-                        }
-                    }
-                    cmd = [
-                        "curl", "-X", "POST",
-                        "-H", "Accept: application/vnd.github.v3+json",
-                        "-H", f"Authorization: token {gh_pat}",
-                        f"https://api.github.com/repos/{downloader_repo}/dispatches",
-                        "-d", json.dumps(payload)
-                    ]
-                    result = subprocess.run(cmd, capture_output=True, text=True)
-                    print("✅ Trigger دانلودر ارسال شد")
-                    if result.stderr:
-                        print("Response:", result.stderr)
-                else:
-                    print("⚠️ GH_PAT تنظیم نشده است")
-            except Exception as e:
-                print(f"⚠️ خطا در trigger دانلودر: {e}")
-            # ============================================================
-
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
@@ -382,10 +349,12 @@ def process_item(item):
     save_state(cid, kw, state)
 
 def main():
+    # ========== تغییر: اضافه شدن شرط ساعت کاری (فقط بین 9 صبح تا 12 شب ایران) ==========
     current_hour = iran_now().hour
     if not (9 <= current_hour <= 23):
         print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
         return
+    # ========================================================================
 
     print("🚀 شروع اسکن...")
     try:
