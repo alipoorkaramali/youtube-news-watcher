@@ -92,7 +92,7 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت پلی‌لیست ساندکلاد ==================
+# ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
 def fetch_soundcloud_playlist(playlist_url):
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
@@ -205,7 +205,7 @@ def get_relative_time(pub_date):
     m = int((delta.total_seconds() % 3600) // 60)
     return f"{h} hours ago" if h > 0 else f"{m} minutes ago"
 
-# ================== لود watchlist ==================
+# ================== منطق اصلی ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
         with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
@@ -255,7 +255,6 @@ def load_watchlist():
         sys.exit(1)
     return valid_items
 
-# ================== منطق اصلی ==================
 def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
@@ -340,12 +339,12 @@ def process_item(item):
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
 
-            # ===================== Trigger دانلودر (با requests) =====================
+                        # ===================== Trigger دانلودر =====================
             print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
             try:
                 downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
                 gh_pat = os.getenv("GH_PAT")
-
+                
                 if not gh_pat:
                     print("⚠️ GH_PAT تنظیم نشده است")
                 else:
@@ -378,8 +377,9 @@ def process_item(item):
                     else:
                         print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
             except Exception as e:
-                print(f"⚠️ خطا در trigger دانلودر: {e}")
-            # ============================================================
+                print(f"⚠️ خطا در trigger دانلودر: {type(e).__name__} - {e}")
+        # =================================================================================
+
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
@@ -389,7 +389,6 @@ def process_item(item):
 
     save_state(cid, kw, state)
 
-# ================== main ==================
 def main():
     current_hour = iran_now().hour
     if not (9 <= current_hour <= 23):
