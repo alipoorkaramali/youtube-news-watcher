@@ -339,18 +339,12 @@ def process_item(item):
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
 
-
-            # ===================== 🎯 Trigger دانلودر با requests =====================
+            # ===================== Trigger دانلودر =====================
             print(f"🎯 ویدیو پیدا شد! در حال trigger دانلودر...")
-
-            import os
-            import subprocess
-
-            downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"  # اسم مخزن دانلودر
-            gh_pat = os.getenv("GH_PAT")
-
-            if gh_pat:
-                try:
+            try:
+                downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
+                gh_pat = os.getenv("GH_PAT")
+                if gh_pat:
                     payload = {
                         "event_type": "trigger-download",
                         "client_payload": {
@@ -371,12 +365,11 @@ def process_item(item):
                     print("✅ Trigger دانلودر ارسال شد")
                     if result.stderr:
                         print("Response:", result.stderr)
-                except Exception as e:
-                    print(f"⚠️ خطا در trigger: {e}")
-            else:
-                print("⚠️ GH_PAT تنظیم نشده")
-
-        # ========================================================================
+                else:
+                    print("⚠️ GH_PAT تنظیم نشده است")
+            except Exception as e:
+                print(f"⚠️ خطا در trigger دانلودر: {e}")
+            # ============================================================
 
         else:
             print("  ℹ️ تکراری است")
