@@ -3,7 +3,7 @@
     "builder": "DOCKERFILE"
   },
   "deploy": {
-    "startCommand": "while true; do python youtube_scanner.py; sleep 900; done",
+    "startCommand": "python run_checker.py",
     "restartPolicy": "ON_FAILURE"
   }
 }
