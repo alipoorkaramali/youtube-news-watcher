@@ -92,7 +92,7 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
+# ================== دریافت پلی‌لیست ساندکلاد ==================
 def fetch_soundcloud_playlist(playlist_url):
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
@@ -205,7 +205,7 @@ def get_relative_time(pub_date):
     m = int((delta.total_seconds() % 3600) // 60)
     return f"{h} hours ago" if h > 0 else f"{m} minutes ago"
 
-# ================== منطق اصلی ==================
+# ================== لود watchlist ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
         with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
@@ -255,6 +255,7 @@ def load_watchlist():
         sys.exit(1)
     return valid_items
 
+# ================== منطق اصلی ==================
 def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
@@ -339,12 +340,15 @@ def process_item(item):
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
 
-            # ===================== Trigger دانلودر =====================
-            print(f"🎯 ویدیو پیدا شد! در حال trigger دانلودر...")
+            # ===================== Trigger دانلودر (با requests) =====================
+            print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
             try:
                 downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
                 gh_pat = os.getenv("GH_PAT")
-                if gh_pat:
+
+                if not gh_pat:
+                    print("⚠️ GH_PAT تنظیم نشده است")
+                else:
                     payload = {
                         "event_type": "trigger-download",
                         "client_payload": {
@@ -352,26 +356,30 @@ def process_item(item):
                             "platform": plat_label,
                             "type": "video",
                             "mega_folder": "YoutubeDownloads",
-                            "keyword": kw  # <-- اضافه شد
+                            "keyword": kw
                         }
                     }
-                    cmd = [
-                        "curl", "-X", "POST",
-                        "-H", "Accept: application/vnd.github.v3+json",
-                        "-H", f"Authorization: token {gh_pat}",
+
+                    headers = {
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {gh_pat}",
+                        "Content-Type": "application/json"
+                    }
+
+                    response = requests.post(
                         f"https://api.github.com/repos/{downloader_repo}/dispatches",
-                        "-d", json.dumps(payload)
-                    ]
-                    result = subprocess.run(cmd, capture_output=True, text=True)
-                    print("✅ Trigger دانلودر ارسال شد")
-                    if result.stderr:
-                        print("Response:", result.stderr)
-                else:
-                    print("⚠️ GH_PAT تنظیم نشده است")
+                        headers=headers,
+                        json=payload,
+                        timeout=20
+                    )
+
+                    if response.status_code == 204:
+                        print("✅ درخواست دانلود با موفقیت به GitHub ارسال شد.")
+                    else:
+                        print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
             except Exception as e:
                 print(f"⚠️ خطا در trigger دانلودر: {e}")
             # ============================================================
-
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
@@ -381,6 +389,7 @@ def process_item(item):
 
     save_state(cid, kw, state)
 
+# ================== main ==================
 def main():
     current_hour = iran_now().hour
     if not (9 <= current_hour <= 23):
