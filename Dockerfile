@@ -7,5 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt yt-dlp
 
 COPY . .
 
-CMD ["sh", "start.sh"]
 CMD ["sh", "-c", "python run_checker.py"]
