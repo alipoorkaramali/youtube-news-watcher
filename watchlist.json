@@ -59,7 +59,7 @@
     "platform": "soundcloud_playlist",
     "channel_id": "https://soundcloud.com/bbcpersian",
     "title_keyword": "جام جهان‌نما",
-    "start_time_iran": "21:15",
+    "start_time_iran": "21:14",
     "check_every_minutes": 60,
     "max_attempts": 5
   },
