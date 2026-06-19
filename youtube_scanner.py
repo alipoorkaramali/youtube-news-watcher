@@ -379,7 +379,52 @@ def process_item(item):
                         print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
             except Exception as e:
                 print(f"⚠️ خطا در trigger دانلودر: {e}")
-            # ============================================================
+            # ===================== NEW Trigger for youtube-SoundCloud-downloader =====================
+            print(f"🎯 ارسال تریگر به مخزن دوم (repository_dispatch)...")
+            try:
+                second_repo = "alipoorkaramali/youtube-SoundCloud-downloader"
+                gh_pat = os.getenv("GH_PAT")   # همان توکن قبلی
+
+                if not gh_pat:
+                    print("⚠️ GH_PAT تنظیم نشده است، تریگر دوم ارسال نشد.")
+                else:
+                    event_type = "trigger-download"   # مطابق تعریف در YAML مخزن دوم
+
+                    content_type = "video" if plat_label == "youtube" else "audio"
+
+                    payload = {
+                        "event_type": event_type,
+                        "client_payload": {
+                            "url": matched['link'],
+                            "platform": plat_label,
+                            "type": content_type,
+                            "quality": "best",
+                            "mega_folder": "YoutubeNews",   # یا هر پوشه دلخواه
+                            "split_choice": "single",
+                            "split_size": "100M"
+                        }
+                    }
+
+                    headers = {
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {gh_pat}",
+                        "Content-Type": "application/json"
+                    }
+
+                    response = requests.post(
+                        f"https://api.github.com/repos/{second_repo}/dispatches",
+                        headers=headers,
+                        json=payload,
+                        timeout=20
+                    )
+
+                    if response.status_code == 204:
+                        print("✅ تریگر مخزن دوم با موفقیت ارسال شد.")
+                    else:
+                        print(f"⚠️ خطا در تریگر دوم: {response.status_code} - {response.text[:300]}")
+            except Exception as e:
+                print(f"⚠️ خطا در تریگر دوم: {e}")
+            # =================================================================================
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
