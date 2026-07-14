@@ -24,7 +24,7 @@ jobs:
           pip install yt-dlp   # برای استخراج اطلاعات پلی‌لیست ساندکلاد
 
       - name: Run scanner
-        run: python youtube_scanner.py
+        run: python run_checker.py
 
       - name: Commit logs and cache
         uses: stefanzweifel/git-auto-commit-action@v5
