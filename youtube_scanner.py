@@ -20,7 +20,6 @@ MAX_ATTEMPTS_LIMIT = 10
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
-    # تغییر: ایران دیگر ساعت تابستانی/زمستانی ندارد، همیشه UTC+3:30
     return timedelta(hours=3, minutes=30)
 
 def iran_now():
@@ -93,7 +92,7 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-# ================== دریافت پلی‌لیست ساندکلاد با yt-dlp ==================
+# ================== دریافت پلی‌لیست ساندکلاد ==================
 def fetch_soundcloud_playlist(playlist_url):
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
     try:
@@ -206,7 +205,7 @@ def get_relative_time(pub_date):
     m = int((delta.total_seconds() % 3600) // 60)
     return f"{h} hours ago" if h > 0 else f"{m} minutes ago"
 
-# ================== منطق اصلی ==================
+# ================== لود watchlist ==================
 def load_watchlist():
     if not os.path.exists(WATCHLIST_FILE):
         with open(WATCHLIST_FILE, 'w', encoding='utf-8') as f:
@@ -256,6 +255,7 @@ def load_watchlist():
         sys.exit(1)
     return valid_items
 
+# ================== منطق اصلی ==================
 def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
@@ -339,6 +339,92 @@ def process_item(item):
                 f.write(line)
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
+
+            # ===================== Trigger دانلودر (با requests) =====================
+            print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
+            try:
+                downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
+                gh_pat = os.getenv("GH_PAT")
+
+                if not gh_pat:
+                    print("⚠️ GH_PAT تنظیم نشده است")
+                else:
+                    payload = {
+                        "event_type": "trigger-download",
+                        "client_payload": {
+                            "url": matched['link'],
+                            "platform": plat_label,
+                            "type": "video",
+                            "mega_folder": "YoutubeDownloads",
+                            "keyword": kw
+                        }
+                    }
+
+                    headers = {
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {gh_pat}",
+                        "Content-Type": "application/json"
+                    }
+
+                    response = requests.post(
+                        f"https://api.github.com/repos/{downloader_repo}/dispatches",
+                        headers=headers,
+                        json=payload,
+                        timeout=20
+                    )
+
+                    if response.status_code == 204:
+                        print("✅ درخواست دانلود با موفقیت به GitHub ارسال شد.")
+                    else:
+                        print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
+            except Exception as e:
+                print(f"⚠️ خطا در trigger دانلودر: {e}")
+            # ===================== NEW Trigger for youtube-SoundCloud-downloader =====================
+            print(f"🎯 ارسال تریگر به مخزن دوم (repository_dispatch)...")
+            try:
+                second_repo = "alipoorkaramali/youtube-SoundCloud-downloader"
+                gh_pat = os.getenv("GH_PAT")   # همان توکن قبلی
+
+                if not gh_pat:
+                    print("⚠️ GH_PAT تنظیم نشده است، تریگر دوم ارسال نشد.")
+                else:
+                    event_type = "trigger-download"   # مطابق تعریف در YAML مخزن دوم
+
+                    content_type = "video" if plat_label == "youtube" else "audio"
+
+                    payload = {
+                        "event_type": event_type,
+                        "client_payload": {
+                            "url": matched['link'],
+                            "platform": plat_label,
+                            "type": content_type,
+                            "quality": "best",
+                            "mega_folder": "YoutubeNews",   # یا هر پوشه دلخواه
+                            "split_choice": "single",
+                            "split_size": "100M"
+                        }
+                    }
+
+                    headers = {
+                        "Accept": "application/vnd.github.v3+json",
+                        "Authorization": f"token {gh_pat}",
+                        "Content-Type": "application/json"
+                    }
+
+                    response = requests.post(
+                        f"https://api.github.com/repos/{second_repo}/dispatches",
+                        headers=headers,
+                        json=payload,
+                        timeout=20
+                    )
+
+                    if response.status_code == 204:
+                        print("✅ تریگر مخزن دوم با موفقیت ارسال شد.")
+                    else:
+                        print(f"⚠️ خطا در تریگر دوم: {response.status_code} - {response.text[:300]}")
+            except Exception as e:
+                print(f"⚠️ خطا در تریگر دوم: {e}")
+            # =================================================================================
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
@@ -348,13 +434,12 @@ def process_item(item):
 
     save_state(cid, kw, state)
 
+# ================== main ==================
 def main():
-    # ========== تغییر: اضافه شدن شرط ساعت کاری (فقط بین 9 صبح تا 12 شب ایران) ==========
     current_hour = iran_now().hour
     if not (9 <= current_hour <= 23):
         print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
         return
-    # ========================================================================
 
     print("🚀 شروع اسکن...")
     try:
