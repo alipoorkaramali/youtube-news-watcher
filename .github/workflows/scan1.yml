@@ -10,40 +10,51 @@ jobs:
   watch:
     runs-on: ubuntu-latest
     steps:
+      # ========== STEP ۱: Checkout فقط برای دسترسی به فایل‌ها ==========
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+      # ========== STEP ۲: پیش‌چک (بدون نصب وابستگی) ==========
+      - name: Pre-check if any item needs scanning
+        run: python pre_check.py
+        # اگر pre_check.py با exit 0 خارج شود، ادامه می‌دهیم.
+        # اگر با exit 1 خارج شود، workflow متوقف می‌شود.
+        # اما ما در pre_check.py همیشه exit 0 می‌کنیم و فقط پیام چاپ می‌کنیم.
+        # برای جلوگیری از اجرای مراحل بعدی، باید شرط بگذاریم.
 
+      # ========== STEP ۳: تصمیم‌گیری برای ادامه ==========
+      - name: Decide to continue or stop
+        id: decision
+        run: |
+          if python pre_check.py | grep -q "✅"; then
+            echo "continue=true" >> $GITHUB_OUTPUT
+          else
+            echo "continue=false" >> $GITHUB_OUTPUT
+          fi
+
+      # ========== مراحل بعدی (فقط در صورت نیاز) ==========
       - name: Install dependencies
+        if: steps.decision.outputs.continue == 'true'
         run: |
           pip install -r requirements.txt
           pip install yt-dlp
 
       - name: Run scanner
+        if: steps.decision.outputs.continue == 'true'
         run: python run_checker.py
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
 
-      - name: Confirm trigger sent (optional)
+      - name: Confirm trigger sent
+        if: steps.decision.outputs.continue == 'true'
         run: |
           if [ -f logs/new_videos.txt ] && grep -q "✅ درخواست دانلود با موفقیت به GitHub ارسال شد" logs/new_videos.txt; then
             echo "✅ تریگر دانلودر با موفقیت ارسال شد."
           else
             echo "⚠️ تریگر دانلودر ارسال نشد یا ویدیوی جدیدی یافت نشد."
           fi
-      - name: Check GH_PAT exists
-        run: |
-          if [ -z "$GH_PAT" ]; then
-            echo "❌ GH_PAT is empty or not set"
-            exit 1
-          else
-            echo "✅ GH_PAT is set (first 10 chars: ${GH_PAT:0:10})"
-          fi
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+
       - name: Commit logs and cache
+        if: steps.decision.outputs.continue == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'بروزرسانی لاگ‌ها و کش و ویدیوهای جدید'
