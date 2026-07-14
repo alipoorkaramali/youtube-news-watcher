@@ -15,9 +15,8 @@ def run_scanner():
 
 def main():
     print("🚀 Railway Checker Service شروع به کار کرد...")
-    while True:
-        run_scanner()
-        time.sleep(300)   # هر ۵ دقیقه
+    run_scanner()
+    print("✅ اجرا تمام شد. سرویس در حالت serverless می‌خوابد...")
 
 if __name__ == "__main__":
     main()
