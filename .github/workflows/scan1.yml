@@ -1,9 +1,7 @@
 name: YouTube Multi-Watcher v.1🔎📽️📼
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # کرون‌جاب از همین طریق اجرایش می‌کند
 
 permissions:
   contents: write
@@ -21,10 +19,12 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          pip install yt-dlp   # برای استخراج اطلاعات پلی‌لیست ساندکلاد
+          pip install yt-dlp
 
       - name: Run scanner
         run: python run_checker.py
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}   # ✅ این را حتماً اضافه کن
 
       - name: Commit logs and cache
         uses: stefanzweifel/git-auto-commit-action@v5
