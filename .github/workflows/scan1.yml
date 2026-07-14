@@ -1,7 +1,7 @@
 name: YouTube Multi-Watcher v.1🔎📽️📼
 
 on:
-  workflow_dispatch:   # <-- فقط همین خط را نگه دار، خط cron را حذف کن
+  workflow_dispatch:   # کرون‌جاب از همین طریق اجرایش می‌کند
 
 permissions:
   contents: write
@@ -23,6 +23,8 @@ jobs:
 
       - name: Run scanner
         run: python run_checker.py
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}   # ✅ این را حتماً اضافه کن
 
       - name: Commit logs and cache
         uses: stefanzweifel/git-auto-commit-action@v5
