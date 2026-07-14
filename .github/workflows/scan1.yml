@@ -1,9 +1,7 @@
 name: YouTube Multi-Watcher v.1🔎📽️📼
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # <-- فقط همین خط را نگه دار، خط cron را حذف کن
 
 permissions:
   contents: write
@@ -21,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          pip install yt-dlp   # برای استخراج اطلاعات پلی‌لیست ساندکلاد
+          pip install yt-dlp
 
       - name: Run scanner
         run: python run_checker.py
