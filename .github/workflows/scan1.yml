@@ -1,7 +1,7 @@
 name: YouTube Multi-Watcher v.1🔎📽️📼
 
 on:
-  workflow_dispatch:   # کرون‌جاب از همین طریق اجرایش می‌کند
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,10 +24,18 @@ jobs:
       - name: Run scanner
         run: python run_checker.py
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}   # ✅ این را حتماً اضافه کن
+          GH_PAT: ${{ secrets.GH_PAT }}
+
+      - name: Confirm trigger sent (optional)
+        run: |
+          if [ -f logs/new_videos.txt ] && grep -q "✅ درخواست دانلود با موفقیت به GitHub ارسال شد" logs/new_videos.txt; then
+            echo "✅ تریگر دانلودر با موفقیت ارسال شد."
+          else
+            echo "⚠️ تریگر دانلودر ارسال نشد یا ویدیوی جدیدی یافت نشد."
+          fi
 
       - name: Commit logs and cache
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Update logs & cache & new_videos'
+          commit_message: 'بروزرسانی لاگ‌ها و کش و ویدیوهای جدید'
           file_pattern: 'logs/ cache/'
