@@ -1,79 +1,33 @@
 name: YouTube Multi-Watcher v.1🔎📽️📼
 
 on:
-  workflow_dispatch:          # اجرای دستی از طریق تب Actions
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write             # برای کامیت کردن لاگ‌ها و کش
+  contents: write
 
 jobs:
   watch:
     runs-on: ubuntu-latest
-    
     steps:
-      # ============================================================
-      #  STEP 1: دریافت سریع مخزن (فقط آخرین کامیت)
-      # ============================================================
-      - name: Checkout repository (fast)
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          fetch-depth: 1        # فقط آخرین کامیت را می‌گیرد (سرعت بالاتر)
+          python-version: '3.x'
 
-      # ============================================================
-      #  STEP 2: پیش‌چک هوشمند (بدون نصب وابستگی‌ها)
-      #  این مرحله فقط watchlist.json و فایل‌های وضعیت (cache/states) را می‌خواند
-      #  و تشخیص می‌دهد که آیا در این لحظه نیاز به اسکن واقعی هست یا نه.
-      # ============================================================
-      - name: Pre-check if any item needs scanning
-        id: precheck
-        run: |
-          # اجرای اسکریپت پیش‌چک
-          OUTPUT=$(python pre_check.py)
-          echo "$OUTPUT"
-          
-          # اگر خروجی شامل "✅" بود، یعنی نیاز به ادامه داریم
-          if echo "$OUTPUT" | grep -q "✅"; then
-            echo "continue=true" >> $GITHUB_OUTPUT
-          else
-            echo "continue=false" >> $GITHUB_OUTPUT
-          fi
-
-      # ============================================================
-      #  STEP 3: نصب وابستگی‌ها (فقط در صورت نیاز)
-      # ============================================================
       - name: Install dependencies
-        if: steps.precheck.outputs.continue == 'true'
         run: |
           pip install -r requirements.txt
-          pip install yt-dlp
+          pip install yt-dlp   # برای استخراج اطلاعات پلی‌لیست ساندکلاد
 
-      # ============================================================
-      #  STEP 4: اجرای اسکنر اصلی (فقط در صورت نیاز)
-      # ============================================================
       - name: Run scanner
-        if: steps.precheck.outputs.continue == 'true'
-        run: python run_checker.py
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python youtube_scanner.py
 
-      # ============================================================
-      #  STEP 5: تأیید ارسال تریگر به دانلودرها (فقط در صورت نیاز)
-      # ============================================================
-      - name: Confirm trigger sent
-        if: steps.precheck.outputs.continue == 'true'
-        run: |
-          if [ -f logs/new_videos.txt ] && grep -q "✅ درخواست دانلود با موفقیت به GitHub ارسال شد" logs/new_videos.txt; then
-            echo "✅ تریگر دانلودر با موفقیت ارسال شد."
-          else
-            echo "⚠️ تریگر دانلودر ارسال نشد یا ویدیوی جدیدی یافت نشد."
-          fi
-
-      # ============================================================
-      #  STEP 6: کامیت کردن لاگ‌ها و کش (فقط در صورت نیاز)
-      # ============================================================
       - name: Commit logs and cache
-        if: steps.precheck.outputs.continue == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'بروزرسانی لاگ‌ها و کش و ویدیوهای جدید'
+          commit_message: 'Update logs & cache & new_videos'
           file_pattern: 'logs/ cache/'
