@@ -437,8 +437,8 @@ def process_item(item):
 # ================== main ==================
 def main():
     current_hour = iran_now().hour
-    if not (9 <= current_hour <= 23):
-        print(f"ساعت {current_hour} خارج از بازه کاری (۹ صبح تا ۱۲ شب) است. خروج از برنامه.")
+    if not (8 <= current_hour <= 23):
+        print(f"ساعت {current_hour} خارج از بازه کاری (۸ صبح تا ۱۲ شب) است. خروج از برنامه.")
         return
 
     print("🚀 شروع اسکن...")
