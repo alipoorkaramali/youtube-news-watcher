@@ -129,16 +129,103 @@ def fetch_soundcloud_playlist(playlist_url):
         print(f"  ❌ خطا در دریافت پلی‌لیست ساندکلاد: {e}")
         return []
 
-# ================== RSS یوتیوب ==================
+# ================== RSS یوتیوب (با OpenRSS + fallback) ==================
 RSS_CACHE = {}
 
-def fetch_rss_youtube(channel_id):
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    print(f"  📡 دریافت RSS یوتیوب برای {channel_id}")
+def _parse_feed_entries(root):
+    """Parse both Atom and RSS 2.0 feeds robustly."""
+    videos = []
 
+    # Try Atom first (official YouTube + some OpenRSS)
+    ns_atom = {'atom': 'http://www.w3.org/2005/Atom'}
+    entries = root.findall('atom:entry', ns_atom)
+    if not entries:
+        # Some feeds use default namespace
+        entries = root.findall('{http://www.w3.org/2005/Atom}entry')
+    if not entries:
+        # Fallback to no namespace
+        entries = root.findall('entry')
+
+    if entries:
+        for entry in entries:
+            title_el = entry.find('{http://www.w3.org/2005/Atom}title') or entry.find('title') or entry.find('atom:title', ns_atom)
+            link_el = entry.find('{http://www.w3.org/2005/Atom}link') or entry.find('link') or entry.find('atom:link', ns_atom)
+            pub_el = entry.find('{http://www.w3.org/2005/Atom}published') or entry.find('published') or entry.find('atom:published', ns_atom)
+            if pub_el is None:
+                pub_el = entry.find('{http://www.w3.org/2005/Atom}updated') or entry.find('updated')
+
+            title = title_el.text.strip() if title_el is not None and title_el.text else None
+            link = None
+            if link_el is not None:
+                link = link_el.get('href') or (link_el.text.strip() if link_el.text else None)
+            pub_str = pub_el.text if pub_el is not None else None
+
+            if title and link and pub_str:
+                try:
+                    pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
+                except Exception:
+                    continue
+                videos.append({"title": title, "link": link, "published_date": pub_date})
+        return videos
+
+    # Try RSS 2.0 (common for OpenRSS)
+    channel = root.find('channel')
+    if channel is not None:
+        items = channel.findall('item')
+        for item in items:
+            title_el = item.find('title')
+            link_el = item.find('link')
+            pub_el = item.find('pubDate') or item.find('published')
+
+            title = title_el.text.strip() if title_el is not None and title_el.text else None
+            link = link_el.text.strip() if link_el is not None and link_el.text else None
+            pub_str = pub_el.text if pub_el is not None else None
+
+            if title and link and pub_str:
+                try:
+                    # RSS dates are often RFC 2822
+                    from email.utils import parsedate_to_datetime
+                    pub_date = parsedate_to_datetime(pub_str)
+                    if pub_date.tzinfo is None:
+                        pub_date = pub_date.replace(tzinfo=timezone.utc)
+                except Exception:
+                    try:
+                        pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
+                    except Exception:
+                        continue
+                videos.append({"title": title, "link": link, "published_date": pub_date})
+    return videos
+
+
+def fetch_rss_youtube(channel_id):
+    """Fetch YouTube feed. Prefer OpenRSS, fallback to official YouTube RSS."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
     }
+
+    # 1) Try OpenRSS first (more reliable, cleaner, excludes Shorts by default)
+    openrss_url = f"https://openrss.org/feeds/youtube/{channel_id}"
+    print(f"  📡 دریافت فید از OpenRSS برای {channel_id}")
+
+    try:
+        resp = requests.get(openrss_url, headers=headers, timeout=25)
+        if resp.status_code == 200:
+            root = ET.fromstring(resp.content)
+            videos = _parse_feed_entries(root)
+            if videos:
+                print(f"  ✅ OpenRSS موفق - {len(videos)} ویدیو")
+                RSS_CACHE[channel_id] = videos
+                return videos
+            else:
+                print("  ⚠️ OpenRSS خالی بود، سراغ فید رسمی می‌رویم...")
+        else:
+            print(f"  ⚠️ OpenRSS وضعیت {resp.status_code}، سراغ فید رسمی می‌رویم...")
+    except Exception as e:
+        print(f"  ⚠️ خطا در OpenRSS: {e} - سراغ فید رسمی می‌رویم...")
+
+    # 2) Fallback to official YouTube RSS
+    official_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    print(f"  📡 دریافت RSS رسمی یوتیوب برای {channel_id}")
 
     cookies = {}
     if os.path.exists('cookies.txt'):
@@ -151,9 +238,10 @@ def fetch_rss_youtube(channel_id):
             pass
 
     max_retries = 2
+    resp = None
     for attempt in range(max_retries + 1):
         try:
-            resp = requests.get(url, headers=headers, cookies=cookies, timeout=30)
+            resp = requests.get(official_url, headers=headers, cookies=cookies, timeout=30)
             if resp.status_code == 200:
                 break
             elif resp.status_code == 500 and attempt < max_retries:
@@ -166,16 +254,13 @@ def fetch_rss_youtube(channel_id):
             else:
                 raise
 
+    if resp is None:
+        raise Exception("نتوانستیم فید رسمی را دریافت کنیم")
+
     resp.raise_for_status()
     root = ET.fromstring(resp.content)
-    ns = {'': 'http://www.w3.org/2005/Atom'}
-    videos = []
-    for entry in root.findall('entry', ns):
-        title = entry.find('title', ns).text.strip()
-        link = entry.find('link', ns).attrib['href']
-        pub_str = entry.find('published', ns).text
-        pub_date = datetime.fromisoformat(pub_str.replace('Z', '+00:00'))
-        videos.append({"title": title, "link": link, "published_date": pub_date})
+    videos = _parse_feed_entries(root)
+    print(f"  ✅ فید رسمی موفق - {len(videos)} ویدیو")
     RSS_CACHE[channel_id] = videos
     return videos
 
