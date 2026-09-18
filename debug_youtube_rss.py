@@ -3,8 +3,7 @@ import xml.etree.ElementTree as ET
 import os
 import json
 import subprocess
-from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
+from datetime import datetime
 
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
@@ -16,104 +15,35 @@ def write_output(text):
     with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
         f.write(text + '\n')
 
-def _parse_feed_entries(root, limit=15):
-    """Parse both Atom and RSS 2.0 feeds robustly. Returns list of (title, link, pub_str)."""
-    results = []
-
-    # Try Atom first
-    ns_atom = {'atom': 'http://www.w3.org/2005/Atom'}
-    entries = root.findall('atom:entry', ns_atom)
-    if not entries:
-        entries = root.findall('{http://www.w3.org/2005/Atom}entry')
-    if not entries:
-        entries = root.findall('entry')
-
-    if entries:
-        for entry in entries[:limit]:
-            title_el = entry.find('{http://www.w3.org/2005/Atom}title') or entry.find('title') or entry.find('atom:title', ns_atom)
-            link_el = entry.find('{http://www.w3.org/2005/Atom}link') or entry.find('link') or entry.find('atom:link', ns_atom)
-            pub_el = entry.find('{http://www.w3.org/2005/Atom}published') or entry.find('published') or entry.find('atom:published', ns_atom)
-            if pub_el is None:
-                pub_el = entry.find('{http://www.w3.org/2005/Atom}updated') or entry.find('updated')
-
-            title = title_el.text.strip() if title_el is not None and title_el.text else None
-            link = None
-            if link_el is not None:
-                link = link_el.get('href') or (link_el.text.strip() if link_el.text else None)
-            pub_str = pub_el.text if pub_el is not None else 'Unknown'
-
-            if title and link:
-                results.append((title, link, pub_str))
-        return results
-
-    # Try RSS 2.0
-    channel = root.find('channel')
-    if channel is not None:
-        items = channel.findall('item')
-        for item in items[:limit]:
-            title_el = item.find('title')
-            link_el = item.find('link')
-            pub_el = item.find('pubDate') or item.find('published')
-
-            title = title_el.text.strip() if title_el is not None and title_el.text else None
-            link = link_el.text.strip() if link_el is not None and link_el.text else None
-            pub_str = pub_el.text if pub_el is not None else 'Unknown'
-
-            if title and link:
-                results.append((title, link, pub_str))
-    return results
-
-
 def fetch_rss_youtube(channel_id, limit=15):
-    """دریافت عناوین و لینک‌ها - اولویت با OpenRSS، سپس فید رسمی یوتیوب"""
+    """دریافت عناوین و لینک‌ها از RSS یوتیوب"""
+    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    write_output(f"📡 دریافت فید یوتیوب: {url}")
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
     }
-
-    # 1) Try OpenRSS first (correct format)
-    openrss_url = f"https://openrss.org/feed/www.youtube.com/channel/{channel_id}/videos"
-    write_output(f"📡 دریافت فید از OpenRSS: {openrss_url}")
-
     try:
-        resp = requests.get(openrss_url, headers=headers, timeout=25)
-        if resp.status_code == 200:
-            root = ET.fromstring(resp.content)
-            results = _parse_feed_entries(root, limit)
-            if results:
-                write_output(f"✅ OpenRSS موفق - {len(results)} ویدیو پیدا شد.")
-                titles = []
-                for idx, (title, link, pub_str) in enumerate(results):
-                    titles.append(title)
-                    write_output(f"{idx+1}. {title}")
-                    write_output(f"   Link: {link}")
-                    write_output(f"   Published: {pub_str}")
-                return titles
-            else:
-                write_output("⚠️ OpenRSS خالی بود، سراغ فید رسمی می‌رویم...")
-        else:
-            write_output(f"⚠️ OpenRSS وضعیت {resp.status_code}، سراغ فید رسمی می‌رویم...")
-    except Exception as e:
-        write_output(f"⚠️ خطا در OpenRSS: {e} - سراغ فید رسمی می‌رویم...")
-
-    # 2) Fallback to official YouTube RSS
-    official_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    write_output(f"📡 دریافت فید رسمی یوتیوب: {official_url}")
-
-    try:
-        resp = requests.get(official_url, headers=headers, timeout=30)
+        resp = requests.get(url, headers=headers, timeout=30)
         resp.raise_for_status()
         root = ET.fromstring(resp.content)
-        results = _parse_feed_entries(root, limit)
-        write_output(f"✅ فید رسمی موفق - {len(results)} ویدیو پیدا شد.")
+        ns = {'': 'http://www.w3.org/2005/Atom'}
+        entries = root.findall('entry', ns)
+        write_output(f"✅ {len(entries)} ویدیو در فید پیدا شد.")
         titles = []
-        for idx, (title, link, pub_str) in enumerate(results):
+        for idx, entry in enumerate(entries[:limit]):
+            title = entry.find('title', ns).text.strip()
+            link = entry.find('link', ns).attrib['href']
+            published = entry.find('published', ns)
+            pub_str = published.text if published is not None else 'Unknown'
             titles.append(title)
             write_output(f"{idx+1}. {title}")
             write_output(f"   Link: {link}")
             write_output(f"   Published: {pub_str}")
+        if len(entries) > limit:
+            write_output(f"... و {len(entries)-limit} ویدیوی دیگر (محدودیت {limit})")
         return titles
     except Exception as e:
-        write_output(f"❌ خطا در فید رسمی یوتیوب: {e}")
+        write_output(f"❌ خطا در یوتیوب: {e}")
         return []
 
 def fetch_soundcloud_by_ytdlp(url, limit=15):
