@@ -136,14 +136,12 @@ def _parse_feed_entries(root):
     """Parse both Atom and RSS 2.0 feeds robustly."""
     videos = []
 
-    # Try Atom first (official YouTube + some OpenRSS)
+    # Try Atom first (official YouTube + OpenRSS)
     ns_atom = {'atom': 'http://www.w3.org/2005/Atom'}
     entries = root.findall('atom:entry', ns_atom)
     if not entries:
-        # Some feeds use default namespace
         entries = root.findall('{http://www.w3.org/2005/Atom}entry')
     if not entries:
-        # Fallback to no namespace
         entries = root.findall('entry')
 
     if entries:
@@ -168,7 +166,7 @@ def _parse_feed_entries(root):
                 videos.append({"title": title, "link": link, "published_date": pub_date})
         return videos
 
-    # Try RSS 2.0 (common for OpenRSS)
+    # Try RSS 2.0
     channel = root.find('channel')
     if channel is not None:
         items = channel.findall('item')
@@ -183,7 +181,6 @@ def _parse_feed_entries(root):
 
             if title and link and pub_str:
                 try:
-                    # RSS dates are often RFC 2822
                     from email.utils import parsedate_to_datetime
                     pub_date = parsedate_to_datetime(pub_str)
                     if pub_date.tzinfo is None:
@@ -203,8 +200,9 @@ def fetch_rss_youtube(channel_id):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
     }
 
-    # 1) Try OpenRSS first (more reliable, cleaner, excludes Shorts by default)
-    openrss_url = f"https://openrss.org/feeds/youtube/{channel_id}"
+    # 1) Try OpenRSS first (correct format)
+    # Format: https://openrss.org/feed/www.youtube.com/channel/{CHANNEL_ID}/videos
+    openrss_url = f"https://openrss.org/feed/www.youtube.com/channel/{channel_id}/videos"
     print(f"  📡 دریافت فید از OpenRSS برای {channel_id}")
 
     try:
@@ -468,12 +466,12 @@ def process_item(item):
             print(f"🎯 ارسال تریگر به مخزن دوم (repository_dispatch)...")
             try:
                 second_repo = "alipoorkaramali/youtube-SoundCloud-downloader"
-                gh_pat = os.getenv("GH_PAT")   # همان توکن قبلی
+                gh_pat = os.getenv("GH_PAT")
 
                 if not gh_pat:
                     print("⚠️ GH_PAT تنظیم نشده است، تریگر دوم ارسال نشد.")
                 else:
-                    event_type = "trigger-download"   # مطابق تعریف در YAML مخزن دوم
+                    event_type = "trigger-download"
 
                     content_type = "video" if plat_label == "youtube" else "audio"
 
@@ -484,7 +482,7 @@ def process_item(item):
                             "platform": plat_label,
                             "type": content_type,
                             "quality": "best",
-                            "mega_folder": "YoutubeNews",   # یا هر پوشه دلخواه
+                            "mega_folder": "YoutubeNews",
                             "split_choice": "single",
                             "split_size": "100M"
                         }
@@ -509,7 +507,6 @@ def process_item(item):
                         print(f"⚠️ خطا در تریگر دوم: {response.status_code} - {response.text[:300]}")
             except Exception as e:
                 print(f"⚠️ خطا در تریگر دوم: {e}")
-            # =================================================================================
         else:
             print("  ℹ️ تکراری است")
             state['found'] = True
