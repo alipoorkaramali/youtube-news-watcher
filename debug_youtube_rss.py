@@ -70,8 +70,8 @@ def fetch_rss_youtube(channel_id, limit=15):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
     }
 
-    # 1) Try OpenRSS first
-    openrss_url = f"https://openrss.org/feeds/youtube/{channel_id}"
+    # 1) Try OpenRSS first (correct format)
+    openrss_url = f"https://openrss.org/feed/www.youtube.com/channel/{channel_id}/videos"
     write_output(f"📡 دریافت فید از OpenRSS: {openrss_url}")
 
     try:
