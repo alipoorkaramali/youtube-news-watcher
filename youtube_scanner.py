@@ -17,6 +17,7 @@ MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
 MIN_CHECK_INTERVAL = 30
 MAX_ATTEMPTS_LIMIT = 10
+SOUNDCLOUD_MAX_AGE_HOURS = 48  # فقط ترک‌هایی که در این بازه آپلود شده‌اند
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
@@ -302,8 +303,15 @@ def process_item(item):
             'دی':10, 'بهمن':11, 'اسفند':12
         }
 
+        # فقط ترک‌هایی که واقعاً اخیراً آپلود شده‌اند (جلوگیری از اخبار پارسال)
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=SOUNDCLOUD_MAX_AGE_HOURS)
+
         recent = []
         for v in videos:
+            # فیلتر اول: تاریخ واقعی آپلود باید جدید باشد
+            if v['published_date'] < cutoff:
+                continue
+
             title = v['title']
             match = re.search(r'(\d{1,2})\s+'
                               r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
