@@ -1,315 +1,589 @@
 === Diagnostic Results ===
+SoundCloud max age filter: 48 hours (same as main scanner)
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCHZk9MrT3DGWmVqdsj5y0EA, کلیدواژه‌ها=['اخبار ساعت شش']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 ✅ 15 ویدیو در فید پیدا شد.
-1. ترامپ در آستانه تصمیم سرنوشت‌ساز برای ایران؛ جام جهان‌نما جمعه ۲۷ شهریور ۱۴۰۵
-   Link: https://www.youtube.com/watch?v=D5ZvTq6DyZ8
-   Published: 2026-09-18T16:59:48+00:00
-2. زن زندانی و زندانبان‌اش
-   Link: https://www.youtube.com/watch?v=w6OkRB5yIpM
-   Published: 2026-09-18T16:45:32+00:00
-3. دوربین جیبی با قابلیت پرواز
-   Link: https://www.youtube.com/shorts/PMaXeD8F3Rc
-   Published: 2026-09-18T16:34:48+00:00
-4. کلیک؛ ایفا قسمت اول: جدیدترین پهپادها و گردنبندی برای کاهش وزن
-   Link: https://www.youtube.com/watch?v=C9wAf9WRqDQ
-   Published: 2026-09-18T16:00:17+00:00
-5. بازگشت خواننده سوری به صحنه پس از ۱۵ سال
-   Link: https://www.youtube.com/shorts/1JTTR6QQ4y0
-   Published: 2026-09-18T15:34:30+00:00
-6. اخبار ساعت شش عصر- ۲۷ شهریور- تنش میان آمریکا و ایران
-   Link: https://www.youtube.com/watch?v=XeZwQzPEr6I
-   Published: 2026-09-18T15:11:00+00:00
-7. کشته‌ شدن سه نفر در درگیری نیروهای امنیتی با افراد مسلح در زاهدان
-   Link: https://www.youtube.com/shorts/qznjRlFL5TI
-   Published: 2026-09-18T13:47:05+00:00
-8. مسابقه دو ۱۰ کیلومتر در تهران
-   Link: https://www.youtube.com/shorts/2sh-mm0ayzI
-   Published: 2026-09-18T13:32:06+00:00
-9. سقوط یک فرونده جنگده اف۱۶ در هنگام پروازآموزشی در شمال آمریکا
-   Link: https://www.youtube.com/shorts/-1wjINqgjjQ
-   Published: 2026-09-18T08:48:22+00:00
-10. گلچین رنگآهنگ: ترانه‌هایی برای ایران
-   Link: https://www.youtube.com/watch?v=hNodHdujp4U
-   Published: 2026-09-17T21:22:50+00:00
-11. عفو بین‌الملل: «سرکوبگران مرتکب جنایت علیه بشریت شده‌اند و باید به دست عدالت سپرده شوند»: خبرنگاران
-   Link: https://www.youtube.com/watch?v=6JhZbSgkJ1Y
-   Published: 2026-09-17T18:30:18+00:00
-12. زن، زندگی، آزادی؛ چهار سال بعد - صفحه ۲ آخرهفته
-   Link: https://www.youtube.com/watch?v=C-0-imgsVk8
-   Published: 2026-09-17T18:03:22+00:00
-13. ضرب و شتم یک نوجوان توسط نیروی انتظامی در آذربایجان شرقی
-   Link: https://www.youtube.com/shorts/6MknEJtYLVo
-   Published: 2026-09-17T17:23:40+00:00
-14. مار در کولر نمازخانه دانشگاه علوم پزشکی هرمزگان
-   Link: https://www.youtube.com/shorts/P7xw0JJVW94
-   Published: 2026-09-17T17:16:45+00:00
-15. گزارش عفو بین‌الملل درباره سرکوب اعتراضات ۱۴۰ به مناسبت چهارمین سالگرد مهسا امینی
-   Link: https://www.youtube.com/watch?v=RrFz4Y2PGz0
-   Published: 2026-09-17T17:14:04+00:00
+1. سفیر اسرائیل در سازمان ملل؛ «اجازه دهید مردم ایران به آزادی دست‌ یابند».
+   Link: https://www.youtube.com/shorts/lEPJQrgVa7Y
+   Published: 2026-09-25T11:29:08+00:00
+2. فریبا هاشمی؛ «امیدوارم این مدال پیامی برای طالبان باشد»
+   Link: https://www.youtube.com/shorts/GMuyHDAvBEs
+   Published: 2026-09-25T08:44:03+00:00
+3. چرا آسمان ایران خلوت‌تر شده‌ است؟
+   Link: https://www.youtube.com/shorts/oqck7kIVdJk
+   Published: 2026-09-25T08:38:49+00:00
+4. خروج نمایندگان هم‌زمان با ورود نتانیاهو
+   Link: https://www.youtube.com/shorts/4KPOPvhsj2Q
+   Published: 2026-09-25T07:24:48+00:00
+5. سخنرانی کامل بنیامین نتانیاهو در مجمع عمومی سازمان ملل متحد
+   Link: https://www.youtube.com/watch?v=P-PL_e3c6Xg
+   Published: 2026-09-24T18:47:30+00:00
+6. تحریم هوایی ایران دقیقا چه معنایی دارد، بر کدام بخشها اثر می‌گذارد و بیشتر: خبرنگاران
+   Link: https://www.youtube.com/watch?v=FgtOGhPJ0QA
+   Published: 2026-09-24T18:30:33+00:00
+7. عملکرد سازمان ملل و چشم‌انداز آن  - صفحه ۲ آخر هفته
+   Link: https://www.youtube.com/watch?v=KF_-Z9sWHlQ
+   Published: 2026-09-24T18:04:11+00:00
+8. رنگآهنگ: گفت‌وگو با کوروش کنانی، نشانه‌های موسیقی ساخته‌شده با هوش مصنوعی و «جادو» از صوفی نمازی
+   Link: https://www.youtube.com/watch?v=X8ovn52PCTM
+   Published: 2026-09-24T17:16:55+00:00
+9. جام جهان‌نما
+   Link: https://www.youtube.com/watch?v=wR2LHEfdT1c
+   Published: 2026-09-24T17:00:18+00:00
+10. سخنرانی کامل محمود عباس، رئیس تشکیلات فلسطینی در مجمع عمومی سازمان ملل متحد
+   Link: https://www.youtube.com/watch?v=mpjZsKqorzY
+   Published: 2026-09-24T16:36:37+00:00
+11. تحریم شرکت‌های هواپیمایی ایران و کاهش پروازها
+   Link: https://www.youtube.com/shorts/DC_c8lQiAJc
+   Published: 2026-09-24T16:13:13+00:00
+12. آموزش نظامی «جانفدایان ایران» و انتقاد از ثبت‌نام از کودکان زیر ۱۸ سال
+   Link: https://www.youtube.com/shorts/PXQo0KWG-qo
+   Published: 2026-09-24T15:30:09+00:00
+13. اخبار ساعت شش عصر
+   Link: https://www.youtube.com/watch?v=Gqll2VNkwtg
+   Published: 2026-09-24T15:00:49+00:00
+14. سرخط خبرها، پنجشنبه ۲ مهر ۱۴۰۵
+   Link: https://www.youtube.com/shorts/9XfQ0E1xWiM
+   Published: 2026-09-24T14:47:28+00:00
+15. ایران؛ وقتی همه مسیرها بسته
+   Link: https://www.youtube.com/shorts/WnhQJ2Q4XRM
+   Published: 2026-09-24T13:30:35+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] ترامپ در آستانه تصمیم سرنوشت‌ساز برای ایران؛ جام جهان‌نما جمعه ۲۷ شهریور ۱۴۰۵
-   [  ] زن زندانی و زندانبان‌اش
-   [  ] دوربین جیبی با قابلیت پرواز
-   [  ] کلیک؛ ایفا قسمت اول: جدیدترین پهپادها و گردنبندی برای کاهش وزن
-   [  ] بازگشت خواننده سوری به صحنه پس از ۱۵ سال
-   [✅ همسان] اخبار ساعت شش عصر- ۲۷ شهریور- تنش میان آمریکا و ایران
-   [  ] کشته‌ شدن سه نفر در درگیری نیروهای امنیتی با افراد مسلح در زاهدان
-   [  ] مسابقه دو ۱۰ کیلومتر در تهران
-   [  ] سقوط یک فرونده جنگده اف۱۶ در هنگام پروازآموزشی در شمال آمریکا
-   [  ] گلچین رنگآهنگ: ترانه‌هایی برای ایران
-   [  ] عفو بین‌الملل: «سرکوبگران مرتکب جنایت علیه بشریت شده‌اند و باید به دست عدالت سپرده شوند»: خبرنگاران
-   [  ] زن، زندگی، آزادی؛ چهار سال بعد - صفحه ۲ آخرهفته
-   [  ] ضرب و شتم یک نوجوان توسط نیروی انتظامی در آذربایجان شرقی
-   [  ] مار در کولر نمازخانه دانشگاه علوم پزشکی هرمزگان
-   [  ] گزارش عفو بین‌الملل درباره سرکوب اعتراضات ۱۴۰ به مناسبت چهارمین سالگرد مهسا امینی
+   [  ] سفیر اسرائیل در سازمان ملل؛ «اجازه دهید مردم ایران به آزادی دست‌ یابند».
+   [  ] فریبا هاشمی؛ «امیدوارم این مدال پیامی برای طالبان باشد»
+   [  ] چرا آسمان ایران خلوت‌تر شده‌ است؟
+   [  ] خروج نمایندگان هم‌زمان با ورود نتانیاهو
+   [  ] سخنرانی کامل بنیامین نتانیاهو در مجمع عمومی سازمان ملل متحد
+   [  ] تحریم هوایی ایران دقیقا چه معنایی دارد، بر کدام بخشها اثر می‌گذارد و بیشتر: خبرنگاران
+   [  ] عملکرد سازمان ملل و چشم‌انداز آن  - صفحه ۲ آخر هفته
+   [  ] رنگآهنگ: گفت‌وگو با کوروش کنانی، نشانه‌های موسیقی ساخته‌شده با هوش مصنوعی و «جادو» از صوفی نمازی
+   [  ] جام جهان‌نما
+   [  ] سخنرانی کامل محمود عباس، رئیس تشکیلات فلسطینی در مجمع عمومی سازمان ملل متحد
+   [  ] تحریم شرکت‌های هواپیمایی ایران و کاهش پروازها
+   [  ] آموزش نظامی «جانفدایان ایران» و انتقاد از ثبت‌نام از کودکان زیر ۱۸ سال
+   [✅ همسان] اخبار ساعت شش عصر
+   [  ] سرخط خبرها، پنجشنبه ۲ مهر ۱۴۰۵
+   [  ] ایران؛ وقتی همه مسیرها بسته
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCHZk9MrT3DGWmVqdsj5y0EA, کلیدواژه‌ها=['۶۰ دقیقه']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 ✅ 15 ویدیو در فید پیدا شد.
-1. ترامپ در آستانه تصمیم سرنوشت‌ساز برای ایران؛ جام جهان‌نما جمعه ۲۷ شهریور ۱۴۰۵
-   Link: https://www.youtube.com/watch?v=D5ZvTq6DyZ8
-   Published: 2026-09-18T16:59:48+00:00
-2. زن زندانی و زندانبان‌اش
-   Link: https://www.youtube.com/watch?v=w6OkRB5yIpM
-   Published: 2026-09-18T16:45:32+00:00
-3. دوربین جیبی با قابلیت پرواز
-   Link: https://www.youtube.com/shorts/PMaXeD8F3Rc
-   Published: 2026-09-18T16:34:48+00:00
-4. کلیک؛ ایفا قسمت اول: جدیدترین پهپادها و گردنبندی برای کاهش وزن
-   Link: https://www.youtube.com/watch?v=C9wAf9WRqDQ
-   Published: 2026-09-18T16:00:17+00:00
-5. بازگشت خواننده سوری به صحنه پس از ۱۵ سال
-   Link: https://www.youtube.com/shorts/1JTTR6QQ4y0
-   Published: 2026-09-18T15:34:30+00:00
-6. اخبار ساعت شش عصر- ۲۷ شهریور- تنش میان آمریکا و ایران
-   Link: https://www.youtube.com/watch?v=XeZwQzPEr6I
-   Published: 2026-09-18T15:11:00+00:00
-7. کشته‌ شدن سه نفر در درگیری نیروهای امنیتی با افراد مسلح در زاهدان
-   Link: https://www.youtube.com/shorts/qznjRlFL5TI
-   Published: 2026-09-18T13:47:05+00:00
-8. مسابقه دو ۱۰ کیلومتر در تهران
-   Link: https://www.youtube.com/shorts/2sh-mm0ayzI
-   Published: 2026-09-18T13:32:06+00:00
-9. سقوط یک فرونده جنگده اف۱۶ در هنگام پروازآموزشی در شمال آمریکا
-   Link: https://www.youtube.com/shorts/-1wjINqgjjQ
-   Published: 2026-09-18T08:48:22+00:00
-10. گلچین رنگآهنگ: ترانه‌هایی برای ایران
-   Link: https://www.youtube.com/watch?v=hNodHdujp4U
-   Published: 2026-09-17T21:22:50+00:00
-11. عفو بین‌الملل: «سرکوبگران مرتکب جنایت علیه بشریت شده‌اند و باید به دست عدالت سپرده شوند»: خبرنگاران
-   Link: https://www.youtube.com/watch?v=6JhZbSgkJ1Y
-   Published: 2026-09-17T18:30:18+00:00
-12. زن، زندگی، آزادی؛ چهار سال بعد - صفحه ۲ آخرهفته
-   Link: https://www.youtube.com/watch?v=C-0-imgsVk8
-   Published: 2026-09-17T18:03:22+00:00
-13. ضرب و شتم یک نوجوان توسط نیروی انتظامی در آذربایجان شرقی
-   Link: https://www.youtube.com/shorts/6MknEJtYLVo
-   Published: 2026-09-17T17:23:40+00:00
-14. مار در کولر نمازخانه دانشگاه علوم پزشکی هرمزگان
-   Link: https://www.youtube.com/shorts/P7xw0JJVW94
-   Published: 2026-09-17T17:16:45+00:00
-15. گزارش عفو بین‌الملل درباره سرکوب اعتراضات ۱۴۰ به مناسبت چهارمین سالگرد مهسا امینی
-   Link: https://www.youtube.com/watch?v=RrFz4Y2PGz0
-   Published: 2026-09-17T17:14:04+00:00
+1. سفیر اسرائیل در سازمان ملل؛ «اجازه دهید مردم ایران به آزادی دست‌ یابند».
+   Link: https://www.youtube.com/shorts/lEPJQrgVa7Y
+   Published: 2026-09-25T11:29:08+00:00
+2. فریبا هاشمی؛ «امیدوارم این مدال پیامی برای طالبان باشد»
+   Link: https://www.youtube.com/shorts/GMuyHDAvBEs
+   Published: 2026-09-25T08:44:03+00:00
+3. چرا آسمان ایران خلوت‌تر شده‌ است؟
+   Link: https://www.youtube.com/shorts/oqck7kIVdJk
+   Published: 2026-09-25T08:38:49+00:00
+4. خروج نمایندگان هم‌زمان با ورود نتانیاهو
+   Link: https://www.youtube.com/shorts/4KPOPvhsj2Q
+   Published: 2026-09-25T07:24:48+00:00
+5. سخنرانی کامل بنیامین نتانیاهو در مجمع عمومی سازمان ملل متحد
+   Link: https://www.youtube.com/watch?v=P-PL_e3c6Xg
+   Published: 2026-09-24T18:47:30+00:00
+6. تحریم هوایی ایران دقیقا چه معنایی دارد، بر کدام بخشها اثر می‌گذارد و بیشتر: خبرنگاران
+   Link: https://www.youtube.com/watch?v=FgtOGhPJ0QA
+   Published: 2026-09-24T18:30:33+00:00
+7. عملکرد سازمان ملل و چشم‌انداز آن  - صفحه ۲ آخر هفته
+   Link: https://www.youtube.com/watch?v=KF_-Z9sWHlQ
+   Published: 2026-09-24T18:04:11+00:00
+8. رنگآهنگ: گفت‌وگو با کوروش کنانی، نشانه‌های موسیقی ساخته‌شده با هوش مصنوعی و «جادو» از صوفی نمازی
+   Link: https://www.youtube.com/watch?v=X8ovn52PCTM
+   Published: 2026-09-24T17:16:55+00:00
+9. جام جهان‌نما
+   Link: https://www.youtube.com/watch?v=wR2LHEfdT1c
+   Published: 2026-09-24T17:00:18+00:00
+10. سخنرانی کامل محمود عباس، رئیس تشکیلات فلسطینی در مجمع عمومی سازمان ملل متحد
+   Link: https://www.youtube.com/watch?v=mpjZsKqorzY
+   Published: 2026-09-24T16:36:37+00:00
+11. تحریم شرکت‌های هواپیمایی ایران و کاهش پروازها
+   Link: https://www.youtube.com/shorts/DC_c8lQiAJc
+   Published: 2026-09-24T16:13:13+00:00
+12. آموزش نظامی «جانفدایان ایران» و انتقاد از ثبت‌نام از کودکان زیر ۱۸ سال
+   Link: https://www.youtube.com/shorts/PXQo0KWG-qo
+   Published: 2026-09-24T15:30:09+00:00
+13. اخبار ساعت شش عصر
+   Link: https://www.youtube.com/watch?v=Gqll2VNkwtg
+   Published: 2026-09-24T15:00:49+00:00
+14. سرخط خبرها، پنجشنبه ۲ مهر ۱۴۰۵
+   Link: https://www.youtube.com/shorts/9XfQ0E1xWiM
+   Published: 2026-09-24T14:47:28+00:00
+15. ایران؛ وقتی همه مسیرها بسته
+   Link: https://www.youtube.com/shorts/WnhQJ2Q4XRM
+   Published: 2026-09-24T13:30:35+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] ترامپ در آستانه تصمیم سرنوشت‌ساز برای ایران؛ جام جهان‌نما جمعه ۲۷ شهریور ۱۴۰۵
-   [  ] زن زندانی و زندانبان‌اش
-   [  ] دوربین جیبی با قابلیت پرواز
-   [  ] کلیک؛ ایفا قسمت اول: جدیدترین پهپادها و گردنبندی برای کاهش وزن
-   [  ] بازگشت خواننده سوری به صحنه پس از ۱۵ سال
-   [  ] اخبار ساعت شش عصر- ۲۷ شهریور- تنش میان آمریکا و ایران
-   [  ] کشته‌ شدن سه نفر در درگیری نیروهای امنیتی با افراد مسلح در زاهدان
-   [  ] مسابقه دو ۱۰ کیلومتر در تهران
-   [  ] سقوط یک فرونده جنگده اف۱۶ در هنگام پروازآموزشی در شمال آمریکا
-   [  ] گلچین رنگآهنگ: ترانه‌هایی برای ایران
-   [  ] عفو بین‌الملل: «سرکوبگران مرتکب جنایت علیه بشریت شده‌اند و باید به دست عدالت سپرده شوند»: خبرنگاران
-   [  ] زن، زندگی، آزادی؛ چهار سال بعد - صفحه ۲ آخرهفته
-   [  ] ضرب و شتم یک نوجوان توسط نیروی انتظامی در آذربایجان شرقی
-   [  ] مار در کولر نمازخانه دانشگاه علوم پزشکی هرمزگان
-   [  ] گزارش عفو بین‌الملل درباره سرکوب اعتراضات ۱۴۰ به مناسبت چهارمین سالگرد مهسا امینی
+   [  ] سفیر اسرائیل در سازمان ملل؛ «اجازه دهید مردم ایران به آزادی دست‌ یابند».
+   [  ] فریبا هاشمی؛ «امیدوارم این مدال پیامی برای طالبان باشد»
+   [  ] چرا آسمان ایران خلوت‌تر شده‌ است؟
+   [  ] خروج نمایندگان هم‌زمان با ورود نتانیاهو
+   [  ] سخنرانی کامل بنیامین نتانیاهو در مجمع عمومی سازمان ملل متحد
+   [  ] تحریم هوایی ایران دقیقا چه معنایی دارد، بر کدام بخشها اثر می‌گذارد و بیشتر: خبرنگاران
+   [  ] عملکرد سازمان ملل و چشم‌انداز آن  - صفحه ۲ آخر هفته
+   [  ] رنگآهنگ: گفت‌وگو با کوروش کنانی، نشانه‌های موسیقی ساخته‌شده با هوش مصنوعی و «جادو» از صوفی نمازی
+   [  ] جام جهان‌نما
+   [  ] سخنرانی کامل محمود عباس، رئیس تشکیلات فلسطینی در مجمع عمومی سازمان ملل متحد
+   [  ] تحریم شرکت‌های هواپیمایی ایران و کاهش پروازها
+   [  ] آموزش نظامی «جانفدایان ایران» و انتقاد از ثبت‌نام از کودکان زیر ۱۸ سال
+   [  ] اخبار ساعت شش عصر
+   [  ] سرخط خبرها، پنجشنبه ۲ مهر ۱۴۰۵
+   [  ] ایران؛ وقتی همه مسیرها بسته
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   Link: https://www.youtube.com/watch?v=753qb9X4f9Y
-   Published: 2026-09-18T17:54:04+00:00
-2. طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   Link: https://www.youtube.com/shorts/WHGUGTkihBg
-   Published: 2026-09-18T17:22:00+00:00
-3. دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   Link: https://www.youtube.com/watch?v=YzBD-L7W6gc
-   Published: 2026-09-18T17:17:57+00:00
-4. تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   Link: https://www.youtube.com/watch?v=hAQwrTsn2Gw
-   Published: 2026-09-18T17:17:08+00:00
-5. Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   Link: https://www.youtube.com/watch?v=rzCuECnPRnA
-   Published: 2026-09-18T17:09:02+00:00
-6. برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   Link: https://www.youtube.com/watch?v=9eUvAtMigdw
-   Published: 2026-09-18T16:50:56+00:00
-7. اخبار شبانگاهی | جمعه ۲۷ شهریور
-   Link: https://www.youtube.com/watch?v=dJalnEvN4x8
-   Published: 2026-09-18T16:10:18+00:00
-8. رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   Link: https://www.youtube.com/shorts/PkwMYdfTY5E
-   Published: 2026-09-18T15:54:43+00:00
-9. روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   Link: https://www.youtube.com/watch?v=wnRhJykKPdQ
-   Published: 2026-09-18T15:50:30+00:00
-10. آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   Link: https://www.youtube.com/watch?v=koDTIOgOtKU
-   Published: 2026-09-18T15:42:39+00:00
-11. تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   Link: https://www.youtube.com/watch?v=dLFBTFaaqAU
-   Published: 2026-09-18T15:34:45+00:00
-12. شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   Link: https://www.youtube.com/shorts/71ziKTFnQEE
-   Published: 2026-09-18T15:10:59+00:00
-13. تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   Link: https://www.youtube.com/watch?v=qAfmbDejnM4
-   Published: 2026-09-18T15:01:14+00:00
-14. حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   Link: https://www.youtube.com/watch?v=B-DRXATyI5g
-   Published: 2026-09-18T14:34:13+00:00
-15. شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
-   Link: https://www.youtube.com/watch?v=roHUc4eDyQg
-   Published: 2026-09-18T14:03:13+00:00
+1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   Link: https://www.youtube.com/watch?v=h296T7HAchU
+   Published: 2026-09-25T11:10:19+00:00
+2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   Link: https://www.youtube.com/watch?v=J-hWh9szlbM
+   Published: 2026-09-25T11:01:54+00:00
+3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   Link: https://www.youtube.com/shorts/hJdZqv7Chxk
+   Published: 2026-09-25T10:56:39+00:00
+4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
+   Published: 2026-09-25T10:24:42+00:00
+5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   Link: https://www.youtube.com/watch?v=Q863cYmdWMA
+   Published: 2026-09-25T10:09:17+00:00
+6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   Link: https://www.youtube.com/shorts/uE1bQ7neIEw
+   Published: 2026-09-25T10:06:47+00:00
+7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   Link: https://www.youtube.com/watch?v=p84e3z-8KVs
+   Published: 2026-09-25T09:35:45+00:00
+8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   Link: https://www.youtube.com/watch?v=r69q1GPFW8A
+   Published: 2026-09-25T09:13:06+00:00
+9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
+   Published: 2026-09-25T08:09:47+00:00
+10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
+   Published: 2026-09-25T07:55:56+00:00
+11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
+   Published: 2026-09-25T07:53:10+00:00
+12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
+   Published: 2026-09-25T06:44:39+00:00
+13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
+   Published: 2026-09-25T06:33:40+00:00
+14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   Link: https://www.youtube.com/watch?v=9vabkNecxyM
+   Published: 2026-09-25T05:55:27+00:00
+15. اخبار بامدادی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=gfvJb4taarM
+   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   [  ] طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   [  ] دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   [  ] تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   [  ] Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   [  ] برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
-   [  ] رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   [  ] روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   [  ] آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   [  ] تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   [  ] شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   [  ] تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   [  ] حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   [  ] شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
+   [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   [  ] لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   [  ] حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   [  ] عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   [  ] روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   [✅ همسان] اخبار بامدادی | جمعه ۳ مهر
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   Link: https://www.youtube.com/watch?v=753qb9X4f9Y
-   Published: 2026-09-18T17:54:04+00:00
-2. طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   Link: https://www.youtube.com/shorts/WHGUGTkihBg
-   Published: 2026-09-18T17:22:00+00:00
-3. دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   Link: https://www.youtube.com/watch?v=YzBD-L7W6gc
-   Published: 2026-09-18T17:17:57+00:00
-4. تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   Link: https://www.youtube.com/watch?v=hAQwrTsn2Gw
-   Published: 2026-09-18T17:17:08+00:00
-5. Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   Link: https://www.youtube.com/watch?v=rzCuECnPRnA
-   Published: 2026-09-18T17:09:02+00:00
-6. برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   Link: https://www.youtube.com/watch?v=9eUvAtMigdw
-   Published: 2026-09-18T16:50:56+00:00
-7. اخبار شبانگاهی | جمعه ۲۷ شهریور
-   Link: https://www.youtube.com/watch?v=dJalnEvN4x8
-   Published: 2026-09-18T16:10:18+00:00
-8. رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   Link: https://www.youtube.com/shorts/PkwMYdfTY5E
-   Published: 2026-09-18T15:54:43+00:00
-9. روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   Link: https://www.youtube.com/watch?v=wnRhJykKPdQ
-   Published: 2026-09-18T15:50:30+00:00
-10. آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   Link: https://www.youtube.com/watch?v=koDTIOgOtKU
-   Published: 2026-09-18T15:42:39+00:00
-11. تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   Link: https://www.youtube.com/watch?v=dLFBTFaaqAU
-   Published: 2026-09-18T15:34:45+00:00
-12. شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   Link: https://www.youtube.com/shorts/71ziKTFnQEE
-   Published: 2026-09-18T15:10:59+00:00
-13. تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   Link: https://www.youtube.com/watch?v=qAfmbDejnM4
-   Published: 2026-09-18T15:01:14+00:00
-14. حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   Link: https://www.youtube.com/watch?v=B-DRXATyI5g
-   Published: 2026-09-18T14:34:13+00:00
-15. شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
-   Link: https://www.youtube.com/watch?v=roHUc4eDyQg
-   Published: 2026-09-18T14:03:13+00:00
+1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   Link: https://www.youtube.com/watch?v=h296T7HAchU
+   Published: 2026-09-25T11:10:19+00:00
+2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   Link: https://www.youtube.com/watch?v=J-hWh9szlbM
+   Published: 2026-09-25T11:01:54+00:00
+3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   Link: https://www.youtube.com/shorts/hJdZqv7Chxk
+   Published: 2026-09-25T10:56:39+00:00
+4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
+   Published: 2026-09-25T10:24:42+00:00
+5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   Link: https://www.youtube.com/watch?v=Q863cYmdWMA
+   Published: 2026-09-25T10:09:17+00:00
+6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   Link: https://www.youtube.com/shorts/uE1bQ7neIEw
+   Published: 2026-09-25T10:06:47+00:00
+7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   Link: https://www.youtube.com/watch?v=p84e3z-8KVs
+   Published: 2026-09-25T09:35:45+00:00
+8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   Link: https://www.youtube.com/watch?v=r69q1GPFW8A
+   Published: 2026-09-25T09:13:06+00:00
+9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
+   Published: 2026-09-25T08:09:47+00:00
+10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
+   Published: 2026-09-25T07:55:56+00:00
+11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
+   Published: 2026-09-25T07:53:10+00:00
+12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
+   Published: 2026-09-25T06:44:39+00:00
+13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
+   Published: 2026-09-25T06:33:40+00:00
+14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   Link: https://www.youtube.com/watch?v=9vabkNecxyM
+   Published: 2026-09-25T05:55:27+00:00
+15. اخبار بامدادی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=gfvJb4taarM
+   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   [  ] طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   [  ] دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   [  ] تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   [  ] Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   [  ] برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   [✅ همسان] اخبار شبانگاهی | جمعه ۲۷ شهریور
-   [  ] رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   [  ] روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   [  ] آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   [  ] تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   [  ] شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   [  ] تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   [  ] حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   [  ] شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
+   [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   [  ] لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   [  ] حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   [  ] عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   [  ] روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   [  ] اخبار بامدادی | جمعه ۳ مهر
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-❌ زمان‌بری در دریافت اطلاعات از ساندکلاد
-⚠️ هیچ عنوانی دریافت نشد.
+✅ 11544 آهنگ/ویدئو پیدا شد.
+1. [  ] اخبار بامدادی | جمعه ۳ مهر
+   Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   Link: https://soundcloud.com/iranintl/plz2e0thurkn
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   Link: https://soundcloud.com/iranintl/zcrspwmrsvur
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/dudodugdang0
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/jygrz863hosb
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   Link: https://soundcloud.com/iranintl/gn4e4dpicsct
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   Link: https://soundcloud.com/iranintl/tmorbgtuehhc
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   Link: https://soundcloud.com/iranintl/f2e5kriev52d
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   Link: https://soundcloud.com/iranintl/iappvs5reo5k
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
+   Link: https://soundcloud.com/iranintl/nug8wo68uow5
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+... و 11529 مورد دیگر (محدودیت 15)
+📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
+   هیچ ترکی با فیلتر تاریخ واقعی + تاریخ شمسی امروز قبول نشد.
+📋 همه عناوین + وضعیت کلیدواژه:
+   [✅ همسان] اخبار بامدادی | جمعه ۳ مهر
+   [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   [✅ همسان] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
+   [✅ همسان] اخبار بامدادی | چهارشنبه ۱ مهر
+   [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار نیمروزی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-❌ زمان‌بری در دریافت اطلاعات از ساندکلاد
-⚠️ هیچ عنوانی دریافت نشد.
+✅ 11544 آهنگ/ویدئو پیدا شد.
+1. [  ] اخبار بامدادی | جمعه ۳ مهر
+   Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   Link: https://soundcloud.com/iranintl/plz2e0thurkn
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   Link: https://soundcloud.com/iranintl/zcrspwmrsvur
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/dudodugdang0
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/jygrz863hosb
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   Link: https://soundcloud.com/iranintl/gn4e4dpicsct
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   Link: https://soundcloud.com/iranintl/tmorbgtuehhc
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   Link: https://soundcloud.com/iranintl/f2e5kriev52d
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   Link: https://soundcloud.com/iranintl/iappvs5reo5k
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
+   Link: https://soundcloud.com/iranintl/nug8wo68uow5
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+... و 11529 مورد دیگر (محدودیت 15)
+📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
+   هیچ ترکی با فیلتر تاریخ واقعی + تاریخ شمسی امروز قبول نشد.
+📋 همه عناوین + وضعیت کلیدواژه:
+   [  ] اخبار بامدادی | جمعه ۳ مهر
+   [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   [✅ همسان] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   [✅ همسان] اخبار نیمروزی | چهارشنبه ۱ مهر
+   [  ] اخبار بامدادی | چهارشنبه ۱ مهر
+   [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-❌ زمان‌بری در دریافت اطلاعات از ساندکلاد
-⚠️ هیچ عنوانی دریافت نشد.
+✅ 11544 آهنگ/ویدئو پیدا شد.
+1. [  ] اخبار بامدادی | جمعه ۳ مهر
+   Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   Link: https://soundcloud.com/iranintl/plz2e0thurkn
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   Link: https://soundcloud.com/iranintl/zcrspwmrsvur
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/dudodugdang0
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Link: https://soundcloud.com/iranintl/jygrz863hosb
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: True
+6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   Link: https://soundcloud.com/iranintl/gn4e4dpicsct
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   Link: https://soundcloud.com/iranintl/tmorbgtuehhc
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   Link: https://soundcloud.com/iranintl/f2e5kriev52d
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
+   Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   Link: https://soundcloud.com/iranintl/iappvs5reo5k
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
+   Link: https://soundcloud.com/iranintl/nug8wo68uow5
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+... و 11529 مورد دیگر (محدودیت 15)
+📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
+   هیچ ترکی با فیلتر تاریخ واقعی + تاریخ شمسی امروز قبول نشد.
+📋 همه عناوین + وضعیت کلیدواژه:
+   [  ] اخبار بامدادی | جمعه ۳ مهر
+   [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
+   [✅ همسان] اخبار شبانگاهی | پنجشنبه ۲ مهر
+   [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
+   [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
+   [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
+   [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
+   [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
+   [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
+   [  ] اخبار بامدادی | چهارشنبه ۱ مهر
+   [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
+   [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
+   [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
-✅ 8828 آهنگ/ویدئو پیدا شد.
-1. جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
+✅ 8835 آهنگ/ویدئو پیدا شد.
+1. [  ] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/iqqtrb7mcfon
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+2. [  ] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/jutnxmdwdxoe
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+3. [  ] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/p9dpo3e4xw23
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+4. [  ] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/rkkn8ahihrlx
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+5. [  ] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/d6i8xedxw86a
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+6. [  ] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/xveg1ql7yy8i
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+7. [  ] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/btqrxpfmkjiw
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+8. [  ] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/uciogplp6q1t
-2. جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+9. [  ] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/wwnfyqs02ltw
-3. جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+10. [  ] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/akg7jmmqcah4
-4. جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+11. [  ] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/9v8fh0vm8bjj
-5. جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+12. [  ] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jspgu4eqdlyd
-6. جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+13. [  ] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/nxwo1au5tzav
-7. جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+14. [  ] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p5bani9x3cnc
-8. جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+15. [  ] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/g9l5xvq7rvmh
-9. جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/yxouf99rqxiu
-10. جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xyxqhcfnozou
-11. جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/ornlzlavxktx
-12. جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/qjgdhvxbyqkm
-13. جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/f1xkr8pjxcrv
-14. جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xr3u8ubeqwfk
-15. جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/vabpemvsw9pu
-... و 8813 مورد دیگر (محدودیت 15)
-📋 عناوین همسان‌سازی شده با کلیدواژه:
+   Published: Unknown
+   Recent(<48h): False | Persian-date-today: False
+... و 8820 مورد دیگر (محدودیت 15)
+📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
+   هیچ ترکی با فیلتر تاریخ واقعی + تاریخ شمسی امروز قبول نشد.
+📋 همه عناوین + وضعیت کلیدواژه:
+   [✅ همسان] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
@@ -318,75 +592,68 @@
    [✅ همسان] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   Link: https://www.youtube.com/watch?v=753qb9X4f9Y
-   Published: 2026-09-18T17:54:04+00:00
-2. طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   Link: https://www.youtube.com/shorts/WHGUGTkihBg
-   Published: 2026-09-18T17:22:00+00:00
-3. دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   Link: https://www.youtube.com/watch?v=YzBD-L7W6gc
-   Published: 2026-09-18T17:17:57+00:00
-4. تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   Link: https://www.youtube.com/watch?v=hAQwrTsn2Gw
-   Published: 2026-09-18T17:17:08+00:00
-5. Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   Link: https://www.youtube.com/watch?v=rzCuECnPRnA
-   Published: 2026-09-18T17:09:02+00:00
-6. برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   Link: https://www.youtube.com/watch?v=9eUvAtMigdw
-   Published: 2026-09-18T16:50:56+00:00
-7. اخبار شبانگاهی | جمعه ۲۷ شهریور
-   Link: https://www.youtube.com/watch?v=dJalnEvN4x8
-   Published: 2026-09-18T16:10:18+00:00
-8. رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   Link: https://www.youtube.com/shorts/PkwMYdfTY5E
-   Published: 2026-09-18T15:54:43+00:00
-9. روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   Link: https://www.youtube.com/watch?v=wnRhJykKPdQ
-   Published: 2026-09-18T15:50:30+00:00
-10. آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   Link: https://www.youtube.com/watch?v=koDTIOgOtKU
-   Published: 2026-09-18T15:42:39+00:00
-11. تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   Link: https://www.youtube.com/watch?v=dLFBTFaaqAU
-   Published: 2026-09-18T15:34:45+00:00
-12. شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   Link: https://www.youtube.com/shorts/71ziKTFnQEE
-   Published: 2026-09-18T15:10:59+00:00
-13. تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   Link: https://www.youtube.com/watch?v=qAfmbDejnM4
-   Published: 2026-09-18T15:01:14+00:00
-14. حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   Link: https://www.youtube.com/watch?v=B-DRXATyI5g
-   Published: 2026-09-18T14:34:13+00:00
-15. شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
-   Link: https://www.youtube.com/watch?v=roHUc4eDyQg
-   Published: 2026-09-18T14:03:13+00:00
+1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   Link: https://www.youtube.com/watch?v=h296T7HAchU
+   Published: 2026-09-25T11:10:19+00:00
+2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   Link: https://www.youtube.com/watch?v=J-hWh9szlbM
+   Published: 2026-09-25T11:01:54+00:00
+3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   Link: https://www.youtube.com/shorts/hJdZqv7Chxk
+   Published: 2026-09-25T10:56:39+00:00
+4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
+   Published: 2026-09-25T10:24:42+00:00
+5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   Link: https://www.youtube.com/watch?v=Q863cYmdWMA
+   Published: 2026-09-25T10:09:17+00:00
+6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   Link: https://www.youtube.com/shorts/uE1bQ7neIEw
+   Published: 2026-09-25T10:06:47+00:00
+7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   Link: https://www.youtube.com/watch?v=p84e3z-8KVs
+   Published: 2026-09-25T09:35:45+00:00
+8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   Link: https://www.youtube.com/watch?v=r69q1GPFW8A
+   Published: 2026-09-25T09:13:06+00:00
+9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
+   Published: 2026-09-25T08:09:47+00:00
+10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
+   Published: 2026-09-25T07:55:56+00:00
+11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
+   Published: 2026-09-25T07:53:10+00:00
+12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
+   Published: 2026-09-25T06:44:39+00:00
+13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
+   Published: 2026-09-25T06:33:40+00:00
+14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   Link: https://www.youtube.com/watch?v=9vabkNecxyM
+   Published: 2026-09-25T05:55:27+00:00
+15. اخبار بامدادی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=gfvJb4taarM
+   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] تیم چهار نفره فروش نفت ایران تنها از تخفبف فروش ۸۰ میلیون بشکه نفت، ۱.۵ میلیارد دلار درآمد داشتند
-   [  ] طراح ایرانی‌تبار در هفته مد لندن فرهنگ ایرانی را «فراتر از اخبار» به نمایش گذاشت
-   [  ] دیدار تاریخی کارنی و مکرون در سن‌پی‌یر و میکلون
-   [  ] تنگه هرمز دوباره صحنه حمله به نفتکش‌ها شد
-   [  ] Twins sentenced in Iran: one to death, one to prison | Eye for Iran | EP 121 |
-   [  ] برگزاری مراسم چهارمین سالگرد «زن، زندگی، آزادی» در شهرداری پاریس
-   [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
-   [  ] رییس شورای شهر تهران از «پس‌گردنی‌های سخت‌تر» دشمنان خبر داد
-   [  ] روایت دایی جاویدنام فرید رمضانی از نحوه کشته‌شدن او در اعتراضات دی‌ماه
-   [  ] آیا افزایش قیمت بلیت بحران پروازها را حل کرده است؟
-   [  ] تجمع ایرانیان در هانوفر در چهارمین سالگرد قتل حکومتی مهسا امینی
-   [  ] شبکه فروش نفت از هر یک میلیون بشکه حدود چهار میلیون دلار نفع می‌برد
-   [  ] تراکنش‌های درمانی بیماران خاص؛ عاملی برای قطع بیمه و یارانه
-   [  ] حضور تاریخی بسکتبال زنان ایران در بازی‌های آسیایی تهران
-   [✅ همسان] شکست تیم بسکتبال ایران در مرحله نیمه‌نهایی مقابل کره‌جنوبی
+   [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+   [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+   [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+   [  ] لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+   [  ] حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+   [  ] عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+   [  ] روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+   [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+   [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+   [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
+   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
+   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
+   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
+   [  ] اخبار بامدادی | جمعه ۳ مهر
