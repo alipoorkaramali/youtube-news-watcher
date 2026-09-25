@@ -1,5 +1,5 @@
 === Diagnostic Results ===
-SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
+SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCHZk9MrT3DGWmVqdsj5y0EA, کلیدواژه‌ها=['اخبار ساعت شش']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
@@ -134,52 +134,57 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+1. سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   Link: https://www.youtube.com/watch?v=IXDzV4UkO2U
+   Published: 2026-09-25T12:15:17+00:00
+2. سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   Link: https://www.youtube.com/watch?v=_1yZCdgja8E
+   Published: 2026-09-25T12:14:21+00:00
+3. ممنوعیت برقع و نقاب در مدارس ایتالیا
+   Link: https://www.youtube.com/watch?v=fvPYVBX_8cg
+   Published: 2026-09-25T12:08:49+00:00
+4. اخبار نیمروزی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=TNvsjgMabZA
+   Published: 2026-09-25T12:04:12+00:00
+5. شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
+   Link: https://www.youtube.com/shorts/e5DcF-McQt0
+   Published: 2026-09-25T12:00:04+00:00
+6. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=h296T7HAchU
    Published: 2026-09-25T11:10:19+00:00
-2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+7. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    Link: https://www.youtube.com/watch?v=J-hWh9szlbM
    Published: 2026-09-25T11:01:54+00:00
-3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+8. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
    Link: https://www.youtube.com/shorts/hJdZqv7Chxk
    Published: 2026-09-25T10:56:39+00:00
-4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+9. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
    Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
    Published: 2026-09-25T10:24:42+00:00
-5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+10. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
    Link: https://www.youtube.com/watch?v=Q863cYmdWMA
    Published: 2026-09-25T10:09:17+00:00
-6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+11. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
    Link: https://www.youtube.com/shorts/uE1bQ7neIEw
    Published: 2026-09-25T10:06:47+00:00
-7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+12. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
    Link: https://www.youtube.com/watch?v=p84e3z-8KVs
    Published: 2026-09-25T09:35:45+00:00
-8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+13. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    Link: https://www.youtube.com/watch?v=r69q1GPFW8A
    Published: 2026-09-25T09:13:06+00:00
-9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+14. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
    Published: 2026-09-25T08:09:47+00:00
-10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+15. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
    Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
    Published: 2026-09-25T07:55:56+00:00
-11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
-   Published: 2026-09-25T07:53:10+00:00
-12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
-   Published: 2026-09-25T06:44:39+00:00
-13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
-   Published: 2026-09-25T06:33:40+00:00
-14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   Link: https://www.youtube.com/watch?v=9vabkNecxyM
-   Published: 2026-09-25T05:55:27+00:00
-15. اخبار بامدادی | جمعه ۳ مهر
-   Link: https://www.youtube.com/watch?v=gfvJb4taarM
-   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   [  ] سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   [  ] ممنوعیت برقع و نقاب در مدارس ایتالیا
+   [  ] اخبار نیمروزی | جمعه ۳ مهر
+   [  ] شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
    [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
@@ -190,61 +195,61 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
-   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   [✅ همسان] اخبار بامدادی | جمعه ۳ مهر
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+1. سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   Link: https://www.youtube.com/watch?v=IXDzV4UkO2U
+   Published: 2026-09-25T12:15:17+00:00
+2. سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   Link: https://www.youtube.com/watch?v=_1yZCdgja8E
+   Published: 2026-09-25T12:14:21+00:00
+3. ممنوعیت برقع و نقاب در مدارس ایتالیا
+   Link: https://www.youtube.com/watch?v=fvPYVBX_8cg
+   Published: 2026-09-25T12:08:49+00:00
+4. اخبار نیمروزی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=TNvsjgMabZA
+   Published: 2026-09-25T12:04:12+00:00
+5. شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
+   Link: https://www.youtube.com/shorts/e5DcF-McQt0
+   Published: 2026-09-25T12:00:04+00:00
+6. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=h296T7HAchU
    Published: 2026-09-25T11:10:19+00:00
-2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+7. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    Link: https://www.youtube.com/watch?v=J-hWh9szlbM
    Published: 2026-09-25T11:01:54+00:00
-3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+8. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
    Link: https://www.youtube.com/shorts/hJdZqv7Chxk
    Published: 2026-09-25T10:56:39+00:00
-4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+9. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
    Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
    Published: 2026-09-25T10:24:42+00:00
-5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+10. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
    Link: https://www.youtube.com/watch?v=Q863cYmdWMA
    Published: 2026-09-25T10:09:17+00:00
-6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+11. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
    Link: https://www.youtube.com/shorts/uE1bQ7neIEw
    Published: 2026-09-25T10:06:47+00:00
-7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+12. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
    Link: https://www.youtube.com/watch?v=p84e3z-8KVs
    Published: 2026-09-25T09:35:45+00:00
-8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+13. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    Link: https://www.youtube.com/watch?v=r69q1GPFW8A
    Published: 2026-09-25T09:13:06+00:00
-9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+14. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
    Published: 2026-09-25T08:09:47+00:00
-10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+15. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
    Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
    Published: 2026-09-25T07:55:56+00:00
-11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
-   Published: 2026-09-25T07:53:10+00:00
-12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
-   Published: 2026-09-25T06:44:39+00:00
-13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
-   Published: 2026-09-25T06:33:40+00:00
-14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   Link: https://www.youtube.com/watch?v=9vabkNecxyM
-   Published: 2026-09-25T05:55:27+00:00
-15. اخبار بامدادی | جمعه ۳ مهر
-   Link: https://www.youtube.com/watch?v=gfvJb4taarM
-   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   [  ] سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   [  ] ممنوعیت برقع و نقاب در مدارس ایتالیا
+   [  ] اخبار نیمروزی | جمعه ۳ مهر
+   [  ] شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
    [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
@@ -255,101 +260,174 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
-   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   [  ] اخبار بامدادی | جمعه ۳ مهر
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 50 آهنگ/ویدئو پیدا شد (محدود به 50 تای آخر).
+✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
 1. [✅ ACCEPT] اخبار بامدادی | جمعه ۳ مهر
    Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: True | Weekday-ok: True
 2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    Link: https://soundcloud.com/iranintl/plz2e0thurkn
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
    Link: https://soundcloud.com/iranintl/zcrspwmrsvur
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
-4. [✅ ACCEPT] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: True
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/dudodugdang0
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
-5. [✅ ACCEPT] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: False
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/jygrz863hosb
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: False | Weekday-ok: False
 6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
    Link: https://soundcloud.com/iranintl/gn4e4dpicsct
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
    Link: https://soundcloud.com/iranintl/tmorbgtuehhc
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
    Link: https://soundcloud.com/iranintl/f2e5kriev52d
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
    Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
    Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
    Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
    Link: https://soundcloud.com/iranintl/iappvs5reo5k
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
    Link: https://soundcloud.com/iranintl/nug8wo68uow5
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 16. [  ] چشم‌انداز: تلاش‌های پشت پرده جمهوری اسلامی برای دیدار پزشکیان و ترامپ
    Link: https://soundcloud.com/iranintl/4q2gxj1mgmxt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 17. [  ] تیتراول با نیوشا صارمی: ترامپ در نیویورک: فکر می‌کنم توافق با ایران نزدیک باشد؛ یا توافق یا نابودی
    Link: https://soundcloud.com/iranintl/wkdqxemadtwt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 18. [  ] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/rvwjv47igc40
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 19. [  ] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/kztwcitihcoq
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 20. [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
    Link: https://soundcloud.com/iranintl/5droqjrxoe96
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
-... و 30 مورد دیگر (نمایش محدود به 20)
+   Recent: False | Persian-today: False | Weekday-ok: True
+21. [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   Link: https://soundcloud.com/iranintl/2eroz9ybogzp
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+22. [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   Link: https://soundcloud.com/iranintl/p9ktcoihy6gf
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+23. [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   Link: https://soundcloud.com/iranintl/ylrzs5g53f25
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+24. [  ] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/jeekfbikgwae
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+25. [  ] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/cb7s8kn8jsye
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+26. [  ] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/nxqqvu3blstl
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+27. [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   Link: https://soundcloud.com/iranintl/ljhei6l1c5se
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+28. [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   Link: https://soundcloud.com/iranintl/x0deoufcnru1
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+29. [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   Link: https://soundcloud.com/iranintl/etoqplkdd9ux
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+30. [  ] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/gwta6zcjkckm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+31. [  ] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/25xdjs4u5rcy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+32. [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   Link: https://soundcloud.com/iranintl/usxwxaaokdfm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+33. [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   Link: https://soundcloud.com/iranintl/a3xs9l2nl2i4
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+34. [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   Link: https://soundcloud.com/iranintl/1njden0z9xoy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+35. [  ] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/ld8h2l0k9dng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+36. [  ] اخبار نیمروزی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/0yluatkpst06
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+37. [  ] اخبار بامدادی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/bwxcmavqaqed
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+38. [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/7zsbkbhxxbxm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+39. [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/govun6hhl9ng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+40. [  ] اخبار بامدادی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/wwcwmk9zkr92
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT + KEYWORD] اخبار بامدادی | جمعه ۳ مهر
-   [✅ ACCEPT] اخبار نیمروزی | پنج‌شنبه ۳ مهر
-   [✅ ACCEPT + KEYWORD] اخبار بامدادی | پنج‌شنبه ۳ مهر
-📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):
+📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
    [✅ همسان] اخبار بامدادی | جمعه ۳ مهر
    [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
@@ -370,96 +448,194 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [  ] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    [✅ همسان] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
+   [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   [  ] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   [  ] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   [✅ همسان] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   [  ] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   [✅ همسان] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   [  ] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   [  ] اخبار نیمروزی | شنبه ۲۸ شهریور
+   [✅ همسان] اخبار بامدادی | شنبه ۲۸ شهریور
+   [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   [✅ همسان] اخبار بامدادی | جمعه ۲۷ شهریور
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار نیمروزی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 50 آهنگ/ویدئو پیدا شد (محدود به 50 تای آخر).
+✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
 1. [✅ ACCEPT] اخبار بامدادی | جمعه ۳ مهر
    Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: True | Weekday-ok: True
 2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    Link: https://soundcloud.com/iranintl/plz2e0thurkn
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
    Link: https://soundcloud.com/iranintl/zcrspwmrsvur
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
-4. [✅ ACCEPT] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: True
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/dudodugdang0
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
-5. [✅ ACCEPT] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: False
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/jygrz863hosb
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: False | Weekday-ok: False
 6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
    Link: https://soundcloud.com/iranintl/gn4e4dpicsct
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
    Link: https://soundcloud.com/iranintl/tmorbgtuehhc
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
    Link: https://soundcloud.com/iranintl/f2e5kriev52d
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
    Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
    Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
    Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
    Link: https://soundcloud.com/iranintl/iappvs5reo5k
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
    Link: https://soundcloud.com/iranintl/nug8wo68uow5
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 16. [  ] چشم‌انداز: تلاش‌های پشت پرده جمهوری اسلامی برای دیدار پزشکیان و ترامپ
    Link: https://soundcloud.com/iranintl/4q2gxj1mgmxt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 17. [  ] تیتراول با نیوشا صارمی: ترامپ در نیویورک: فکر می‌کنم توافق با ایران نزدیک باشد؛ یا توافق یا نابودی
    Link: https://soundcloud.com/iranintl/wkdqxemadtwt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 18. [  ] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/rvwjv47igc40
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 19. [  ] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/kztwcitihcoq
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 20. [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
    Link: https://soundcloud.com/iranintl/5droqjrxoe96
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
-... و 30 مورد دیگر (نمایش محدود به 20)
+   Recent: False | Persian-today: False | Weekday-ok: True
+21. [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   Link: https://soundcloud.com/iranintl/2eroz9ybogzp
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+22. [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   Link: https://soundcloud.com/iranintl/p9ktcoihy6gf
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+23. [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   Link: https://soundcloud.com/iranintl/ylrzs5g53f25
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+24. [  ] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/jeekfbikgwae
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+25. [  ] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/cb7s8kn8jsye
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+26. [  ] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/nxqqvu3blstl
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+27. [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   Link: https://soundcloud.com/iranintl/ljhei6l1c5se
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+28. [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   Link: https://soundcloud.com/iranintl/x0deoufcnru1
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+29. [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   Link: https://soundcloud.com/iranintl/etoqplkdd9ux
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+30. [  ] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/gwta6zcjkckm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+31. [  ] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/25xdjs4u5rcy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+32. [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   Link: https://soundcloud.com/iranintl/usxwxaaokdfm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+33. [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   Link: https://soundcloud.com/iranintl/a3xs9l2nl2i4
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+34. [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   Link: https://soundcloud.com/iranintl/1njden0z9xoy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+35. [  ] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/ld8h2l0k9dng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+36. [  ] اخبار نیمروزی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/0yluatkpst06
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+37. [  ] اخبار بامدادی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/bwxcmavqaqed
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+38. [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/7zsbkbhxxbxm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+39. [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/govun6hhl9ng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+40. [  ] اخبار بامدادی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/wwcwmk9zkr92
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT] اخبار بامدادی | جمعه ۳ مهر
-   [✅ ACCEPT + KEYWORD] اخبار نیمروزی | پنج‌شنبه ۳ مهر
-   [✅ ACCEPT] اخبار بامدادی | پنج‌شنبه ۳ مهر
-📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):
+📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
    [  ] اخبار بامدادی | جمعه ۳ مهر
    [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
@@ -480,96 +656,194 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [✅ همسان] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    [  ] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
+   [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   [  ] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   [✅ همسان] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   [  ] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   [✅ همسان] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   [  ] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   [  ] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   [✅ همسان] اخبار نیمروزی | شنبه ۲۸ شهریور
+   [  ] اخبار بامدادی | شنبه ۲۸ شهریور
+   [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   [  ] اخبار بامدادی | جمعه ۲۷ شهریور
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 50 آهنگ/ویدئو پیدا شد (محدود به 50 تای آخر).
+✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
 1. [✅ ACCEPT] اخبار بامدادی | جمعه ۳ مهر
    Link: https://soundcloud.com/iranintl/b0xd8vvqbbft
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: True | Weekday-ok: True
 2. [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    Link: https://soundcloud.com/iranintl/plz2e0thurkn
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 3. [  ] اخبار شبانگاهی | پنجشنبه ۲ مهر
    Link: https://soundcloud.com/iranintl/zcrspwmrsvur
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
-4. [✅ ACCEPT] اخبار نیمروزی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: True
+4. [  ] اخبار نیمروزی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/dudodugdang0
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
-5. [✅ ACCEPT] اخبار بامدادی | پنج‌شنبه ۳ مهر
+   Recent: False | Persian-today: False | Weekday-ok: False
+5. [  ] اخبار بامدادی | پنج‌شنبه ۳ مهر
    Link: https://soundcloud.com/iranintl/jygrz863hosb
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: True
+   Recent: False | Persian-today: False | Weekday-ok: False
 6. [  ] برنامه با کامبیز حسینی | اگر پشت تریبون سازمان ملل می‌رفتید، به دنیا چه می‌گفتید؟
    Link: https://soundcloud.com/iranintl/gn4e4dpicsct
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 7. [  ] سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ
    Link: https://soundcloud.com/iranintl/tmorbgtuehhc
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 8. [  ] ۲۴ با فرداد فرحزاد: واکنش تند روبیو به پزشکیان: مردم خودتان را می‌کشید؛ صلاحیت ندارید
    Link: https://soundcloud.com/iranintl/f2e5kriev52d
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 9. [  ] چشم‌انداز: تودهنی سپاه به پزشکیان یا خشم حکومت از سرسختی ترامپ؟!
    Link: https://soundcloud.com/iranintl/k9fl7nsxf3co
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 10. [  ] تیتراول با نیوشا صارمی: تهران پاسخ واشینگتن را بررسی می‌کند؛ دفاع محسن رضایی از عراقچی
    Link: https://soundcloud.com/iranintl/c5x4eqwbmqi7
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 11. [  ] اخبار نیمروزی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/ky1j6vhfbawd
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 12. [  ] اخبار بامدادی | چهارشنبه ۱ مهر
    Link: https://soundcloud.com/iranintl/yvi8tpexcpf6
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 13. [  ] سیاست با مراد ویسی: تهدید ترامپ به نابودی جمهوری‌اسلامی
    Link: https://soundcloud.com/iranintl/di8jqrjhvcz2
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 14. [  ] برنامه با کامبیز حسینی | تور سالانهٔ تفریحی ـ سیاحتی جمهوری اسلامی به نیویورک و سازمان ملل
    Link: https://soundcloud.com/iranintl/iappvs5reo5k
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 15. [  ] ۲۴ با فرداد فرحزاد: هشدار تازه ترامپ درباره نابودی ایران
    Link: https://soundcloud.com/iranintl/nug8wo68uow5
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 16. [  ] چشم‌انداز: تلاش‌های پشت پرده جمهوری اسلامی برای دیدار پزشکیان و ترامپ
    Link: https://soundcloud.com/iranintl/4q2gxj1mgmxt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 17. [  ] تیتراول با نیوشا صارمی: ترامپ در نیویورک: فکر می‌کنم توافق با ایران نزدیک باشد؛ یا توافق یا نابودی
    Link: https://soundcloud.com/iranintl/wkdqxemadtwt
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 18. [  ] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/rvwjv47igc40
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 19. [  ] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    Link: https://soundcloud.com/iranintl/kztwcitihcoq
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 20. [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
    Link: https://soundcloud.com/iranintl/5droqjrxoe96
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
-... و 30 مورد دیگر (نمایش محدود به 20)
+   Recent: False | Persian-today: False | Weekday-ok: True
+21. [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   Link: https://soundcloud.com/iranintl/2eroz9ybogzp
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+22. [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   Link: https://soundcloud.com/iranintl/p9ktcoihy6gf
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+23. [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   Link: https://soundcloud.com/iranintl/ylrzs5g53f25
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+24. [  ] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/jeekfbikgwae
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+25. [  ] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/cb7s8kn8jsye
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+26. [  ] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   Link: https://soundcloud.com/iranintl/nxqqvu3blstl
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+27. [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   Link: https://soundcloud.com/iranintl/ljhei6l1c5se
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+28. [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   Link: https://soundcloud.com/iranintl/x0deoufcnru1
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+29. [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   Link: https://soundcloud.com/iranintl/etoqplkdd9ux
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+30. [  ] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/gwta6zcjkckm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+31. [  ] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   Link: https://soundcloud.com/iranintl/25xdjs4u5rcy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+32. [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   Link: https://soundcloud.com/iranintl/usxwxaaokdfm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+33. [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   Link: https://soundcloud.com/iranintl/a3xs9l2nl2i4
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+34. [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   Link: https://soundcloud.com/iranintl/1njden0z9xoy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+35. [  ] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/ld8h2l0k9dng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+36. [  ] اخبار نیمروزی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/0yluatkpst06
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+37. [  ] اخبار بامدادی | شنبه ۲۸ شهریور
+   Link: https://soundcloud.com/iranintl/bwxcmavqaqed
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+38. [  ] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/7zsbkbhxxbxm
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+39. [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/govun6hhl9ng
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+40. [  ] اخبار بامدادی | جمعه ۲۷ شهریور
+   Link: https://soundcloud.com/iranintl/wwcwmk9zkr92
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT] اخبار بامدادی | جمعه ۳ مهر
-   [✅ ACCEPT] اخبار نیمروزی | پنج‌شنبه ۳ مهر
-   [✅ ACCEPT] اخبار بامدادی | پنج‌شنبه ۳ مهر
-📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):
+📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
    [  ] اخبار بامدادی | جمعه ۳ مهر
    [  ] ۲۴ با فرداد فرحزاد: نتانیاهو: حاکمان تهران بیش از هرچیز از مردم ایران می‌ترسند
    [✅ همسان] اخبار شبانگاهی | پنجشنبه ۲ مهر
@@ -590,94 +864,194 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [  ] اخبار نیمروزی | سه‌شنبه ۳۱ شهریور
    [  ] اخبار بامدادی | سه‌شنبه ۳۱ شهریور
    [  ] برنامه با کامبیز حسینی | امروز چند ساعت «اسنپ» کار کردی و چقدر برایت ماند؟
+   [  ] سیاست با مراد ویسی: مردم ایران، از باور به سرنگونی اقدام برای سرنگونی
+   [  ] چشم‌انداز: آیا سفر پزشکیان به نیویورک باعث نجات حکومت ایران می‌شود؟
+   [  ] تیتراول با نیوشا صارمی: واشینگتن: آسمان جهان از پس‌فردا به روی تمام شرکت‌های هوایی ایران بسته می‌شود
+   [✅ همسان] اخبار شبانگاهی | دوشنبه ۳۰ شهریور
+   [  ] اخبار نیمروزی | دوشنبه ۳۰ شهریور
+   [  ] اخبار بامدادی | دوشنبه ۳۰ شهریور
+   [  ] سیاست با مراد ویسی: نشانه‌های حمله بزرگ و نزدیک
+   [  ] چشم‌انداز: عقب‌نشینی بزرگ سپاه و حذف راهبرد خامنه‌ای برای نجات نظام
+   [  ] تیتراول با نیوشا صارمی: ترامپ در آستانه «اتفاق بزرگ» در ایران؛ خاتم‌الانبیا تهدید به پاسخ دردناک کرد
+   [  ] اخبار نیمروزی | یکشنبه ۲۹ شهریور
+   [  ] اخبار بامدادی | یک‌شنبه ۲۹ شهریور
+   [  ] سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی
+   [  ] چشم‌انداز: دورخیز آمریکا برای محاصره هوایی ایران بعد از محاصره دریایی
+   [  ] تیتراول با نیوشا صارمی: هشدار درباره احتمال حمله پوتین به خاک ناتو؛ آمادگی‌ها از سوئیس تا لهستان
+   [✅ همسان] اخبار شبانگاهی | شنبه ۲۸ شهریور
+   [  ] اخبار نیمروزی | شنبه ۲۸ شهریور
+   [  ] اخبار بامدادی | شنبه ۲۸ شهریور
+   [✅ همسان] اخبار شبانگاهی | جمعه ۲۷ شهریور
+   [  ] اخبار نیم‌روزی | جمعه ۲۷ شهریور
+   [  ] اخبار بامدادی | جمعه ۲۷ شهریور
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
-✅ 50 آهنگ/ویدئو پیدا شد (محدود به 50 تای آخر).
+✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
 1. [  ] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/iqqtrb7mcfon
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 2. [  ] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jutnxmdwdxoe
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 3. [  ] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p9dpo3e4xw23
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 4. [  ] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/rkkn8ahihrlx
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 5. [  ] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/d6i8xedxw86a
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 6. [  ] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/xveg1ql7yy8i
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 7. [  ] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/btqrxpfmkjiw
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 8. [  ] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/uciogplp6q1t
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 9. [  ] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/wwnfyqs02ltw
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 10. [  ] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/akg7jmmqcah4
    Published: Unknown | date_known=False
-   Recent: False | Top10: True | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 11. [  ] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/9v8fh0vm8bjj
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 12. [  ] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jspgu4eqdlyd
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 13. [  ] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/nxwo1au5tzav
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 14. [  ] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p5bani9x3cnc
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 15. [  ] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/g9l5xvq7rvmh
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 16. [  ] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/yxouf99rqxiu
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 17. [  ] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/xyxqhcfnozou
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 18. [  ] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ornlzlavxktx
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 19. [  ] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/qjgdhvxbyqkm
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
+   Recent: False | Persian-today: False | Weekday-ok: True
 20. [  ] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/f1xkr8pjxcrv
    Published: Unknown | date_known=False
-   Recent: False | Top10: False | Persian-today: False
-... و 30 مورد دیگر (نمایش محدود به 20)
+   Recent: False | Persian-today: False | Weekday-ok: True
+21. [  ] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/xr3u8ubeqwfk
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+22. [  ] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/vabpemvsw9pu
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+23. [  ] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/wwg9ablnjyhp
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+24. [  ] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/ltbo2nmd9r3d
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+25. [  ] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/s0eorjeinwy3
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+26. [  ] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/5s8rdk6klhvh
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+27. [  ] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/fsmpgwe842wu
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+28. [  ] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/4bnapbrig40a
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+29. [  ] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/u7nvdepqusly
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+30. [  ] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/k8guctlx4gqz
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+31. [  ] جام جهان‌نما ۲۵ اوت ۲۰۲۶ / ۳ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/1dxuwotzdadb
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+32. [  ] جام جهان‌نما ۲۴ اوت ۲۰۲۶ / ۲ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/r13x0mhufq0x
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+33. [  ] جام جهان‌نما ۲۳ اوت ۲۰۲۶ / ۱ شهریور ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/xdd1eqv78p2o
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+34. [  ] جام جهان‌نما ۲۲ اوت ۲۰۲۶ / ۳۱ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/5apzvjpjrfte
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+35. [  ] جام جهان‌نما ۲۱ اوت ۲۰۲۶ / ۳۰ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/yvslhjndmpeq
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+36. [  ] جام جهان‌نما ۲۰ اوت ۲۰۲۶ / ۲۹ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/1pqwfhf0unpx
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+37. [  ] جام جهان‌نما ۱۹ اوت ۲۰۲۶ / ۲۸ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/fcbiooh9qlqy
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+38. [  ] جام جهان‌نما ۱۸ اوت ۲۰۲۶ / ۲۷ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/zybczrnhfycf
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+39. [  ] جام جهان‌نما ۱۷ اوت ۲۰۲۶ / ۲۶ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/lro3caftsigf
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+40. [  ] جام جهان‌نما ۱۶ اوت ۲۰۲۶ / ۲۵ مرداد ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/2nszjbapygbq
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
-   هیچ ترکی با فیلتر تاریخ + موقعیت + تاریخ شمسی امروز قبول نشد.
-📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):
+   هیچ ترکی با فیلتر تاریخ + تاریخ شمسی + روز هفته قبول نشد.
+📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
    [✅ همسان] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
@@ -698,56 +1072,81 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [✅ همسان] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۵ اوت ۲۰۲۶ / ۳ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۴ اوت ۲۰۲۶ / ۲ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۳ اوت ۲۰۲۶ / ۱ شهریور ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۲ اوت ۲۰۲۶ / ۳۱ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۱ اوت ۲۰۲۶ / ۳۰ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۲۰ اوت ۲۰۲۶ / ۲۹ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۹ اوت ۲۰۲۶ / ۲۸ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۸ اوت ۲۰۲۶ / ۲۷ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۷ اوت ۲۰۲۶ / ۲۶ مرداد ۱۴۰۵
+   [✅ همسان] جام جهان‌نما ۱۶ اوت ۲۰۲۶ / ۲۵ مرداد ۱۴۰۵
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
+1. سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   Link: https://www.youtube.com/watch?v=IXDzV4UkO2U
+   Published: 2026-09-25T12:15:17+00:00
+2. سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   Link: https://www.youtube.com/watch?v=_1yZCdgja8E
+   Published: 2026-09-25T12:14:21+00:00
+3. ممنوعیت برقع و نقاب در مدارس ایتالیا
+   Link: https://www.youtube.com/watch?v=fvPYVBX_8cg
+   Published: 2026-09-25T12:08:49+00:00
+4. اخبار نیمروزی | جمعه ۳ مهر
+   Link: https://www.youtube.com/watch?v=TNvsjgMabZA
+   Published: 2026-09-25T12:04:12+00:00
+5. شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
+   Link: https://www.youtube.com/shorts/e5DcF-McQt0
+   Published: 2026-09-25T12:00:04+00:00
+6. کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=h296T7HAchU
    Published: 2026-09-25T11:10:19+00:00
-2. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
+7. محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    Link: https://www.youtube.com/watch?v=J-hWh9szlbM
    Published: 2026-09-25T11:01:54+00:00
-3. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
+8. پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
    Link: https://www.youtube.com/shorts/hJdZqv7Chxk
    Published: 2026-09-25T10:56:39+00:00
-4. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
+9. لیلا مروتی: اختلاف‌های واشینگتن و پکن مانع حفظ تعامل میان دو کشور نشده است
    Link: https://www.youtube.com/watch?v=CFuOYZVQ1uw
    Published: 2026-09-25T10:24:42+00:00
-5. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
+10. حزب چپ آلمان در پی تشکیل ائتلاف با سبزها و سوسیال‌دموکرات‌ها در برلین
    Link: https://www.youtube.com/watch?v=Q863cYmdWMA
    Published: 2026-09-25T10:09:17+00:00
-6. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
+11. عراقچی با همتایان روس، اسپانیایی و پرتغالی خود در سازمان ملل دیدار کرد
    Link: https://www.youtube.com/shorts/uE1bQ7neIEw
    Published: 2026-09-25T10:06:47+00:00
-7. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
+12. روح‌الله رحیم‌پور: چین می‌تواند تهران و واشینگتن را پای میز مذاکره بیاورد
    Link: https://www.youtube.com/watch?v=p84e3z-8KVs
    Published: 2026-09-25T09:35:45+00:00
-8. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
+13. مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    Link: https://www.youtube.com/watch?v=r69q1GPFW8A
    Published: 2026-09-25T09:13:06+00:00
-9. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
+14. عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    Link: https://www.youtube.com/watch?v=XeBSWjWtAzw
    Published: 2026-09-25T08:09:47+00:00
-10. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
+15. نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
    Link: https://www.youtube.com/watch?v=ZZgpLPnCi6c
    Published: 2026-09-25T07:55:56+00:00
-11. دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   Link: https://www.youtube.com/watch?v=ShbV_DJSNj4
-   Published: 2026-09-25T07:53:10+00:00
-12. مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   Link: https://www.youtube.com/watch?v=pPLx0CaD_c0
-   Published: 2026-09-25T06:44:39+00:00
-13. شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   Link: https://www.youtube.com/watch?v=oegAD_MyBKc
-   Published: 2026-09-25T06:33:40+00:00
-14. پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   Link: https://www.youtube.com/watch?v=9vabkNecxyM
-   Published: 2026-09-25T05:55:27+00:00
-15. اخبار بامدادی | جمعه ۳ مهر
-   Link: https://www.youtube.com/watch?v=gfvJb4taarM
-   Published: 2026-09-25T05:51:08+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] سخنان انتقادی نتانیاهو درباره سرکوب و کشتار کردها از سوی دولت ترکیه
+   [  ] سرکوب معترضان در بجنورد با مشارکت شبکه‌های مذهبی و نهادهای دولتی در جریان انقلاب ملی
+   [  ] ممنوعیت برقع و نقاب در مدارس ایتالیا
+   [✅ همسان] اخبار نیمروزی | جمعه ۳ مهر
+   [  ] شکست حوثی‌ها تنها راهِ تامین امنیت دریای سرخ است
    [  ] کارزار جهانی عفو بین‌الملل برای محکومیت مقامات جمهوری اسلامی
    [  ] محمدجواد اکبرین: مصاحبه پزشکیان با فاکس‌نیوز تحریف و تکذیب حقیقت بود
    [  ] پزشکیان بر توانایی مجتبی خامنه‌ای برای حکمرانی صحه گذاشت
@@ -758,8 +1157,3 @@ SoundCloud: max_age=48h | playlist_end=50 | top_unknown_safe=10
    [  ] مخاطبان ایران‌اینترنشنال: نتانیاهو صدای مردم ایران در جهان شد
    [  ] عربستان سعودی، پاکستان و ترکیه برای دفاع از ریاض آماده می‌شوند
    [  ] نتانیاهو: رژیم حاکم بر ایران بیش از هر چیز از مردم ایران می‌ترسد
-   [  ] دیدار پزشکیان و شهباز شریف در حاشیه مجمع عمومی سازمان ملل
-   [  ] مهدی صارمی‌فر: استارلینک مانع ایجاد «تاریکی مطلق» ارتباطی در ایران شده است
-   [  ] شایان سمیعی: حوثی‌ها به دنبال گرفتن راه فرار صادراتی از عربستان سعودی هستند
-   [  ] پایان سومین دوره جشنواره بین‌المللی فیلم «زن، زندگی، آزادی» در تورنتو
-   [  ] اخبار بامدادی | جمعه ۳ مهر
