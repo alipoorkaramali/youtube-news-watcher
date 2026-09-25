@@ -9,7 +9,9 @@ from datetime import datetime, timedelta, timezone
 # ================== تنظیمات ==================
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "diagnostic_results.txt"
-SOUNDCLOUD_MAX_AGE_HOURS = 48  # همان مقدار youtube_scanner.py
+SOUNDCLOUD_MAX_AGE_HOURS = 48
+SOUNDCLOUD_PLAYLIST_END = 50
+SOUNDCLOUD_TOP_UNKNOWN_SAFE = 10
 
 def write_output(text):
     """نوشتن هم در کنسول و هم در فایل"""
@@ -54,8 +56,32 @@ def gregorian_to_jalali(gy, gm, gd):
     jd = days + 1
     return (jy, jm, jd)
 
+def extract_soundcloud_date(entry):
+    """همان منطق youtube_scanner.py"""
+    upload_date_str = entry.get('upload_date')
+    if upload_date_str and isinstance(upload_date_str, str) and len(upload_date_str) >= 8:
+        try:
+            pub_date = datetime.strptime(upload_date_str[:8], "%Y%m%d").replace(tzinfo=timezone.utc)
+            return pub_date, True
+        except ValueError:
+            pass
+
+    for key in ('timestamp', 'release_timestamp', 'modified_timestamp'):
+        ts = entry.get(key)
+        if ts is not None:
+            try:
+                ts = float(ts)
+                if ts > 1e12:
+                    ts = ts / 1000.0
+                if ts > 1e9:
+                    pub_date = datetime.fromtimestamp(ts, tz=timezone.utc)
+                    return pub_date, True
+            except (ValueError, TypeError, OSError):
+                pass
+
+    return None, False
+
 def fetch_rss_youtube(channel_id, limit=15):
-    """دریافت عناوین و لینک‌ها از RSS یوتیوب"""
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     write_output(f"📡 دریافت فید یوتیوب: {url}")
     headers = {
@@ -85,31 +111,25 @@ def fetch_rss_youtube(channel_id, limit=15):
         write_output(f"❌ خطا در یوتیوب: {e}")
         return []
 
-def fetch_soundcloud_by_ytdlp(url, limit=15):
-    """دریافت عناوین، لینک‌ها و تاریخ آپلود واقعی از ساندکلاد با yt-dlp"""
+def fetch_soundcloud_by_ytdlp(url, limit=20):
     write_output(f"📡 دریافت اطلاعات از ساندکلاد: {url}")
     try:
-        cmd = ['yt-dlp', '--flat-playlist', '-J', '--no-warnings', url]
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        cmd = [
+            'yt-dlp', '--flat-playlist', '-J', '--no-warnings',
+            '--playlist-end', str(SOUNDCLOUD_PLAYLIST_END), url
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=90)
         if result.returncode != 0:
             write_output(f"❌ yt-dlp خطا: {result.stderr[:200]}")
             return []
         data = json.loads(result.stdout)
 
-        entries = []
-        if 'entries' in data:
-            entries = data['entries']
-        elif data.get('_type') == 'playlist':
-            entries = data.get('entries', [])
-        elif 'title' in data:
+        entries = data.get('entries') or []
+        if not entries and data.get('title'):
             entries = [data]
-        else:
-            write_output("❌ فرمت داده نامشخص است.")
-            return []
 
-        write_output(f"✅ {len(entries)} آهنگ/ویدئو پیدا شد.")
+        write_output(f"✅ {len(entries)} آهنگ/ویدئو پیدا شد (محدود به {SOUNDCLOUD_PLAYLIST_END} تای آخر).")
 
-        # تاریخ امروز شمسی (همان منطق scanner)
         today_greg = iran_now().date()
         jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
         today_persian = (jy, jm, jd)
@@ -122,25 +142,24 @@ def fetch_soundcloud_by_ytdlp(url, limit=15):
         cutoff = datetime.now(timezone.utc) - timedelta(hours=SOUNDCLOUD_MAX_AGE_HOURS)
 
         results = []
-        for idx, track in enumerate(entries[:limit]):
+        show_limit = min(limit, len(entries))
+        for idx, track in enumerate(entries[:show_limit]):
+            if not track:
+                continue
             title = track.get('title', 'بدون عنوان')
             link = track.get('webpage_url') or track.get('url') or ''
 
-            # استخراج تاریخ واقعی آپلود (همان منطق youtube_scanner)
-            upload_date_str = track.get('upload_date')
-            if upload_date_str:
-                pub_date = datetime.strptime(upload_date_str, "%Y%m%d").replace(tzinfo=timezone.utc)
-            else:
-                timestamp = track.get('timestamp')
-                if timestamp:
-                    pub_date = datetime.fromtimestamp(timestamp, tz=timezone.utc)
-                else:
-                    pub_date = None
-
+            pub_date, date_known = extract_soundcloud_date(track)
             pub_str = pub_date.isoformat() if pub_date else 'Unknown'
 
-            # اعمال همان فیلتر اصلی scanner
-            is_recent = pub_date is not None and pub_date >= cutoff
+            # منطق ACCEPT دقیقاً مثل youtube_scanner
+            if date_known:
+                is_recent = pub_date is not None and pub_date >= cutoff
+                position_ok = True
+            else:
+                is_recent = False
+                position_ok = idx < SOUNDCLOUD_TOP_UNKNOWN_SAFE
+
             persian_match = False
             if title:
                 match = re.search(
@@ -155,13 +174,15 @@ def fetch_soundcloud_by_ytdlp(url, limit=15):
                     if (year, month, day) == today_persian:
                         persian_match = True
 
-            would_accept = is_recent and persian_match
+            would_accept = (is_recent or (not date_known and position_ok)) and persian_match
 
             results.append({
                 "title": title,
                 "link": link,
                 "published_str": pub_str,
+                "date_known": date_known,
                 "is_recent": is_recent,
+                "position_ok": position_ok,
                 "persian_match": persian_match,
                 "would_accept": would_accept
             })
@@ -169,11 +190,11 @@ def fetch_soundcloud_by_ytdlp(url, limit=15):
             status = "✅ ACCEPT" if would_accept else "  "
             write_output(f"{idx+1}. [{status}] {title}")
             write_output(f"   Link: {link if link else '(نامشخص)'}")
-            write_output(f"   Published: {pub_str}")
-            write_output(f"   Recent(<{SOUNDCLOUD_MAX_AGE_HOURS}h): {is_recent} | Persian-date-today: {persian_match}")
+            write_output(f"   Published: {pub_str} | date_known={date_known}")
+            write_output(f"   Recent: {is_recent} | Top{SOUNDCLOUD_TOP_UNKNOWN_SAFE}: {position_ok} | Persian-today: {persian_match}")
 
-        if len(entries) > limit:
-            write_output(f"... و {len(entries)-limit} مورد دیگر (محدودیت {limit})")
+        if len(entries) > show_limit:
+            write_output(f"... و {len(entries)-show_limit} مورد دیگر (نمایش محدود به {show_limit})")
         return results
     except subprocess.TimeoutExpired:
         write_output("❌ زمان‌بری در دریافت اطلاعات از ساندکلاد")
@@ -186,7 +207,7 @@ def main():
     if os.path.exists(OUTPUT_FILE):
         os.remove(OUTPUT_FILE)
     write_output("=== Diagnostic Results ===")
-    write_output(f"SoundCloud max age filter: {SOUNDCLOUD_MAX_AGE_HOURS} hours (same as main scanner)")
+    write_output(f"SoundCloud: max_age={SOUNDCLOUD_MAX_AGE_HOURS}h | playlist_end={SOUNDCLOUD_PLAYLIST_END} | top_unknown_safe={SOUNDCLOUD_TOP_UNKNOWN_SAFE}")
 
     if not os.path.exists(WATCHLIST_FILE):
         write_output("❌ فایل watchlist.json وجود ندارد.")
@@ -228,9 +249,9 @@ def main():
                         kw_match = any(kw.lower() in r['title'].lower() for kw in keywords)
                         write_output(f"   {'[✅ ACCEPT + KEYWORD]' if kw_match else '[✅ ACCEPT]'} {r['title']}")
                 else:
-                    write_output("   هیچ ترکی با فیلتر تاریخ واقعی + تاریخ شمسی امروز قبول نشد.")
+                    write_output("   هیچ ترکی با فیلتر تاریخ + موقعیت + تاریخ شمسی امروز قبول نشد.")
 
-                write_output("📋 همه عناوین + وضعیت کلیدواژه:")
+                write_output("📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):")
                 for r in results:
                     match = any(kw.lower() in r['title'].lower() for kw in keywords)
                     write_output(f"   {'[✅ همسان]' if match else '[  ]'} {r['title']}")
