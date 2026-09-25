@@ -127,30 +127,28 @@ def normalize_title_for_dedup(title: str) -> str:
 
 
 def load_seen_titles():
-    """بارگذاری عناوین دیده‌شده. ساختار: { "YYYY-MM-DD": { "normalized_title": {platform, url, at} } }"""
+    """بارگذاری عناوین دیده‌شده. فقط روز جاری معتبر است."""
     if not os.path.exists(SEEN_TITLES_FILE):
         return {}
     try:
         with open(SEEN_TITLES_FILE, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return data if isinstance(data, dict) else {}
+        if not isinstance(data, dict):
+            return {}
+        today = str(iran_now().date())
+        # اگر فایل مربوط به روز دیگری است، خالی برگردان
+        if today not in data:
+            return {}
+        return {today: data[today]}
     except Exception:
         return {}
 
 
 def save_seen_titles(data: dict):
-    """ذخیره و پاکسازی روزهای قدیمی‌تر از ۳ روز"""
+    """ذخیره؛ فقط محتوای همان روز نگه داشته می‌شود و روزهای قبلی پاک می‌شوند."""
     today = str(iran_now().date())
-    # فقط ۳ روز اخیر نگه دار
-    try:
-        from datetime import date as date_cls
-        keep = set()
-        base = iran_now().date()
-        for i in range(0, 4):
-            keep.add(str(base - timedelta(days=i)))
-        data = {k: v for k, v in data.items() if k in keep}
-    except Exception:
-        pass
+    # فقط امروز — با عوض شدن تاریخ، بقیه حذف می‌شوند
+    data = {today: data.get(today) or {}}
     os.makedirs(os.path.dirname(SEEN_TITLES_FILE), exist_ok=True)
     with open(SEEN_TITLES_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
