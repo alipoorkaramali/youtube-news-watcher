@@ -18,6 +18,8 @@ MAX_UNIQUE_CHANNELS = 5
 MIN_CHECK_INTERVAL = 30
 MAX_ATTEMPTS_LIMIT = 10
 SOUNDCLOUD_MAX_AGE_HOURS = 48  # فقط ترک‌هایی که در این بازه آپلود شده‌اند
+SOUNDCLOUD_PLAYLIST_END = 50   # فقط آخرین ترک‌ها (جدیدترین‌ها اول هستند)
+SOUNDCLOUD_TOP_UNKNOWN_SAFE = 10  # اگر تاریخ Unknown بود، فقط N تای اول قابل اعتمادند
 
 # ================== ابزارهای زمان ==================
 def iran_offset():
@@ -93,6 +95,36 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
+# ================== استخراج تاریخ از entry ساندکلاد ==================
+def extract_soundcloud_date(entry):
+    """سعی می‌کند تاریخ واقعی آپلود را از فیلدهای مختلف yt-dlp استخراج کند.
+    برمی‌گرداند: (datetime یا None, date_known: bool)
+    """
+    # 1. upload_date به صورت YYYYMMDD
+    upload_date_str = entry.get('upload_date')
+    if upload_date_str and isinstance(upload_date_str, str) and len(upload_date_str) >= 8:
+        try:
+            pub_date = datetime.strptime(upload_date_str[:8], "%Y%m%d").replace(tzinfo=timezone.utc)
+            return pub_date, True
+        except ValueError:
+            pass
+
+    # 2. timestamp / release_timestamp / modified_timestamp (unix)
+    for key in ('timestamp', 'release_timestamp', 'modified_timestamp'):
+        ts = entry.get(key)
+        if ts is not None:
+            try:
+                ts = float(ts)
+                if ts > 1e12:  # milliseconds
+                    ts = ts / 1000.0
+                if ts > 1e9:   # valid unix range roughly
+                    pub_date = datetime.fromtimestamp(ts, tz=timezone.utc)
+                    return pub_date, True
+            except (ValueError, TypeError, OSError):
+                pass
+
+    return None, False
+
 # ================== دریافت پلی‌لیست ساندکلاد ==================
 def fetch_soundcloud_playlist(playlist_url):
     print(f"  📡 دریافت پلی‌لیست ساندکلاد: {playlist_url}")
@@ -102,29 +134,35 @@ def fetch_soundcloud_playlist(playlist_url):
             "--flat-playlist",
             "-J",
             "--no-warnings",
+            "--playlist-end", str(SOUNDCLOUD_PLAYLIST_END),
             playlist_url
         ]
-        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True, timeout=90)
         data = json.loads(result.stdout)
         tracks = []
-        for entry in data.get('entries', []):
+        entries = data.get('entries') or []
+        for idx, entry in enumerate(entries):
+            if not entry:
+                continue
             title = entry.get('title')
             link = entry.get('webpage_url') or entry.get('url')
-            upload_date_str = entry.get('upload_date')
-            if upload_date_str:
-                pub_date = datetime.strptime(upload_date_str, "%Y%m%d").replace(tzinfo=timezone.utc)
-            else:
-                timestamp = entry.get('timestamp')
-                if timestamp:
-                    pub_date = datetime.fromtimestamp(timestamp, tz=timezone.utc)
-                else:
-                    pub_date = datetime.now(timezone.utc)
+            pub_date, date_known = extract_soundcloud_date(entry)
+
+            # اگر تاریخ پیدا نشد، برای ترک‌های خیلی بالا (جدیدترین‌ها) تاریخ فعلی را موقتاً می‌گذاریم
+            # ولی با فلگ date_known=False تا در فیلتر سخت‌گیرانه‌تر رفتار کنیم
+            if pub_date is None:
+                pub_date = datetime.now(timezone.utc)
+
             if title and link:
                 tracks.append({
                     "title": title,
                     "link": link,
-                    "published_date": pub_date
+                    "published_date": pub_date,
+                    "date_known": date_known,
+                    "position": idx  # 0 = جدیدترین
                 })
+        known = sum(1 for t in tracks if t['date_known'])
+        print(f"  📊 {len(tracks)} ترک دریافت شد | تاریخ واقعی: {known} | بدون تاریخ: {len(tracks)-known}")
         return tracks
     except Exception as e:
         print(f"  ❌ خطا در دریافت پلی‌لیست ساندکلاد: {e}")
@@ -303,16 +341,26 @@ def process_item(item):
             'دی':10, 'بهمن':11, 'اسفند':12
         }
 
-        # فقط ترک‌هایی که واقعاً اخیراً آپلود شده‌اند (جلوگیری از اخبار پارسال)
         cutoff = datetime.now(timezone.utc) - timedelta(hours=SOUNDCLOUD_MAX_AGE_HOURS)
 
         recent = []
         for v in videos:
-            # فیلتر اول: تاریخ واقعی آپلود باید جدید باشد
-            if v['published_date'] < cutoff:
-                continue
-
             title = v['title']
+            date_known = v.get('date_known', True)
+            position = v.get('position', 999)
+
+            # ---- فیلتر تاریخ ----
+            if date_known:
+                # تاریخ واقعی داریم → باید داخل بازه ۴۸ ساعت باشد
+                if v['published_date'] < cutoff:
+                    continue
+            else:
+                # تاریخ Unknown → فقط اگر جزو جدیدترین‌ها باشد قابل اعتماد است
+                # (ساندکلاد معمولاً جدیدترین را اول نشان می‌دهد)
+                if position >= SOUNDCLOUD_TOP_UNKNOWN_SAFE:
+                    continue
+
+            # ---- فیلتر تاریخ شمسی در عنوان ----
             match = re.search(r'(\d{1,2})\s+'
                               r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
                               r'(?:\s+(\d{4}))?', title)
