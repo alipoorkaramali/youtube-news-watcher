@@ -21,6 +21,19 @@ SOUNDCLOUD_MAX_AGE_HOURS = 48  # فقط ترک‌هایی که در این با�
 SOUNDCLOUD_PLAYLIST_END = 50   # فقط آخرین ترک‌ها (جدیدترین‌ها اول هستند)
 SOUNDCLOUD_TOP_UNKNOWN_SAFE = 10  # اگر تاریخ Unknown بود، فقط N تای اول قابل اعتمادند
 
+# نام روزهای هفته شمسی → weekday پایتون (Mon=0 ... Sun=6)
+PERSIAN_WEEKDAYS = {
+    'شنبه': 5,       # Saturday
+    'یکشنبه': 6,     # Sunday
+    'دوشنبه': 0,     # Monday
+    'سه‌شنبه': 1,    # Tuesday
+    'سه شنبه': 1,
+    'چهارشنبه': 2,   # Wednesday
+    'پنج‌شنبه': 3,   # Thursday
+    'پنجشنبه': 3,
+    'جمعه': 4,       # Friday
+}
+
 # ================== ابزارهای زمان ==================
 def iran_offset():
     return timedelta(hours=3, minutes=30)
@@ -100,7 +113,6 @@ def extract_soundcloud_date(entry):
     """سعی می‌کند تاریخ واقعی آپلود را از فیلدهای مختلف yt-dlp استخراج کند.
     برمی‌گرداند: (datetime یا None, date_known: bool)
     """
-    # 1. upload_date به صورت YYYYMMDD
     upload_date_str = entry.get('upload_date')
     if upload_date_str and isinstance(upload_date_str, str) and len(upload_date_str) >= 8:
         try:
@@ -109,15 +121,14 @@ def extract_soundcloud_date(entry):
         except ValueError:
             pass
 
-    # 2. timestamp / release_timestamp / modified_timestamp (unix)
     for key in ('timestamp', 'release_timestamp', 'modified_timestamp'):
         ts = entry.get(key)
         if ts is not None:
             try:
                 ts = float(ts)
-                if ts > 1e12:  # milliseconds
+                if ts > 1e12:
                     ts = ts / 1000.0
-                if ts > 1e9:   # valid unix range roughly
+                if ts > 1e9:
                     pub_date = datetime.fromtimestamp(ts, tz=timezone.utc)
                     return pub_date, True
             except (ValueError, TypeError, OSError):
@@ -148,8 +159,6 @@ def fetch_soundcloud_playlist(playlist_url):
             link = entry.get('webpage_url') or entry.get('url')
             pub_date, date_known = extract_soundcloud_date(entry)
 
-            # اگر تاریخ پیدا نشد، برای ترک‌های خیلی بالا (جدیدترین‌ها) تاریخ فعلی را موقتاً می‌گذاریم
-            # ولی با فلگ date_known=False تا در فیلتر سخت‌گیرانه‌تر رفتار کنیم
             if pub_date is None:
                 pub_date = datetime.now(timezone.utc)
 
@@ -159,7 +168,7 @@ def fetch_soundcloud_playlist(playlist_url):
                     "link": link,
                     "published_date": pub_date,
                     "date_known": date_known,
-                    "position": idx  # 0 = جدیدترین
+                    "position": idx
                 })
         known = sum(1 for t in tracks if t['date_known'])
         print(f"  📊 {len(tracks)} ترک دریافت شد | تاریخ واقعی: {known} | بدون تاریخ: {len(tracks)-known}")
@@ -333,6 +342,7 @@ def process_item(item):
         today_greg = iran_now().date()
         jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
         today_persian = (jy, jm, jd)
+        today_weekday = today_greg.weekday()  # Mon=0 ... Sun=6
 
         persian_months = {
             'فروردین':1, 'اردیبهشت':2, 'خرداد':3,
@@ -349,27 +359,46 @@ def process_item(item):
             date_known = v.get('date_known', True)
             position = v.get('position', 999)
 
-            # ---- فیلتر تاریخ ----
+            # ---- فیلتر تاریخ واقعی / موقعیت ----
             if date_known:
-                # تاریخ واقعی داریم → باید داخل بازه ۴۸ ساعت باشد
                 if v['published_date'] < cutoff:
                     continue
             else:
-                # تاریخ Unknown → فقط اگر جزو جدیدترین‌ها باشد قابل اعتماد است
-                # (ساندکلاد معمولاً جدیدترین را اول نشان می‌دهد)
                 if position >= SOUNDCLOUD_TOP_UNKNOWN_SAFE:
                     continue
 
-            # ---- فیلتر تاریخ شمسی در عنوان ----
-            match = re.search(r'(\d{1,2})\s+'
-                              r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
-                              r'(?:\s+(\d{4}))?', title)
-            if match:
-                day = int(match.group(1))
-                month = persian_months[match.group(2)]
-                year = int(match.group(3)) if match.group(3) else jy
-                if (year, month, day) == today_persian:
-                    recent.append(v)
+            # ---- فیلتر تاریخ شمسی + نام روز هفته در عنوان ----
+            # مثال: «اخبار بامدادی | جمعه ۳ مهر» یا «پنج‌شنبه ۳ مهر ۱۴۰۴»
+            match = re.search(
+                r'(?:(شنبه|یکشنبه|دوشنبه|سه‌شنبه|سه\s*شنبه|چهارشنبه|پنج‌شنبه|پنجشنبه|جمعه)\s+)?'
+                r'(\d{1,2})\s+'
+                r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
+                r'(?:\s+(\d{4}))?',
+                title
+            )
+            if not match:
+                continue
+
+            weekday_name = match.group(1)
+            day = int(match.group(2))
+            month = persian_months[match.group(3)]
+            year = int(match.group(4)) if match.group(4) else jy
+
+            if (year, month, day) != today_persian:
+                continue
+
+            # اگر نام روز در عنوان هست، باید با امروز یکی باشد
+            # (جلوگیری از «پنج‌شنبه ۳ مهر» وقتی امروز جمعه ۳ مهر است)
+            if weekday_name:
+                # نرمال‌سازی سه شنبه
+                wn = weekday_name.replace(' ', '')
+                if wn == 'سهشنبه':
+                    wn = 'سه‌شنبه'
+                expected = PERSIAN_WEEKDAYS.get(weekday_name) or PERSIAN_WEEKDAYS.get(wn)
+                if expected is not None and expected != today_weekday:
+                    continue
+
+            recent.append(v)
     else:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
         recent = [v for v in videos if v['published_date'] >= cutoff]
@@ -396,7 +425,6 @@ def process_item(item):
             print(f"  ✅ ذخیره شد: {matched['title']} ({rel})")
             state['found'] = True
 
-            # ===================== Trigger دانلودر (با requests) =====================
             print(f"🎯 ویدیو پیدا شد! در حال ارسال درخواست به دانلودر...")
             try:
                 downloader_repo = "alipoorkaramali/new-youtube-SoundCloud-downloader"
@@ -435,7 +463,7 @@ def process_item(item):
                         print(f"⚠️ خطا در ارسال trigger: {response.status_code} - {response.text[:200]}")
             except Exception as e:
                 print(f"⚠️ خطا در trigger دانلودر: {e}")
-            # ===================== NEW Trigger for youtube-SoundCloud-downloader =====================
+
             print(f"🎯 ارسال تریگر به مخزن دوم (repository_dispatch)...")
             try:
                 second_repo = "alipoorkaramali/youtube-SoundCloud-downloader"
@@ -445,7 +473,6 @@ def process_item(item):
                     print("⚠️ GH_PAT تنظیم نشده است، تریگر دوم ارسال نشد.")
                 else:
                     event_type = "trigger-download"
-
                     content_type = "video" if plat_label == "youtube" else "audio"
 
                     payload = {
