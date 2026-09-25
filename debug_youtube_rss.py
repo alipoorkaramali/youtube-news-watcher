@@ -13,8 +13,19 @@ SOUNDCLOUD_MAX_AGE_HOURS = 48
 SOUNDCLOUD_PLAYLIST_END = 50
 SOUNDCLOUD_TOP_UNKNOWN_SAFE = 10
 
+PERSIAN_WEEKDAYS = {
+    'شنبه': 5,
+    'یکشنبه': 6,
+    'دوشنبه': 0,
+    'سه‌شنبه': 1,
+    'سه شنبه': 1,
+    'چهارشنبه': 2,
+    'پنج‌شنبه': 3,
+    'پنجشنبه': 3,
+    'جمعه': 4,
+}
+
 def write_output(text):
-    """نوشتن هم در کنسول و هم در فایل"""
     print(text)
     with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
         f.write(text + '\n')
@@ -57,7 +68,6 @@ def gregorian_to_jalali(gy, gm, gd):
     return (jy, jm, jd)
 
 def extract_soundcloud_date(entry):
-    """همان منطق youtube_scanner.py"""
     upload_date_str = entry.get('upload_date')
     if upload_date_str and isinstance(upload_date_str, str) and len(upload_date_str) >= 8:
         try:
@@ -133,6 +143,7 @@ def fetch_soundcloud_by_ytdlp(url, limit=20):
         today_greg = iran_now().date()
         jy, jm, jd = gregorian_to_jalali(today_greg.year, today_greg.month, today_greg.day)
         today_persian = (jy, jm, jd)
+        today_weekday = today_greg.weekday()
         persian_months = {
             'فروردین':1, 'اردیبهشت':2, 'خرداد':3,
             'تیر':4, 'مرداد':5, 'شهریور':6,
@@ -152,7 +163,6 @@ def fetch_soundcloud_by_ytdlp(url, limit=20):
             pub_date, date_known = extract_soundcloud_date(track)
             pub_str = pub_date.isoformat() if pub_date else 'Unknown'
 
-            # منطق ACCEPT دقیقاً مثل youtube_scanner
             if date_known:
                 is_recent = pub_date is not None and pub_date >= cutoff
                 position_ok = True
@@ -161,20 +171,32 @@ def fetch_soundcloud_by_ytdlp(url, limit=20):
                 position_ok = idx < SOUNDCLOUD_TOP_UNKNOWN_SAFE
 
             persian_match = False
+            weekday_ok = True
             if title:
                 match = re.search(
+                    r'(?:(شنبه|یکشنبه|دوشنبه|سه‌شنبه|سه\s*شنبه|چهارشنبه|پنج‌شنبه|پنجشنبه|جمعه)\s+)?'
                     r'(\d{1,2})\s+'
                     r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
-                    r'(?:\s+(\d{4}))?', title
+                    r'(?:\s+(\d{4}))?',
+                    title
                 )
                 if match:
-                    day = int(match.group(1))
-                    month = persian_months[match.group(2)]
-                    year = int(match.group(3)) if match.group(3) else jy
+                    weekday_name = match.group(1)
+                    day = int(match.group(2))
+                    month = persian_months[match.group(3)]
+                    year = int(match.group(4)) if match.group(4) else jy
                     if (year, month, day) == today_persian:
                         persian_match = True
+                        if weekday_name:
+                            wn = weekday_name.replace(' ', '')
+                            if wn == 'سهشنبه':
+                                wn = 'سه‌شنبه'
+                            expected = PERSIAN_WEEKDAYS.get(weekday_name) or PERSIAN_WEEKDAYS.get(wn)
+                            if expected is not None and expected != today_weekday:
+                                weekday_ok = False
+                                persian_match = False
 
-            would_accept = (is_recent or (not date_known and position_ok)) and persian_match
+            would_accept = (is_recent or (not date_known and position_ok)) and persian_match and weekday_ok
 
             results.append({
                 "title": title,
@@ -184,6 +206,7 @@ def fetch_soundcloud_by_ytdlp(url, limit=20):
                 "is_recent": is_recent,
                 "position_ok": position_ok,
                 "persian_match": persian_match,
+                "weekday_ok": weekday_ok,
                 "would_accept": would_accept
             })
 
@@ -191,7 +214,7 @@ def fetch_soundcloud_by_ytdlp(url, limit=20):
             write_output(f"{idx+1}. [{status}] {title}")
             write_output(f"   Link: {link if link else '(نامشخص)'}")
             write_output(f"   Published: {pub_str} | date_known={date_known}")
-            write_output(f"   Recent: {is_recent} | Top{SOUNDCLOUD_TOP_UNKNOWN_SAFE}: {position_ok} | Persian-today: {persian_match}")
+            write_output(f"   Recent: {is_recent} | Top{SOUNDCLOUD_TOP_UNKNOWN_SAFE}: {position_ok} | Persian-today: {persian_match} | Weekday-ok: {weekday_ok}")
 
         if len(entries) > show_limit:
             write_output(f"... و {len(entries)-show_limit} مورد دیگر (نمایش محدود به {show_limit})")
@@ -207,7 +230,7 @@ def main():
     if os.path.exists(OUTPUT_FILE):
         os.remove(OUTPUT_FILE)
     write_output("=== Diagnostic Results ===")
-    write_output(f"SoundCloud: max_age={SOUNDCLOUD_MAX_AGE_HOURS}h | playlist_end={SOUNDCLOUD_PLAYLIST_END} | top_unknown_safe={SOUNDCLOUD_TOP_UNKNOWN_SAFE}")
+    write_output(f"SoundCloud: max_age={SOUNDCLOUD_MAX_AGE_HOURS}h | playlist_end={SOUNDCLOUD_PLAYLIST_END} | top_unknown_safe={SOUNDCLOUD_TOP_UNKNOWN_SAFE} | weekday-check=ON")
 
     if not os.path.exists(WATCHLIST_FILE):
         write_output("❌ فایل watchlist.json وجود ندارد.")
@@ -249,7 +272,7 @@ def main():
                         kw_match = any(kw.lower() in r['title'].lower() for kw in keywords)
                         write_output(f"   {'[✅ ACCEPT + KEYWORD]' if kw_match else '[✅ ACCEPT]'} {r['title']}")
                 else:
-                    write_output("   هیچ ترکی با فیلتر تاریخ + موقعیت + تاریخ شمسی امروز قبول نشد.")
+                    write_output("   هیچ ترکی با فیلتر تاریخ + موقعیت + تاریخ شمسی + روز هفته قبول نشد.")
 
                 write_output("📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی):")
                 for r in results:
