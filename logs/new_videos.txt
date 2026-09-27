@@ -1,3 +1,5 @@
 2026-09-27T07:30:45.822402+00:00 | youtube | اخبار بامدادی | یک‌شنبه ۵ مهر | 2 hours ago | https://www.youtube.com/watch?v=6AGMxrQ0aK8
 2026-09-27T12:31:04.044766+00:00 | youtube | اخبار نیمروزی | یک‌شنبه ۵ مهر | 18 minutes ago | https://www.youtube.com/watch?v=tl-N67SokU4
 2026-09-27T15:15:37.010111+00:00 | youtube | اخبار ساعت شش عصر یکشنبه ۵ مهر؛ هشدار دوباره ارتش ایران درباره حمله احتمالی ارتش آمریکا | 15 minutes ago | https://www.youtube.com/watch?v=6mr47INbp4s
+2026-09-27T16:30:46.454272+00:00 | youtube | اخبار شبانگاهی | یکشنبه ۵ مهر | 1 hours ago | https://www.youtube.com/watch?v=AhnZEIzKYhk
+2026-09-27T16:30:48.998208+00:00 | soundcloud | اخبار شبانگاهی | یکشنبه ۵ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/2cpulwqzwp3f
