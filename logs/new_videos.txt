@@ -2,3 +2,4 @@
 2026-09-29T15:15:41.587503+00:00 | youtube | اخبار ساعت شش عصر | 14 minutes ago | https://www.youtube.com/watch?v=6dlCbI7D8Ho
 2026-09-29T16:30:50.722601+00:00 | youtube | اخبار شبانگاهی | سه‌شنبه ۷ مهر | 30 minutes ago | https://www.youtube.com/watch?v=slFdWJcaZN8
 2026-09-29T16:30:54.037439+00:00 | soundcloud | اخبار شبانگاهی | سه‌شنبه ۷ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/hoy8myd4uwo2
+2026-09-29T18:30:51.557818+00:00 | soundcloud | جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/p9pc60cebnwx
