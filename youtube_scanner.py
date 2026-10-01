@@ -13,7 +13,7 @@ import time
 WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "logs/new_videos.txt"
 STATE_DIR = "cache/states"
-SEEN_TITLES_FILE = "cache/seen_titles.json"  # جلوگیری از دانلود تکراری بین یوتیوب و ساندکلاد
+SEEN_TITLES_FILE = "cache/seen_titles.json"
 MAX_ITEMS = 10
 MAX_UNIQUE_CHANNELS = 5
 MIN_CHECK_INTERVAL = 30
@@ -105,29 +105,20 @@ def save_state(channel_id, keyword, state):
     with open(path, 'w') as f:
         json.dump(state, f)
 
-
 def normalize_title_for_dedup(title: str) -> str:
-    """نرمال‌سازی عنوان برای تشخیص یکسان بودن بین یوتیوب و ساندکلاد.
-    تاریخ فارسی (مثلاً جمعه ۳ مهر) حفظ می‌شود تا اپیزودهای روزهای مختلف جدا بمانند.
-    """
     if not title:
         return ""
     t = title.strip()
-    # حذف بخش زمان نسبی
     t = re.sub(r'\s*\|\s*\d+\s*(hours?|minutes?|ago).*$', '', t, flags=re.I)
     t = re.sub(r'\s*[\(\[].*?[\)\]]\s*', ' ', t)
     t = re.sub(r'(?i)\b(audio|official|video|music|clip|lyrics|hd|4k|mp3|download)\b', '', t)
-    # یکسان‌سازی جداکننده‌ها
     t = re.sub(r'[\|–—\-/]+', ' ', t)
-    # یکسان‌سازی ارقام فارسی/عربی به انگلیسی
     trans = str.maketrans('۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩', '01234567890123456789')
     t = t.translate(trans)
     t = re.sub(r'\s+', ' ', t).strip().lower()
     return t
 
-
 def load_seen_titles():
-    """بارگذاری عناوین دیده‌شده. فقط روز جاری معتبر است."""
     if not os.path.exists(SEEN_TITLES_FILE):
         return {}
     try:
@@ -136,26 +127,20 @@ def load_seen_titles():
         if not isinstance(data, dict):
             return {}
         today = str(iran_now().date())
-        # اگر فایل مربوط به روز دیگری است، خالی برگردان
         if today not in data:
             return {}
         return {today: data[today]}
     except Exception:
         return {}
 
-
 def save_seen_titles(data: dict):
-    """ذخیره؛ فقط محتوای همان روز نگه داشته می‌شود و روزهای قبلی پاک می‌شوند."""
     today = str(iran_now().date())
-    # فقط امروز — با عوض شدن تاریخ، بقیه حذف می‌شوند
     data = {today: data.get(today) or {}}
     os.makedirs(os.path.dirname(SEEN_TITLES_FILE), exist_ok=True)
     with open(SEEN_TITLES_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-
 def is_title_already_downloaded(title: str):
-    """اگر همین عنوان نرمال‌شده امروز قبلاً تریگر شده باشد True برمی‌گرداند."""
     key = normalize_title_for_dedup(title)
     if not key:
         return False, key, None
@@ -165,7 +150,6 @@ def is_title_already_downloaded(title: str):
     if entry:
         return True, key, entry
     return False, key, None
-
 
 def mark_title_downloaded(title: str, platform: str, url: str):
     key = normalize_title_for_dedup(title)
@@ -181,7 +165,6 @@ def mark_title_downloaded(title: str, platform: str, url: str):
         "at": datetime.now(timezone.utc).isoformat()
     }
     save_seen_titles(data)
-
 
 def extract_soundcloud_date(entry):
     upload_date_str = entry.get('upload_date')
@@ -376,10 +359,10 @@ def process_item(item):
             if date_known and v['published_date'] < cutoff:
                 continue
             match = re.search(
-                r'(?:(شنبه|یکشنبه|دوشنبه|سه‌شنبه|سه\\s*شنبه|چهارشنبه|پنج‌شنبه|پنجشنبه|جمعه)\\s+)?'
-                r'(\\d{1,2})\\s+'
+                r'(?:(شنبه|یکشنبه|دوشنبه|سه‌شنبه|سه\s*شنبه|چهارشنبه|پنج‌شنبه|پنجشنبه|جمعه)\s+)?'
+                r'(\d{1,2})\s+'
                 r'(فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|مهر|آبان|آذر|دی|بهمن|اسفند)'
-                r'(?:\\s+(\\d{4}))?', title)
+                r'(?:\s+(\d{4}))?', title)
             if not match:
                 continue
             weekday_name = match.group(1)
@@ -449,6 +432,7 @@ def process_item(item):
                     "Authorization": f"token {gh_pat}",
                     "Content-Type": "application/json",
                 }
+                # مخزن ۱
                 try:
                     payload1 = {
                         "event_type": "trigger-download",
@@ -474,6 +458,7 @@ def process_item(item):
                 except Exception as e:
                     print(f"⚠️ استثنا در تریگر new-youtube-SoundCloud-downloader: {e}")
 
+                # مخزن ۲
                 try:
                     content_type = "video" if plat_label == "youtube" else "audio"
                     payload2 = {
