@@ -2,3 +2,5 @@
 2026-10-02T07:28:06.240089+00:00 | soundcloud | اخبار بامدادی | جمعه ۱۰ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/4pee6rz5c1hw
 2026-10-02T15:15:48.219798+00:00 | youtube | اخبار ساعت شش عصر- جمعه ۱۰ مهر: اعزام ناوگروه امریکایی به خاورمیانه | 15 minutes ago | https://www.youtube.com/watch?v=nSB1jJZPq6I
 2026-10-02T16:30:54.802179+00:00 | youtube | اخبار شبانگاهی | جمعه ۱۰ مهر | 36 minutes ago | https://www.youtube.com/watch?v=i_TNEN6NYHE
+2026-10-02T18:30:56.064119+00:00 | soundcloud | اخبار شبانگاهی | جمعه ۱۰ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/fo7aviz6vayw
+2026-10-02T18:30:57.314214+00:00 | soundcloud | جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
