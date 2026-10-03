@@ -3,3 +3,4 @@
 2026-10-03T15:15:39.462072+00:00 | youtube | اخبار ساعت شش عصر | 14 minutes ago | https://www.youtube.com/watch?v=AF8QThFyFLE
 2026-10-03T16:31:01.854752+00:00 | youtube | اخبار شبانگاهی | شنبه ۱۱ مهر | 1 hours ago | https://www.youtube.com/watch?v=opgn3ioerzA
 2026-10-03T16:31:04.278036+00:00 | soundcloud | اخبار شبانگاهی | شنبه ۱۱ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/fpyrdjslp2s1
+2026-10-03T18:30:51.175298+00:00 | soundcloud | جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/otqjbsvv6kav
