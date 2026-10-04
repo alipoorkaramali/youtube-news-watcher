@@ -6,7 +6,7 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 ✅ 15 ویدیو در فید پیدا شد.
 1. تصمیم آخر ترامپ؛ مذاکره یا جنگ؟ - ۶۰ دقیقه یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=Vgf7qRUU0MY
-   Published: 2026-10-04T18:00:00+00:00
+   Published: 2026-10-04T19:31:16+00:00
 2. جام جهان‌نما
    Link: https://www.youtube.com/watch?v=i2XAZ4iHO7k
    Published: 2026-10-04T17:02:56+00:00
@@ -71,7 +71,7 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 ✅ 15 ویدیو در فید پیدا شد.
 1. تصمیم آخر ترامپ؛ مذاکره یا جنگ؟ - ۶۰ دقیقه یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=Vgf7qRUU0MY
-   Published: 2026-10-04T18:00:00+00:00
+   Published: 2026-10-04T19:31:16+00:00
 2. جام جهان‌نما
    Link: https://www.youtube.com/watch?v=i2XAZ4iHO7k
    Published: 2026-10-04T17:02:56+00:00
@@ -134,52 +134,53 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
+1. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://www.youtube.com/watch?v=LNsGwiWLaas
+   Published: 2026-10-04T19:12:02+00:00
+2. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    Link: https://www.youtube.com/watch?v=30JuumvObp8
    Published: 2026-10-04T19:02:08+00:00
-2. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
+3. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    Link: https://www.youtube.com/watch?v=Q2txTL4A8CQ
    Published: 2026-10-04T19:00:29+00:00
-3. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+4. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    Link: https://www.youtube.com/shorts/Q5XO4lR-Jlk
    Published: 2026-10-04T18:37:45+00:00
-4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+5. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://www.youtube.com/watch?v=b62dU6PakNc
    Published: 2026-10-04T17:56:31+00:00
-5. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
+6. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
    Link: https://www.youtube.com/shorts/WhLvwy281Do
    Published: 2026-10-04T17:08:00+00:00
-6. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
+7. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
    Link: https://www.youtube.com/watch?v=5EiZV8oaCWY
    Published: 2026-10-04T16:29:32+00:00
-7. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
+8. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
    Link: https://www.youtube.com/shorts/boLwwtJTBzY
    Published: 2026-10-04T16:21:07+00:00
-8. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
+9. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
    Link: https://www.youtube.com/shorts/uvghIdx7aBM
    Published: 2026-10-04T16:08:48+00:00
-9. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
+10. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=0SLrrmqH8X8
    Published: 2026-10-04T16:07:55+00:00
-10. اخبار شبانگاهی | یکشنبه ۱۲ مهر
+11. اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=7CBLXADyl8M
    Published: 2026-10-04T15:35:49+00:00
-11. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
+12. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
    Link: https://www.youtube.com/watch?v=maZy492QxFQ
    Published: 2026-10-04T15:34:33+00:00
-12. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
+13. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    Link: https://www.youtube.com/shorts/tpCk-TFoxEc
    Published: 2026-10-04T15:11:07+00:00
-13. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
+14. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    Link: https://www.youtube.com/watch?v=PsiB3Et_Nbk
    Published: 2026-10-04T14:56:44+00:00
-14. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
+15. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
    Link: https://www.youtube.com/watch?v=Q2TZxsmIVHI
    Published: 2026-10-04T13:28:06+00:00
-15. عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
-   Link: https://www.youtube.com/watch?v=0atxtbTFTcQ
-   Published: 2026-10-04T13:24:11+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    [  ] شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    [  ] موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
@@ -194,57 +195,57 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    [  ] روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    [  ] برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
-   [  ] عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
+1. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://www.youtube.com/watch?v=LNsGwiWLaas
+   Published: 2026-10-04T19:12:02+00:00
+2. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    Link: https://www.youtube.com/watch?v=30JuumvObp8
    Published: 2026-10-04T19:02:08+00:00
-2. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
+3. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    Link: https://www.youtube.com/watch?v=Q2txTL4A8CQ
    Published: 2026-10-04T19:00:29+00:00
-3. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+4. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    Link: https://www.youtube.com/shorts/Q5XO4lR-Jlk
    Published: 2026-10-04T18:37:45+00:00
-4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+5. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://www.youtube.com/watch?v=b62dU6PakNc
    Published: 2026-10-04T17:56:31+00:00
-5. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
+6. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
    Link: https://www.youtube.com/shorts/WhLvwy281Do
    Published: 2026-10-04T17:08:00+00:00
-6. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
+7. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
    Link: https://www.youtube.com/watch?v=5EiZV8oaCWY
    Published: 2026-10-04T16:29:32+00:00
-7. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
+8. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
    Link: https://www.youtube.com/shorts/boLwwtJTBzY
    Published: 2026-10-04T16:21:07+00:00
-8. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
+9. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
    Link: https://www.youtube.com/shorts/uvghIdx7aBM
    Published: 2026-10-04T16:08:48+00:00
-9. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
+10. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=0SLrrmqH8X8
    Published: 2026-10-04T16:07:55+00:00
-10. اخبار شبانگاهی | یکشنبه ۱۲ مهر
+11. اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=7CBLXADyl8M
    Published: 2026-10-04T15:35:49+00:00
-11. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
+12. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
    Link: https://www.youtube.com/watch?v=maZy492QxFQ
    Published: 2026-10-04T15:34:33+00:00
-12. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
+13. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    Link: https://www.youtube.com/shorts/tpCk-TFoxEc
    Published: 2026-10-04T15:11:07+00:00
-13. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
+14. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    Link: https://www.youtube.com/watch?v=PsiB3Et_Nbk
    Published: 2026-10-04T14:56:44+00:00
-14. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
+15. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
    Link: https://www.youtube.com/watch?v=Q2TZxsmIVHI
    Published: 2026-10-04T13:28:06+00:00
-15. عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
-   Link: https://www.youtube.com/watch?v=0atxtbTFTcQ
-   Published: 2026-10-04T13:24:11+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    [  ] شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    [  ] موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
@@ -259,175 +260,175 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    [  ] روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    [  ] برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
-   [  ] عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
 ✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
-1. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+1. [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://soundcloud.com/iranintl/cw8lpxessouv
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+2. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://soundcloud.com/iranintl/pu9mv28scqrr
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-2. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+3. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/guakoapbjsuy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: True | Weekday-ok: True
-3. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+4. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/uizefg5yqeul
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-4. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+5. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/j8qtpwntuctv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-5. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+6. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
    Link: https://soundcloud.com/iranintl/kypkmdabggwy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-6. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+7. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
    Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-7. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+8. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
    Link: https://soundcloud.com/iranintl/edez3xgswzpc
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-8. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
+9. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-9. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
+10. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/zxbabjmnravi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-10. [  ] اخبار بامدادی | جمعه ۱۱ مهر
+11. [  ] اخبار بامدادی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/nyagj61pxpsp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-11. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+12. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
    Link: https://soundcloud.com/iranintl/kormeddxz85s
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-12. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
+13. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/fo7aviz6vayw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-13. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+15. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-15. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+16. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
    Link: https://soundcloud.com/iranintl/jtuzgagrsnel
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-16. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+17. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
    Link: https://soundcloud.com/iranintl/bzz7lmshigqe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-17. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
+18. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/z2q13scc508i
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-18. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+19. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/y39t4ivxzknj
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-19. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
+20. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-20. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+21. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
    Link: https://soundcloud.com/iranintl/atfisre8cz8c
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-21. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+22. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
    Link: https://soundcloud.com/iranintl/xyi2jufifk1v
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-22. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+23. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
    Link: https://soundcloud.com/iranintl/etssuqvuojey
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-23. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+24. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
    Link: https://soundcloud.com/iranintl/yly9rxj0gc62
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-24. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+25. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
    Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-25. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
+26. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/wgfmxng3izas
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-26. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+27. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/f1k55mluxeea
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-27. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
+28. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/4holdeypn37r
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-28. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+29. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
    Link: https://soundcloud.com/iranintl/nforqzwemeny
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-29. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+30. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
    Link: https://soundcloud.com/iranintl/jzt584k8uasv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-30. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+31. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
    Link: https://soundcloud.com/iranintl/2i6un1skxdvq
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-31. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+32. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
    Link: https://soundcloud.com/iranintl/stthmakjw1wp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-32. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/3cpey5veegx3
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+34. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/h5zkkupfykfd
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-34. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+35. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-35. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+36. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-36. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
+37. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-37. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+38. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    Link: https://soundcloud.com/iranintl/uus2tci9y2qe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-38. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
+39. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    Link: https://soundcloud.com/iranintl/ckmnadoitdag
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-39. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
+40. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
    Link: https://soundcloud.com/iranintl/dkyaaudataha
-   Published: Unknown | date_known=False
-   Recent: False | Persian-today: False | Weekday-ok: True
-40. [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
-   Link: https://soundcloud.com/iranintl/3zlpdhjquo8t
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
 ... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
 📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    [  ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
@@ -467,175 +468,175 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
-   [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار نیمروزی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
 ✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
-1. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+1. [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://soundcloud.com/iranintl/cw8lpxessouv
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+2. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://soundcloud.com/iranintl/pu9mv28scqrr
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-2. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+3. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/guakoapbjsuy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: True | Weekday-ok: True
-3. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+4. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/uizefg5yqeul
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-4. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+5. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/j8qtpwntuctv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-5. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+6. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
    Link: https://soundcloud.com/iranintl/kypkmdabggwy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-6. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+7. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
    Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-7. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+8. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
    Link: https://soundcloud.com/iranintl/edez3xgswzpc
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-8. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
+9. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-9. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
+10. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/zxbabjmnravi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-10. [  ] اخبار بامدادی | جمعه ۱۱ مهر
+11. [  ] اخبار بامدادی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/nyagj61pxpsp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-11. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+12. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
    Link: https://soundcloud.com/iranintl/kormeddxz85s
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-12. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
+13. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/fo7aviz6vayw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-13. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+15. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-15. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+16. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
    Link: https://soundcloud.com/iranintl/jtuzgagrsnel
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-16. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+17. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
    Link: https://soundcloud.com/iranintl/bzz7lmshigqe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-17. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
+18. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/z2q13scc508i
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-18. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+19. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/y39t4ivxzknj
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-19. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
+20. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-20. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+21. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
    Link: https://soundcloud.com/iranintl/atfisre8cz8c
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-21. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+22. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
    Link: https://soundcloud.com/iranintl/xyi2jufifk1v
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-22. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+23. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
    Link: https://soundcloud.com/iranintl/etssuqvuojey
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-23. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+24. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
    Link: https://soundcloud.com/iranintl/yly9rxj0gc62
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-24. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+25. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
    Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-25. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
+26. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/wgfmxng3izas
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-26. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+27. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/f1k55mluxeea
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-27. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
+28. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/4holdeypn37r
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-28. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+29. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
    Link: https://soundcloud.com/iranintl/nforqzwemeny
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-29. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+30. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
    Link: https://soundcloud.com/iranintl/jzt584k8uasv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-30. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+31. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
    Link: https://soundcloud.com/iranintl/2i6un1skxdvq
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-31. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+32. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
    Link: https://soundcloud.com/iranintl/stthmakjw1wp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-32. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/3cpey5veegx3
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+34. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/h5zkkupfykfd
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-34. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+35. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-35. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+36. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-36. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
+37. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-37. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+38. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    Link: https://soundcloud.com/iranintl/uus2tci9y2qe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-38. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
+39. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    Link: https://soundcloud.com/iranintl/ckmnadoitdag
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-39. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
+40. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
    Link: https://soundcloud.com/iranintl/dkyaaudataha
-   Published: Unknown | date_known=False
-   Recent: False | Persian-today: False | Weekday-ok: True
-40. [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
-   Link: https://soundcloud.com/iranintl/3zlpdhjquo8t
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
 ... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
 📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    [  ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    [✅ همسان] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
@@ -675,175 +676,175 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
-   [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
 ✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
-1. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+1. [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://soundcloud.com/iranintl/cw8lpxessouv
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: False | Weekday-ok: True
+2. [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://soundcloud.com/iranintl/pu9mv28scqrr
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-2. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+3. [✅ ACCEPT] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/guakoapbjsuy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: True | Weekday-ok: True
-3. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+4. [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/uizefg5yqeul
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-4. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+5. [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
    Link: https://soundcloud.com/iranintl/j8qtpwntuctv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: False
-5. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+6. [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
    Link: https://soundcloud.com/iranintl/kypkmdabggwy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-6. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+7. [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
    Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-7. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+8. [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
    Link: https://soundcloud.com/iranintl/edez3xgswzpc
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-8. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
+9. [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-9. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
+10. [  ] اخبار نیمروزی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/zxbabjmnravi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-10. [  ] اخبار بامدادی | جمعه ۱۱ مهر
+11. [  ] اخبار بامدادی | جمعه ۱۱ مهر
    Link: https://soundcloud.com/iranintl/nyagj61pxpsp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-11. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+12. [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
    Link: https://soundcloud.com/iranintl/kormeddxz85s
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-12. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
+13. [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/fo7aviz6vayw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-13. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-14. [  ] اخبار بامدادی | جمعه ۱۰ مهر
+15. [  ] اخبار بامدادی | جمعه ۱۰ مهر
    Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-15. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+16. [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
    Link: https://soundcloud.com/iranintl/jtuzgagrsnel
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-16. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+17. [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
    Link: https://soundcloud.com/iranintl/bzz7lmshigqe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-17. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
+18. [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/z2q13scc508i
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-18. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+19. [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/y39t4ivxzknj
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-19. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
+20. [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
    Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-20. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+21. [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
    Link: https://soundcloud.com/iranintl/atfisre8cz8c
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-21. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+22. [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
    Link: https://soundcloud.com/iranintl/xyi2jufifk1v
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-22. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+23. [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
    Link: https://soundcloud.com/iranintl/etssuqvuojey
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-23. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+24. [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
    Link: https://soundcloud.com/iranintl/yly9rxj0gc62
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-24. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+25. [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
    Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-25. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
+26. [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/wgfmxng3izas
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-26. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+27. [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/f1k55mluxeea
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-27. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
+28. [  ] اخبار بامدادی | چهارشنبه ۸ مهر
    Link: https://soundcloud.com/iranintl/4holdeypn37r
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-28. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+29. [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
    Link: https://soundcloud.com/iranintl/nforqzwemeny
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-29. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+30. [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
    Link: https://soundcloud.com/iranintl/jzt584k8uasv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-30. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+31. [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
    Link: https://soundcloud.com/iranintl/2i6un1skxdvq
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-31. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+32. [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
    Link: https://soundcloud.com/iranintl/stthmakjw1wp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-32. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/3cpey5veegx3
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-33. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+34. [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
    Link: https://soundcloud.com/iranintl/h5zkkupfykfd
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-34. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+35. [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-35. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+36. [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-36. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
+37. [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
    Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-37. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+38. [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    Link: https://soundcloud.com/iranintl/uus2tci9y2qe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-38. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
+39. [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    Link: https://soundcloud.com/iranintl/ckmnadoitdag
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-39. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
+40. [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
    Link: https://soundcloud.com/iranintl/dkyaaudataha
-   Published: Unknown | date_known=False
-   Recent: False | Persian-today: False | Weekday-ok: True
-40. [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
-   Link: https://soundcloud.com/iranintl/3zlpdhjquo8t
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
 ... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
    [✅ ACCEPT + KEYWORD] اخبار شبانگاهی | یکشنبه ۱۲ مهر
 📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    [✅ همسان] اخبار شبانگاهی | یکشنبه ۱۲ مهر
    [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
@@ -883,7 +884,6 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
    [  ] برنامه با کامبیز حسینی | چرا هیچ‌کس در ایران نظر مردم را نمی‌پرسد؟
    [  ] ۲۴ با فرداد فرحزاد: دیدار عراقچی با میانجی‌ها در نیویورک
-   [  ] چشم‌انداز: اعلام ابر قدرتی مجتبی خامنه‌ای از مخفیگاه!
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
@@ -1096,52 +1096,53 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
+1. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://www.youtube.com/watch?v=LNsGwiWLaas
+   Published: 2026-10-04T19:12:02+00:00
+2. مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    Link: https://www.youtube.com/watch?v=30JuumvObp8
    Published: 2026-10-04T19:02:08+00:00
-2. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
+3. شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    Link: https://www.youtube.com/watch?v=Q2txTL4A8CQ
    Published: 2026-10-04T19:00:29+00:00
-3. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+4. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    Link: https://www.youtube.com/shorts/Q5XO4lR-Jlk
    Published: 2026-10-04T18:37:45+00:00
-4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+5. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://www.youtube.com/watch?v=b62dU6PakNc
    Published: 2026-10-04T17:56:31+00:00
-5. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
+6. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
    Link: https://www.youtube.com/shorts/WhLvwy281Do
    Published: 2026-10-04T17:08:00+00:00
-6. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
+7. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
    Link: https://www.youtube.com/watch?v=5EiZV8oaCWY
    Published: 2026-10-04T16:29:32+00:00
-7. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
+8. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
    Link: https://www.youtube.com/shorts/boLwwtJTBzY
    Published: 2026-10-04T16:21:07+00:00
-8. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
+9. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
    Link: https://www.youtube.com/shorts/uvghIdx7aBM
    Published: 2026-10-04T16:08:48+00:00
-9. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
+10. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=0SLrrmqH8X8
    Published: 2026-10-04T16:07:55+00:00
-10. اخبار شبانگاهی | یکشنبه ۱۲ مهر
+11. اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=7CBLXADyl8M
    Published: 2026-10-04T15:35:49+00:00
-11. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
+12. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
    Link: https://www.youtube.com/watch?v=maZy492QxFQ
    Published: 2026-10-04T15:34:33+00:00
-12. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
+13. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    Link: https://www.youtube.com/shorts/tpCk-TFoxEc
    Published: 2026-10-04T15:11:07+00:00
-13. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
+14. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    Link: https://www.youtube.com/watch?v=PsiB3Et_Nbk
    Published: 2026-10-04T14:56:44+00:00
-14. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
+15. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
    Link: https://www.youtube.com/watch?v=Q2TZxsmIVHI
    Published: 2026-10-04T13:28:06+00:00
-15. عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
-   Link: https://www.youtube.com/watch?v=0atxtbTFTcQ
-   Published: 2026-10-04T13:24:11+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
    [  ] شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
    [  ] موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
@@ -1156,4 +1157,3 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    [  ] روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    [  ] برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
-   [  ] عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
