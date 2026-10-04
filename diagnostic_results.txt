@@ -199,52 +199,53 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار شبانگاهی']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 ✅ 15 ویدیو در فید پیدا شد.
-1. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+1. موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+   Link: https://www.youtube.com/shorts/Q5XO4lR-Jlk
+   Published: 2026-10-04T18:37:45+00:00
+2. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    Link: https://www.youtube.com/watch?v=b62dU6PakNc
    Published: 2026-10-04T17:56:31+00:00
-2. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
+3. نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
    Link: https://www.youtube.com/shorts/WhLvwy281Do
    Published: 2026-10-04T17:08:00+00:00
-3. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
+4. اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
    Link: https://www.youtube.com/watch?v=5EiZV8oaCWY
    Published: 2026-10-04T16:29:32+00:00
-4. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
+5. دریا صفایی: هویت ایرانی ما، تنها راه نجات ماست
    Link: https://www.youtube.com/shorts/boLwwtJTBzY
    Published: 2026-10-04T16:21:07+00:00
-5. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
+6. حداد عادل: حال مجتبی خامنه‌ای خوب است؛ سلام می‌رساند
    Link: https://www.youtube.com/shorts/uvghIdx7aBM
    Published: 2026-10-04T16:08:48+00:00
-6. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
+7. تاکید نتانیاهو بر مقابله با تهدیدهای دریایی جمهوری اسلامی
    Link: https://www.youtube.com/watch?v=0SLrrmqH8X8
    Published: 2026-10-04T16:07:55+00:00
-7. اخبار شبانگاهی | یکشنبه ۱۲ مهر
+8. اخبار شبانگاهی | یکشنبه ۱۲ مهر
    Link: https://www.youtube.com/watch?v=7CBLXADyl8M
    Published: 2026-10-04T15:35:49+00:00
-8. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
+9. گزارش روز با مجتبا پورمحسن: تفنگداران آمریکایی در راه ایران؛ تصمیم‌گیری ترامپ درباره جنگ
    Link: https://www.youtube.com/watch?v=maZy492QxFQ
    Published: 2026-10-04T15:34:33+00:00
-9. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
+10. کوچک‌زاده: اگر از جهنم نمی‌ترسیدم، امروز خودم را جلوی بانک مرکزی آتش می‌زدم
    Link: https://www.youtube.com/shorts/tpCk-TFoxEc
    Published: 2026-10-04T15:11:07+00:00
-10. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
+11. روایت همسر سوری ایزدی از تشویق سلیمانی برای ازدواج مجدد این فرمانده سپاه
    Link: https://www.youtube.com/watch?v=PsiB3Et_Nbk
    Published: 2026-10-04T14:56:44+00:00
-11. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
+12. برگزاری جشن مهرگان با حضور جمعی از ایرانیان در بروکسل
    Link: https://www.youtube.com/watch?v=Q2TZxsmIVHI
    Published: 2026-10-04T13:28:06+00:00
-12. عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
+13. عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
    Link: https://www.youtube.com/watch?v=0atxtbTFTcQ
    Published: 2026-10-04T13:24:11+00:00
-13. معاون وزیر ارتباطات: اگر استارلینک فعال شود، باید وزارت ارتباطات را شهربازی کنیم
+14. معاون وزیر ارتباطات: اگر استارلینک فعال شود، باید وزارت ارتباطات را شهربازی کنیم
    Link: https://www.youtube.com/shorts/3Rc87KMla7o
    Published: 2026-10-04T13:20:25+00:00
-14. سفر صدراعظم آلمان به اوکراین هم‌زمان با تشدید حملات روسیه
+15. سفر صدراعظم آلمان به اوکراین هم‌زمان با تشدید حملات روسیه
    Link: https://www.youtube.com/watch?v=BrI_HHEX3cY
    Published: 2026-10-04T13:19:38+00:00
-15. اکرمی‌نیا: برد و سرعت موشک‌ها را افزایش می‌دهیم
-   Link: https://www.youtube.com/shorts/mnzkKF8Jbqc
-   Published: 2026-10-04T12:22:44+00:00
 📋 عناوین همسان‌سازی شده با کلیدواژه:
+   [  ] موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
    [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
    [  ] نماینده عربستان سعودی در مراسم ختم خواهر عباس عراقچی شرکت کرد
    [  ] اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
@@ -259,7 +260,6 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [  ] عرفان قانعی‌فرد: ارتقای موشکی جمهوری اسلامی بدون توان اطلاعاتی و پدافندی بی‌معناست
    [  ] معاون وزیر ارتباطات: اگر استارلینک فعال شود، باید وزارت ارتباطات را شهربازی کنیم
    [  ] سفر صدراعظم آلمان به اوکراین هم‌زمان با تشدید حملات روسیه
-   [  ] اکرمی‌نیا: برد و سرعت موشک‌ها را افزایش می‌دهیم
 
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار بامدادی']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
@@ -888,170 +888,171 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
 🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
 📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
 ✅ 80 آهنگ/ویدئو پیدا شد (محدود به 80 تای آخر).
-1. [  ] جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
+1. [✅ ACCEPT] جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
+   Link: https://soundcloud.com/bbcpersian/eyznhsmcixdq
+   Published: Unknown | date_known=False
+   Recent: False | Persian-today: True | Weekday-ok: True
+2. [  ] جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/otqjbsvv6kav
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-2. [  ] جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
+3. [  ] جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-3. [  ] جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
+4. [  ] جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-4. [  ] جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
+5. [  ] جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/afb8purmaqkd
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-5. [  ] جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
+6. [  ] جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p9pc60cebnwx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-6. [  ] جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
+7. [  ] جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/qsghtn33ecp9
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-7. [  ] جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
+8. [  ] جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/cvkxev1f2x7d
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-8. [  ] جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
+9. [  ] جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-9. [  ] جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
+10. [  ] جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ii72ixfjdepp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-10. [  ] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
+11. [  ] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/iqqtrb7mcfon
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-11. [  ] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
+12. [  ] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jutnxmdwdxoe
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-12. [  ] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
+13. [  ] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p9dpo3e4xw23
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-13. [  ] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
+14. [  ] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/rkkn8ahihrlx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-14. [  ] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
+15. [  ] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/d6i8xedxw86a
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-15. [  ] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
+16. [  ] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/xveg1ql7yy8i
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-16. [  ] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
+17. [  ] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/btqrxpfmkjiw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-17. [  ] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
+18. [  ] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/uciogplp6q1t
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-18. [  ] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
+19. [  ] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/wwnfyqs02ltw
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-19. [  ] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
+20. [  ] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/akg7jmmqcah4
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-20. [  ] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
+21. [  ] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/9v8fh0vm8bjj
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-21. [  ] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
+22. [  ] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/jspgu4eqdlyd
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-22. [  ] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
+23. [  ] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/nxwo1au5tzav
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-23. [  ] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
+24. [  ] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/p5bani9x3cnc
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-24. [  ] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
+25. [  ] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/g9l5xvq7rvmh
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-25. [  ] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
+26. [  ] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/yxouf99rqxiu
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-26. [  ] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
+27. [  ] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/xyxqhcfnozou
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-27. [  ] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
+28. [  ] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ornlzlavxktx
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-28. [  ] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
+29. [  ] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/qjgdhvxbyqkm
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-29. [  ] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
+30. [  ] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/f1xkr8pjxcrv
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-30. [  ] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
+31. [  ] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/xr3u8ubeqwfk
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-31. [  ] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
+32. [  ] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/vabpemvsw9pu
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-32. [  ] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
+33. [  ] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/wwg9ablnjyhp
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-33. [  ] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
+34. [  ] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/ltbo2nmd9r3d
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-34. [  ] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
+35. [  ] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/s0eorjeinwy3
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-35. [  ] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
+36. [  ] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/5s8rdk6klhvh
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-36. [  ] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
+37. [  ] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/fsmpgwe842wu
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-37. [  ] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
+38. [  ] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/4bnapbrig40a
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-38. [  ] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
+39. [  ] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/u7nvdepqusly
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
-39. [  ] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
+40. [  ] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
    Link: https://soundcloud.com/bbcpersian/k8guctlx4gqz
-   Published: Unknown | date_known=False
-   Recent: False | Persian-today: False | Weekday-ok: True
-40. [  ] جام جهان‌نما ۲۵ اوت ۲۰۲۶ / ۳ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/1dxuwotzdadb
    Published: Unknown | date_known=False
    Recent: False | Persian-today: False | Weekday-ok: True
 ... و 40 مورد دیگر (نمایش محدود به 40)
 📋 نتیجه فیلتر اصلی (همان منطق youtube_scanner):
-   هیچ ترکی با فیلتر تاریخ + تاریخ شمسی + روز هفته قبول نشد.
+   [✅ ACCEPT + KEYWORD] جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
 📋 همه عناوین + وضعیت کلیدواژه (فقط تطابق متنی — برای دانلود دستی):
+   [✅ همسان] جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
@@ -1091,7 +1092,6 @@ SoundCloud: max_age=48h | playlist_end=80 | weekday-check=ON | display=40
    [✅ همسان] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
    [✅ همسان] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۵ اوت ۲۰۲۶ / ۳ شهریور ۱۴۰۵
 
 🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
 📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
