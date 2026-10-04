@@ -3,3 +3,5 @@
 2026-10-04T15:15:40.894251+00:00 | youtube | اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا | 14 minutes ago | https://www.youtube.com/watch?v=mQzJfNEA-yg
 2026-10-04T16:30:46.781653+00:00 | youtube | اخبار شبانگاهی | یکشنبه ۱۲ مهر | 54 minutes ago | https://www.youtube.com/watch?v=7CBLXADyl8M
 2026-10-04T16:30:49.102622+00:00 | soundcloud | اخبار شبانگاهی | یکشنبه ۱۲ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/guakoapbjsuy
+2026-10-04T19:30:49.734950+00:00 | youtube | تصمیم آخر ترامپ؛ مذاکره یا جنگ؟ - ۶۰ دقیقه یکشنبه ۱۲ مهر | 1 hours ago | https://www.youtube.com/watch?v=Vgf7qRUU0MY
+2026-10-04T19:30:51.863359+00:00 | soundcloud | جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/eyznhsmcixdq
