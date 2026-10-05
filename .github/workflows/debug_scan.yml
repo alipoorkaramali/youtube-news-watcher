@@ -4,13 +4,18 @@ on:
   workflow_dispatch:
     inputs:
       youtube_channel_id:
-        description: 'YouTube Channel ID (RSS)'
+        description: 'New YouTube Channel ID (optional — leave empty to use saved list only)'
         required: false
-        default: 'UCHZk9MrT3DGWmVqdsj5y0EA'
+        default: ''
       soundcloud_url:
-        description: 'SoundCloud URL (playlist or user)'
+        description: 'New SoundCloud URL (optional — leave empty to use saved list only)'
         required: false
-        default: 'https://soundcloud.com/iranintl'
+        default: ''
+      save_to_list:
+        description: 'Save the new channel(s) above into saved_channels.txt'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   diagnose:
@@ -27,13 +32,17 @@ jobs:
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
       - name: Run diagnostic script
+        env:
+          EXTRA_YOUTUBE: ${{ inputs.youtube_channel_id }}
+          EXTRA_SOUNDCLOUD: ${{ inputs.soundcloud_url }}
+          SAVE_TO_LIST: ${{ inputs.save_to_list }}
         run: python debug_youtube_rss.py
 
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add diagnostic_results.txt channel_catalog.md
+          git add diagnostic_results.txt channel_catalog.md saved_channels.txt
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
