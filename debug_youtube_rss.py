@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import os
 import json
 import subprocess
+import re
 from datetime import datetime, timedelta, timezone
 from collections import OrderedDict
 
@@ -394,9 +395,37 @@ def write_catalog_md(catalog):
 
     return lines, index
 
+def youtube_video_id(url: str) -> str:
+    """Extract YouTube video/shorts ID from URL."""
+    if not url:
+        return ""
+    m = re.search(r"[?&]v=([A-Za-z0-9_-]{6,})", url)
+    if m:
+        return m.group(1)
+    m = re.search(r"youtu\.be/([A-Za-z0-9_-]{6,})", url)
+    if m:
+        return m.group(1)
+    m = re.search(r"/(?:shorts|embed)/([A-Za-z0-9_-]{6,})", url)
+    if m:
+        return m.group(1)
+    return ""
+
+
+def soundcloud_track_id(url: str) -> str:
+    """Extract a short SoundCloud track slug/id from URL."""
+    if not url:
+        return ""
+    parts = url.rstrip("/").split("/")
+    if len(parts) >= 1:
+        slug = parts[-1]
+        if slug and slug not in ("sets", "tracks", "likes"):
+            return slug[:40]
+    return ""
+
+
 def build_issue_body(catalog, index):
     body = []
-    body.append(f"# 📺 Channel Catalog – Download")
+    body.append("# 📺 Channel Catalog – Download")
     body.append("")
     body.append(f"**Generated (Iran):** {catalog['generated_at_iran'][:19]}")
     body.append(f"**Total items:** {len(index)}")
@@ -431,8 +460,17 @@ def build_issue_body(catalog, index):
             counter += 1
             title = (it.get("title") or "").replace("\n", " ").strip()
             pub = (it.get("published_str") or "").replace("T", " ").replace("+00:00", "")[:16]
-            body.append(f"**{counter}.** [{pub}] {title}")
-            body.append(f"   `{link}`")
+            vid = youtube_video_id(link)
+            thumb = f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg" if vid else ""
+            sid = vid or f"yt-{counter}"
+            body.append(f"**{counter}.** `{sid}` · [{pub}]")
+            if thumb:
+                body.append("")
+                body.append(f"![{sid}]({thumb})")
+            body.append("")
+            body.append(f"{title}")
+            body.append("")
+            body.append(f"[Open]({link})")
             body.append("")
         body.append("")
 
@@ -450,14 +488,19 @@ def build_issue_body(catalog, index):
             counter += 1
             title = (it.get("title") or "").replace("\n", " ").strip()
             pub = (it.get("published_str") or "").replace("T", " ").replace("+00:00", "")[:16]
-            body.append(f"**{counter}.** [{pub}] {title}")
-            body.append(f"   `{link}`")
+            sid = soundcloud_track_id(link) or f"sc-{counter}"
+            body.append(f"**{counter}.** ☁️ `{sid}` · [{pub}]")
+            body.append("")
+            body.append(f"{title}")
+            body.append("")
+            body.append(f"[Open]({link})")
             body.append("")
         body.append("")
 
     body.append("---")
     body.append("*This issue is automatically updated on every Full Diagnostic run.*")
     return "\n".join(body)
+
 
 def update_catalog_issue(catalog, index):
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_PAT") or os.environ.get("GH_PAT1")
