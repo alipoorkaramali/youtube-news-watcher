@@ -1,1220 +1,1207 @@
 === Diagnostic Results ===
-SoundCloud: max_age=48h | playlist_end=80
-Catalog: YouTube RSS up to 50 | SoundCloud last 20
+Catalog: YT RSS up to 50 | SC last 20
 
-🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCHZk9MrT3DGWmVqdsj5y0EA, کلیدواژه‌ها=['اخبار ساعت شش']
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-✅ 15 ویدیو در فید پیدا شد.
+Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['اخبار ساعت شش']
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+Found 15 videos in feed
 1. سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
-   Link: https://www.youtube.com/shorts/RPZid4UL6L8
-   Published: 2026-10-05T08:10:38+00:00
+   https://www.youtube.com/shorts/RPZid4UL6L8
+   2026-10-05T08:10:38+00:00
 2. برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
-   Link: https://www.youtube.com/shorts/8eKbEinbRlE
-   Published: 2026-10-05T08:04:28+00:00
+   https://www.youtube.com/shorts/8eKbEinbRlE
+   2026-10-05T08:04:28+00:00
 3. ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
-   Link: https://www.youtube.com/watch?v=Vgf7qRUU0MY
-   Published: 2026-10-04T19:31:16+00:00
+   https://www.youtube.com/watch?v=Vgf7qRUU0MY
+   2026-10-04T19:31:16+00:00
 4. جام جهان‌نما یکشنبه ۱۲ مهر
-   Link: https://www.youtube.com/watch?v=i2XAZ4iHO7k
-   Published: 2026-10-04T17:02:56+00:00
+   https://www.youtube.com/watch?v=i2XAZ4iHO7k
+   2026-10-04T17:02:56+00:00
 5. اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
-   Link: https://www.youtube.com/watch?v=mQzJfNEA-yg
-   Published: 2026-10-04T15:01:10+00:00
+   https://www.youtube.com/watch?v=mQzJfNEA-yg
+   2026-10-04T15:01:10+00:00
 6. برخورد صاعقه  به برج میلاد تهران
-   Link: https://www.youtube.com/shorts/S8MI-DoiUlA
-   Published: 2026-10-04T14:41:20+00:00
+   https://www.youtube.com/shorts/S8MI-DoiUlA
+   2026-10-04T14:41:20+00:00
 7. سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
-   Link: https://www.youtube.com/shorts/yW3wKObTqR8
-   Published: 2026-10-04T14:27:34+00:00
+   https://www.youtube.com/shorts/yW3wKObTqR8
+   2026-10-04T14:27:34+00:00
 8. لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
-   Link: https://www.youtube.com/shorts/0b6eZYk8l38
-   Published: 2026-10-04T13:07:29+00:00
+   https://www.youtube.com/shorts/0b6eZYk8l38
+   2026-10-04T13:07:29+00:00
 9. تخریب زندان رجایی شهر به پایان رسید
-   Link: https://www.youtube.com/shorts/D1cB0qAo0kM
-   Published: 2026-10-04T11:35:07+00:00
+   https://www.youtube.com/shorts/D1cB0qAo0kM
+   2026-10-04T11:35:07+00:00
 10. بارش کم سابقه دانه های درشت تگرگ در دزفول
-   Link: https://www.youtube.com/shorts/0tMkNaTJdo8
-   Published: 2026-10-04T11:31:29+00:00
+   https://www.youtube.com/shorts/0tMkNaTJdo8
+   2026-10-04T11:31:29+00:00
 11. زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
-   Link: https://www.youtube.com/watch?v=PJgXu3SGfzk
-   Published: 2026-10-03T19:31:52+00:00
+   https://www.youtube.com/watch?v=PJgXu3SGfzk
+   2026-10-03T19:31:52+00:00
 12. «به پشت سَرت نگاه نکن؛ «نوزده
-   Link: https://www.youtube.com/watch?v=nvbubp8bUwU
-   Published: 2026-10-03T17:30:29+00:00
+   https://www.youtube.com/watch?v=nvbubp8bUwU
+   2026-10-03T17:30:29+00:00
 13. جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
-   Link: https://www.youtube.com/watch?v=cNhHWQ1UghU
-   Published: 2026-10-03T17:02:54+00:00
+   https://www.youtube.com/watch?v=cNhHWQ1UghU
+   2026-10-03T17:02:54+00:00
 14. اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-   Link: https://www.youtube.com/watch?v=AF8QThFyFLE
-   Published: 2026-10-03T15:01:17+00:00
+   https://www.youtube.com/watch?v=AF8QThFyFLE
+   2026-10-03T15:01:17+00:00
 15. پرگار: «من هم»
-   Link: https://www.youtube.com/watch?v=yNlquaiGddk
-   Published: 2026-10-03T14:00:14+00:00
-📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
-   [  ] برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
-   [  ] ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
-   [  ] جام جهان‌نما یکشنبه ۱۲ مهر
-   [✅ همسان] اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
-   [  ] برخورد صاعقه  به برج میلاد تهران
-   [  ] سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
-   [  ] لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
-   [  ] تخریب زندان رجایی شهر به پایان رسید
-   [  ] بارش کم سابقه دانه های درشت تگرگ در دزفول
-   [  ] زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
-   [  ] «به پشت سَرت نگاه نکن؛ «نوزده
-   [  ] جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
-   [✅ همسان] اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-   [  ] پرگار: «من هم»
+   https://www.youtube.com/watch?v=yNlquaiGddk
+   2026-10-03T14:00:14+00:00
+Keyword matches:
+  [    ] سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
+  [    ] برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
+  [    ] ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
+  [    ] جام جهان‌نما یکشنبه ۱۲ مهر
+  [MATCH] اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
+  [    ] برخورد صاعقه  به برج میلاد تهران
+  [    ] سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
+  [    ] لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
+  [    ] تخریب زندان رجایی شهر به پایان رسید
+  [    ] بارش کم سابقه دانه های درشت تگرگ در دزفول
+  [    ] زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
+  [    ] «به پشت سَرت نگاه نکن؛ «نوزده
+  [    ] جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
+  [MATCH] اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
+  [    ] پرگار: «من هم»
 
-🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCHZk9MrT3DGWmVqdsj5y0EA, کلیدواژه‌ها=['۶۰ دقیقه']
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-✅ 15 ویدیو در فید پیدا شد.
+Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['۶۰ دقیقه']
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+Found 15 videos in feed
 1. سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
-   Link: https://www.youtube.com/shorts/RPZid4UL6L8
-   Published: 2026-10-05T08:10:38+00:00
+   https://www.youtube.com/shorts/RPZid4UL6L8
+   2026-10-05T08:10:38+00:00
 2. برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
-   Link: https://www.youtube.com/shorts/8eKbEinbRlE
-   Published: 2026-10-05T08:04:28+00:00
+   https://www.youtube.com/shorts/8eKbEinbRlE
+   2026-10-05T08:04:28+00:00
 3. ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
-   Link: https://www.youtube.com/watch?v=Vgf7qRUU0MY
-   Published: 2026-10-04T19:31:16+00:00
+   https://www.youtube.com/watch?v=Vgf7qRUU0MY
+   2026-10-04T19:31:16+00:00
 4. جام جهان‌نما یکشنبه ۱۲ مهر
-   Link: https://www.youtube.com/watch?v=i2XAZ4iHO7k
-   Published: 2026-10-04T17:02:56+00:00
+   https://www.youtube.com/watch?v=i2XAZ4iHO7k
+   2026-10-04T17:02:56+00:00
 5. اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
-   Link: https://www.youtube.com/watch?v=mQzJfNEA-yg
-   Published: 2026-10-04T15:01:10+00:00
+   https://www.youtube.com/watch?v=mQzJfNEA-yg
+   2026-10-04T15:01:10+00:00
 6. برخورد صاعقه  به برج میلاد تهران
-   Link: https://www.youtube.com/shorts/S8MI-DoiUlA
-   Published: 2026-10-04T14:41:20+00:00
+   https://www.youtube.com/shorts/S8MI-DoiUlA
+   2026-10-04T14:41:20+00:00
 7. سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
-   Link: https://www.youtube.com/shorts/yW3wKObTqR8
-   Published: 2026-10-04T14:27:34+00:00
+   https://www.youtube.com/shorts/yW3wKObTqR8
+   2026-10-04T14:27:34+00:00
 8. لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
-   Link: https://www.youtube.com/shorts/0b6eZYk8l38
-   Published: 2026-10-04T13:07:29+00:00
+   https://www.youtube.com/shorts/0b6eZYk8l38
+   2026-10-04T13:07:29+00:00
 9. تخریب زندان رجایی شهر به پایان رسید
-   Link: https://www.youtube.com/shorts/D1cB0qAo0kM
-   Published: 2026-10-04T11:35:07+00:00
+   https://www.youtube.com/shorts/D1cB0qAo0kM
+   2026-10-04T11:35:07+00:00
 10. بارش کم سابقه دانه های درشت تگرگ در دزفول
-   Link: https://www.youtube.com/shorts/0tMkNaTJdo8
-   Published: 2026-10-04T11:31:29+00:00
+   https://www.youtube.com/shorts/0tMkNaTJdo8
+   2026-10-04T11:31:29+00:00
 11. زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
-   Link: https://www.youtube.com/watch?v=PJgXu3SGfzk
-   Published: 2026-10-03T19:31:52+00:00
+   https://www.youtube.com/watch?v=PJgXu3SGfzk
+   2026-10-03T19:31:52+00:00
 12. «به پشت سَرت نگاه نکن؛ «نوزده
-   Link: https://www.youtube.com/watch?v=nvbubp8bUwU
-   Published: 2026-10-03T17:30:29+00:00
+   https://www.youtube.com/watch?v=nvbubp8bUwU
+   2026-10-03T17:30:29+00:00
 13. جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
-   Link: https://www.youtube.com/watch?v=cNhHWQ1UghU
-   Published: 2026-10-03T17:02:54+00:00
+   https://www.youtube.com/watch?v=cNhHWQ1UghU
+   2026-10-03T17:02:54+00:00
 14. اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-   Link: https://www.youtube.com/watch?v=AF8QThFyFLE
-   Published: 2026-10-03T15:01:17+00:00
+   https://www.youtube.com/watch?v=AF8QThFyFLE
+   2026-10-03T15:01:17+00:00
 15. پرگار: «من هم»
-   Link: https://www.youtube.com/watch?v=yNlquaiGddk
-   Published: 2026-10-03T14:00:14+00:00
-📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
-   [  ] برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
-   [✅ همسان] ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
-   [  ] جام جهان‌نما یکشنبه ۱۲ مهر
-   [  ] اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
-   [  ] برخورد صاعقه  به برج میلاد تهران
-   [  ] سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
-   [  ] لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
-   [  ] تخریب زندان رجایی شهر به پایان رسید
-   [  ] بارش کم سابقه دانه های درشت تگرگ در دزفول
-   [✅ همسان] زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
-   [  ] «به پشت سَرت نگاه نکن؛ «نوزده
-   [  ] جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
-   [  ] اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-   [  ] پرگار: «من هم»
+   https://www.youtube.com/watch?v=yNlquaiGddk
+   2026-10-03T14:00:14+00:00
+Keyword matches:
+  [    ] سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
+  [    ] برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
+  [MATCH] ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
+  [    ] جام جهان‌نما یکشنبه ۱۲ مهر
+  [    ] اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
+  [    ] برخورد صاعقه  به برج میلاد تهران
+  [    ] سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
+  [    ] لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
+  [    ] تخریب زندان رجایی شهر به پایان رسید
+  [    ] بارش کم سابقه دانه های درشت تگرگ در دزفول
+  [MATCH] زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
+  [    ] «به پشت سَرت نگاه نکن؛ «نوزده
+  [    ] جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
+  [    ] اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
+  [    ] پرگار: «من هم»
 
-🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار بامدادی']
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-✅ 15 ویدیو در فید پیدا شد.
+Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار بامدادی']
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+Found 15 videos in feed
 1. برق حین سخنرانی رییس پلیس اقتصادی رفت
-   Link: https://www.youtube.com/shorts/2VpuK7v1rSQ
-   Published: 2026-10-05T08:37:24+00:00
+   https://www.youtube.com/shorts/2VpuK7v1rSQ
+   2026-10-05T08:37:24+00:00
 2. حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   Link: https://www.youtube.com/watch?v=JeBBMyeXY3A
-   Published: 2026-10-05T08:20:39+00:00
+   https://www.youtube.com/watch?v=JeBBMyeXY3A
+   2026-10-05T08:20:39+00:00
 3. فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   Link: https://www.youtube.com/shorts/JLjUSpW39aE
-   Published: 2026-10-05T08:18:00+00:00
+   https://www.youtube.com/shorts/JLjUSpW39aE
+   2026-10-05T08:18:00+00:00
 4. نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   Link: https://www.youtube.com/watch?v=zpBFhJ5RRFM
-   Published: 2026-10-05T07:53:19+00:00
+   https://www.youtube.com/watch?v=zpBFhJ5RRFM
+   2026-10-05T07:53:19+00:00
 5. مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   Link: https://www.youtube.com/watch?v=lDL_8N1mBjQ
-   Published: 2026-10-05T07:23:17+00:00
+   https://www.youtube.com/watch?v=lDL_8N1mBjQ
+   2026-10-05T07:23:17+00:00
 6. حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   Link: https://www.youtube.com/watch?v=e828-j2vsZs
-   Published: 2026-10-05T06:21:24+00:00
+   https://www.youtube.com/watch?v=e828-j2vsZs
+   2026-10-05T06:21:24+00:00
 7. ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   Link: https://www.youtube.com/watch?v=xEQaMquYhOo
-   Published: 2026-10-05T06:12:14+00:00
+   https://www.youtube.com/watch?v=xEQaMquYhOo
+   2026-10-05T06:12:14+00:00
 8. اخبار بامدادی | دوشنبه ۱۳ مهر
-   Link: https://www.youtube.com/watch?v=i6JeV954ulo
-   Published: 2026-10-05T06:00:41+00:00
+   https://www.youtube.com/watch?v=i6JeV954ulo
+   2026-10-05T06:00:41+00:00
 9. تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   Link: https://www.youtube.com/watch?v=gvvE5FGNCE8
-   Published: 2026-10-05T05:06:58+00:00
+   https://www.youtube.com/watch?v=gvvE5FGNCE8
+   2026-10-05T05:06:58+00:00
 10. امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   Link: https://www.youtube.com/watch?v=RgOK3VKepGI
-   Published: 2026-10-05T05:02:23+00:00
+   https://www.youtube.com/watch?v=RgOK3VKepGI
+   2026-10-05T05:02:23+00:00
 11. پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   Link: https://www.youtube.com/watch?v=TD7TfRaiUG4
-   Published: 2026-10-05T03:06:40+00:00
+   https://www.youtube.com/watch?v=TD7TfRaiUG4
+   2026-10-05T03:06:40+00:00
 12. محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   Link: https://www.youtube.com/watch?v=PSU-PmxC_cs
-   Published: 2026-10-05T01:25:11+00:00
+   https://www.youtube.com/watch?v=PSU-PmxC_cs
+   2026-10-05T01:25:11+00:00
 13. ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   Link: https://www.youtube.com/watch?v=09PjA0DKVhc
-   Published: 2026-10-05T01:18:24+00:00
+   https://www.youtube.com/watch?v=09PjA0DKVhc
+   2026-10-05T01:18:24+00:00
 14. علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   Link: https://www.youtube.com/shorts/Ocb1VSnnk98
-   Published: 2026-10-04T23:06:59+00:00
+   https://www.youtube.com/shorts/Ocb1VSnnk98
+   2026-10-04T23:06:59+00:00
 15. امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
-   Link: https://www.youtube.com/watch?v=7c83KqkB1To
-   Published: 2026-10-04T22:15:45+00:00
-📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] برق حین سخنرانی رییس پلیس اقتصادی رفت
-   [  ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   [  ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   [  ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   [  ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   [  ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   [  ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   [✅ همسان] اخبار بامدادی | دوشنبه ۱۳ مهر
-   [  ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   [  ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   [  ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   [  ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   [  ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   [  ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   [  ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
+   https://www.youtube.com/watch?v=7c83KqkB1To
+   2026-10-04T22:15:45+00:00
+Keyword matches:
+  [    ] برق حین سخنرانی رییس پلیس اقتصادی رفت
+  [    ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
+  [    ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
+  [    ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
+  [    ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
+  [    ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
+  [    ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
+  [MATCH] اخبار بامدادی | دوشنبه ۱۳ مهر
+  [    ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
+  [    ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
+  [    ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
+  [    ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
+  [    ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
+  [    ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
+  [    ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
 
-🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['اخبار شبانگاهی']
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-✅ 15 ویدیو در فید پیدا شد.
+Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار شبانگاهی']
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+Found 15 videos in feed
 1. برق حین سخنرانی رییس پلیس اقتصادی رفت
-   Link: https://www.youtube.com/shorts/2VpuK7v1rSQ
-   Published: 2026-10-05T08:37:24+00:00
+   https://www.youtube.com/shorts/2VpuK7v1rSQ
+   2026-10-05T08:37:24+00:00
 2. حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   Link: https://www.youtube.com/watch?v=JeBBMyeXY3A
-   Published: 2026-10-05T08:20:39+00:00
+   https://www.youtube.com/watch?v=JeBBMyeXY3A
+   2026-10-05T08:20:39+00:00
 3. فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   Link: https://www.youtube.com/shorts/JLjUSpW39aE
-   Published: 2026-10-05T08:18:00+00:00
+   https://www.youtube.com/shorts/JLjUSpW39aE
+   2026-10-05T08:18:00+00:00
 4. نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   Link: https://www.youtube.com/watch?v=zpBFhJ5RRFM
-   Published: 2026-10-05T07:53:19+00:00
+   https://www.youtube.com/watch?v=zpBFhJ5RRFM
+   2026-10-05T07:53:19+00:00
 5. مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   Link: https://www.youtube.com/watch?v=lDL_8N1mBjQ
-   Published: 2026-10-05T07:23:17+00:00
+   https://www.youtube.com/watch?v=lDL_8N1mBjQ
+   2026-10-05T07:23:17+00:00
 6. حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   Link: https://www.youtube.com/watch?v=e828-j2vsZs
-   Published: 2026-10-05T06:21:24+00:00
+   https://www.youtube.com/watch?v=e828-j2vsZs
+   2026-10-05T06:21:24+00:00
 7. ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   Link: https://www.youtube.com/watch?v=xEQaMquYhOo
-   Published: 2026-10-05T06:12:14+00:00
+   https://www.youtube.com/watch?v=xEQaMquYhOo
+   2026-10-05T06:12:14+00:00
 8. اخبار بامدادی | دوشنبه ۱۳ مهر
-   Link: https://www.youtube.com/watch?v=i6JeV954ulo
-   Published: 2026-10-05T06:00:41+00:00
+   https://www.youtube.com/watch?v=i6JeV954ulo
+   2026-10-05T06:00:41+00:00
 9. تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   Link: https://www.youtube.com/watch?v=gvvE5FGNCE8
-   Published: 2026-10-05T05:06:58+00:00
+   https://www.youtube.com/watch?v=gvvE5FGNCE8
+   2026-10-05T05:06:58+00:00
 10. امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   Link: https://www.youtube.com/watch?v=RgOK3VKepGI
-   Published: 2026-10-05T05:02:23+00:00
+   https://www.youtube.com/watch?v=RgOK3VKepGI
+   2026-10-05T05:02:23+00:00
 11. پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   Link: https://www.youtube.com/watch?v=TD7TfRaiUG4
-   Published: 2026-10-05T03:06:40+00:00
+   https://www.youtube.com/watch?v=TD7TfRaiUG4
+   2026-10-05T03:06:40+00:00
 12. محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   Link: https://www.youtube.com/watch?v=PSU-PmxC_cs
-   Published: 2026-10-05T01:25:11+00:00
+   https://www.youtube.com/watch?v=PSU-PmxC_cs
+   2026-10-05T01:25:11+00:00
 13. ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   Link: https://www.youtube.com/watch?v=09PjA0DKVhc
-   Published: 2026-10-05T01:18:24+00:00
+   https://www.youtube.com/watch?v=09PjA0DKVhc
+   2026-10-05T01:18:24+00:00
 14. علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   Link: https://www.youtube.com/shorts/Ocb1VSnnk98
-   Published: 2026-10-04T23:06:59+00:00
+   https://www.youtube.com/shorts/Ocb1VSnnk98
+   2026-10-04T23:06:59+00:00
 15. امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
-   Link: https://www.youtube.com/watch?v=7c83KqkB1To
-   Published: 2026-10-04T22:15:45+00:00
-📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] برق حین سخنرانی رییس پلیس اقتصادی رفت
-   [  ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   [  ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   [  ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   [  ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   [  ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   [  ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   [  ] اخبار بامدادی | دوشنبه ۱۳ مهر
-   [  ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   [  ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   [  ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   [  ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   [  ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   [  ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   [  ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
+   https://www.youtube.com/watch?v=7c83KqkB1To
+   2026-10-04T22:15:45+00:00
+Keyword matches:
+  [    ] برق حین سخنرانی رییس پلیس اقتصادی رفت
+  [    ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
+  [    ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
+  [    ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
+  [    ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
+  [    ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
+  [    ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
+  [    ] اخبار بامدادی | دوشنبه ۱۳ مهر
+  [    ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
+  [    ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
+  [    ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
+  [    ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
+  [    ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
+  [    ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
+  [    ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
 
-🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار بامدادی']
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 80 آهنگ/ویدئو پیدا شد.
+Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار بامدادی']
+SoundCloud: https://soundcloud.com/iranintl
+Found 80 tracks
 1. اخبار بامدادی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/d3gxsolpv06m
-   Published: Unknown
+   https://soundcloud.com/iranintl/d3gxsolpv06m
+   Unknown
 2. سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   Link: https://soundcloud.com/iranintl/ru4nsuh92jox
-   Published: Unknown
+   https://soundcloud.com/iranintl/ru4nsuh92jox
+   Unknown
 3. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   Link: https://soundcloud.com/iranintl/cw8lpxessouv
-   Published: Unknown
+   https://soundcloud.com/iranintl/cw8lpxessouv
+   Unknown
 4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   Link: https://soundcloud.com/iranintl/pu9mv28scqrr
-   Published: Unknown
+   https://soundcloud.com/iranintl/pu9mv28scqrr
+   Unknown
 5. اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/guakoapbjsuy
-   Published: Unknown
+   https://soundcloud.com/iranintl/guakoapbjsuy
+   Unknown
 6. اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/uizefg5yqeul
-   Published: Unknown
+   https://soundcloud.com/iranintl/uizefg5yqeul
+   Unknown
 7. اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/j8qtpwntuctv
-   Published: Unknown
+   https://soundcloud.com/iranintl/j8qtpwntuctv
+   Unknown
 8. سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   Link: https://soundcloud.com/iranintl/kypkmdabggwy
-   Published: Unknown
+   https://soundcloud.com/iranintl/kypkmdabggwy
+   Unknown
 9. چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
-   Published: Unknown
+   https://soundcloud.com/iranintl/uwn7wyuglhfm
+   Unknown
 10. تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   Link: https://soundcloud.com/iranintl/edez3xgswzpc
-   Published: Unknown
+   https://soundcloud.com/iranintl/edez3xgswzpc
+   Unknown
 11. اخبار شبانگاهی | شنبه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
-   Published: Unknown
+   https://soundcloud.com/iranintl/fpyrdjslp2s1
+   Unknown
 12. اخبار نیمروزی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/zxbabjmnravi
-   Published: Unknown
+   https://soundcloud.com/iranintl/zxbabjmnravi
+   Unknown
 13. اخبار بامدادی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/nyagj61pxpsp
-   Published: Unknown
+   https://soundcloud.com/iranintl/nyagj61pxpsp
+   Unknown
 14. ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   Link: https://soundcloud.com/iranintl/kormeddxz85s
-   Published: Unknown
+   https://soundcloud.com/iranintl/kormeddxz85s
+   Unknown
 15. اخبار شبانگاهی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/fo7aviz6vayw
-   Published: Unknown
+   https://soundcloud.com/iranintl/fo7aviz6vayw
+   Unknown
 16. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
-   Published: Unknown
+   https://soundcloud.com/iranintl/ahwj5eyxdsve
+   Unknown
 17. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
-   Published: Unknown
+   https://soundcloud.com/iranintl/4pee6rz5c1hw
+   Unknown
 18. برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   Link: https://soundcloud.com/iranintl/jtuzgagrsnel
-   Published: Unknown
+   https://soundcloud.com/iranintl/jtuzgagrsnel
+   Unknown
 19. ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   Link: https://soundcloud.com/iranintl/bzz7lmshigqe
-   Published: Unknown
+   https://soundcloud.com/iranintl/bzz7lmshigqe
+   Unknown
 20. اخبار شبانگاهی | پنجشنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/z2q13scc508i
-   Published: Unknown
+   https://soundcloud.com/iranintl/z2q13scc508i
+   Unknown
 21. اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/y39t4ivxzknj
-   Published: Unknown
+   https://soundcloud.com/iranintl/y39t4ivxzknj
+   Unknown
 22. اخبار بامدادی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
-   Published: Unknown
+   https://soundcloud.com/iranintl/t2pesoxm5fvy
+   Unknown
 23. سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   Link: https://soundcloud.com/iranintl/atfisre8cz8c
-   Published: Unknown
+   https://soundcloud.com/iranintl/atfisre8cz8c
+   Unknown
 24. برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   Link: https://soundcloud.com/iranintl/xyi2jufifk1v
-   Published: Unknown
+   https://soundcloud.com/iranintl/xyi2jufifk1v
+   Unknown
 25. چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   Link: https://soundcloud.com/iranintl/etssuqvuojey
-   Published: Unknown
+   https://soundcloud.com/iranintl/etssuqvuojey
+   Unknown
 26. ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   Link: https://soundcloud.com/iranintl/yly9rxj0gc62
-   Published: Unknown
+   https://soundcloud.com/iranintl/yly9rxj0gc62
+   Unknown
 27. تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
-   Published: Unknown
+   https://soundcloud.com/iranintl/hg5n9l0pkxsx
+   Unknown
 28. اخبار شبانگاهی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/wgfmxng3izas
-   Published: Unknown
+   https://soundcloud.com/iranintl/wgfmxng3izas
+   Unknown
 29. اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/f1k55mluxeea
-   Published: Unknown
+   https://soundcloud.com/iranintl/f1k55mluxeea
+   Unknown
 30. اخبار بامدادی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/4holdeypn37r
-   Published: Unknown
+   https://soundcloud.com/iranintl/4holdeypn37r
+   Unknown
 31. سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   Link: https://soundcloud.com/iranintl/nforqzwemeny
-   Published: Unknown
+   https://soundcloud.com/iranintl/nforqzwemeny
+   Unknown
 32. برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   Link: https://soundcloud.com/iranintl/jzt584k8uasv
-   Published: Unknown
+   https://soundcloud.com/iranintl/jzt584k8uasv
+   Unknown
 33. ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   Link: https://soundcloud.com/iranintl/2i6un1skxdvq
-   Published: Unknown
+   https://soundcloud.com/iranintl/2i6un1skxdvq
+   Unknown
 34. چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   Link: https://soundcloud.com/iranintl/stthmakjw1wp
-   Published: Unknown
+   https://soundcloud.com/iranintl/stthmakjw1wp
+   Unknown
 35. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/3cpey5veegx3
-   Published: Unknown
+   https://soundcloud.com/iranintl/3cpey5veegx3
+   Unknown
 36. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/h5zkkupfykfd
-   Published: Unknown
+   https://soundcloud.com/iranintl/h5zkkupfykfd
+   Unknown
 37. اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
-   Published: Unknown
+   https://soundcloud.com/iranintl/hoy8myd4uwo2
+   Unknown
 38. اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
-   Published: Unknown
+   https://soundcloud.com/iranintl/mcl4nmv2gxfi
+   Unknown
 39. اخبار بامدادی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
-   Published: Unknown
+   https://soundcloud.com/iranintl/wrf4u8eecbzm
+   Unknown
 40. سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
-   Link: https://soundcloud.com/iranintl/uus2tci9y2qe
-   Published: Unknown
-📋 همه عناوین:
-   [✅ همسان] اخبار بامدادی | یکشنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   [  ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   [✅ همسان] اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
-   [  ] اخبار نیمروزی | جمعه ۱۱ مهر
-   [✅ همسان] اخبار بامدادی | جمعه ۱۱ مهر
-   [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
-   [✅ همسان] اخبار بامدادی | جمعه ۱۰ مهر
-   [✅ همسان] اخبار بامدادی | جمعه ۱۰ مهر
-   [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
-   [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   [✅ همسان] اخبار بامدادی | پنج‌شنبه ۹ مهر
-   [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
-   [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   [✅ همسان] اخبار بامدادی | چهارشنبه ۸ مهر
-   [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   [✅ همسان] اخبار بامدادی | سه‌شنبه ۷ مهر
-   [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+   https://soundcloud.com/iranintl/uus2tci9y2qe
+   Unknown
+Titles:
+  [MATCH] اخبار بامدادی | یکشنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
+  [    ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+  [    ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+  [    ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+  [    ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+  [MATCH] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+  [    ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+  [    ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+  [    ] اخبار شبانگاهی | شنبه ۱۱ مهر
+  [    ] اخبار نیمروزی | جمعه ۱۱ مهر
+  [MATCH] اخبار بامدادی | جمعه ۱۱ مهر
+  [    ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+  [    ] اخبار شبانگاهی | جمعه ۱۰ مهر
+  [MATCH] اخبار بامدادی | جمعه ۱۰ مهر
+  [MATCH] اخبار بامدادی | جمعه ۱۰ مهر
+  [    ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+  [    ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+  [    ] اخبار شبانگاهی | پنجشنبه ۹ مهر
+  [    ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+  [MATCH] اخبار بامدادی | پنج‌شنبه ۹ مهر
+  [    ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+  [    ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+  [    ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+  [    ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+  [    ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+  [    ] اخبار شبانگاهی | چهارشنبه ۸ مهر
+  [    ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+  [MATCH] اخبار بامدادی | چهارشنبه ۸ مهر
+  [    ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+  [    ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+  [    ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+  [    ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [    ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+  [    ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+  [MATCH] اخبار بامدادی | سه‌شنبه ۷ مهر
+  [    ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
 
-🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار نیمروزی']
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 80 آهنگ/ویدئو پیدا شد.
+Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار نیمروزی']
+SoundCloud: https://soundcloud.com/iranintl
+Found 80 tracks
 1. اخبار بامدادی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/d3gxsolpv06m
-   Published: Unknown
+   https://soundcloud.com/iranintl/d3gxsolpv06m
+   Unknown
 2. سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   Link: https://soundcloud.com/iranintl/ru4nsuh92jox
-   Published: Unknown
+   https://soundcloud.com/iranintl/ru4nsuh92jox
+   Unknown
 3. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   Link: https://soundcloud.com/iranintl/cw8lpxessouv
-   Published: Unknown
+   https://soundcloud.com/iranintl/cw8lpxessouv
+   Unknown
 4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   Link: https://soundcloud.com/iranintl/pu9mv28scqrr
-   Published: Unknown
+   https://soundcloud.com/iranintl/pu9mv28scqrr
+   Unknown
 5. اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/guakoapbjsuy
-   Published: Unknown
+   https://soundcloud.com/iranintl/guakoapbjsuy
+   Unknown
 6. اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/uizefg5yqeul
-   Published: Unknown
+   https://soundcloud.com/iranintl/uizefg5yqeul
+   Unknown
 7. اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/j8qtpwntuctv
-   Published: Unknown
+   https://soundcloud.com/iranintl/j8qtpwntuctv
+   Unknown
 8. سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   Link: https://soundcloud.com/iranintl/kypkmdabggwy
-   Published: Unknown
+   https://soundcloud.com/iranintl/kypkmdabggwy
+   Unknown
 9. چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
-   Published: Unknown
+   https://soundcloud.com/iranintl/uwn7wyuglhfm
+   Unknown
 10. تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   Link: https://soundcloud.com/iranintl/edez3xgswzpc
-   Published: Unknown
+   https://soundcloud.com/iranintl/edez3xgswzpc
+   Unknown
 11. اخبار شبانگاهی | شنبه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
-   Published: Unknown
+   https://soundcloud.com/iranintl/fpyrdjslp2s1
+   Unknown
 12. اخبار نیمروزی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/zxbabjmnravi
-   Published: Unknown
+   https://soundcloud.com/iranintl/zxbabjmnravi
+   Unknown
 13. اخبار بامدادی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/nyagj61pxpsp
-   Published: Unknown
+   https://soundcloud.com/iranintl/nyagj61pxpsp
+   Unknown
 14. ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   Link: https://soundcloud.com/iranintl/kormeddxz85s
-   Published: Unknown
+   https://soundcloud.com/iranintl/kormeddxz85s
+   Unknown
 15. اخبار شبانگاهی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/fo7aviz6vayw
-   Published: Unknown
+   https://soundcloud.com/iranintl/fo7aviz6vayw
+   Unknown
 16. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
-   Published: Unknown
+   https://soundcloud.com/iranintl/ahwj5eyxdsve
+   Unknown
 17. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
-   Published: Unknown
+   https://soundcloud.com/iranintl/4pee6rz5c1hw
+   Unknown
 18. برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   Link: https://soundcloud.com/iranintl/jtuzgagrsnel
-   Published: Unknown
+   https://soundcloud.com/iranintl/jtuzgagrsnel
+   Unknown
 19. ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   Link: https://soundcloud.com/iranintl/bzz7lmshigqe
-   Published: Unknown
+   https://soundcloud.com/iranintl/bzz7lmshigqe
+   Unknown
 20. اخبار شبانگاهی | پنجشنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/z2q13scc508i
-   Published: Unknown
+   https://soundcloud.com/iranintl/z2q13scc508i
+   Unknown
 21. اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/y39t4ivxzknj
-   Published: Unknown
+   https://soundcloud.com/iranintl/y39t4ivxzknj
+   Unknown
 22. اخبار بامدادی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
-   Published: Unknown
+   https://soundcloud.com/iranintl/t2pesoxm5fvy
+   Unknown
 23. سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   Link: https://soundcloud.com/iranintl/atfisre8cz8c
-   Published: Unknown
+   https://soundcloud.com/iranintl/atfisre8cz8c
+   Unknown
 24. برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   Link: https://soundcloud.com/iranintl/xyi2jufifk1v
-   Published: Unknown
+   https://soundcloud.com/iranintl/xyi2jufifk1v
+   Unknown
 25. چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   Link: https://soundcloud.com/iranintl/etssuqvuojey
-   Published: Unknown
+   https://soundcloud.com/iranintl/etssuqvuojey
+   Unknown
 26. ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   Link: https://soundcloud.com/iranintl/yly9rxj0gc62
-   Published: Unknown
+   https://soundcloud.com/iranintl/yly9rxj0gc62
+   Unknown
 27. تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
-   Published: Unknown
+   https://soundcloud.com/iranintl/hg5n9l0pkxsx
+   Unknown
 28. اخبار شبانگاهی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/wgfmxng3izas
-   Published: Unknown
+   https://soundcloud.com/iranintl/wgfmxng3izas
+   Unknown
 29. اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/f1k55mluxeea
-   Published: Unknown
+   https://soundcloud.com/iranintl/f1k55mluxeea
+   Unknown
 30. اخبار بامدادی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/4holdeypn37r
-   Published: Unknown
+   https://soundcloud.com/iranintl/4holdeypn37r
+   Unknown
 31. سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   Link: https://soundcloud.com/iranintl/nforqzwemeny
-   Published: Unknown
+   https://soundcloud.com/iranintl/nforqzwemeny
+   Unknown
 32. برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   Link: https://soundcloud.com/iranintl/jzt584k8uasv
-   Published: Unknown
+   https://soundcloud.com/iranintl/jzt584k8uasv
+   Unknown
 33. ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   Link: https://soundcloud.com/iranintl/2i6un1skxdvq
-   Published: Unknown
+   https://soundcloud.com/iranintl/2i6un1skxdvq
+   Unknown
 34. چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   Link: https://soundcloud.com/iranintl/stthmakjw1wp
-   Published: Unknown
+   https://soundcloud.com/iranintl/stthmakjw1wp
+   Unknown
 35. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/3cpey5veegx3
-   Published: Unknown
+   https://soundcloud.com/iranintl/3cpey5veegx3
+   Unknown
 36. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/h5zkkupfykfd
-   Published: Unknown
+   https://soundcloud.com/iranintl/h5zkkupfykfd
+   Unknown
 37. اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
-   Published: Unknown
+   https://soundcloud.com/iranintl/hoy8myd4uwo2
+   Unknown
 38. اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
-   Published: Unknown
+   https://soundcloud.com/iranintl/mcl4nmv2gxfi
+   Unknown
 39. اخبار بامدادی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
-   Published: Unknown
+   https://soundcloud.com/iranintl/wrf4u8eecbzm
+   Unknown
 40. سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
-   Link: https://soundcloud.com/iranintl/uus2tci9y2qe
-   Published: Unknown
-📋 همه عناوین:
-   [  ] اخبار بامدادی | یکشنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   [  ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   [✅ همسان] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   [  ] اخبار شبانگاهی | شنبه ۱۱ مهر
-   [✅ همسان] اخبار نیمروزی | جمعه ۱۱ مهر
-   [  ] اخبار بامدادی | جمعه ۱۱ مهر
-   [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   [  ] اخبار شبانگاهی | جمعه ۱۰ مهر
-   [  ] اخبار بامدادی | جمعه ۱۰ مهر
-   [  ] اخبار بامدادی | جمعه ۱۰ مهر
-   [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   [  ] اخبار شبانگاهی | پنجشنبه ۹ مهر
-   [✅ همسان] اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
-   [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   [  ] اخبار شبانگاهی | چهارشنبه ۸ مهر
-   [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   [  ] اخبار بامدادی | چهارشنبه ۸ مهر
-   [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [  ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
-   [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+   https://soundcloud.com/iranintl/uus2tci9y2qe
+   Unknown
+Titles:
+  [    ] اخبار بامدادی | یکشنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
+  [    ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+  [    ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+  [    ] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+  [MATCH] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+  [    ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+  [    ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+  [    ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+  [    ] اخبار شبانگاهی | شنبه ۱۱ مهر
+  [MATCH] اخبار نیمروزی | جمعه ۱۱ مهر
+  [    ] اخبار بامدادی | جمعه ۱۱ مهر
+  [    ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+  [    ] اخبار شبانگاهی | جمعه ۱۰ مهر
+  [    ] اخبار بامدادی | جمعه ۱۰ مهر
+  [    ] اخبار بامدادی | جمعه ۱۰ مهر
+  [    ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+  [    ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+  [    ] اخبار شبانگاهی | پنجشنبه ۹ مهر
+  [MATCH] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+  [    ] اخبار بامدادی | پنج‌شنبه ۹ مهر
+  [    ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+  [    ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+  [    ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+  [    ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+  [    ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+  [    ] اخبار شبانگاهی | چهارشنبه ۸ مهر
+  [    ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+  [    ] اخبار بامدادی | چهارشنبه ۸ مهر
+  [    ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+  [    ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+  [    ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+  [    ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [    ] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+  [    ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+  [    ] اخبار بامدادی | سه‌شنبه ۷ مهر
+  [    ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
 
-🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/iranintl, کلیدواژه‌ها=['اخبار شبانگاهی']
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 80 آهنگ/ویدئو پیدا شد.
+Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار شبانگاهی']
+SoundCloud: https://soundcloud.com/iranintl
+Found 80 tracks
 1. اخبار بامدادی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/d3gxsolpv06m
-   Published: Unknown
+   https://soundcloud.com/iranintl/d3gxsolpv06m
+   Unknown
 2. سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   Link: https://soundcloud.com/iranintl/ru4nsuh92jox
-   Published: Unknown
+   https://soundcloud.com/iranintl/ru4nsuh92jox
+   Unknown
 3. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   Link: https://soundcloud.com/iranintl/cw8lpxessouv
-   Published: Unknown
+   https://soundcloud.com/iranintl/cw8lpxessouv
+   Unknown
 4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   Link: https://soundcloud.com/iranintl/pu9mv28scqrr
-   Published: Unknown
+   https://soundcloud.com/iranintl/pu9mv28scqrr
+   Unknown
 5. اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/guakoapbjsuy
-   Published: Unknown
+   https://soundcloud.com/iranintl/guakoapbjsuy
+   Unknown
 6. اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/uizefg5yqeul
-   Published: Unknown
+   https://soundcloud.com/iranintl/uizefg5yqeul
+   Unknown
 7. اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/j8qtpwntuctv
-   Published: Unknown
+   https://soundcloud.com/iranintl/j8qtpwntuctv
+   Unknown
 8. سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   Link: https://soundcloud.com/iranintl/kypkmdabggwy
-   Published: Unknown
+   https://soundcloud.com/iranintl/kypkmdabggwy
+   Unknown
 9. چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
-   Published: Unknown
+   https://soundcloud.com/iranintl/uwn7wyuglhfm
+   Unknown
 10. تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   Link: https://soundcloud.com/iranintl/edez3xgswzpc
-   Published: Unknown
+   https://soundcloud.com/iranintl/edez3xgswzpc
+   Unknown
 11. اخبار شبانگاهی | شنبه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
-   Published: Unknown
+   https://soundcloud.com/iranintl/fpyrdjslp2s1
+   Unknown
 12. اخبار نیمروزی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/zxbabjmnravi
-   Published: Unknown
+   https://soundcloud.com/iranintl/zxbabjmnravi
+   Unknown
 13. اخبار بامدادی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/nyagj61pxpsp
-   Published: Unknown
+   https://soundcloud.com/iranintl/nyagj61pxpsp
+   Unknown
 14. ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   Link: https://soundcloud.com/iranintl/kormeddxz85s
-   Published: Unknown
+   https://soundcloud.com/iranintl/kormeddxz85s
+   Unknown
 15. اخبار شبانگاهی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/fo7aviz6vayw
-   Published: Unknown
+   https://soundcloud.com/iranintl/fo7aviz6vayw
+   Unknown
 16. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
-   Published: Unknown
+   https://soundcloud.com/iranintl/ahwj5eyxdsve
+   Unknown
 17. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
-   Published: Unknown
+   https://soundcloud.com/iranintl/4pee6rz5c1hw
+   Unknown
 18. برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   Link: https://soundcloud.com/iranintl/jtuzgagrsnel
-   Published: Unknown
+   https://soundcloud.com/iranintl/jtuzgagrsnel
+   Unknown
 19. ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   Link: https://soundcloud.com/iranintl/bzz7lmshigqe
-   Published: Unknown
+   https://soundcloud.com/iranintl/bzz7lmshigqe
+   Unknown
 20. اخبار شبانگاهی | پنجشنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/z2q13scc508i
-   Published: Unknown
+   https://soundcloud.com/iranintl/z2q13scc508i
+   Unknown
 21. اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/y39t4ivxzknj
-   Published: Unknown
+   https://soundcloud.com/iranintl/y39t4ivxzknj
+   Unknown
 22. اخبار بامدادی | پنج‌شنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/t2pesoxm5fvy
-   Published: Unknown
+   https://soundcloud.com/iranintl/t2pesoxm5fvy
+   Unknown
 23. سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   Link: https://soundcloud.com/iranintl/atfisre8cz8c
-   Published: Unknown
+   https://soundcloud.com/iranintl/atfisre8cz8c
+   Unknown
 24. برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   Link: https://soundcloud.com/iranintl/xyi2jufifk1v
-   Published: Unknown
+   https://soundcloud.com/iranintl/xyi2jufifk1v
+   Unknown
 25. چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   Link: https://soundcloud.com/iranintl/etssuqvuojey
-   Published: Unknown
+   https://soundcloud.com/iranintl/etssuqvuojey
+   Unknown
 26. ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   Link: https://soundcloud.com/iranintl/yly9rxj0gc62
-   Published: Unknown
+   https://soundcloud.com/iranintl/yly9rxj0gc62
+   Unknown
 27. تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   Link: https://soundcloud.com/iranintl/hg5n9l0pkxsx
-   Published: Unknown
+   https://soundcloud.com/iranintl/hg5n9l0pkxsx
+   Unknown
 28. اخبار شبانگاهی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/wgfmxng3izas
-   Published: Unknown
+   https://soundcloud.com/iranintl/wgfmxng3izas
+   Unknown
 29. اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/f1k55mluxeea
-   Published: Unknown
+   https://soundcloud.com/iranintl/f1k55mluxeea
+   Unknown
 30. اخبار بامدادی | چهارشنبه ۸ مهر
-   Link: https://soundcloud.com/iranintl/4holdeypn37r
-   Published: Unknown
+   https://soundcloud.com/iranintl/4holdeypn37r
+   Unknown
 31. سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   Link: https://soundcloud.com/iranintl/nforqzwemeny
-   Published: Unknown
+   https://soundcloud.com/iranintl/nforqzwemeny
+   Unknown
 32. برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   Link: https://soundcloud.com/iranintl/jzt584k8uasv
-   Published: Unknown
+   https://soundcloud.com/iranintl/jzt584k8uasv
+   Unknown
 33. ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   Link: https://soundcloud.com/iranintl/2i6un1skxdvq
-   Published: Unknown
+   https://soundcloud.com/iranintl/2i6un1skxdvq
+   Unknown
 34. چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   Link: https://soundcloud.com/iranintl/stthmakjw1wp
-   Published: Unknown
+   https://soundcloud.com/iranintl/stthmakjw1wp
+   Unknown
 35. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/3cpey5veegx3
-   Published: Unknown
+   https://soundcloud.com/iranintl/3cpey5veegx3
+   Unknown
 36. تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   Link: https://soundcloud.com/iranintl/h5zkkupfykfd
-   Published: Unknown
+   https://soundcloud.com/iranintl/h5zkkupfykfd
+   Unknown
 37. اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/hoy8myd4uwo2
-   Published: Unknown
+   https://soundcloud.com/iranintl/hoy8myd4uwo2
+   Unknown
 38. اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/mcl4nmv2gxfi
-   Published: Unknown
+   https://soundcloud.com/iranintl/mcl4nmv2gxfi
+   Unknown
 39. اخبار بامدادی | سه‌شنبه ۷ مهر
-   Link: https://soundcloud.com/iranintl/wrf4u8eecbzm
-   Published: Unknown
+   https://soundcloud.com/iranintl/wrf4u8eecbzm
+   Unknown
 40. سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
-   Link: https://soundcloud.com/iranintl/uus2tci9y2qe
-   Published: Unknown
-📋 همه عناوین:
-   [  ] اخبار بامدادی | یکشنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   [  ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   [  ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   [✅ همسان] اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   [  ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   [  ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   [  ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   [  ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   [  ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   [✅ همسان] اخبار شبانگاهی | شنبه ۱۱ مهر
-   [  ] اخبار نیمروزی | جمعه ۱۱ مهر
-   [  ] اخبار بامدادی | جمعه ۱۱ مهر
-   [  ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   [✅ همسان] اخبار شبانگاهی | جمعه ۱۰ مهر
-   [  ] اخبار بامدادی | جمعه ۱۰ مهر
-   [  ] اخبار بامدادی | جمعه ۱۰ مهر
-   [  ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   [  ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   [✅ همسان] اخبار شبانگاهی | پنجشنبه ۹ مهر
-   [  ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
-   [  ] اخبار بامدادی | پنج‌شنبه ۹ مهر
-   [  ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
-   [  ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
-   [  ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
-   [  ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
-   [  ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
-   [✅ همسان] اخبار شبانگاهی | چهارشنبه ۸ مهر
-   [  ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
-   [  ] اخبار بامدادی | چهارشنبه ۸ مهر
-   [  ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
-   [  ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
-   [  ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
-   [  ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [  ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
-   [✅ همسان] اخبار شبانگاهی | سه‌شنبه ۷ مهر
-   [  ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
-   [  ] اخبار بامدادی | سه‌شنبه ۷ مهر
-   [  ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
+   https://soundcloud.com/iranintl/uus2tci9y2qe
+   Unknown
+Titles:
+  [    ] اخبار بامدادی | یکشنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
+  [    ] چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+  [    ] تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
+  [MATCH] اخبار شبانگاهی | یکشنبه ۱۲ مهر
+  [    ] اخبار نیمروزی | یک‌شنبه ۱۲ مهر
+  [    ] اخبار بامدادی | یک‌شنبه ۱۲ مهر
+  [    ] سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+  [    ] چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+  [    ] تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
+  [MATCH] اخبار شبانگاهی | شنبه ۱۱ مهر
+  [    ] اخبار نیمروزی | جمعه ۱۱ مهر
+  [    ] اخبار بامدادی | جمعه ۱۱ مهر
+  [    ] ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
+  [MATCH] اخبار شبانگاهی | جمعه ۱۰ مهر
+  [    ] اخبار بامدادی | جمعه ۱۰ مهر
+  [    ] اخبار بامدادی | جمعه ۱۰ مهر
+  [    ] برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
+  [    ] ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
+  [MATCH] اخبار شبانگاهی | پنجشنبه ۹ مهر
+  [    ] اخبار نیمروزی | پنج‌شنبه ۹ مهر
+  [    ] اخبار بامدادی | پنج‌شنبه ۹ مهر
+  [    ] سیاست با مراد ویسی: برای سرنگونی جمهوری اسلامی چه چیزهایی لازم است؟
+  [    ] برنامه با کامبیز حسینی | چرا حق بازگشت به وطن به امتیاز تبدیل شده است؟
+  [    ] چشم‌انداز: زمینه‌سازی ترسناک حکومت ایران برای جنگ شهری؟!
+  [    ] ۲۴ با فرداد فرحزاد: یک گام تا فاجعه؛ در پرواز فلای‌دبی به تل‌آویو چه گذشت؟
+  [    ] تیتراول با نیوشا صارمی: لحظه به لحظه با حادثه امنیتی در پرواز به مقصد تلاویو؛ خلبان بازداشت شد
+  [MATCH] اخبار شبانگاهی | چهارشنبه ۸ مهر
+  [    ] اخبار نیم‌روزی | چهارشنبه ۸ مهر
+  [    ] اخبار بامدادی | چهارشنبه ۸ مهر
+  [    ] سیاست با مراد ویسی: حمله پیش‌دستانه یا خودکشی جمهوری اسلامی؟
+  [    ] برنامه با کامبیز حسینی | گرانی دلار چه تغییری در زندگی شما ایجاد کرده است؟
+  [    ] ۲۴ با فرداد فرحزاد:  ترامپ: وضعیت فعلی ایران خیلی زود به پایان می‌رسد
+  [    ] چشمانداز:نامه عجیب و غریب سپاه به مردم آمریکا
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [    ] تیتراول با نیوشا صارمی: نتانیاهو هشدار داد: نشانه‌های حمله به اسرائیل؛ رایزنی فوری درباره ایران
+  [MATCH] اخبار شبانگاهی | سه‌شنبه ۷ مهر
+  [    ] اخبار نیم‌روزی | سه‌شنبه ۷ مهر
+  [    ] اخبار بامدادی | سه‌شنبه ۷ مهر
+  [    ] سیاست با مراد ویسی: مجتبی متوهم‌تر از پدر
 
-🔍 بررسی آیتم: پلتفرم=soundcloud_playlist, شناسه=https://soundcloud.com/bbcpersian, کلیدواژه‌ها=['جام جهان\u200cنما']
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
-✅ 80 آهنگ/ویدئو پیدا شد.
+Item: platform=soundcloud_playlist, id=https://soundcloud.com/bbcpersian, keywords=['جام جهان\u200cنما']
+SoundCloud: https://soundcloud.com/bbcpersian
+Found 80 tracks
 1. جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/eyznhsmcixdq
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/eyznhsmcixdq
+   Unknown
 2. جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/otqjbsvv6kav
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/otqjbsvv6kav
+   Unknown
 3. جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
+   Unknown
 4. جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
+   Unknown
 5. جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/afb8purmaqkd
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/afb8purmaqkd
+   Unknown
 6. جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/p9pc60cebnwx
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/p9pc60cebnwx
+   Unknown
 7. جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/qsghtn33ecp9
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/qsghtn33ecp9
+   Unknown
 8. جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/cvkxev1f2x7d
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/cvkxev1f2x7d
+   Unknown
 9. جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
+   Unknown
 10. جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/ii72ixfjdepp
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/ii72ixfjdepp
+   Unknown
 11. جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/iqqtrb7mcfon
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/iqqtrb7mcfon
+   Unknown
 12. جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/jutnxmdwdxoe
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/jutnxmdwdxoe
+   Unknown
 13. جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/p9dpo3e4xw23
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/p9dpo3e4xw23
+   Unknown
 14. جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/rkkn8ahihrlx
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/rkkn8ahihrlx
+   Unknown
 15. جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/d6i8xedxw86a
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/d6i8xedxw86a
+   Unknown
 16. جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xveg1ql7yy8i
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/xveg1ql7yy8i
+   Unknown
 17. جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/btqrxpfmkjiw
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/btqrxpfmkjiw
+   Unknown
 18. جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/uciogplp6q1t
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/uciogplp6q1t
+   Unknown
 19. جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/wwnfyqs02ltw
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/wwnfyqs02ltw
+   Unknown
 20. جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/akg7jmmqcah4
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/akg7jmmqcah4
+   Unknown
 21. جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/9v8fh0vm8bjj
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/9v8fh0vm8bjj
+   Unknown
 22. جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/jspgu4eqdlyd
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/jspgu4eqdlyd
+   Unknown
 23. جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/nxwo1au5tzav
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/nxwo1au5tzav
+   Unknown
 24. جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/p5bani9x3cnc
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/p5bani9x3cnc
+   Unknown
 25. جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/g9l5xvq7rvmh
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/g9l5xvq7rvmh
+   Unknown
 26. جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/yxouf99rqxiu
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/yxouf99rqxiu
+   Unknown
 27. جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xyxqhcfnozou
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/xyxqhcfnozou
+   Unknown
 28. جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/ornlzlavxktx
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/ornlzlavxktx
+   Unknown
 29. جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/qjgdhvxbyqkm
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/qjgdhvxbyqkm
+   Unknown
 30. جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/f1xkr8pjxcrv
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/f1xkr8pjxcrv
+   Unknown
 31. جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xr3u8ubeqwfk
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/xr3u8ubeqwfk
+   Unknown
 32. جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/vabpemvsw9pu
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/vabpemvsw9pu
+   Unknown
 33. جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/wwg9ablnjyhp
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/wwg9ablnjyhp
+   Unknown
 34. جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/ltbo2nmd9r3d
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/ltbo2nmd9r3d
+   Unknown
 35. جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/s0eorjeinwy3
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/s0eorjeinwy3
+   Unknown
 36. جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/5s8rdk6klhvh
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/5s8rdk6klhvh
+   Unknown
 37. جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/fsmpgwe842wu
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/fsmpgwe842wu
+   Unknown
 38. جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/4bnapbrig40a
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/4bnapbrig40a
+   Unknown
 39. جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/u7nvdepqusly
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/u7nvdepqusly
+   Unknown
 40. جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/k8guctlx4gqz
-   Published: Unknown
-📋 همه عناوین:
-   [✅ همسان] جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
-   [✅ همسان] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
+   https://soundcloud.com/bbcpersian/k8guctlx4gqz
+   Unknown
+Titles:
+  [MATCH] جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۴ سپتامبر ۲۰۲۶ / ۲۳ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۳ سپتامبر ۲۰۲۶ / ۲۲ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۲ سپتامبر ۲۰۲۶ / ۲۱ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۱ سپتامبر ۲۰۲۶ / ۲۰ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱۰ سپتامبر ۲۰۲۶ / ۱۹ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۹ سپتامبر ۲۰۲۶ / ۱۸ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۸ سپتامبر ۲۰۲۶ / ۱۷ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۷ سپتامبر ۲۰۲۶ / ۱۶ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۶ سپتامبر ۲۰۲۶ / ۱۵ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۵ سپتامبر ۲۰۲۶ / ۱۴ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۴ سپتامبر ۲۰۲۶ / ۱۳ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۳ سپتامبر ۲۰۲۶ / ۱۲ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲ سپتامبر ۲۰۲۶ / ۱۱ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۱ سپتامبر ۲۰۲۶ / ۱۰ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۳۱ اوت ۲۰۲۶ / ۹ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۳۰ اوت ۲۰۲۶ / ۸ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۹ اوت ۲۰۲۶ / ۷ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۸ اوت ۲۰۲۶ / ۶ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۷ اوت ۲۰۲۶ / ۵ شهریور ۱۴۰۵
+  [MATCH] جام جهان‌نما ۲۶ اوت ۲۰۲۶ / ۴ شهریور ۱۴۰۵
 
-🔍 بررسی آیتم: پلتفرم=youtube, شناسه=UCat6bC0Wrqq9Bcq7EkH_yQw, کلیدواژه‌ها=['نیم']
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-✅ 15 ویدیو در فید پیدا شد.
+Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['نیم']
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+Found 15 videos in feed
 1. برق حین سخنرانی رییس پلیس اقتصادی رفت
-   Link: https://www.youtube.com/shorts/2VpuK7v1rSQ
-   Published: 2026-10-05T08:37:24+00:00
+   https://www.youtube.com/shorts/2VpuK7v1rSQ
+   2026-10-05T08:37:24+00:00
 2. حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   Link: https://www.youtube.com/watch?v=JeBBMyeXY3A
-   Published: 2026-10-05T08:20:39+00:00
+   https://www.youtube.com/watch?v=JeBBMyeXY3A
+   2026-10-05T08:20:39+00:00
 3. فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   Link: https://www.youtube.com/shorts/JLjUSpW39aE
-   Published: 2026-10-05T08:18:00+00:00
+   https://www.youtube.com/shorts/JLjUSpW39aE
+   2026-10-05T08:18:00+00:00
 4. نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   Link: https://www.youtube.com/watch?v=zpBFhJ5RRFM
-   Published: 2026-10-05T07:53:19+00:00
+   https://www.youtube.com/watch?v=zpBFhJ5RRFM
+   2026-10-05T07:53:19+00:00
 5. مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   Link: https://www.youtube.com/watch?v=lDL_8N1mBjQ
-   Published: 2026-10-05T07:23:17+00:00
+   https://www.youtube.com/watch?v=lDL_8N1mBjQ
+   2026-10-05T07:23:17+00:00
 6. حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   Link: https://www.youtube.com/watch?v=e828-j2vsZs
-   Published: 2026-10-05T06:21:24+00:00
+   https://www.youtube.com/watch?v=e828-j2vsZs
+   2026-10-05T06:21:24+00:00
 7. ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   Link: https://www.youtube.com/watch?v=xEQaMquYhOo
-   Published: 2026-10-05T06:12:14+00:00
+   https://www.youtube.com/watch?v=xEQaMquYhOo
+   2026-10-05T06:12:14+00:00
 8. اخبار بامدادی | دوشنبه ۱۳ مهر
-   Link: https://www.youtube.com/watch?v=i6JeV954ulo
-   Published: 2026-10-05T06:00:41+00:00
+   https://www.youtube.com/watch?v=i6JeV954ulo
+   2026-10-05T06:00:41+00:00
 9. تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   Link: https://www.youtube.com/watch?v=gvvE5FGNCE8
-   Published: 2026-10-05T05:06:58+00:00
+   https://www.youtube.com/watch?v=gvvE5FGNCE8
+   2026-10-05T05:06:58+00:00
 10. امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   Link: https://www.youtube.com/watch?v=RgOK3VKepGI
-   Published: 2026-10-05T05:02:23+00:00
+   https://www.youtube.com/watch?v=RgOK3VKepGI
+   2026-10-05T05:02:23+00:00
 11. پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   Link: https://www.youtube.com/watch?v=TD7TfRaiUG4
-   Published: 2026-10-05T03:06:40+00:00
+   https://www.youtube.com/watch?v=TD7TfRaiUG4
+   2026-10-05T03:06:40+00:00
 12. محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   Link: https://www.youtube.com/watch?v=PSU-PmxC_cs
-   Published: 2026-10-05T01:25:11+00:00
+   https://www.youtube.com/watch?v=PSU-PmxC_cs
+   2026-10-05T01:25:11+00:00
 13. ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   Link: https://www.youtube.com/watch?v=09PjA0DKVhc
-   Published: 2026-10-05T01:18:24+00:00
+   https://www.youtube.com/watch?v=09PjA0DKVhc
+   2026-10-05T01:18:24+00:00
 14. علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   Link: https://www.youtube.com/shorts/Ocb1VSnnk98
-   Published: 2026-10-04T23:06:59+00:00
+   https://www.youtube.com/shorts/Ocb1VSnnk98
+   2026-10-04T23:06:59+00:00
 15. امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
-   Link: https://www.youtube.com/watch?v=7c83KqkB1To
-   Published: 2026-10-04T22:15:45+00:00
-📋 عناوین همسان‌سازی شده با کلیدواژه:
-   [  ] برق حین سخنرانی رییس پلیس اقتصادی رفت
-   [  ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   [  ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   [  ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   [  ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   [  ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   [  ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   [  ] اخبار بامدادی | دوشنبه ۱۳ مهر
-   [  ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   [  ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   [  ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   [  ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   [  ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   [  ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   [  ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
-
-============================================================
-📚 ساخت کاتالوگ تمیز کانال‌ها (channel_catalog.md)
-============================================================
-
-▶ YouTube catalog: UCHZk9MrT3DGWmVqdsj5y0EA
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-✅ 15 ویدیو در فید پیدا شد.
+   https://www.youtube.com/watch?v=7c83KqkB1To
+   2026-10-04T22:15:45+00:00
+Keyword matches:
+  [    ] برق حین سخنرانی رییس پلیس اقتصادی رفت
+  [    ] حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
+  [    ] فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
+  [    ] نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
+  [    ] مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
+  [    ] حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
+  [    ] ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
+  [    ] اخبار بامدادی | دوشنبه ۱۳ مهر
+  [    ] تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
+  [    ] امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
+  [    ] پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
+  [    ] محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
+  [    ] ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
+  [    ] علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
+  [    ] امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
+Building channel_catalog.md
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+Found 15 videos in feed
 1. سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
-   Link: https://www.youtube.com/shorts/RPZid4UL6L8
-   Published: 2026-10-05T08:10:38+00:00
+   https://www.youtube.com/shorts/RPZid4UL6L8
+   2026-10-05T08:10:38+00:00
 2. برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
-   Link: https://www.youtube.com/shorts/8eKbEinbRlE
-   Published: 2026-10-05T08:04:28+00:00
+   https://www.youtube.com/shorts/8eKbEinbRlE
+   2026-10-05T08:04:28+00:00
 3. ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
-   Link: https://www.youtube.com/watch?v=Vgf7qRUU0MY
-   Published: 2026-10-04T19:31:16+00:00
+   https://www.youtube.com/watch?v=Vgf7qRUU0MY
+   2026-10-04T19:31:16+00:00
 4. جام جهان‌نما یکشنبه ۱۲ مهر
-   Link: https://www.youtube.com/watch?v=i2XAZ4iHO7k
-   Published: 2026-10-04T17:02:56+00:00
+   https://www.youtube.com/watch?v=i2XAZ4iHO7k
+   2026-10-04T17:02:56+00:00
 5. اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
-   Link: https://www.youtube.com/watch?v=mQzJfNEA-yg
-   Published: 2026-10-04T15:01:10+00:00
+   https://www.youtube.com/watch?v=mQzJfNEA-yg
+   2026-10-04T15:01:10+00:00
 6. برخورد صاعقه  به برج میلاد تهران
-   Link: https://www.youtube.com/shorts/S8MI-DoiUlA
-   Published: 2026-10-04T14:41:20+00:00
+   https://www.youtube.com/shorts/S8MI-DoiUlA
+   2026-10-04T14:41:20+00:00
 7. سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
-   Link: https://www.youtube.com/shorts/yW3wKObTqR8
-   Published: 2026-10-04T14:27:34+00:00
+   https://www.youtube.com/shorts/yW3wKObTqR8
+   2026-10-04T14:27:34+00:00
 8. لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
-   Link: https://www.youtube.com/shorts/0b6eZYk8l38
-   Published: 2026-10-04T13:07:29+00:00
+   https://www.youtube.com/shorts/0b6eZYk8l38
+   2026-10-04T13:07:29+00:00
 9. تخریب زندان رجایی شهر به پایان رسید
-   Link: https://www.youtube.com/shorts/D1cB0qAo0kM
-   Published: 2026-10-04T11:35:07+00:00
+   https://www.youtube.com/shorts/D1cB0qAo0kM
+   2026-10-04T11:35:07+00:00
 10. بارش کم سابقه دانه های درشت تگرگ در دزفول
-   Link: https://www.youtube.com/shorts/0tMkNaTJdo8
-   Published: 2026-10-04T11:31:29+00:00
+   https://www.youtube.com/shorts/0tMkNaTJdo8
+   2026-10-04T11:31:29+00:00
 11. زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
-   Link: https://www.youtube.com/watch?v=PJgXu3SGfzk
-   Published: 2026-10-03T19:31:52+00:00
+   https://www.youtube.com/watch?v=PJgXu3SGfzk
+   2026-10-03T19:31:52+00:00
 12. «به پشت سَرت نگاه نکن؛ «نوزده
-   Link: https://www.youtube.com/watch?v=nvbubp8bUwU
-   Published: 2026-10-03T17:30:29+00:00
+   https://www.youtube.com/watch?v=nvbubp8bUwU
+   2026-10-03T17:30:29+00:00
 13. جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
-   Link: https://www.youtube.com/watch?v=cNhHWQ1UghU
-   Published: 2026-10-03T17:02:54+00:00
+   https://www.youtube.com/watch?v=cNhHWQ1UghU
+   2026-10-03T17:02:54+00:00
 14. اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-   Link: https://www.youtube.com/watch?v=AF8QThFyFLE
-   Published: 2026-10-03T15:01:17+00:00
+   https://www.youtube.com/watch?v=AF8QThFyFLE
+   2026-10-03T15:01:17+00:00
 15. پرگار: «من هم»
-   Link: https://www.youtube.com/watch?v=yNlquaiGddk
-   Published: 2026-10-03T14:00:14+00:00
-
-▶ YouTube catalog: UCat6bC0Wrqq9Bcq7EkH_yQw
-📡 دریافت فید یوتیوب: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-✅ 15 ویدیو در فید پیدا شد.
+   https://www.youtube.com/watch?v=yNlquaiGddk
+   2026-10-03T14:00:14+00:00
+Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+Found 15 videos in feed
 1. برق حین سخنرانی رییس پلیس اقتصادی رفت
-   Link: https://www.youtube.com/shorts/2VpuK7v1rSQ
-   Published: 2026-10-05T08:37:24+00:00
+   https://www.youtube.com/shorts/2VpuK7v1rSQ
+   2026-10-05T08:37:24+00:00
 2. حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
-   Link: https://www.youtube.com/watch?v=JeBBMyeXY3A
-   Published: 2026-10-05T08:20:39+00:00
+   https://www.youtube.com/watch?v=JeBBMyeXY3A
+   2026-10-05T08:20:39+00:00
 3. فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-   Link: https://www.youtube.com/shorts/JLjUSpW39aE
-   Published: 2026-10-05T08:18:00+00:00
+   https://www.youtube.com/shorts/JLjUSpW39aE
+   2026-10-05T08:18:00+00:00
 4. نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-   Link: https://www.youtube.com/watch?v=zpBFhJ5RRFM
-   Published: 2026-10-05T07:53:19+00:00
+   https://www.youtube.com/watch?v=zpBFhJ5RRFM
+   2026-10-05T07:53:19+00:00
 5. مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-   Link: https://www.youtube.com/watch?v=lDL_8N1mBjQ
-   Published: 2026-10-05T07:23:17+00:00
+   https://www.youtube.com/watch?v=lDL_8N1mBjQ
+   2026-10-05T07:23:17+00:00
 6. حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-   Link: https://www.youtube.com/watch?v=e828-j2vsZs
-   Published: 2026-10-05T06:21:24+00:00
+   https://www.youtube.com/watch?v=e828-j2vsZs
+   2026-10-05T06:21:24+00:00
 7. ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-   Link: https://www.youtube.com/watch?v=xEQaMquYhOo
-   Published: 2026-10-05T06:12:14+00:00
+   https://www.youtube.com/watch?v=xEQaMquYhOo
+   2026-10-05T06:12:14+00:00
 8. اخبار بامدادی | دوشنبه ۱۳ مهر
-   Link: https://www.youtube.com/watch?v=i6JeV954ulo
-   Published: 2026-10-05T06:00:41+00:00
+   https://www.youtube.com/watch?v=i6JeV954ulo
+   2026-10-05T06:00:41+00:00
 9. تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-   Link: https://www.youtube.com/watch?v=gvvE5FGNCE8
-   Published: 2026-10-05T05:06:58+00:00
+   https://www.youtube.com/watch?v=gvvE5FGNCE8
+   2026-10-05T05:06:58+00:00
 10. امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است
-   Link: https://www.youtube.com/watch?v=RgOK3VKepGI
-   Published: 2026-10-05T05:02:23+00:00
+   https://www.youtube.com/watch?v=RgOK3VKepGI
+   2026-10-05T05:02:23+00:00
 11. پگاه بنی‌هاشمی: جمهوری اسلامی در شرایط بحرانی اعدام‌ها را شتاب می‌دهد
-   Link: https://www.youtube.com/watch?v=TD7TfRaiUG4
-   Published: 2026-10-05T03:06:40+00:00
+   https://www.youtube.com/watch?v=TD7TfRaiUG4
+   2026-10-05T03:06:40+00:00
 12. محمد اولیایی‌فرد: اجرای حکم علیرضا سپاهی مصداق قتل حکومتی خواهد بود
-   Link: https://www.youtube.com/watch?v=PSU-PmxC_cs
-   Published: 2026-10-05T01:25:11+00:00
+   https://www.youtube.com/watch?v=PSU-PmxC_cs
+   2026-10-05T01:25:11+00:00
 13. ادامه اعتراض‌های دانش‌آموزی در فرانسه؛ بیش از ۴۰۰ دبیرستان تعطیل شد
-   Link: https://www.youtube.com/watch?v=09PjA0DKVhc
-   Published: 2026-10-05T01:18:24+00:00
+   https://www.youtube.com/watch?v=09PjA0DKVhc
+   2026-10-05T01:18:24+00:00
 14. علیرضا سپاهی، زندانی محکوم به اعدام، در زندان با مهشاد کشانی ازدواج کرد
-   Link: https://www.youtube.com/shorts/Ocb1VSnnk98
-   Published: 2026-10-04T23:06:59+00:00
+   https://www.youtube.com/shorts/Ocb1VSnnk98
+   2026-10-04T23:06:59+00:00
 15. امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
-   Link: https://www.youtube.com/watch?v=7c83KqkB1To
-   Published: 2026-10-04T22:15:45+00:00
-
-▶ SoundCloud catalog (last 20): https://soundcloud.com/iranintl
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/iranintl
-✅ 80 آهنگ/ویدئو پیدا شد.
+   https://www.youtube.com/watch?v=7c83KqkB1To
+   2026-10-04T22:15:45+00:00
+SoundCloud: https://soundcloud.com/iranintl
+Found 80 tracks
 1. اخبار بامدادی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/d3gxsolpv06m
-   Published: Unknown
+   https://soundcloud.com/iranintl/d3gxsolpv06m
+   Unknown
 2. سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
-   Link: https://soundcloud.com/iranintl/ru4nsuh92jox
-   Published: Unknown
+   https://soundcloud.com/iranintl/ru4nsuh92jox
+   Unknown
 3. چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
-   Link: https://soundcloud.com/iranintl/cw8lpxessouv
-   Published: Unknown
+   https://soundcloud.com/iranintl/cw8lpxessouv
+   Unknown
 4. تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
-   Link: https://soundcloud.com/iranintl/pu9mv28scqrr
-   Published: Unknown
+   https://soundcloud.com/iranintl/pu9mv28scqrr
+   Unknown
 5. اخبار شبانگاهی | یکشنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/guakoapbjsuy
-   Published: Unknown
+   https://soundcloud.com/iranintl/guakoapbjsuy
+   Unknown
 6. اخبار نیمروزی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/uizefg5yqeul
-   Published: Unknown
+   https://soundcloud.com/iranintl/uizefg5yqeul
+   Unknown
 7. اخبار بامدادی | یک‌شنبه ۱۲ مهر
-   Link: https://soundcloud.com/iranintl/j8qtpwntuctv
-   Published: Unknown
+   https://soundcloud.com/iranintl/j8qtpwntuctv
+   Unknown
 8. سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
-   Link: https://soundcloud.com/iranintl/kypkmdabggwy
-   Published: Unknown
+   https://soundcloud.com/iranintl/kypkmdabggwy
+   Unknown
 9. چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
-   Link: https://soundcloud.com/iranintl/uwn7wyuglhfm
-   Published: Unknown
+   https://soundcloud.com/iranintl/uwn7wyuglhfm
+   Unknown
 10. تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
-   Link: https://soundcloud.com/iranintl/edez3xgswzpc
-   Published: Unknown
+   https://soundcloud.com/iranintl/edez3xgswzpc
+   Unknown
 11. اخبار شبانگاهی | شنبه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/fpyrdjslp2s1
-   Published: Unknown
+   https://soundcloud.com/iranintl/fpyrdjslp2s1
+   Unknown
 12. اخبار نیمروزی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/zxbabjmnravi
-   Published: Unknown
+   https://soundcloud.com/iranintl/zxbabjmnravi
+   Unknown
 13. اخبار بامدادی | جمعه ۱۱ مهر
-   Link: https://soundcloud.com/iranintl/nyagj61pxpsp
-   Published: Unknown
+   https://soundcloud.com/iranintl/nyagj61pxpsp
+   Unknown
 14. ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
-   Link: https://soundcloud.com/iranintl/kormeddxz85s
-   Published: Unknown
+   https://soundcloud.com/iranintl/kormeddxz85s
+   Unknown
 15. اخبار شبانگاهی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/fo7aviz6vayw
-   Published: Unknown
+   https://soundcloud.com/iranintl/fo7aviz6vayw
+   Unknown
 16. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/ahwj5eyxdsve
-   Published: Unknown
+   https://soundcloud.com/iranintl/ahwj5eyxdsve
+   Unknown
 17. اخبار بامدادی | جمعه ۱۰ مهر
-   Link: https://soundcloud.com/iranintl/4pee6rz5c1hw
-   Published: Unknown
+   https://soundcloud.com/iranintl/4pee6rz5c1hw
+   Unknown
 18. برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-   Link: https://soundcloud.com/iranintl/jtuzgagrsnel
-   Published: Unknown
+   https://soundcloud.com/iranintl/jtuzgagrsnel
+   Unknown
 19. ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
-   Link: https://soundcloud.com/iranintl/bzz7lmshigqe
-   Published: Unknown
+   https://soundcloud.com/iranintl/bzz7lmshigqe
+   Unknown
 20. اخبار شبانگاهی | پنجشنبه ۹ مهر
-   Link: https://soundcloud.com/iranintl/z2q13scc508i
-   Published: Unknown
-
-▶ SoundCloud catalog (last 20): https://soundcloud.com/bbcpersian
-📡 دریافت اطلاعات از ساندکلاد: https://soundcloud.com/bbcpersian
-✅ 80 آهنگ/ویدئو پیدا شد.
+   https://soundcloud.com/iranintl/z2q13scc508i
+   Unknown
+SoundCloud: https://soundcloud.com/bbcpersian
+Found 80 tracks
 1. جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/eyznhsmcixdq
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/eyznhsmcixdq
+   Unknown
 2. جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/otqjbsvv6kav
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/otqjbsvv6kav
+   Unknown
 3. جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
+   Unknown
 4. جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
+   Unknown
 5. جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/afb8purmaqkd
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/afb8purmaqkd
+   Unknown
 6. جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/p9pc60cebnwx
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/p9pc60cebnwx
+   Unknown
 7. جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/qsghtn33ecp9
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/qsghtn33ecp9
+   Unknown
 8. جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/cvkxev1f2x7d
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/cvkxev1f2x7d
+   Unknown
 9. جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
+   Unknown
 10. جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/ii72ixfjdepp
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/ii72ixfjdepp
+   Unknown
 11. جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/iqqtrb7mcfon
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/iqqtrb7mcfon
+   Unknown
 12. جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/jutnxmdwdxoe
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/jutnxmdwdxoe
+   Unknown
 13. جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/p9dpo3e4xw23
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/p9dpo3e4xw23
+   Unknown
 14. جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/rkkn8ahihrlx
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/rkkn8ahihrlx
+   Unknown
 15. جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/d6i8xedxw86a
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/d6i8xedxw86a
+   Unknown
 16. جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/xveg1ql7yy8i
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/xveg1ql7yy8i
+   Unknown
 17. جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/btqrxpfmkjiw
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/btqrxpfmkjiw
+   Unknown
 18. جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/uciogplp6q1t
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/uciogplp6q1t
+   Unknown
 19. جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/wwnfyqs02ltw
-   Published: Unknown
+   https://soundcloud.com/bbcpersian/wwnfyqs02ltw
+   Unknown
 20. جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
-   Link: https://soundcloud.com/bbcpersian/akg7jmmqcah4
-   Published: Unknown
-
-✅ کاتالوگ ذخیره شد: channel_catalog.md
+   https://soundcloud.com/bbcpersian/akg7jmmqcah4
+   Unknown
+Saved: channel_catalog.md
