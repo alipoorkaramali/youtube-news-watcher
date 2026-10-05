@@ -1,6 +1,9 @@
 name: Full Diagnostic🩺🧑‍⚕️
 
 on:
+  schedule:
+    # هر ۴ ساعت یک‌بار: ۶، ۱۰، ۱۴، ۱۸، ۲۲ (به وقت UTC)
+    - cron: '0 6,10,14,18,22 * * *'
   workflow_dispatch:
     inputs:
       youtube_channel_id:
@@ -34,9 +37,9 @@ jobs:
 
       - name: Run diagnostic script
         env:
-          EXTRA_YOUTUBE: ${{ inputs.youtube_channel_id }}
-          EXTRA_SOUNDCLOUD: ${{ inputs.soundcloud_url }}
-          SAVE_TO_LIST: ${{ inputs.save_to_list }}
+          EXTRA_YOUTUBE: ${{ github.event.inputs.youtube_channel_id || '' }}
+          EXTRA_SOUNDCLOUD: ${{ github.event.inputs.soundcloud_url || '' }}
+          SAVE_TO_LIST: ${{ github.event.inputs.save_to_list || false }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python debug_youtube_rss.py
