@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-05T19:01:04.310478+00:00
-Generated (Iran): 2026-10-05T22:31:04.310497+00:00
+Generated (UTC):  2026-10-05T21:17:27.746252+00:00
+Generated (Iran): 2026-10-06T00:47:27.746268+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-05 18:00:00]
+    1. [2026-10-05 19:31:38]
        ۶۰ دقیقه دوشنبه ۱۳ مهر: عقب‌نشینی بمب‌افکن‌های آمریکایی از بریتانیا؛ آیا پای ایران در میان است؟
        https://www.youtube.com/watch?v=47pVxXn-qlQ
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-05 18:36:29]
+    16. [2026-10-05 21:03:14]
+       علی صدرزاده: عملیات زمینی علیه حوثی‌ها برای عربستان به ضرورتی راهبردی تبدیل شده است
+       https://www.youtube.com/watch?v=-nHRJT9xMdo
+
+    17. [2026-10-05 20:49:00]
+       شاهد علوی: دانشگاه امام صادق ادعایی را تکذیب کرده که ایران‌اینترنشنال مطرح نکرده بود
+       https://www.youtube.com/watch?v=x-O1lfTUvK0
+
+    18. [2026-10-05 20:45:25]
+       روح‌الله رحیم‌پور: اهرم‌های منطقه‌ای جمهوری اسلامی در آستانه درگیری احتمالی تضعیف شده‌اند
+       https://www.youtube.com/watch?v=6CVVkUROhX8
+
+    19. [2026-10-05 20:41:34]
+       برکناری وزیر نفت، آرایش ویژه حکومت برای شرایط اضطراری
+       https://www.youtube.com/shorts/qmv1jCQ9u64
+
+    20. [2026-10-05 19:53:17]
+       چشم‌انداز: برکناری وزیر نفت، آرایش ویژه حکومت برای شرایط اضطراری
+       https://www.youtube.com/watch?v=pIGYanQxGfE
+
+    21. [2026-10-05 19:31:38]
+       ۲۴ با فرداد فرحزاد: تاکید دوباره ترامپ بر افزایش سطح عبور و مرور از تنگه هرمز
+       https://www.youtube.com/watch?v=iZwPsEQJEQw
+
+    22. [2026-10-05 18:36:29]
        تیتراول با نیوشا صارمی: حمله بزرگ عربستان و دولت یمن برای پس‌گرفتن صنعا؛ جبهه تازه جنگ با تهران
        https://www.youtube.com/watch?v=BZ1XBF5H4dc
 
-    17. [2026-10-05 16:31:56]
+    23. [2026-10-05 16:31:56]
        اقتصاد و بازار: بحران صادرات و استعفای وزیر نفت ایران؛ طرح فروش دلار با کارت ملی
        https://www.youtube.com/watch?v=znw1MxFQFJg
 
-    18. [2026-10-05 15:58:53]
+    24. [2026-10-05 15:58:53]
        سومین سالگرد حمله هفتم اکتبر؛ نتانیاهو بر نقش جمهوری اسلامی در این حمله تاکید کرد
        https://www.youtube.com/watch?v=uyoxVqk1Xos
 
-    19. [2026-10-05 15:50:56]
+    25. [2026-10-05 15:50:56]
        دفتر شاهزاده رضا پهلوی: قتل‌های حکومتی بی‌پاسخ نخواهد ماند
        https://www.youtube.com/watch?v=gXil26Gknqw
 
-    20. [2026-10-05 15:40:06]
+    26. [2026-10-05 15:40:06]
        معاون تشریفات دفتر پزشکیان: اوضاع به سمت افزایش تنش پیش می‌رود
        https://www.youtube.com/shorts/f1mZkdUs3kE
 
-    21. [2026-10-05 15:36:44]
+    27. [2026-10-05 15:36:44]
        گزارش روز با مجتبا پورمحسن: نقش یک سردار و سردارزاده در سرقت میلیاردها دلار پول نفت ایران
        https://www.youtube.com/watch?v=y21971CK10M
 
-    22. [2026-10-05 15:32:05]
+    28. [2026-10-05 15:32:05]
        اخبار شبانگاهی | دوشنبه ۱۳ مهر
        https://www.youtube.com/watch?v=DUFDQcIIcS8
 
-    23. [2026-10-05 15:01:59]
+    29. [2026-10-05 15:01:59]
        گفت‌وگوی تلفنی رهبران ایتالیا و امارات درباره تحولات خاورمیانه و بازار انرژی
        https://www.youtube.com/watch?v=_Qc5GISyyR8
 
-    24. [2026-10-05 14:48:19]
+    30. [2026-10-05 14:48:19]
        دبیر شورای عالی فضای مجازی: حکومت در دی‌ماه ۱۴۰۴ همه پایانه‌های استارلینک را از کار انداخت
        https://www.youtube.com/shorts/Yf0sygTNxds
-
-    25. [2026-10-05 14:15:49]
-       تورم صفر «زاکانی» در روزهای رکوردشکنی دلار چگونه ممکن است؟
-       https://www.youtube.com/watch?v=KvW_ouaQWj4
-
-    26. [2026-10-05 14:09:59]
-       نخست‌وزیر لبنان خواستار روابطی تازه با جمهوری اسلامی بر پایه عدم مداخله داخلی شد
-       https://www.youtube.com/watch?v=E2M9WrCSlWE
-
-    27. [2026-10-05 14:01:27]
-       گزارش‌ها از استقرار حدود سه هزار نیروی آمریکایی در اسرائیل
-       https://www.youtube.com/watch?v=JPMbtXpbAig
-
-    28. [2026-10-05 13:57:00]
-       عضو تیم مذاکره‌کننده جمهوری اسلامی: کسانی که گفتند نفت ۱۵۰ دلار می‌شود پاسخ دهند
-       https://www.youtube.com/shorts/wXU8wRLNo5I
-
-    29. [2026-10-05 13:25:07]
-       سومین سالگرد حمله هفتم اکتبر؛ نتانیاهو از «تهدید موجودیتی» جمهوری اسلامی گفت
-       https://www.youtube.com/watch?v=O8EHKHgRpqI
-
-    30. [2026-10-05 13:16:46]
-       حمله مسلحانه به واحد گشتی در محور بمپور–ایرانشهر
-       https://www.youtube.com/shorts/GrziMC2afTQ
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       چشم‌انداز: برکنار وزیر نفت، آرایش ویژه حکومت برای شرایط اضطراری
+       https://soundcloud.com/iranintl/i71l7nrb4wk8
+
+    32. [Unknown]
+       ۲۴ با فرداد فرحزاد: تاکید دوباره ترامپ بر افزایش سطح عبور و مرور از تنگه هرمز
+       https://soundcloud.com/iranintl/vt91a1yqunqm
+
+    33. [Unknown]
+       تیتراول با نیوشا صارمی: حمله بزرگ عربستان و دولت یمن برای پس‌گرفتن صنعا؛ جبهه تازه جنگ با تهران
+       https://soundcloud.com/iranintl/vdupdugw9hbv
+
+    34. [Unknown]
        اخبار شبانگاهی | دوشنبه ۱۳ مهر
        https://soundcloud.com/iranintl/clbnycmqxxrk
 
-    32. [Unknown]
+    35. [Unknown]
        اخبار نیمروزی | دوشنبه ۱۳ مهر
        https://soundcloud.com/iranintl/avkdzpkvqghl
 
-    33. [Unknown]
+    36. [Unknown]
        اخبار بامدادی | یکشنبه ۱۲ مهر
        https://soundcloud.com/iranintl/d3gxsolpv06m
 
-    34. [Unknown]
+    37. [Unknown]
        سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
        https://soundcloud.com/iranintl/ru4nsuh92jox
 
-    35. [Unknown]
+    38. [Unknown]
        چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
        https://soundcloud.com/iranintl/cw8lpxessouv
 
-    36. [Unknown]
+    39. [Unknown]
        تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
        https://soundcloud.com/iranintl/pu9mv28scqrr
 
-    37. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | یکشنبه ۱۲ مهر
        https://soundcloud.com/iranintl/guakoapbjsuy
 
-    38. [Unknown]
+    41. [Unknown]
        اخبار نیمروزی | یک‌شنبه ۱۲ مهر
        https://soundcloud.com/iranintl/uizefg5yqeul
 
-    39. [Unknown]
+    42. [Unknown]
        اخبار بامدادی | یک‌شنبه ۱۲ مهر
        https://soundcloud.com/iranintl/j8qtpwntuctv
 
-    40. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
        https://soundcloud.com/iranintl/kypkmdabggwy
 
-    41. [Unknown]
+    44. [Unknown]
        چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
        https://soundcloud.com/iranintl/uwn7wyuglhfm
 
-    42. [Unknown]
+    45. [Unknown]
        تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
        https://soundcloud.com/iranintl/edez3xgswzpc
 
-    43. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | شنبه ۱۱ مهر
        https://soundcloud.com/iranintl/fpyrdjslp2s1
 
-    44. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | جمعه ۱۱ مهر
        https://soundcloud.com/iranintl/zxbabjmnravi
 
-    45. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | جمعه ۱۱ مهر
        https://soundcloud.com/iranintl/nyagj61pxpsp
 
-    46. [Unknown]
+    49. [Unknown]
        ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
        https://soundcloud.com/iranintl/kormeddxz85s
 
-    47. [Unknown]
+    50. [Unknown]
        اخبار شبانگاهی | جمعه ۱۰ مهر
        https://soundcloud.com/iranintl/fo7aviz6vayw
-
-    48. [Unknown]
-       اخبار بامدادی | جمعه ۱۰ مهر
-       https://soundcloud.com/iranintl/ahwj5eyxdsve
-
-    49. [Unknown]
-       اخبار بامدادی | جمعه ۱۰ مهر
-       https://soundcloud.com/iranintl/4pee6rz5c1hw
-
-    50. [Unknown]
-       برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
-       https://soundcloud.com/iranintl/jtuzgagrsnel
 
 ----------------------------------------
 
