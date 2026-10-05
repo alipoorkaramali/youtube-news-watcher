@@ -424,7 +424,9 @@ def soundcloud_track_id(url: str) -> str:
 
 
 def build_issue_body(catalog, index):
-    """Issue body: simple list first (Termux/Gitty), rich preview collapsed for GitHub mobile."""
+    """Issue body: simple list first (Termux/Gitty), rich preview collapsed for GitHub mobile.
+    No shortcode-like IDs so Gitty shortcode field stays empty.
+    """
     body = []
     body.append("# 📺 Channel Catalog – Download")
     body.append("")
@@ -463,11 +465,10 @@ def build_issue_body(catalog, index):
 
             vid = youtube_video_id(link)
             thumb = f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg" if vid else ""
-            sid = vid or f"yt-{counter}"
-            rich.append(f"**{counter}.** `{sid}` · [{pub}]")
+            rich.append(f"**{counter}.** [{pub}]")
             if thumb:
                 rich.append("")
-                rich.append(f"![{sid}]({thumb})")
+                rich.append(f"![thumb]({thumb})")
             rich.append("")
             rich.append(title)
             rich.append("")
@@ -497,8 +498,7 @@ def build_issue_body(catalog, index):
                 simple.append(f"   {pub}")
             simple.append("")
 
-            sid = soundcloud_track_id(link) or f"sc-{counter}"
-            rich.append(f"**{counter}.** ☁️ `{sid}` · [{pub}]")
+            rich.append(f"**{counter}.** ☁️ [{pub}]")
             rich.append("")
             rich.append(title)
             rich.append("")
