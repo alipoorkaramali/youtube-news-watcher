@@ -424,35 +424,31 @@ def soundcloud_track_id(url: str) -> str:
 
 
 def build_issue_body(catalog, index):
+    """Issue body: simple list first (Termux/Gitty), rich preview collapsed for GitHub mobile."""
     body = []
     body.append("# 📺 Channel Catalog – Download")
     body.append("")
     body.append(f"**Generated (Iran):** {catalog['generated_at_iran'][:19]}")
     body.append(f"**Total items:** {len(index)}")
     body.append("")
-    body.append("---")
-    body.append("")
-    body.append("## ⬇️ How to download")
-    body.append("")
-    body.append("Comment below with the item number:")
-    body.append("")
-    body.append("```")
-    body.append("/download 12")
-    body.append("```")
-    body.append("")
-    body.append("The manual downloader workflow will run and save the file to the repository.")
+    body.append("Download: comment `/download 12`")
     body.append("")
     body.append("---")
     body.append("")
 
+    simple = []
+    rich = []
     counter = 0
+
     for yt in catalog.get("youtube", []):
         name = yt.get("channel_title") or yt.get("channel_id") or "YouTube"
         items = yt.get("items") or []
         if not items:
             continue
-        body.append(f"### ▶️ {name}")
-        body.append("")
+        simple.append(f"### ▶️ {name}")
+        simple.append("")
+        rich.append(f"### ▶️ {name}")
+        rich.append("")
         for it in items:
             link = it.get("link") or ""
             if not link:
@@ -460,27 +456,35 @@ def build_issue_body(catalog, index):
             counter += 1
             title = (it.get("title") or "").replace("\n", " ").strip()
             pub = (it.get("published_str") or "").replace("T", " ").replace("+00:00", "")[:16]
+            simple.append(f"{counter}. {title}")
+            if pub and pub != "Unknown":
+                simple.append(f"   {pub}")
+            simple.append("")
+
             vid = youtube_video_id(link)
             thumb = f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg" if vid else ""
             sid = vid or f"yt-{counter}"
-            body.append(f"**{counter}.** `{sid}` · [{pub}]")
+            rich.append(f"**{counter}.** `{sid}` · [{pub}]")
             if thumb:
-                body.append("")
-                body.append(f"![{sid}]({thumb})")
-            body.append("")
-            body.append(f"{title}")
-            body.append("")
-            body.append(f"[Open]({link})")
-            body.append("")
-        body.append("")
+                rich.append("")
+                rich.append(f"![{sid}]({thumb})")
+            rich.append("")
+            rich.append(title)
+            rich.append("")
+            rich.append(f"[Open]({link})")
+            rich.append("")
+        simple.append("")
+        rich.append("")
 
     for sc in catalog.get("soundcloud", []):
         name = sc.get("title") or sc.get("url") or "SoundCloud"
         items = sc.get("items") or []
         if not items:
             continue
-        body.append(f"### ☁️ {name}")
-        body.append("")
+        simple.append(f"### ☁️ {name}")
+        simple.append("")
+        rich.append(f"### ☁️ {name}")
+        rich.append("")
         for it in items:
             link = it.get("link") or ""
             if not link:
@@ -488,17 +492,32 @@ def build_issue_body(catalog, index):
             counter += 1
             title = (it.get("title") or "").replace("\n", " ").strip()
             pub = (it.get("published_str") or "").replace("T", " ").replace("+00:00", "")[:16]
+            simple.append(f"{counter}. {title}")
+            if pub and pub != "Unknown":
+                simple.append(f"   {pub}")
+            simple.append("")
+
             sid = soundcloud_track_id(link) or f"sc-{counter}"
-            body.append(f"**{counter}.** ☁️ `{sid}` · [{pub}]")
-            body.append("")
-            body.append(f"{title}")
-            body.append("")
-            body.append(f"[Open]({link})")
-            body.append("")
-        body.append("")
+            rich.append(f"**{counter}.** ☁️ `{sid}` · [{pub}]")
+            rich.append("")
+            rich.append(title)
+            rich.append("")
+            rich.append(f"[Open]({link})")
+            rich.append("")
+        simple.append("")
+        rich.append("")
+
+    body.extend(simple)
 
     body.append("---")
-    body.append("*This issue is automatically updated on every Full Diagnostic run.*")
+    body.append("")
+    body.append("<details>")
+    body.append("<summary>📱 Preview with thumbnails (GitHub)</summary>")
+    body.append("")
+    body.extend(rich)
+    body.append("</details>")
+    body.append("")
+    body.append("*Updated on every Full Diagnostic run.*")
     return "\n".join(body)
 
 
