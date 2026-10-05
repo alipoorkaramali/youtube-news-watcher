@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-05T10:03:23.713087+00:00
-Generated (Iran): 2026-10-05T13:33:23.713099+00:00
+Generated (UTC):  2026-10-05T11:51:12.476041+00:00
+Generated (Iran): 2026-10-05T15:21:12.476060+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-05 08:10:38]
+    1. [2026-10-05 10:54:00]
+       علیرضا سپاهی، معترض دی ۱۴۰۴ اعدام شد؛ انتشار فایل صوتی عقد او ساعاتی پیش از اعدام
+       https://www.youtube.com/shorts/4LhMNci9r2o
+
+    2. [2026-10-05 10:52:13]
+       دومین حمله پهپادی روسیه به پل مهمی در کی‌یف
+       https://www.youtube.com/shorts/e5lKhIKNito
+
+    3. [2026-10-05 08:10:38]
        سیلاب پاییزی در ایران؛ ۲ کشته در گلستان و شناور شدن خودروها در کرج
        https://www.youtube.com/shorts/RPZid4UL6L8
 
-    2. [2026-10-05 08:04:28]
+    4. [2026-10-05 08:04:28]
        برقراری دوباره پروازهای ایران و عراق؛ فرود نخستین هواپیمای کاسپین در نجف
        https://www.youtube.com/shorts/8eKbEinbRlE
 
-    3. [2026-10-04 19:31:16]
+    5. [2026-10-04 19:31:16]
        ۶۰ دقیقه یکشنبه ۱۲ مهر: تصمیم آخر ترامپ؛ مذاکره یا جنگ؟
        https://www.youtube.com/watch?v=Vgf7qRUU0MY
 
-    4. [2026-10-04 17:02:56]
+    6. [2026-10-04 17:02:56]
        جام جهان‌نما یکشنبه ۱۲ مهر
        https://www.youtube.com/watch?v=i2XAZ4iHO7k
 
-    5. [2026-10-04 15:01:10]
+    7. [2026-10-04 15:01:10]
        اخبار ساعت شش عصر یکشنبه ۱۲ مهر: تاکید ایران بر شروطش بعد از دریافت پیشنهاد‌های آمریکا
        https://www.youtube.com/watch?v=mQzJfNEA-yg
 
-    6. [2026-10-04 14:41:20]
+    8. [2026-10-04 14:41:20]
        برخورد صاعقه  به برج میلاد تهران
        https://www.youtube.com/shorts/S8MI-DoiUlA
 
-    7. [2026-10-04 14:27:34]
+    9. [2026-10-04 14:27:34]
        سرخط خبرهای یکشنبه ۱۲ مهر ۱۴۰۵
        https://www.youtube.com/shorts/yW3wKObTqR8
 
-    8. [2026-10-04 13:07:29]
+    10. [2026-10-04 13:07:29]
        لحظه خبردار شدن پسرعموی محسن عباسی از کشته شدگان اعتراضات دی ۱۴۰۴
        https://www.youtube.com/shorts/0b6eZYk8l38
 
-    9. [2026-10-04 11:35:07]
+    11. [2026-10-04 11:35:07]
        تخریب زندان رجایی شهر به پایان رسید
        https://www.youtube.com/shorts/D1cB0qAo0kM
 
-    10. [2026-10-04 11:31:29]
+    12. [2026-10-04 11:31:29]
        بارش کم سابقه دانه های درشت تگرگ در دزفول
        https://www.youtube.com/shorts/0tMkNaTJdo8
 
-    11. [2026-10-03 19:31:52]
+    13. [2026-10-03 19:31:52]
        زورآزمایی ایران و ترامپ؛ باخت جمهوری‌خواهان یا خرد شدن اقتصادی جمهوری اسلامی؟ - ۶۰ دقیقه شنبه ۱۱ مهر
        https://www.youtube.com/watch?v=PJgXu3SGfzk
 
-    12. [2026-10-03 17:30:29]
+    14. [2026-10-03 17:30:29]
        «به پشت سَرت نگاه نکن؛ «نوزده
        https://www.youtube.com/watch?v=nvbubp8bUwU
 
-    13. [2026-10-03 17:02:54]
+    15. [2026-10-03 17:02:54]
        جام جهان‌نما، شنبه ۱۱ مهر: نشست مقامات ارشد آمریکا درباره ایران؛ دلار۲۷۰ هزار تومانی
        https://www.youtube.com/watch?v=cNhHWQ1UghU
-
-    14. [2026-10-03 15:01:17]
-       اخبار ساعت شش عصر شنبه ۱۱ مهر: افزایش نرخ ارز در ایران
-       https://www.youtube.com/watch?v=AF8QThFyFLE
-
-    15. [2026-10-03 14:00:14]
-       پرگار: «من هم»
-       https://www.youtube.com/watch?v=yNlquaiGddk
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-05 09:57:43]
+    16. [2026-10-05 11:24:48]
+       چسب‌کاری پنجره هواپیمای «ام‌دی» برای بازگشت به خط پرواز
+       https://www.youtube.com/shorts/PKjOJHfyn_A
+
+    17. [2026-10-05 11:19:24]
+       مروری بر روزنامه‌های ایران، دوشنبه ۱۳ مهر با مجتبی هاشمی
+       https://www.youtube.com/watch?v=UD_ZsPjIi_c
+
+    18. [2026-10-05 11:10:50]
+       روح‌الله رحیم‌پور: احتمال درگیری دوباره با توجه به بن‌بست مذاکرات افزایش یافته است
+       https://www.youtube.com/watch?v=qQKpIIO5pXw
+
+    19. [2026-10-05 11:05:23]
+       مستند ترانه‌ای برای مهسا ژینا امینی
+       https://www.youtube.com/watch?v=rKc2hCFpNFg
+
+    20. [2026-10-05 11:01:13]
+       بنیامین نتانیاهو: حمله هفتم اکتبر بخشی از طرح محور جمهوری اسلامی برای نابودی اسرائیل بود
+       https://www.youtube.com/watch?v=uVb-sd4y2D4
+
+    21. [2026-10-05 10:26:09]
+       سه دانشمند آمریکایی و آلمانی برنده نوبل پزشکی ۲۰۲۶ شدند
+       https://www.youtube.com/watch?v=C_WUJX8DfE4
+
+    22. [2026-10-05 10:21:25]
+       کشته شدن دو مامور فراجا در حمله مسلحانه در محور بمپور به ایرانشهر
+       https://www.youtube.com/watch?v=1nshTXk-GE0
+
+    23. [2026-10-05 09:57:43]
        پلیس امنیت اقتصادی: با اعلام قیمت‌های «غیرواقعی» ارز برخورد می‌کنیم
        https://www.youtube.com/shorts/NpauJQ_SQP8
 
-    2. [2026-10-05 09:42:24]
+    24. [2026-10-05 09:42:24]
        سرکوب سازمان‌یافته معترضان خیزش زن، زندگی، آزادی
        https://www.youtube.com/watch?v=y1pnZGayFZQ
 
-    3. [2026-10-05 09:33:27]
+    25. [2026-10-05 09:33:27]
        گزارش دانشجویان از خوابگاه‌های نامناسب و غیربهداشتی تا تشدید فضای امنیتی در دانشگاه‌ها
        https://www.youtube.com/watch?v=wMcEbecL0GI
 
-    4. [2026-10-05 09:21:02]
+    26. [2026-10-05 09:21:02]
        حسین آقایی: خروج سریع بمب‌افکن‌ها نشان‌دهنده تداوم نگرانی امنیتی آمریکا در فرفورد است
        https://www.youtube.com/watch?v=9oF_khMWWzI
 
-    5. [2026-10-05 09:13:03]
+    27. [2026-10-05 09:13:03]
        نماینده مجلس: دلار را سالار خودمان کردیم
        https://www.youtube.com/shorts/oIXGHhJ4GxA
 
-    6. [2026-10-05 08:58:16]
+    28. [2026-10-05 08:58:16]
        مرتضی کاظمیان: شکستن بن‌بست کنونی ممکن است تنها با یک جنگ فراگیر ممکن شود
        https://www.youtube.com/watch?v=xXhLj11VFNE
 
-    7. [2026-10-05 08:37:24]
+    29. [2026-10-05 08:37:24]
        برق حین سخنرانی رییس پلیس اقتصادی رفت
        https://www.youtube.com/shorts/2VpuK7v1rSQ
 
-    8. [2026-10-05 08:20:39]
+    30. [2026-10-05 08:20:39]
        حضور مقام‌های ارشد اسرائیل در مراسم سالگرد حمله هفتم اکتبر
        https://www.youtube.com/watch?v=JeBBMyeXY3A
-
-    9. [2026-10-05 08:18:00]
-       فدوی: همسرم موسس مدرسه شجره طیبه میناب بود
-       https://www.youtube.com/shorts/JLjUSpW39aE
-
-    10. [2026-10-05 07:53:19]
-       نشست پاکستان، ترکیه و عربستان هم‌زمان با تشدید حملات حوثی‌ها
-       https://www.youtube.com/watch?v=zpBFhJ5RRFM
-
-    11. [2026-10-05 07:23:17]
-       مهدی مصلحی: جمهوری اسلامی نتوانسته صادرات نفت منطقه را متوقف کند
-       https://www.youtube.com/watch?v=lDL_8N1mBjQ
-
-    12. [2026-10-05 06:21:24]
-       حسین قاضیان: آموزش و بهداشت در ایران در معرض «فرسودگی زیربنای نرم» هستند
-       https://www.youtube.com/watch?v=e828-j2vsZs
-
-    13. [2026-10-05 06:12:14]
-       ازدواج تلفنی علیرضا سپاهی، معترض محکوم به اعدام، و مهشاد کشانی در زندان
-       https://www.youtube.com/watch?v=xEQaMquYhOo
-
-    14. [2026-10-05 06:00:41]
-       اخبار بامدادی | دوشنبه ۱۳ مهر
-       https://www.youtube.com/watch?v=i6JeV954ulo
-
-    15. [2026-10-05 05:06:58]
-       تمدید تحریم‌های مالی استرالیا علیه چهار عضو سپاه پاسداران
-       https://www.youtube.com/watch?v=gvvE5FGNCE8
 
 ----------------------------------------
 
@@ -185,83 +185,83 @@ SoundCloud sources (2)
 
   Last posts (20):
 
-    1. [Unknown]
+    31. [Unknown]
        اخبار بامدادی | یکشنبه ۱۲ مهر
        https://soundcloud.com/iranintl/d3gxsolpv06m
 
-    2. [Unknown]
+    32. [Unknown]
        سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
        https://soundcloud.com/iranintl/ru4nsuh92jox
 
-    3. [Unknown]
+    33. [Unknown]
        چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
        https://soundcloud.com/iranintl/cw8lpxessouv
 
-    4. [Unknown]
+    34. [Unknown]
        تیتراول با نیوشا صارمی: نشانه‌های تازه از چرخش چین علیه تهران؛هشدار ترامپ وشروط قالیباف برای آمریکا
        https://soundcloud.com/iranintl/pu9mv28scqrr
 
-    5. [Unknown]
+    35. [Unknown]
        اخبار شبانگاهی | یکشنبه ۱۲ مهر
        https://soundcloud.com/iranintl/guakoapbjsuy
 
-    6. [Unknown]
+    36. [Unknown]
        اخبار نیمروزی | یک‌شنبه ۱۲ مهر
        https://soundcloud.com/iranintl/uizefg5yqeul
 
-    7. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | یک‌شنبه ۱۲ مهر
        https://soundcloud.com/iranintl/j8qtpwntuctv
 
-    8. [Unknown]
+    38. [Unknown]
        سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
        https://soundcloud.com/iranintl/kypkmdabggwy
 
-    9. [Unknown]
+    39. [Unknown]
        چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
        https://soundcloud.com/iranintl/uwn7wyuglhfm
 
-    10. [Unknown]
+    40. [Unknown]
        تیتر اول با نیوشا صارمی: از جلسه محرمانه کمپ‌دیوید تا اعزام ۱۰هزار نیرو و یک ناو به منطقه؛جنگ سوم؟
        https://soundcloud.com/iranintl/edez3xgswzpc
 
-    11. [Unknown]
+    41. [Unknown]
        اخبار شبانگاهی | شنبه ۱۱ مهر
        https://soundcloud.com/iranintl/fpyrdjslp2s1
 
-    12. [Unknown]
+    42. [Unknown]
        اخبار نیمروزی | جمعه ۱۱ مهر
        https://soundcloud.com/iranintl/zxbabjmnravi
 
-    13. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | جمعه ۱۱ مهر
        https://soundcloud.com/iranintl/nyagj61pxpsp
 
-    14. [Unknown]
+    44. [Unknown]
        ۲۴ با فرداد فرحزاد: اعزام سومین ناو هواپیمابر آمریکا به خاورمیانه
        https://soundcloud.com/iranintl/kormeddxz85s
 
-    15. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | جمعه ۱۰ مهر
        https://soundcloud.com/iranintl/fo7aviz6vayw
 
-    16. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | جمعه ۱۰ مهر
        https://soundcloud.com/iranintl/ahwj5eyxdsve
 
-    17. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | جمعه ۱۰ مهر
        https://soundcloud.com/iranintl/4pee6rz5c1hw
 
-    18. [Unknown]
+    48. [Unknown]
        برنامه با کامبیز حسینی | «برنامه» امشب، تریبون آزاد شماست
        https://soundcloud.com/iranintl/jtuzgagrsnel
 
-    19. [Unknown]
+    49. [Unknown]
        ۲۴ با فرداد فرحزاد: تحریم صنایع خودروسازی، فولاد و راه‌آهن
        https://soundcloud.com/iranintl/bzz7lmshigqe
 
-    20. [Unknown]
+    50. [Unknown]
        اخبار شبانگاهی | پنجشنبه ۹ مهر
        https://soundcloud.com/iranintl/z2q13scc508i
 
@@ -275,83 +275,83 @@ SoundCloud sources (2)
 
   Last posts (20):
 
-    1. [Unknown]
+    51. [Unknown]
        جام جهان‌نما ۴ اکتبر۲۰۲۶ / ۱۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyznhsmcixdq
 
-    2. [Unknown]
+    52. [Unknown]
        جام جهان‌نما ۳ اکتبر۲۰۲۶ / ۱۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/otqjbsvv6kav
 
-    3. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۲ اکتبر۲۰۲۶ / ۱۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
 
-    4. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
 
-    5. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/afb8purmaqkd
 
-    6. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/p9pc60cebnwx
 
-    7. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/qsghtn33ecp9
 
-    8. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/cvkxev1f2x7d
 
-    9. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
 
-    10. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/ii72ixfjdepp
 
-    11. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/iqqtrb7mcfon
 
-    12. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/jutnxmdwdxoe
 
-    13. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/p9dpo3e4xw23
 
-    14. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۲۱ سپتامبر ۲۰۲۶ / ۳۰ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/rkkn8ahihrlx
 
-    15. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۲۰ سپتامبر ۲۰۲۶ / ۲۹ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/d6i8xedxw86a
 
-    16. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۱۹ سپتامبر ۲۰۲۶ / ۲۸ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/xveg1ql7yy8i
 
-    17. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۱۸ سپتامبر ۲۰۲۶ / ۲۷ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/btqrxpfmkjiw
 
-    18. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۱۷ سپتامبر ۲۰۲۶ / ۲۶ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/uciogplp6q1t
 
-    19. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۱۶ سپتامبر ۲۰۲۶ / ۲۵ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/wwnfyqs02ltw
 
-    20. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۱۵ سپتامبر ۲۰۲۶ / ۲۴ شهریور ۱۴۰۵
        https://soundcloud.com/bbcpersian/akg7jmmqcah4
 
