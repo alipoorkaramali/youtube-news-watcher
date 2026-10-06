@@ -28,27 +28,121 @@ jobs:
             echo "مثال: /download 5"
             exit 1
           fi
-          echo "num=$NUM" >> $GITHUB_OUTPUT
+          echo "number=$NUM" >> $GITHUB_OUTPUT
+          echo "📌 Requested item number: $NUM"
 
       - name: Load catalog index
-        id: catalog
+        id: index
         run: |
-          if [ ! -f data/catalog_index.json ]; then
-            echo "❌ data/catalog_index.json پیدا نشد. اول Full Diagnostic را اجرا کنید."
+          NUM="${{ steps.parse.outputs.number }}"
+          if [ -f data/catalog_index.json ]; then
+            CATALOG=data/catalog_index.json
+          elif [ -f catalog_index.json ]; then
+            CATALOG=catalog_index.json
+          else
+            echo "❌ catalog_index.json پیدا نشد (نه در data/ نه در root). اول Full Diagnostic را اجرا کنید."
             exit 1
           fi
+          echo "Using catalog: $CATALOG"
+          export CATALOG
           python3 - <<'PY'
-          import json, os
-          num = int(os.environ["NUM"])
-          with open("data/catalog_index.json", encoding="utf-8") as f:
-              data = json.load(f)
-          # support list or dict with items
-          items = data if isinstance(data, list) else data.get("items") or data.get("entries") or []
-          if num < 1 or num > len(items):
-              print(f"❌ شماره {num} خارج از محدوده (1..{len(items)})")
-              raise SystemExit(1)
-          item = items[num - 1]
-          print(json.dumps(item, ensure_ascii=False))
+          import json, os, sys
+          num = os.environ["NUM"]
+          path = os.environ["CATALOG"]
+          with open(path, encoding="utf-8") as f:
+              idx = json.load(f)
+          item = idx.get(num)
+          if not item:
+              print(f"❌ شماره {num} در کاتالوگ وجود ندارد.")
+              print(f"شماره‌های موجود: ۱ تا {max(map(int, idx.keys())) if idx else 0}")
+              sys.exit(1)
+          print(f"url={item['url']}")
+          print(f"platform={item['platform']}")
+          print(f"format={item.get('format', 'video')}")
+          print(f"title={item.get('title', '')[:80]}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write(f"url={item['url']}\n")
+              out.write(f"platform={item['platform']}\n")
+              out.write(f"format={item.get('format', 'video')}\n")
+              out.write(f"title={item.get('title', '')[:120]}\n")
           PY
         env:
-          NUM: ${{ steps.parse.outputs.num }}
+          NUM: ${{ steps.parse.outputs.number }}
+
+      - name: Trigger costume downloader workflow
+        id: trigger
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT1 || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          URL: ${{ steps.index.outputs.url }}
+          PLATFORM: ${{ steps.index.outputs.platform }}
+          FORMAT: ${{ steps.index.outputs.format }}
+          TITLE: ${{ steps.index.outputs.title }}
+        run: |
+          echo "🚀 Triggering downloader..."
+          echo "   Platform: $PLATFORM"
+          echo "   Format:   $FORMAT"
+          echo "   URL:      $URL"
+          echo "   Title:    $TITLE"
+
+          TARGET_REPO="alipoorkaramali/new-youtube-SoundCloud-downloader"
+          WORKFLOW_FILE="Multi-Platform Downloader-costume🔐.yml"
+
+          ENCODED_WF=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$WORKFLOW_FILE'''))")
+
+          HTTP_CODE=$(curl -s -o /tmp/resp.json -w "%{http_code}" -X POST \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${TARGET_REPO}/actions/workflows/${ENCODED_WF}/dispatches" \
+            -d "{
+              \"ref\": \"main\",
+              \"inputs\": {
+                \"platform\": \"${PLATFORM}\",
+                \"url\": \"${URL}\",
+                \"format\": \"${FORMAT}\",
+                \"folder\": \"downloads\"
+              }
+            }")
+
+          echo "HTTP status: $HTTP_CODE"
+          cat /tmp/resp.json || true
+
+          if [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
+            echo "✅ Workflow triggered successfully"
+            echo "triggered=true" >> $GITHUB_OUTPUT
+          else
+            echo "⚠️ Trigger may have failed (status $HTTP_CODE)"
+            echo "triggered=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comment success
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NUM="${{ steps.parse.outputs.number }}"
+          URL="${{ steps.index.outputs.url }}"
+          TITLE="${{ steps.index.outputs.title }}"
+          PLATFORM="${{ steps.index.outputs.platform }}"
+          FORMAT="${{ steps.index.outputs.format }}"
+
+          BODY=$(cat <<EOF
+          ✅ دانلود برای آیتم **#${NUM}** شروع شد.
+
+          - **عنوان:** ${TITLE}
+          - **پلتفرم:** ${PLATFORM}
+          - **فرمت:** ${FORMAT}
+          - **لینک:** ${URL}
+
+          ورک‌فلو costume در مخزن downloader در حال اجراست.
+          فایل بعد از اتمام در مسیر \`Download/downloads/\` ذخیره می‌شود.
+          EOF
+          )
+
+          gh issue comment "${{ github.event.issue.number }}" --body "$BODY"
+
+      - name: Comment failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment "${{ github.event.issue.number }}" --body "❌ خطا در پردازش دستور \`/download ${{ steps.parse.outputs.number }}\`. لاگ ورک‌فلو را بررسی کنید."
