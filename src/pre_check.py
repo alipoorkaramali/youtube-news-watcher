@@ -1,10 +1,25 @@
-import json
 import os
-from datetime import datetime, timedelta
-import pytz
+import json
+import re
+from datetime import datetime, timedelta, timezone
 
-def safe_name(channel_id, keyword):
-    return f"{channel_id}_{keyword}".replace(" ", "_").replace("/", "_").replace(":", "_").replace("?", "_").replace("&", "_")
+# ========== کپی توابع ضروری از youtube_scanner.py ==========
+def iran_offset():
+    return timedelta(hours=3, minutes=30)
+
+def iran_now():
+    return datetime.now(timezone.utc) + iran_offset()
+
+def parse_iran_time(time_str):
+    try:
+        h, m = map(int, time_str.split(':'))
+        return datetime.strptime(f"{h:02d}:{m:02d}", "%H:%M").time()
+    except:
+        return None
+
+def safe_name(*parts):
+    raw = "_".join(parts)
+    return re.sub(r'[^\w@.-]', '_', raw)[:60]
 
 def get_state_path(channel_id, keyword, state_dir="cache/states"):
     return os.path.join(state_dir, safe_name(channel_id, keyword) + ".json")
@@ -14,71 +29,74 @@ def load_state(channel_id, keyword, state_dir="cache/states"):
     if os.path.exists(path):
         with open(path, 'r') as f:
             return json.load(f)
-    return {"last_success_date": None, "attempts_today": 0, "last_attempt_time": None}
+    return {"date": "", "found": False, "attempts": 0}
 
-def should_check(item):
-    iran_tz = pytz.timezone("Asia/Tehran")
-    now = datetime.now(iran_tz)
-    today = now.strftime("%Y-%m-%d")
+def next_check_utc(iran_start, interval_min, attempt):
+    today_iran = iran_now().date()
+    start_dt_iran = datetime.combine(today_iran, iran_start)
+    utc_offset = iran_offset()
+    start_utc = (start_dt_iran - utc_offset).replace(tzinfo=timezone.utc)
+    return start_utc + timedelta(minutes=interval_min * attempt)
 
-    start_time_str = item.get("start_time_iran", "00:00")
-    try:
-        h, m = map(int, start_time_str.split(":"))
-        start_time = now.replace(hour=h, minute=m, second=0, microsecond=0)
-    except Exception:
-        start_time = now.replace(hour=0, minute=0, second=0, microsecond=0)
+def should_check(item, state):
+    today = iran_now().date()
+    if state.get('date') != str(today):
+        # روز جدید است، وضعیت را ریست می‌کنیم
+        state = {"date": str(today), "found": False, "attempts": 0}
+        # ولی در این اسکریپت نیازی به ذخیره نداریم، فقط محاسبه می‌کنیم
 
-    if now < start_time:
+    if state.get('found'):
         return False
 
-    state = load_state(item["channel_id"], item["title_keyword"])
-
-    if state.get("last_success_date") == today:
+    if state['attempts'] >= item['max_attempts']:
         return False
 
-    max_attempts = item.get("max_attempts", 5)
-    if state.get("attempts_today", 0) >= max_attempts:
+    start_time = parse_iran_time(item['start_time_iran'])
+    if not start_time:
         return False
 
-    interval = item.get("check_every_minutes", 60)
-    last_attempt = state.get("last_attempt_time")
-    if last_attempt:
-        try:
-            last_dt = datetime.fromisoformat(last_attempt)
-            if last_dt.tzinfo is None:
-                last_dt = iran_tz.localize(last_dt)
-            if now < last_dt + timedelta(minutes=interval):
-                return False
-        except Exception:
-            pass
+    interval = item['check_every_minutes']
+    next_utc = next_check_utc(start_time, interval, state['attempts'])
+    now_utc = datetime.now(timezone.utc)
+    return now_utc >= next_utc
 
-    return True
-
+# ========== تابع اصلی ==========
 def main():
+    # خواندن watchlist.json
     watchlist_file = "config/watchlist.json"
     if not os.path.exists(watchlist_file):
         print("❌ config/watchlist.json وجود ندارد.")
-        return
+        exit(1)
 
     with open(watchlist_file, 'r', encoding='utf-8') as f:
         items = json.load(f)
 
-    if not items:
-        print("📭 watchlist خالی است.")
-        return
-
-    need_scan = False
+    # بررسی هر آیتم
+    need_check = False
     for item in items:
-        if should_check(item):
-            print(f"✅ نیاز به اسکن: {item.get('title_keyword')} ({item.get('platform')})")
-            need_scan = True
-        else:
-            print(f"⏭️ رد شد: {item.get('title_keyword')}")
+        cid = item.get('channel_id', '').strip()
+        kw = item.get('title_keyword', '').strip()
+        if not cid or not kw:
+            continue
 
-    if need_scan:
-        print("✅")
+        # بارگذاری وضعیت
+        state = load_state(cid, kw)
+
+        # اگر پیدا شده باشد، نیازی به چک نیست
+        if state.get('found'):
+            continue
+
+        # بررسی زمان چک
+        if should_check(item, state):
+            need_check = True
+            break  # کافی است یکی از آیتم‌ها نیاز به چک داشته باشد
+
+    if need_check:
+        print("✅ حداقل یک آیتم نیاز به چک دارد. ادامه می‌دهیم.")
+        exit(0)
     else:
-        print("⏭️ هیچ آیتمی برای اسکن نیاز نیست.")
+        print("⏳ هیچ آیتمی در این لحظه نیاز به چک ندارد. خروج از اجرا.")
+        exit(0)  # با موفقیت خارج می‌شویم تا workflow fail نشود
 
 if __name__ == "__main__":
     main()
