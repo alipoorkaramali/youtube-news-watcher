@@ -51,5 +51,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update diagnostic results + channel catalog [skip ci]"
-            git push
+            git pull --rebase origin main || true
+            git push origin main
           fi
