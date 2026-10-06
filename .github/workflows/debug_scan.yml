@@ -46,8 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add diagnostic_results.txt channel_catalog.md saved_channels.txt catalog_index.json 2>/dev/null || true
-          git add data/ config/ 2>/dev/null || true
+          git add data/diagnostic_results.txt data/channel_catalog.md data/catalog_index.json config/saved_channels.txt config/watchlist.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
