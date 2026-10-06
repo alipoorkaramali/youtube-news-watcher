@@ -1,8 +1,6 @@
 name: Full Diagnostic🩺🧑‍⚕️
 
 on:
-  # زمان‌بندی فقط از cron-job.org (Asia/Tehran: 10:30, 14:30, 18:30, 22:30)
-  # schedule داخل GitHub حذف شد تا اجرای اضافه و تداخل زمانی نباشد
   workflow_dispatch:
     inputs:
       youtube_channel_id:
@@ -41,13 +39,14 @@ jobs:
           SAVE_TO_LIST: ${{ github.event.inputs.save_to_list || false }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python src/debug_youtube_rss.py
+        run: python debug_youtube_rss.py
 
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/diagnostic_results.txt data/channel_catalog.md config/saved_channels.txt data/catalog_index.json
+          git add diagnostic_results.txt channel_catalog.md saved_channels.txt catalog_index.json 2>/dev/null || true
+          git add data/ config/ 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
