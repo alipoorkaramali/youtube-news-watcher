@@ -1,39 +1,33 @@
-name: Add Watch Item v.2➕✅
+name: Add Item to Watchlist 📝
 
 on:
   workflow_dispatch:
     inputs:
       platform:
-        description: '🌐 پلتفرم'
+        description: 'Platform'
         required: true
         type: choice
-        default: 'youtube'
         options:
-          - 'youtube'
-          - 'soundcloud_playlist'
+          - youtube
+          - soundcloud
       channel_id:
-        description: 'شناسه کانال یوتیوب (UC...) / لینک پلی‌لیست ساندکلاد'
+        description: 'YouTube channel ID or SoundCloud URL'
         required: true
-        type: string
       title_keyword:
-        description: 'کلیدواژه ثابت در عنوان ویدیو/آهنگ'
+        description: 'Title keyword to match'
         required: true
-        type: string
       start_time_iran:
-        description: 'ساعت شروع به وقت ایران (HH:MM)'
+        description: 'Start time Iran (HH:MM)'
         required: true
-        type: string
-        default: '19:00'
+        default: '18:00'
       check_every_minutes:
-        description: 'فاصلهٔ بین تلاش‌ها (دقیقه)'
+        description: 'Check interval (minutes)'
         required: false
-        type: number
-        default: 60
+        default: '30'
       max_attempts:
-        description: 'حداکثر تلاش در روز'
+        description: 'Max attempts'
         required: false
-        type: number
-        default: 5
+        default: '5'
 
 jobs:
   add:
@@ -49,30 +43,31 @@ jobs:
           CHANNEL_ID: ${{ github.event.inputs.channel_id }}
           TITLE_KEYWORD: ${{ github.event.inputs.title_keyword }}
           START_TIME: ${{ github.event.inputs.start_time_iran }}
-          INTERVAL: ${{ github.event.inputs.check_every_minutes }}
-          ATTEMPTS: ${{ github.event.inputs.max_attempts }}
+          CHECK_EVERY: ${{ github.event.inputs.check_every_minutes }}
+          MAX_ATTEMPTS: ${{ github.event.inputs.max_attempts }}
         run: |
+          set -e
+          TARGET=config/watchlist.json
           mkdir -p config
           NEW_ITEM=$(jq -n \
             --arg platform "$PLATFORM" \
             --arg cid "$CHANNEL_ID" \
             --arg kw "$TITLE_KEYWORD" \
-            --arg st "$START_TIME" \
-            --argjson iv "$INTERVAL" \
-            --argjson ma "$ATTEMPTS" \
-            '{platform: $platform, channel_id: $cid, title_keyword: $kw, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
+            --arg start "$START_TIME" \
+            --argjson every "${CHECK_EVERY:-30}" \
+            --argjson max "${MAX_ATTEMPTS:-5}" \
+            '{platform:$platform, channel_id:$cid, title_keyword:$kw, start_time_iran:$start, check_every_minutes:$every, max_attempts:$max}')
 
-          TARGET=config/watchlist.json
           if [ ! -f "$TARGET" ]; then
-            echo "[$NEW_ITEM]" > "$TARGET"
-          else
-            jq --arg platform "$PLATFORM" --arg kw "$TITLE_KEYWORD" \
-              'map(select(.platform != $platform or .title_keyword != $kw))' "$TARGET" > tmp.json
-            jq ". += [$NEW_ITEM]" tmp.json > "$TARGET"
-            rm tmp.json
+            echo "[]" > "$TARGET"
           fi
-          # Keep root copy in sync for scanner/debug scripts (still use root paths)
-          cp "$TARGET" watchlist.json
+
+          # remove existing same platform+keyword then append
+          jq --arg platform "$PLATFORM" --arg kw "$TITLE_KEYWORD" \
+            'map(select(.platform != $platform or .title_keyword != $kw))' "$TARGET" > tmp.json
+          jq --argjson item "$NEW_ITEM" '. + [$item]' tmp.json > "$TARGET"
+          rm -f tmp.json
+
           echo "محتویات نهایی config/watchlist.json:"
           cat "$TARGET"
 
@@ -80,10 +75,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add config/watchlist.json watchlist.json
+          git add config/watchlist.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
             git commit -m "Add/replace watch item via form"
-            git push
+            git pull --rebase origin main || true
+            git push origin main
           fi
