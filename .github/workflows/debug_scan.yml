@@ -41,13 +41,13 @@ jobs:
           SAVE_TO_LIST: ${{ github.event.inputs.save_to_list || false }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python debug_youtube_rss.py
+        run: python src/debug_youtube_rss.py
 
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add diagnostic_results.txt channel_catalog.md saved_channels.txt catalog_index.json
+          git add data/diagnostic_results.txt data/channel_catalog.md config/saved_channels.txt data/catalog_index.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
