@@ -4,6 +4,28 @@ on:
   issue_comment:
     types: [created]
 
+# -------------------------------------------------------------
+# Comment syntax (on issue title: 📺 Channel Catalog – Download)
+#
+#   /download <number> [mode] [dest]
+#
+# mode (optional):
+#   audio   → automatic audio workflow (auto)
+#   video   → manual/costume workflow, format=video
+#   (omit)  → manual/costume workflow, format from catalog (default video)
+#
+# dest (optional):
+#   mega    → youtube-SoundCloud-downloader (Mega.nz upload)
+#   repo    → new-youtube-SoundCloud-downloader (store in repo)
+#   (omit)  → repo (default)
+#
+# Examples:
+#   /download 5
+#   /download 5 audio
+#   /download 5 video mega
+#   /download 12 audio mega
+# -------------------------------------------------------------
+
 jobs:
   download:
     if: >
@@ -20,21 +42,64 @@ jobs:
       - name: Parse /download command
         id: parse
         run: |
+          set -e
           COMMENT="${{ github.event.comment.body }}"
-          NUM=$(echo "$COMMENT" | grep -oE '/download[[:space:]]+[0-9]+' | awk '{print $2}' | head -1)
-          if [ -z "$NUM" ]; then
-            echo "❌ فرمت صحیح نیست. از این دستور استفاده کنید:"
-            echo "/download <شماره>"
-            echo "مثال: /download 5"
+
+          # Normalize to one line for parsing
+          LINE=$(echo "$COMMENT" | tr '\n' ' ' | sed 's/[[:space:]]\+/ /g')
+
+          # Extract: /download <num> [mode] [dest]
+          # Accept Persian/English aliases
+          RAW=$(echo "$LINE" | grep -oiE '/download[[:space:]]+[0-9]+([[:space:]]+[a-zA-Z_]+)?([[:space:]]+[a-zA-Z_]+)?' | head -1)
+          if [ -z "$RAW" ]; then
+            echo "❌ فرمت صحیح نیست."
+            echo ""
+            echo "استفاده:"
+            echo "  /download <شماره> [audio|video] [mega|repo]"
+            echo ""
+            echo "مثال‌ها:"
+            echo "  /download 5"
+            echo "  /download 5 audio"
+            echo "  /download 5 video mega"
+            echo "  /download 12 audio mega"
             exit 1
           fi
-          echo "number=$NUM" >> $GITHUB_OUTPUT
-          echo "📌 Requested item number: $NUM"
+
+          NUM=$(echo "$RAW" | awk '{print $2}')
+          ARG3=$(echo "$RAW" | awk '{print tolower($3)}')
+          ARG4=$(echo "$RAW" | awk '{print tolower($4)}')
+
+          MODE=""
+          DEST=""
+
+          for A in "$ARG3" "$ARG4"; do
+            case "$A" in
+              audio|mp3|صوتی) MODE="audio" ;;
+              video|default|manual|پیشفرض|دستی) MODE="video" ;;
+              mega|مگا) DEST="mega" ;;
+              repo|default_repo|مخزن|repo_storage) DEST="repo" ;;
+              "") ;;
+              *)
+                echo "⚠️ آرگومان ناشناخته نادیده گرفته شد: $A"
+                ;;
+            esac
+          done
+
+          # Defaults
+          if [ -z "$MODE" ]; then MODE="default"; fi
+          if [ -z "$DEST" ]; then DEST="repo"; fi
+
+          echo "number=$NUM" >> "$GITHUB_OUTPUT"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "dest=$DEST" >> "$GITHUB_OUTPUT"
+
+          echo "📌 number=$NUM  mode=$MODE  dest=$DEST"
 
       - name: Load catalog index
         id: index
         run: |
           NUM="${{ steps.parse.outputs.number }}"
+          MODE="${{ steps.parse.outputs.mode }}"
           if [ ! -f data/catalog_index.json ]; then
             echo "❌ data/catalog_index.json پیدا نشد. اول Full Diagnostic را اجرا کنید."
             exit 1
@@ -42,6 +107,7 @@ jobs:
           python3 - <<'PY'
           import json, os, sys
           num = os.environ["NUM"]
+          mode = os.environ.get("MODE", "default")
           with open("data/catalog_index.json", encoding="utf-8") as f:
               idx = json.load(f)
           item = idx.get(num)
@@ -49,20 +115,91 @@ jobs:
               print(f"❌ شماره {num} در کاتالوگ وجود ندارد.")
               print(f"شماره‌های موجود: ۱ تا {max(map(int, idx.keys())) if idx else 0}")
               sys.exit(1)
-          print(f"url={item['url']}")
-          print(f"platform={item['platform']}")
-          print(f"format={item.get('format', 'video')}")
-          print(f"title={item.get('title', '')[:80]}")
+
+          platform = item.get("platform", "youtube")
+          url = item["url"]
+          title = (item.get("title") or "")[:120]
+          catalog_fmt = item.get("format") or "video"
+
+          if mode == "audio":
+              fmt = "audio"
+          elif mode == "video":
+              fmt = "video"
+          else:
+              fmt = catalog_fmt if catalog_fmt in ("audio", "video") else "video"
+
+          print(f"url={url}")
+          print(f"platform={platform}")
+          print(f"format={fmt}")
+          print(f"title={title[:80]}")
+
           with open(os.environ["GITHUB_OUTPUT"], "a") as out:
-              out.write(f"url={item['url']}\n")
-              out.write(f"platform={item['platform']}\n")
-              out.write(f"format={item.get('format', 'video')}\n")
-              out.write(f"title={item.get('title', '')[:120]}\n")
+              out.write(f"url={url}\n")
+              out.write(f"platform={platform}\n")
+              out.write(f"format={fmt}\n")
+              out.write(f"title={title}\n")
           PY
         env:
           NUM: ${{ steps.parse.outputs.number }}
+          MODE: ${{ steps.parse.outputs.mode }}
 
-      - name: Trigger costume downloader workflow
+      - name: Resolve target workflow
+        id: target
+        run: |
+          MODE="${{ steps.parse.outputs.mode }}"
+          DEST="${{ steps.parse.outputs.dest }}"
+          FMT="${{ steps.index.outputs.format }}"
+
+          # mode audio → auto pipelines; otherwise costume (manual)
+          if [ "$MODE" = "audio" ] || [ "$FMT" = "audio" -a "$MODE" = "default" -a false ]; then
+            KIND="auto"
+          else
+            if [ "$MODE" = "audio" ]; then
+              KIND="auto"
+            else
+              KIND="costume"
+            fi
+          fi
+
+          # Force: audio mode always auto; anything else costume
+          if [ "$MODE" = "audio" ]; then
+            KIND="auto"
+          else
+            KIND="costume"
+          fi
+
+          if [ "$DEST" = "mega" ]; then
+            TARGET_REPO="alipoorkaramali/youtube-SoundCloud-downloader"
+            if [ "$KIND" = "auto" ]; then
+              WORKFLOW_FILE="Multi-Platform-Downloader-auto-Mega.yml"
+              LABEL="Auto + Mega.nz (صوتی)"
+            else
+              WORKFLOW_FILE="Multi-Platform-Downloader-costume-Mega.yml"
+              LABEL="Costume + Mega.nz (دستی/پیش‌فرض)"
+            fi
+          else
+            TARGET_REPO="alipoorkaramali/new-youtube-SoundCloud-downloader"
+            if [ "$KIND" = "auto" ]; then
+              WORKFLOW_FILE="Multi-Platform Downloader-auto🔐.yml"
+              LABEL="Auto (صوتی) → ذخیره در مخزن"
+            else
+              WORKFLOW_FILE="Multi-Platform Downloader-costume🔐.yml"
+              LABEL="Costume (دستی/پیش‌فرض) → ذخیره در مخزن"
+            fi
+          fi
+
+          {
+            echo "kind=$KIND"
+            echo "target_repo=$TARGET_REPO"
+            echo "workflow_file=$WORKFLOW_FILE"
+            echo "label=$LABEL"
+          } >> "$GITHUB_OUTPUT"
+
+          echo "🎯 $LABEL"
+          echo "   repo: $TARGET_REPO"
+          echo "   workflow: $WORKFLOW_FILE"
+
+      - name: Trigger downloader workflow
         id: trigger
         env:
           GH_TOKEN: ${{ secrets.GH_PAT1 || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
@@ -70,41 +207,116 @@ jobs:
           PLATFORM: ${{ steps.index.outputs.platform }}
           FORMAT: ${{ steps.index.outputs.format }}
           TITLE: ${{ steps.index.outputs.title }}
+          TARGET_REPO: ${{ steps.target.outputs.target_repo }}
+          WORKFLOW_FILE: ${{ steps.target.outputs.workflow_file }}
+          KIND: ${{ steps.target.outputs.kind }}
+          DEST: ${{ steps.parse.outputs.dest }}
         run: |
-          echo "🚀 Triggering downloader..."
+          set -e
+          echo "🚀 Triggering: $WORKFLOW_FILE"
           echo "   Platform: $PLATFORM"
           echo "   Format:   $FORMAT"
           echo "   URL:      $URL"
           echo "   Title:    $TITLE"
 
-          TARGET_REPO="alipoorkaramali/new-youtube-SoundCloud-downloader"
-          WORKFLOW_FILE="Multi-Platform Downloader-costume🔐.yml"
+          ENCODED_WF=$(python3 -c "import urllib.parse,os; print(urllib.parse.quote(os.environ['WORKFLOW_FILE']))")
 
-          ENCODED_WF=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$WORKFLOW_FILE'''))")
+          # Build inputs JSON depending on target
+          if [ "$DEST" = "mega" ]; then
+            if [ "$KIND" = "auto" ]; then
+              # Mega auto: platform, url, type, folder, mega_folder
+              PAYLOAD=$(python3 - <<'PY'
+          import json, os
+          print(json.dumps({
+            "ref": "main",
+            "inputs": {
+              "platform": os.environ["PLATFORM"],
+              "url": os.environ["URL"],
+              "type": "audio",
+              "folder": "news_downloads",
+              "mega_folder": "YoutubeNews",
+              "split_choice": "single",
+            }
+          }, ensure_ascii=False))
+          PY
+          )
+            else
+              # Mega costume: platform, url, type (audio|video), folder, mega_folder
+              PAYLOAD=$(python3 - <<'PY'
+          import json, os
+          fmt = os.environ.get("FORMAT") or "video"
+          if fmt not in ("audio", "video"):
+              fmt = "video"
+          print(json.dumps({
+            "ref": "main",
+            "inputs": {
+              "platform": os.environ["PLATFORM"],
+              "url": os.environ["URL"],
+              "type": fmt,
+              "optimization_profile": "balanced",
+              "folder": "downloads",
+              "mega_folder": "YoutubeDownloads",
+              "split_choice": "single",
+            }
+          }, ensure_ascii=False))
+          PY
+          )
+            fi
+          else
+            if [ "$KIND" = "auto" ]; then
+              # Repo auto: platform, url, format=audio only, folder
+              PAYLOAD=$(python3 - <<'PY'
+          import json, os
+          print(json.dumps({
+            "ref": "main",
+            "inputs": {
+              "platform": os.environ["PLATFORM"],
+              "url": os.environ["URL"],
+              "format": "audio",
+              "folder": "YoutubeDownloads",
+            }
+          }, ensure_ascii=False))
+          PY
+          )
+            else
+              # Repo costume: platform, url, format video|audio, folder
+              PAYLOAD=$(python3 - <<'PY'
+          import json, os
+          fmt = os.environ.get("FORMAT") or "video"
+          if fmt not in ("audio", "video"):
+              fmt = "video"
+          print(json.dumps({
+            "ref": "main",
+            "inputs": {
+              "platform": os.environ["PLATFORM"],
+              "url": os.environ["URL"],
+              "format": fmt,
+              "folder": "downloads",
+            }
+          }, ensure_ascii=False))
+          PY
+          )
+            fi
+          fi
+
+          echo "Payload: $PAYLOAD"
 
           HTTP_CODE=$(curl -s -o /tmp/resp.json -w "%{http_code}" -X POST \
             -H "Authorization: token $GH_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             "https://api.github.com/repos/${TARGET_REPO}/actions/workflows/${ENCODED_WF}/dispatches" \
-            -d "{
-              \"ref\": \"main\",
-              \"inputs\": {
-                \"platform\": \"${PLATFORM}\",
-                \"url\": \"${URL}\",
-                \"format\": \"${FORMAT}\",
-                \"folder\": \"downloads\"
-              }
-            }")
+            -d "$PAYLOAD")
 
           echo "HTTP status: $HTTP_CODE"
           cat /tmp/resp.json || true
 
           if [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
             echo "✅ Workflow triggered successfully"
-            echo "triggered=true" >> $GITHUB_OUTPUT
+            echo "triggered=true" >> "$GITHUB_OUTPUT"
           else
             echo "⚠️ Trigger may have failed (status $HTTP_CODE)"
-            echo "triggered=false" >> $GITHUB_OUTPUT
+            echo "triggered=false" >> "$GITHUB_OUTPUT"
+            exit 1
           fi
 
       - name: Comment success
@@ -113,21 +325,33 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           NUM="${{ steps.parse.outputs.number }}"
+          MODE="${{ steps.parse.outputs.mode }}"
+          DEST="${{ steps.parse.outputs.dest }}"
           URL="${{ steps.index.outputs.url }}"
           TITLE="${{ steps.index.outputs.title }}"
           PLATFORM="${{ steps.index.outputs.platform }}"
           FORMAT="${{ steps.index.outputs.format }}"
+          LABEL="${{ steps.target.outputs.label }}"
+          REPO="${{ steps.target.outputs.target_repo }}"
+          WF="${{ steps.target.outputs.workflow_file }}"
 
           BODY=$(cat <<EOF
           ✅ دانلود برای آیتم **#${NUM}** شروع شد.
 
-          - **عنوان:** ${TITLE}
-          - **پلتفرم:** ${PLATFORM}
-          - **فرمت:** ${FORMAT}
-          - **لینک:** ${URL}
+          | | |
+          |---|---|
+          | **عنوان** | ${TITLE} |
+          | **پلتفرم** | ${PLATFORM} |
+          | **فرمت** | ${FORMAT} |
+          | **حالت** | ${MODE} |
+          | **مقصد** | ${DEST} |
+          | **مسیر** | ${LABEL} |
+          | **مخزن** | \`${REPO}\` |
+          | **ورک‌فلو** | \`${WF}\` |
+          | **لینک** | ${URL} |
 
-          ورک‌فلو costume در مخزن downloader در حال اجراست.
-          فایل بعد از اتمام در مسیر \`Download/downloads/\` ذخیره می‌شود.
+          راهنما برای دفعات بعد:
+          \`/download <n>\` · \`/download <n> audio\` · \`/download <n> video mega\` · \`/download <n> audio mega\`
           EOF
           )
 
@@ -138,4 +362,18 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh issue comment "${{ github.event.issue.number }}" --body "❌ خطا در پردازش دستور \`/download ${{ steps.parse.outputs.number }}\`. لاگ ورک‌فلو را بررسی کنید."
+          gh issue comment "${{ github.event.issue.number }}" --body "$(cat <<EOF
+          ❌ خطا در پردازش دستور دانلود.
+
+          فرمت صحیح:
+          \`/download <شماره> [audio|video] [mega|repo]\`
+
+          مثال:
+          - \`/download 5\` → پیش‌فرض (costume) + ذخیره در مخزن
+          - \`/download 5 audio\` → صوتی خودکار + مخزن
+          - \`/download 5 video mega\` → ویدیو دستی + Mega
+          - \`/download 12 audio mega\` → صوتی خودکار + Mega
+
+          لاگ ورک‌فلو را در تب Actions بررسی کنید.
+          EOF
+          )"
