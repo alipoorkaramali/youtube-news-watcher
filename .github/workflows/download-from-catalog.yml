@@ -35,21 +35,14 @@ jobs:
         id: index
         run: |
           NUM="${{ steps.parse.outputs.number }}"
-          if [ -f data/catalog_index.json ]; then
-            CATALOG=data/catalog_index.json
-          elif [ -f catalog_index.json ]; then
-            CATALOG=catalog_index.json
-          else
-            echo "❌ catalog_index.json پیدا نشد (نه در data/ نه در root). اول Full Diagnostic را اجرا کنید."
+          if [ ! -f data/catalog_index.json ]; then
+            echo "❌ data/catalog_index.json پیدا نشد. اول Full Diagnostic را اجرا کنید."
             exit 1
           fi
-          echo "Using catalog: $CATALOG"
-          export CATALOG
           python3 - <<'PY'
           import json, os, sys
           num = os.environ["NUM"]
-          path = os.environ["CATALOG"]
-          with open(path, encoding="utf-8") as f:
+          with open("data/catalog_index.json", encoding="utf-8") as f:
               idx = json.load(f)
           item = idx.get(num)
           if not item:
