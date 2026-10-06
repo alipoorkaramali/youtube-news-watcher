@@ -52,6 +52,7 @@ jobs:
           INTERVAL: ${{ github.event.inputs.check_every_minutes }}
           ATTEMPTS: ${{ github.event.inputs.max_attempts }}
         run: |
+          mkdir -p config
           NEW_ITEM=$(jq -n \
             --arg platform "$PLATFORM" \
             --arg cid "$CHANNEL_ID" \
@@ -61,24 +62,25 @@ jobs:
             --argjson ma "$ATTEMPTS" \
             '{platform: $platform, channel_id: $cid, title_keyword: $kw, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
 
-          if [ ! -f config/watchlist.json ]; then
-            echo "[$NEW_ITEM]" > config/watchlist.json
+          TARGET=config/watchlist.json
+          if [ ! -f "$TARGET" ]; then
+            echo "[$NEW_ITEM]" > "$TARGET"
           else
-            # حذف آیتم‌هایی که پلتفرم و کلیدواژه یکسان دارند
             jq --arg platform "$PLATFORM" --arg kw "$TITLE_KEYWORD" \
-              'map(select(.platform != $platform or .title_keyword != $kw))' config/watchlist.json > tmp.json
-            # اضافه کردن آیتم جدید
-            jq ". += [$NEW_ITEM]" tmp.json > config/watchlist.json
+              'map(select(.platform != $platform or .title_keyword != $kw))' "$TARGET" > tmp.json
+            jq ". += [$NEW_ITEM]" tmp.json > "$TARGET"
             rm tmp.json
           fi
+          # Keep root copy in sync for scanner/debug scripts (still use root paths)
+          cp "$TARGET" watchlist.json
           echo "محتویات نهایی config/watchlist.json:"
-          cat config/watchlist.json
+          cat "$TARGET"
 
       - name: Commit updated watchlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add config/watchlist.json
+          git add config/watchlist.json watchlist.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
