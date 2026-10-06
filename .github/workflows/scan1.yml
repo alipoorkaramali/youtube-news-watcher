@@ -21,14 +21,14 @@ jobs:
 
       # ============================================================
       #  STEP 2: پیش‌چک هوشمند (بدون نصب وابستگی‌ها)
-      #  این مرحله فقط watchlist.json و فایل‌های وضعیت (cache/states) را می‌خواند
+      #  این مرحله فقط config/watchlist.json و فایل‌های وضعیت (cache/states) را می‌خواند
       #  و تشخیص می‌دهد که آیا در این لحظه نیاز به اسکن واقعی هست یا نه.
       # ============================================================
       - name: Pre-check if any item needs scanning
         id: precheck
         run: |
           # اجرای اسکریپت پیش‌چک
-          OUTPUT=$(python pre_check.py)
+          OUTPUT=$(python src/pre_check.py)
           echo "$OUTPUT"
           
           # اگر خروجی شامل "✅" بود، یعنی نیاز به ادامه داریم
@@ -52,7 +52,7 @@ jobs:
       # ============================================================
       - name: Run scanner
         if: steps.precheck.outputs.continue == 'true'
-        run: python run_checker.py
+        run: python src/run_checker.py
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
 
