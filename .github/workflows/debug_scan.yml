@@ -1,9 +1,8 @@
 name: Full Diagnostic🩺🧑‍⚕️
 
 on:
-  schedule:
-    # هر ۴ ساعت یک‌بار: ۶، ۱۰، ۱۴، ۱۸، ۲۲ (به وقت UTC)
-    - cron: '0 6,10,14,18,22 * * *'
+  # زمان‌بندی فقط از cron-job.org (Asia/Tehran: 10:30, 14:30, 18:30, 22:30)
+  # schedule داخل GitHub حذف شد تا اجرای اضافه و تداخل زمانی نباشد
   workflow_dispatch:
     inputs:
       youtube_channel_id:
