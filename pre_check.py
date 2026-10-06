@@ -3,7 +3,6 @@ import json
 import re
 from datetime import datetime, timedelta, timezone
 
-# ========== کپی توابع ضروری از youtube_scanner.py ==========
 def iran_offset():
     return timedelta(hours=3, minutes=30)
 
@@ -41,9 +40,7 @@ def next_check_utc(iran_start, interval_min, attempt):
 def should_check(item, state):
     today = iran_now().date()
     if state.get('date') != str(today):
-        # روز جدید است، وضعیت را ریست می‌کنیم
         state = {"date": str(today), "found": False, "attempts": 0}
-        # ولی در این اسکریپت نیازی به ذخیره نداریم، فقط محاسبه می‌کنیم
 
     if state.get('found'):
         return False
@@ -60,18 +57,15 @@ def should_check(item, state):
     now_utc = datetime.now(timezone.utc)
     return now_utc >= next_utc
 
-# ========== تابع اصلی ==========
 def main():
-    # خواندن watchlist.json
-    watchlist_file = "watchlist.json"
+    watchlist_file = "config/watchlist.json"
     if not os.path.exists(watchlist_file):
-        print("❌ watchlist.json وجود ندارد.")
+        print("❌ config/watchlist.json وجود ندارد.")
         exit(1)
 
     with open(watchlist_file, 'r', encoding='utf-8') as f:
         items = json.load(f)
 
-    # بررسی هر آیتم
     need_check = False
     for item in items:
         cid = item.get('channel_id', '').strip()
@@ -79,24 +73,21 @@ def main():
         if not cid or not kw:
             continue
 
-        # بارگذاری وضعیت
         state = load_state(cid, kw)
 
-        # اگر پیدا شده باشد، نیازی به چک نیست
         if state.get('found'):
             continue
 
-        # بررسی زمان چک
         if should_check(item, state):
             need_check = True
-            break  # کافی است یکی از آیتم‌ها نیاز به چک داشته باشد
+            break
 
     if need_check:
         print("✅ حداقل یک آیتم نیاز به چک دارد. ادامه می‌دهیم.")
         exit(0)
     else:
         print("⏳ هیچ آیتمی در این لحظه نیاز به چک ندارد. خروج از اجرا.")
-        exit(0)  # با موفقیت خارج می‌شویم تا workflow fail نشود
+        exit(0)
 
 if __name__ == "__main__":
     main()
