@@ -1,6 +1,7 @@
 name: Full Diagnostic🩺🧑‍⚕️
 
 on:
+  # زمان‌بندی فقط از cron-job.org (Asia/Tehran: 10:30, 14:30, 18:30, 22:30)
   workflow_dispatch:
     inputs:
       youtube_channel_id:
@@ -39,7 +40,7 @@ jobs:
           SAVE_TO_LIST: ${{ github.event.inputs.save_to_list || false }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python debug_youtube_rss.py
+        run: python src/debug_youtube_rss.py
 
       - name: Commit and push results
         run: |

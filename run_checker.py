@@ -5,7 +5,7 @@ import subprocess
 def run_scanner():
     print(f"[{datetime.now()}] 🔄 اجرای چک‌کننده...")
     try:
-        result = subprocess.run(["python", "youtube_scanner.py"], 
+        result = subprocess.run(["python", "src/youtube_scanner.py"],
                               capture_output=True, text=True, timeout=600)
         print(result.stdout)
         if result.stderr:

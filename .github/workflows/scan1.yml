@@ -18,7 +18,7 @@ jobs:
       - name: Pre-check if any item needs scanning
         id: precheck
         run: |
-          OUTPUT=$(python pre_check.py)
+          OUTPUT=$(python src/pre_check.py)
           echo "$OUTPUT"
           if echo "$OUTPUT" | grep -q "✅"; then
             echo "continue=true" >> $GITHUB_OUTPUT
@@ -34,7 +34,7 @@ jobs:
 
       - name: Run scanner
         if: steps.precheck.outputs.continue == 'true'
-        run: python run_checker.py
+        run: python src/run_checker.py
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
 
