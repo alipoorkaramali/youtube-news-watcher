@@ -43,7 +43,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Append or replace item in watchlist.json
+      - name: Append or replace item in watchlist
         env:
           PLATFORM: ${{ github.event.inputs.platform }}
           CHANNEL_ID: ${{ github.event.inputs.channel_id }}
@@ -61,24 +61,24 @@ jobs:
             --argjson ma "$ATTEMPTS" \
             '{platform: $platform, channel_id: $cid, title_keyword: $kw, start_time_iran: $st, check_every_minutes: $iv, max_attempts: $ma}')
 
-          if [ ! -f watchlist.json ]; then
-            echo "[$NEW_ITEM]" > watchlist.json
+          if [ ! -f config/watchlist.json ]; then
+            echo "[$NEW_ITEM]" > config/watchlist.json
           else
             # حذف آیتم‌هایی که پلتفرم و کلیدواژه یکسان دارند
             jq --arg platform "$PLATFORM" --arg kw "$TITLE_KEYWORD" \
-              'map(select(.platform != $platform or .title_keyword != $kw))' watchlist.json > tmp.json
+              'map(select(.platform != $platform or .title_keyword != $kw))' config/watchlist.json > tmp.json
             # اضافه کردن آیتم جدید
-            jq ". += [$NEW_ITEM]" tmp.json > watchlist.json
+            jq ". += [$NEW_ITEM]" tmp.json > config/watchlist.json
             rm tmp.json
           fi
-          echo "محتویات نهایی watchlist.json:"
-          cat watchlist.json
+          echo "محتویات نهایی config/watchlist.json:"
+          cat config/watchlist.json
 
       - name: Commit updated watchlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add watchlist.json
+          git add config/watchlist.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
