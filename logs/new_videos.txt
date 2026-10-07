@@ -1,2 +1,4 @@
 2026-10-07T07:30:53.322137+00:00 | youtube | اخبار بامدادی | چهارشنبه ۱۵ مهر | 1 hours ago | https://www.youtube.com/watch?v=PkSIDuuDKfw
 2026-10-07T15:45:42.119132+00:00 | youtube | اخبار ساعت شش عصر- چهارشنبه ۱۵ مهر- واشنگتن خواهان کاهش معنادار غنی‌سازی ایران شد | 45 minutes ago | https://www.youtube.com/watch?v=zE0oQRLyPWA
+2026-10-07T16:30:56.834531+00:00 | youtube | اخبار شبانگاهی | چهارشنبه ۱۵ مهر | 20 minutes ago | https://www.youtube.com/watch?v=8TvfOB4p6o4
+2026-10-07T16:30:59.611703+00:00 | soundcloud | اخبار شبانگاهی | چهارشنبه ۱۵ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/vjvboac0am0j
