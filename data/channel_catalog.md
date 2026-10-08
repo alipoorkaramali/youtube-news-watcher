@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-07T19:01:10.928731+00:00
-Generated (Iran): 2026-10-07T22:31:10.928749+00:00
+Generated (UTC):  2026-10-08T07:01:05.477771+00:00
+Generated (Iran): 2026-10-08T10:31:05.477789+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-07 18:00:00]
+    1. [2026-10-07 19:33:03]
        تحمل هزینه جنگ برای ایران بیشتر است یا آمریکا؟ - ۶۰ دقیقه چهارشنبه ۱۵ مهر
        https://www.youtube.com/watch?v=Hv56qzhLfV4
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-07 18:42:15]
-       یک نسل، دو سرنوشت؛ اعتراض در فرانسه و ایران
-       https://www.youtube.com/watch?v=5BtCxHY4ufw
+    16. [2026-10-08 06:01:44]
+       احمد علوی: نظارت بر طلای مردم معاملات غیررسمی را گسترش می‌دهد
+       https://www.youtube.com/watch?v=K2A2q6CycrU
 
-    17. [2026-10-07 18:19:20]
-       تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران
-       https://www.youtube.com/watch?v=u61CHjVnVAc
+    17. [2026-10-08 05:12:26]
+       اخبار بامدادی |‌ پنجشنبه ۱۶ مهر
+       https://www.youtube.com/watch?v=1jTjyjc52mk
 
-    18. [2026-10-07 18:12:42]
-       سعید قاسمی‌نژاد: مسیر سرنگونی جمهوری اسلامی پس از هفتم اکتبر هموارتر شده است
-       https://www.youtube.com/watch?v=vwulNmhNI0I
+    18. [2026-10-08 05:03:48]
+       فریدون فرخزاد؛ هنرمندی که صدایش پس از مرگ هم خاموش نشد
+       https://www.youtube.com/watch?v=7BMPFbiq1_U
 
-    19. [2026-10-07 17:03:07]
-       اخبار شبانگاهی | چهارشنبه ۱۵ مهر
-       https://www.youtube.com/watch?v=wz6BQuobS2s
+    19. [2026-10-08 04:43:13]
+       الحدث: مذاکرات آمریکا و جمهوری اسلامی به بن‌بست رسیده است
+       https://www.youtube.com/watch?v=BcivDQqWWBA
 
-    20. [2026-10-07 17:00:18]
-       اخبار نیم‌روزی | چهارشنبه ۱۵ مهر
-       https://www.youtube.com/watch?v=N0U25EY_aXs
+    20. [2026-10-08 04:23:05]
+       ضرورت همکاری استرالیا، امارات و اسرائیل برای مهار جمهوری اسلامی
+       https://www.youtube.com/watch?v=iHKFgF4piRs
 
-    21. [2026-10-07 16:38:03]
-       وزیر نوآوری، علوم و فناوری اسرائیل: جمهوری اسلامی رو به پایان است
-       https://www.youtube.com/shorts/VScaZMs2Y1k
+    21. [2026-10-08 03:59:05]
+       امید شکری: ناامنی تنگه هرمز و هزینه کشتیرانی مانع بازگشت سریع قیمت نفت است
+       https://www.youtube.com/watch?v=aF4QPQ1IURs
 
-    22. [2026-10-07 16:35:19]
-       اقتصاد و بازار: ایدئولوژی جمهوری اسلامی و گسترش بحران اقتصادی؛ افزایش فقر در ایران
-       https://www.youtube.com/watch?v=gilK8wsoBXE
+    22. [2026-10-08 03:34:56]
+       محمد قائدی: ایران در رقابت با امارات شانس کمتری برای حفظ تجارت خود دارد
+       https://www.youtube.com/watch?v=qCkLirtJmMA
 
-    23. [2026-10-07 16:12:33]
-       نمایش اسناد و تصاویر هفتم اکتبر در تل‌آویو
-       https://www.youtube.com/watch?v=sjwBGZIAYOc
+    23. [2026-10-08 03:29:36]
+       صادق بیگدلی: جمهوری اسلامی به‌دلیل از دست دادن اهرم‌های فشار به‌دنبال توافق است
+       https://www.youtube.com/watch?v=pvq-1ThdvEM
 
-    24. [2026-10-07 15:50:02]
-       کمک ۲۰۰ میلیون دلاری جمهوری اسلامی به حزب‌الله لبنان
-       https://www.youtube.com/watch?v=ReMHcB9K4kE
+    24. [2026-10-08 03:19:36]
+       ایرانیان در بروکسل یاد قربانیان حمله ۷ اکتبر را گرامی داشتند
+       https://www.youtube.com/watch?v=tBgx4Mknsjw
 
-    25. [2026-10-07 15:33:24]
-       گزارش روز با مجتبا پورمحسن: افشای آدرس خانه‌های تیمی حزب‌الله لبنان در تهران و قم
-       https://www.youtube.com/watch?v=K1wU1EbVTeE
+    25. [2026-10-08 03:10:39]
+       ترامپ: جنگ با جمهوری اسلامی خیلی زود پایان خواهد یافت
+       https://www.youtube.com/shorts/LF23Omo-MlI
 
-    26. [2026-10-07 15:31:27]
-       تاکید وزیر خارجه آمریکا بر از دست رفتن فرصت‌های توافق از سوی جمهوری اسلامی
-       https://www.youtube.com/watch?v=Tw369wMC1Rk
+    26. [2026-10-08 01:10:15]
+       اکسیوس: عربستان و سوریه درباره اعزام نیرو به یمن گفت‌وگو می‌کنند
+       https://www.youtube.com/watch?v=PPISYI8IAmA
 
-    27. [2026-10-07 15:22:51]
-       تصاویر ماهواره‌ای از فعالیت‌های جدید در مرکز هسته‌ای با کاربرد نظامی در شمال شرق تهران
-       https://www.youtube.com/watch?v=qdbDX63B3H4
+    27. [2026-10-08 00:54:46]
+       کاخ سفید از پنتاگون خواست گزینه‌های حمله به اهداف جمهوری اسلامی را تدوین کند
+       https://www.youtube.com/watch?v=eiIeCZmiDMk
 
-    28. [2026-10-07 15:17:13]
-       جلسه دادگاه سه ایرانی در لندن؛ مجتبا پورمحسن و کامبیز حسینی زیر نظر متهمان بودند
-       https://www.youtube.com/watch?v=nVOtnLGt7EQ
+    28. [2026-10-07 23:46:34]
+       ادامه اعتراض‌های دانش‌آموزی در فرانسه برای سومین هفته
+       https://www.youtube.com/watch?v=5b-vqlRzj9Q
 
-    29. [2026-10-07 14:55:19]
-       سیاوش جمشیدی، تکواندوکاری اهل شعر و ادب
-       https://www.youtube.com/shorts/-4krzzDq2EE
+    29. [2026-10-07 23:41:50]
+       روبیو: جمهوری اسلامی با موشک و پهپاد به دنبال مصونیت برای برنامه هسته‌ای خود بود
+       https://www.youtube.com/shorts/8kmpPnsSRx8
 
-    30. [2026-10-07 14:34:04]
-       بحران هزینه‌های درمان و توان‌بخشی افراد دارای اوتیسم در ایران
-       https://www.youtube.com/watch?v=G_fVcrC4Krs
+    30. [2026-10-07 22:57:55]
+       سومین سالگرد حمله ۷ اکتبر
+       https://www.youtube.com/shorts/DJikQZ0-ufA
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی |‌ پنجشنبه ۱۶ مهر
+       https://soundcloud.com/iranintl/f5j2tohravaz
+
+    32. [Unknown]
+       سیاست با مراد ویسی: سرنوشت مرگبار رجزخوانان علیه اسرائیل
+       https://soundcloud.com/iranintl/pqywf350dn9s
+
+    33. [Unknown]
+       برنامه با کامبیز حسینی | امشب در تریبون آزاد؛ روایت شما از سه سال پس از ۷ اکتبر
+       https://soundcloud.com/iranintl/w9niupic6eho
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: سومین سالگرد حمله هفتم اکتبر؛ سرآغاز فروپاشی رویای جمهوری اسلامی
+       https://soundcloud.com/iranintl/ihzwishu35r1
+
+    35. [Unknown]
        تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران
        https://soundcloud.com/iranintl/evpeakr1appj
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/zht5jphbcgtp
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/vjvboac0am0j
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/keiozhnilflb
 
-    35. [Unknown]
+    39. [Unknown]
        ایران؛ جامعه آتشفشانی
        https://soundcloud.com/iranintl/ivrikbijmv4d
 
-    36. [Unknown]
+    40. [Unknown]
        برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله را داشتید، چه می‌گفتید؟
        https://soundcloud.com/iranintl/0vfsfjxs04uk
 
-    37. [Unknown]
+    41. [Unknown]
        چشم‌انداز: افزایش کم‌سابقه درگیری‌های مسلحانه در سیستان‌ و بلوچستان
        https://soundcloud.com/iranintl/yn6swkuoe4hl
 
-    38. [Unknown]
+    42. [Unknown]
        ۲۴ با فرداد فرحزاد: ردپای جمهوری‌اسلامی در طرح حمله به پایگاه هوایی فرفورد
        https://soundcloud.com/iranintl/ykljfnohubhs
 
-    39. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: ازآماده‌باش جنگنده‌های اسرائیل در ماجرای فلای‌دبی تا طرح حمله به فرفورد
        https://soundcloud.com/iranintl/kshqvzfll5jx
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/jqjybmsqkncy
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/odkxeapbmna2
 
-    42. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/svbc6xtc7sj1
 
-    43. [Unknown]
+    47. [Unknown]
        سیاست با مراد ویسی: وزیر دفاع جدید یا وزیر موشک‌های قاره‌پیما؟
        https://soundcloud.com/iranintl/f4gcsbmzqyko
 
-    44. [Unknown]
+    48. [Unknown]
        برنامه با کامبیز حسینی | اعدام علیرضا سپاهی و علیرضا رئیسی
        https://soundcloud.com/iranintl/u3uheeuess2i
 
-    45. [Unknown]
+    49. [Unknown]
        چشم‌انداز: برکنار وزیر نفت، آرایش ویژه حکومت برای شرایط اضطراری
        https://soundcloud.com/iranintl/i71l7nrb4wk8
 
-    46. [Unknown]
+    50. [Unknown]
        ۲۴ با فرداد فرحزاد: تاکید دوباره ترامپ بر افزایش سطح عبور و مرور از تنگه هرمز
        https://soundcloud.com/iranintl/vt91a1yqunqm
-
-    47. [Unknown]
-       تیتراول با نیوشا صارمی: حمله بزرگ عربستان و دولت یمن برای پس‌گرفتن صنعا؛ جبهه تازه جنگ با تهران
-       https://soundcloud.com/iranintl/vdupdugw9hbv
-
-    48. [Unknown]
-       اخبار شبانگاهی | دوشنبه ۱۳ مهر
-       https://soundcloud.com/iranintl/clbnycmqxxrk
-
-    49. [Unknown]
-       اخبار نیمروزی | دوشنبه ۱۳ مهر
-       https://soundcloud.com/iranintl/avkdzpkvqghl
-
-    50. [Unknown]
-       اخبار بامدادی | یکشنبه ۱۲ مهر
-       https://soundcloud.com/iranintl/d3gxsolpv06m
 
 ----------------------------------------
 
