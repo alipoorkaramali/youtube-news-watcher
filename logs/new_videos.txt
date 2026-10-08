@@ -1,1 +1,2 @@
 2026-10-08T06:31:05.314389+00:00 | soundcloud | اخبار بامدادی |‌ پنجشنبه ۱۶ مهر | 0 minutes ago | https://soundcloud.com/iranintl/f5j2tohravaz
+2026-10-08T07:30:51.325517+00:00 | youtube | اخبار بامدادی |‌ پنجشنبه ۱۶ مهر | 2 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=1jTjyjc52mk
