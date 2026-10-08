@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-08T11:01:04.079439+00:00
-Generated (Iran): 2026-10-08T14:31:04.079456+00:00
+Generated (UTC):  2026-10-08T15:01:08.564387+00:00
+Generated (Iran): 2026-10-08T18:31:08.564408+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-07 19:33:03]
+    1. [2026-10-08 14:00:00]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=MppE1zskt-M
+
+    2. [2026-10-08 13:35:47]
+       «دیگه تمام شد روسری؛«الماس در گام لامینور
+       https://www.youtube.com/shorts/TTVMttZLs2Q
+
+    3. [2026-10-08 13:00:31]
+       موجودات افسانه‌ای با نور پهباد آسمان تگزاس را روشن کردند
+       https://www.youtube.com/shorts/PFL8ElEp5gg
+
+    4. [2026-10-08 11:38:28]
+       بزرگ‌ترین برج‌ انسانی جهان در اسپانیا
+       https://www.youtube.com/shorts/xaSIcM4_j7M
+
+    5. [2026-10-07 19:33:03]
        تحمل هزینه جنگ برای ایران بیشتر است یا آمریکا؟ - ۶۰ دقیقه چهارشنبه ۱۵ مهر
        https://www.youtube.com/watch?v=Hv56qzhLfV4
 
-    2. [2026-10-07 16:59:48]
+    6. [2026-10-07 16:59:48]
        جام جهان‌نما چهارشنبه ۱۵ مهر ۱۴۰۵: تشدید فشار بر هنرمندان و نویسندگان به اتهام دگراندیشی
        https://www.youtube.com/watch?v=keidn_j-0-I
 
-    3. [2026-10-07 16:50:32]
+    7. [2026-10-07 16:50:32]
        سرخط خبرهای چهارشنبه ۱۵ مهر ۱۴۰۵
        https://www.youtube.com/shorts/Og9qVGQFQwU
 
-    4. [2026-10-07 15:00:26]
+    8. [2026-10-07 15:00:26]
        اخبار ساعت شش عصر- چهارشنبه ۱۵ مهر- واشنگتن خواهان کاهش معنادار غنی‌سازی ایران شد
        https://www.youtube.com/watch?v=zE0oQRLyPWA
 
-    5. [2026-10-07 15:00:21]
+    9. [2026-10-07 15:00:21]
        تکنیک‌هایی برای کنار آمدن با اختلاف نظر، هدف‌گذاری و کم کردن سرعت زندگی
        https://www.youtube.com/watch?v=uixFnDbpa7A
 
-    6. [2026-10-07 14:24:38]
+    10. [2026-10-07 14:24:38]
        کودکان در یمن شجاعانه زیر گلوله و بمب همچنان به مدرسه می‌روند
        https://www.youtube.com/shorts/MuWVJd-TEok
 
-    7. [2026-10-07 14:09:39]
+    11. [2026-10-07 14:09:39]
        اعتراضات دانش‌آموزان در فرانسه؛ شمار بازداشت‌شدگان از ۶۵۰۰ نفر گذشت
        https://www.youtube.com/shorts/0z76W0xqe_E
 
-    8. [2026-10-07 14:00:15]
+    12. [2026-10-07 14:00:15]
        نگرانی از شیوع بیماری در پی مرگ یک کارمند موسسه تحقیقاتی ضد طاعون در روسیه
        https://www.youtube.com/watch?v=eTR7NRx9tgs
 
-    9. [2026-10-07 07:14:11]
+    13. [2026-10-07 07:14:11]
        ورود حکومت به «جبهه حجاب»
        https://www.youtube.com/shorts/-xZUg9ldyH0
 
-    10. [2026-10-06 19:31:30]
+    14. [2026-10-06 19:31:30]
        ۶۰ دقیقه سه‌شنبه ۱۴ مهر- نبرد سرنوشت‌ساز یمن؛ کارت‌ بازی ایران در منطقه ضعیف‌تر می‌شود؟
        https://www.youtube.com/watch?v=7NnGTxqJ-dc
 
-    11. [2026-10-06 18:03:38]
+    15. [2026-10-06 18:03:38]
        بریتانیا درمیانه جنگ ایران و امریکا کجا ایستاده؟ - صفحه ۲
        https://www.youtube.com/watch?v=jCyD-GA5zak
-
-    12. [2026-10-06 17:00:55]
-       جام جهان‌نما- سه‌شنبه ۱۴ مهر
-       https://www.youtube.com/watch?v=kxzX4HtZiMg
-
-    13. [2026-10-06 16:00:03]
-       بررسی خشکیدگی درختان چیتگر با تصاویر ماهواره‌ای‌‌
-       https://www.youtube.com/watch?v=ps7ex36K620
-
-    14. [2026-10-06 15:01:02]
-       اخبار ساعت شش عصر- سه شنبه ۱۴ مهر- رسانه‌های آمریکا: تهدید پهپادی سپاه پشت جابه‌جایی بمب‌افکن‌ها
-       https://www.youtube.com/watch?v=3SqafJxEYOs
-
-    15. [2026-10-06 15:00:09]
-       فرانسیس فوکویاما: دموکراسی در آمریکا هرگز تا این حد در خطر نبوده - گفت‌وگوی ویژه
-       https://www.youtube.com/watch?v=69oY3Qu7Ky8
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-08 10:50:43]
-       گفت‌وگوی ویژه با الیا کوهن؛ روایت ۵۰۵ روز اسارت در دست حماس
-       https://www.youtube.com/watch?v=8rqSSOQNCxc
+    16. [2026-10-08 14:55:50]
+       تکرار حوادث مرگبار در معادن ایران با وجود ذخایر عظیم معدنی
+       https://www.youtube.com/watch?v=3mskihjt58Q
 
-    17. [2026-10-08 10:35:16]
-       نشست ۹ کشور جنوبی اتحادیه اروپا در کرواسی با تمرکز بر امنیت و خاورمیانه
-       https://www.youtube.com/watch?v=S_FEE8oNguA
+    17. [2026-10-08 14:50:50]
+       آن کارسون، نویسنده برای نوآوری در ادبیات معاصر برنده نوبل شد
+       https://www.youtube.com/watch?v=NIHSOx6XOUY
 
-    18. [2026-10-08 10:20:26]
-       حمله به گشت یگان تکاوری و مقر انتظامی در سیستان و بلوچستان
-       https://www.youtube.com/watch?v=q90Y49_W7DU
+    18. [2026-10-08 14:05:36]
+       اطلاعات رسیده از هدف قرار گرفتن دو برادر ۱۵ و ۱۹ ساله پس از شادی برای مرگ خامنه‌ای
+       https://www.youtube.com/watch?v=SKDKKKk9rPQ
 
-    19. [2026-10-08 10:08:52]
-       معافیت مجازات سرکوبگران در جمهوری اسلامی
-       https://www.youtube.com/watch?v=oNss0oRv9l0
+    19. [2026-10-08 13:54:47]
+       رییس سازمان انرژی اتمی: غنی‌سازی اورانیوم را کنار نمی‌گذاریم
+       https://www.youtube.com/shorts/IvwRcKU_Jpk
 
-    20. [2026-10-08 09:53:03]
-       آمادگی آمریکا برای ازسرگیری عملیات نظامی گسترده علیه جمهوری اسلامی
-       https://www.youtube.com/watch?v=zhKjCnYscVY
+    20. [2026-10-08 13:51:58]
+       علی شیرازی: جمهوری اسلامی خود را برای رویارویی دوباره با مردم آماده می‌کند
+       https://www.youtube.com/watch?v=ds0QXKYd0BA
 
-    21. [2026-10-08 09:32:22]
-       محمدجواد اکبرین: عربستان، ترکیه و پاکستان در برابر تهدید حوثی‌ها به هم نزدیک شده‌اند
-       https://www.youtube.com/watch?v=7lU87oGZQ3s
+    21. [2026-10-08 13:41:47]
+       واکنش گسترده کاربران ایرانی به گزارش انتقال ۲۰۰ میلیون دلار از ایران به حزب‌الله
+       https://www.youtube.com/watch?v=Hh-3h1WV1EU
 
-    22. [2026-10-08 09:26:58]
-       بلومبرگ: خروج بمب‌افکن‌های آمریکا از بریتانیا خطر خرابکاری ایران و روسیه را افزایش می‌دهد
-       https://www.youtube.com/watch?v=AoucsrjaRmU
+    22. [2026-10-08 13:36:52]
+       انتخاب آن کارسون به‌عنوان برنده نوبل ادبیات ۲۰۲۶
+       https://www.youtube.com/watch?v=EfUv-DfqVBY
 
-    23. [2026-10-08 09:11:43]
-       روایت مخاطبان ایران‌اینترنشنال از مشکلات کالابرگ و گرانی نان
-       https://www.youtube.com/watch?v=_qtdOeNx3-A
+    23. [2026-10-08 13:09:24]
+       رییس‌جمهوری اسرائیل: هدف جامعه جهانی باید مقابله با «امپراتوری شرارت تهران» باشد
+       https://www.youtube.com/shorts/Ro_JmY1qRWw
 
-    24. [2026-10-08 08:30:01]
-       روایت شاهدان عینی از سرکوب خیزش زن، زندگی، آزادی
-       https://www.youtube.com/watch?v=UVXMzXjeqVg
+    24. [2026-10-08 13:09:01]
+       نوبل ادبیات ۲۰۲۶ به آن کارسون، شاعر و نویسنده کانادایی رسید
+       https://www.youtube.com/watch?v=AKJw0ZfdYwY
 
-    25. [2026-10-08 08:22:52]
-       حمله مسلحانه به مقر نیروهای انتظامی در شهر جالق
-       https://www.youtube.com/shorts/GLn3YFsejXM
+    25. [2026-10-08 12:40:48]
+       سنگال برای پس گرفتن عنوان قهرمانی جام ملت‌های آفریقا به دادگاه حکمیت ورزش رفت
+       https://www.youtube.com/watch?v=oZRDwW8Euog
 
-    26. [2026-10-08 07:54:07]
-       توافق دفاعی ترکیه، پاکستان و عربستان به پارلمان ترکیه می‌رود
-       https://www.youtube.com/watch?v=GYDDtSj0hFM
+    26. [2026-10-08 12:29:42]
+       گفت‌وگوی ویژه با الیا کوهن، گروگان آزادشده از اسارت حماس
+       https://www.youtube.com/shorts/sY801iDVQqM
 
-    27. [2026-10-08 07:23:12]
-       گسترش شبکه جاسوسی چین در آمریکا
-       https://www.youtube.com/watch?v=nv09lrHcJb4
+    27. [2026-10-08 12:26:20]
+       تراکتور صدرنشین میزبان استقلال رده‌دومی در حساس‌ترین دیدار هفته هشتم
+       https://www.youtube.com/watch?v=Bamn_R90NxI
 
-    28. [2026-10-08 07:14:33]
-       پاکستان حضور نظامی در عربستان را تایید کرد
-       https://www.youtube.com/watch?v=Npk9ndCWoZs
+    28. [2026-10-08 12:23:36]
+       اخبار نیمروزی |‌ پنجشنبه ۱۶ مهر
+       https://www.youtube.com/watch?v=1Edvsqt3Gnc
 
-    29. [2026-10-08 07:03:41]
-       سه سال پس از ۷ اکتبر؛ جنگی که به راس قدرت جمهوری اسلامی رسید
-       https://www.youtube.com/watch?v=x3vyfYgmuoA
+    29. [2026-10-08 11:39:16]
+       رسانه‌های اسرائیلی: حماس برای ازسرگیری جنگ در غزه آماده می‌شود
+       https://www.youtube.com/watch?v=_vFvDC3gYII
 
-    30. [2026-10-08 06:53:10]
-       روح‌الله رحیم‌پور: بن‌بست دیپلماسی گزینه حمله به ایران را پررنگ کرده است
-       https://www.youtube.com/watch?v=PNpKKaR5_JQ
+    30. [2026-10-08 11:17:04]
+       تشدید درگیری‌ها در یمن؛ صدها موضع و تجهیزات حوثی‌ها منهدم شد
+       https://www.youtube.com/watch?v=uw0o1kTQz9o
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی |‌ پنجشنبه ۱۶ مهر
+       https://soundcloud.com/iranintl/urwzcjhmzj63
+
+    32. [Unknown]
        اخبار بامدادی |‌ پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/f5j2tohravaz
 
-    32. [Unknown]
+    33. [Unknown]
        سیاست با مراد ویسی: سرنوشت مرگبار رجزخوانان علیه اسرائیل
        https://soundcloud.com/iranintl/pqywf350dn9s
 
-    33. [Unknown]
+    34. [Unknown]
        برنامه با کامبیز حسینی | امشب در تریبون آزاد؛ روایت شما از سه سال پس از ۷ اکتبر
        https://soundcloud.com/iranintl/w9niupic6eho
 
-    34. [Unknown]
+    35. [Unknown]
        ۲۴ با فرداد فرحزاد: سومین سالگرد حمله هفتم اکتبر؛ سرآغاز فروپاشی رویای جمهوری اسلامی
        https://soundcloud.com/iranintl/ihzwishu35r1
 
-    35. [Unknown]
+    36. [Unknown]
        تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران
        https://soundcloud.com/iranintl/evpeakr1appj
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/zht5jphbcgtp
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/vjvboac0am0j
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/keiozhnilflb
 
-    39. [Unknown]
+    40. [Unknown]
        ایران؛ جامعه آتشفشانی
        https://soundcloud.com/iranintl/ivrikbijmv4d
 
-    40. [Unknown]
+    41. [Unknown]
        برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله را داشتید، چه می‌گفتید؟
        https://soundcloud.com/iranintl/0vfsfjxs04uk
 
-    41. [Unknown]
+    42. [Unknown]
        چشم‌انداز: افزایش کم‌سابقه درگیری‌های مسلحانه در سیستان‌ و بلوچستان
        https://soundcloud.com/iranintl/yn6swkuoe4hl
 
-    42. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: ردپای جمهوری‌اسلامی در طرح حمله به پایگاه هوایی فرفورد
        https://soundcloud.com/iranintl/ykljfnohubhs
 
-    43. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: ازآماده‌باش جنگنده‌های اسرائیل در ماجرای فلای‌دبی تا طرح حمله به فرفورد
        https://soundcloud.com/iranintl/kshqvzfll5jx
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/jqjybmsqkncy
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/odkxeapbmna2
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۴ مهر
        https://soundcloud.com/iranintl/svbc6xtc7sj1
 
-    47. [Unknown]
+    48. [Unknown]
        سیاست با مراد ویسی: وزیر دفاع جدید یا وزیر موشک‌های قاره‌پیما؟
        https://soundcloud.com/iranintl/f4gcsbmzqyko
 
-    48. [Unknown]
+    49. [Unknown]
        برنامه با کامبیز حسینی | اعدام علیرضا سپاهی و علیرضا رئیسی
        https://soundcloud.com/iranintl/u3uheeuess2i
 
-    49. [Unknown]
+    50. [Unknown]
        چشم‌انداز: برکنار وزیر نفت، آرایش ویژه حکومت برای شرایط اضطراری
        https://soundcloud.com/iranintl/i71l7nrb4wk8
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: تاکید دوباره ترامپ بر افزایش سطح عبور و مرور از تنگه هرمز
-       https://soundcloud.com/iranintl/vt91a1yqunqm
 
 ----------------------------------------
 
