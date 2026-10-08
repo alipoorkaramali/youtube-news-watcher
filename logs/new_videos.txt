@@ -5,3 +5,5 @@
 2026-10-08T15:15:38.519899+00:00 | youtube | اخبار ساعت شش عصر- پنج‌شنبه ۱۶ مهر | 14 minutes ago | https://www.youtube.com/watch?v=MppE1zskt-M
 2026-10-08T17:30:48.537300+00:00 | soundcloud | جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/vdxllmratlqu
 2026-10-08T18:30:45.908496+00:00 | youtube | اخبار شبانگاهی | پنجشنبه ۱۶ مهر | 22 minutes ago | https://www.youtube.com/watch?v=pPD7_8QZJCc
+2026-10-08T19:30:46.061529+00:00 | youtube | تحمل هزینه جنگ برای ایران بیشتر است یا آمریکا؟ - ۶۰ دقیقه چهارشنبه ۱۵ مهر | 23 hours ago | https://www.youtube.com/watch?v=Hv56qzhLfV4
+2026-10-08T19:30:49.070986+00:00 | soundcloud | اخبار شبانگاهی | پنجشنبه ۱۶ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/wxwq3y30yg54
