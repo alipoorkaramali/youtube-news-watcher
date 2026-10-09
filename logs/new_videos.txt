@@ -1,1 +1,2 @@
 2026-10-09T06:30:47.419096+00:00 | soundcloud | اخبار بامدادی | جمعه ۱۷ مهر | 0 minutes ago | https://soundcloud.com/iranintl/pgquu3fgvflk
+2026-10-09T07:30:47.346579+00:00 | youtube | اخبار بامدادی | جمعه ۱۷ مهر | 1 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=kCg5EwT1pTA
