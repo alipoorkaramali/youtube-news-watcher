@@ -3,3 +3,5 @@
 2026-10-09T12:30:48.528244+00:00 | youtube | اخبار نیمروزی | جمعه ۱۷ مهر | 21 minutes ago | https://www.youtube.com/watch?v=uFbtjyOLuHA
 2026-10-09T13:30:48.032338+00:00 | soundcloud | اخبار نیمروزی | جمعه ۱۷ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/pdztppo3jev8
 2026-10-09T15:15:35.572186+00:00 | youtube | اخبار ساعت شش عصر | 14 minutes ago | https://www.youtube.com/watch?v=RCV2fMTV7dw
+2026-10-09T16:30:47.510021+00:00 | youtube | اخبار شبانگاهی | جمعه ۱۷ مهر | 22 minutes ago | https://www.youtube.com/watch?v=n8QxTlvUOOw
+2026-10-09T16:30:50.079426+00:00 | soundcloud | اخبار شبانگاهی | جمعه ۱۷ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/zw7huz9w4mbr
