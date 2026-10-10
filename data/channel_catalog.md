@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-09T19:01:03.537603+00:00
-Generated (Iran): 2026-10-09T22:31:03.537623+00:00
+Generated (UTC):  2026-10-10T07:01:01.731933+00:00
+Generated (Iran): 2026-10-10T10:31:01.731972+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-09 18:41:33]
-       ویدیوی شاهدان عینی از صدای شلیک پدافند هوایی در شرق تهران
-       https://www.youtube.com/shorts/kZtzM6W8auY
+    16. [2026-10-10 06:51:19]
+       اخبار بامدادی | شنبه ۱۸ مهر
+       https://www.youtube.com/watch?v=ULjM5-_pEMY
 
-    17. [2026-10-09 18:30:22]
-       حرف آخر با پوریا زراعتی - جزئیات طرح حمله‌ی بزرگ در آبان
-       https://www.youtube.com/watch?v=29hbAjtQvnU
+    17. [2026-10-10 04:17:24]
+       رونمایی از کتاب دادخواهی پرواز اوکراینی در نمایشگاه کتاب فرانکفورت
+       https://www.youtube.com/watch?v=No3EMs01gPc
 
-    18. [2026-10-09 18:04:31]
-       میرسلیم: نفت مال خدا و رسول است، مال مردم نیست
-       https://www.youtube.com/shorts/gsnukSlKR4k
+    18. [2026-10-10 04:16:06]
+       هوشنگ حسن‌یاری: حملات آمریکا و اسرائیل توان موشکی جمهوری اسلامی را به‌شدت تضعیف کرده است
+       https://www.youtube.com/watch?v=5xVwVLBzThc
 
-    19. [2026-10-09 17:05:41]
-       آمریکا تحریم‌های گسترده علیه دیوان کیفری بین‌المللی اعمال کرد
-       https://www.youtube.com/watch?v=zpcrWIIVcGw
+    19. [2026-10-10 04:02:37]
+       گسترش فعالیت‌های غیرقانونی جمهوری اسلامی برای مقابله با تحریم‌ها
+       https://www.youtube.com/watch?v=N8OyPgeMgpA
 
-    20. [2026-10-09 16:34:19]
-       میرسلیم، عضو مجمع تشخیص مصلحت نظام: بنزین در ایران مفت است
-       https://www.youtube.com/shorts/bwZxfrXPQgw
+    20. [2026-10-10 03:56:41]
+       صادق بیگدلی: توافق گازی آمریکا و روسیه اهرم فشار جمهوری اسلامی را تضعیف می‌کند
+       https://www.youtube.com/watch?v=h0AUMLDbyN0
 
-    21. [2026-10-09 16:22:42]
-       حسن نایب‌هاشم: جمهوری اسلامی از اعدام برای ایجاد رعب و تضمین بقای خود استفاده می‌کند
-       https://www.youtube.com/watch?v=cjY1cztvXTo
+    21. [2026-10-10 03:51:15]
+       ترامپ: یا جمهوری اسلامی خواسته‌های ما را می‌پذیرد یا دیگر وجود نخواهد داشت
+       https://www.youtube.com/shorts/JCuL-UwMRrk
 
-    22. [2026-10-09 16:12:29]
-       ناوانتم پیلای، حقوق‌دان اهل آفریقای جنوبی، برنده جایزه صلح نوبل شد
-       https://www.youtube.com/shorts/J0Ix1dnmAQw
+    22. [2026-10-10 03:30:34]
+       علیرضا نامورحقیقی: تواقق آمریکا و روسیه، اهرم فشار تهران در تنگه هرمز را کاهش داد
+       https://www.youtube.com/watch?v=Vzz71oW6ens
 
-    23. [2026-10-09 16:07:58]
-       اخبار شبانگاهی | جمعه ۱۷ مهر
-       https://www.youtube.com/watch?v=n8QxTlvUOOw
+    23. [2026-10-10 03:22:14]
+       عربستان عملیات گسترده‌ای علیه حوثی‌ها آغاز کرد
+       https://www.youtube.com/watch?v=zkm9LYJCgMM
 
-    24. [2026-10-09 15:40:33]
-       دست کم پنج شکایت در پرونده آزار جنسی کودکان در یک مدرسه فوتبال دیواندره
-       https://www.youtube.com/watch?v=ZNGFw72sdM0
+    24. [2026-10-10 03:18:55]
+       ترامپ: جمهوری اسلامی می‌توانست شهرهای آمریکا را هدف قرار دهد
+       https://www.youtube.com/watch?v=AJ48enwiUH0
 
-    25. [2026-10-09 15:01:17]
-       گزارش مخاطبان از تشدید حضور نیروهای امنیتی در تهران و مدارس
-       https://www.youtube.com/watch?v=9NFSFCcxOnY
+    25. [2026-10-09 22:38:39]
+       صرافی بانک پارسیان با وجود تحریم این بانک، میلیون‌ها دلار جابه‌جا کرده است
+       https://www.youtube.com/shorts/ShDsV9KZiZE
 
-    26. [2026-10-09 14:33:03]
-       گزارش منابع نزدیک به حزب‌الله از کمک ۲۰۰ میلیون دلاری جمهوری اسلامی
-       https://www.youtube.com/watch?v=viNJ9joVPmU
+    26. [2026-10-09 22:34:24]
+       سیامک آرام: انزوای جمهوری اسلامی یک واقعیت عینی است
+       https://www.youtube.com/watch?v=0CRK0ZhWraM
 
-    27. [2026-10-09 14:29:32]
-       تشدید درگیری‌ها در یمن هم‌زمان با پیشروی نیروهای حامی دولت در باب‌المندب
-       https://www.youtube.com/watch?v=oZwmUUXuSBs
+    27. [2026-10-09 22:32:50]
+       Iran’s oil revenue could hit ZERO by December —first time in history | Eye for Iran | EP 124 |
+       https://www.youtube.com/watch?v=6AlRAmqWGGI
 
-    28. [2026-10-09 14:02:36]
-       تشدید تحریم‌های آمریکا و گسترش اقتصاد غیرقانونی در جمهوری اسلامی
-       https://www.youtube.com/watch?v=uIY3AvEyxCQ
+    28. [2026-10-09 22:32:03]
+       کامبیز توانا: حلقه فشار اقتصادی آمریکا بر جمهوری اسلامی در حال تنگ‌تر شدن است
+       https://www.youtube.com/watch?v=yiBCda3nHTY
 
-    29. [2026-10-09 13:47:15]
-       روبیو خواستار تمرکز عفو بین‌الملل بر کشتار معترضان ایرانی شد
-       https://www.youtube.com/shorts/4OBUiWgPgWM
+    29. [2026-10-09 21:35:57]
+       شاهد علوی: جمهوری اسلامی با اعدام می‌کوشد بحران مشروعیت خود را مهار کند
+       https://www.youtube.com/watch?v=1X-yP9CgvVA
 
-    30. [2026-10-09 13:38:16]
-       جان‌باختن امید قانونی، جوان ۱۷ ساله، پس از بازداشت و ضرب‌وشتم در خوانسار
-       https://www.youtube.com/watch?v=QRjYYZCGWtE
+    30. [2026-10-09 21:31:09]
+       لیلا مروتی: گسترش حملات حوثی‌ها می‌تواند اروپا را به واکنش عملی‌تر وادار کند
+       https://www.youtube.com/watch?v=_UviBVXewxM
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
+       https://soundcloud.com/iranintl/giatshktxyyu
+
+    32. [Unknown]
        اخبار شبانگاهی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/zw7huz9w4mbr
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار نیمروزی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pdztppo3jev8
 
-    33. [Unknown]
+    34. [Unknown]
        اخبار بامدادی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pgquu3fgvflk
 
-    34. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله به ایران را داشتید، چه می‌گفتید؟
        https://soundcloud.com/iranintl/dap53uominaw
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد:چرخش دوباره ترامپ، قبل از انتخابات میان‌دوره‌ای حمله نمی‌کنیم.
        https://soundcloud.com/iranintl/1sbcvdrk6dos
 
-    36. [Unknown]
+    37. [Unknown]
        دومینو: خاومیانه در یک قدمی جنگی دیگر
        https://soundcloud.com/iranintl/rv6qdyzmfdiq
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/wxwq3y30yg54
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار نیمروزی |‌ پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/urwzcjhmzj63
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار بامدادی |‌ پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/f5j2tohravaz
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: سرنوشت مرگبار رجزخوانان علیه اسرائیل
        https://soundcloud.com/iranintl/pqywf350dn9s
 
-    41. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | امشب در تریبون آزاد؛ روایت شما از سه سال پس از ۷ اکتبر
        https://soundcloud.com/iranintl/w9niupic6eho
 
-    42. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: سومین سالگرد حمله هفتم اکتبر؛ سرآغاز فروپاشی رویای جمهوری اسلامی
        https://soundcloud.com/iranintl/ihzwishu35r1
 
-    43. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران
        https://soundcloud.com/iranintl/evpeakr1appj
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/zht5jphbcgtp
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/vjvboac0am0j
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | چهارشنبه ۱۵ مهر
        https://soundcloud.com/iranintl/keiozhnilflb
 
-    47. [Unknown]
+    48. [Unknown]
        ایران؛ جامعه آتشفشانی
        https://soundcloud.com/iranintl/ivrikbijmv4d
 
-    48. [Unknown]
+    49. [Unknown]
        برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله را داشتید، چه می‌گفتید؟
        https://soundcloud.com/iranintl/0vfsfjxs04uk
 
-    49. [Unknown]
+    50. [Unknown]
        چشم‌انداز: افزایش کم‌سابقه درگیری‌های مسلحانه در سیستان‌ و بلوچستان
        https://soundcloud.com/iranintl/yn6swkuoe4hl
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: ردپای جمهوری‌اسلامی در طرح حمله به پایگاه هوایی فرفورد
-       https://soundcloud.com/iranintl/ykljfnohubhs
 
 ----------------------------------------
 
