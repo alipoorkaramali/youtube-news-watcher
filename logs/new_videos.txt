@@ -2,3 +2,4 @@
 2026-10-10T07:30:46.414138+00:00 | soundcloud | اخبار بامدادی | شنبه ۱۸ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/hsvmg0e7dlqc
 2026-10-10T12:30:51.332377+00:00 | soundcloud | اخبار نیمروزی | شنبه ۱۸ مهر | 0 minutes ago | https://soundcloud.com/iranintl/ga3kjs8vp0px
 2026-10-10T12:30:51.897055+00:00 | youtube | اخبار نیمروزی | شنبه ۱۸ مهر | 34 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=QbF0kaXiWcM
+2026-10-10T15:15:30.034635+00:00 | youtube | اخبار ساعت شش عصر- شنبه ۱۸ مهر- جنگ یمن | 14 minutes ago | https://www.youtube.com/watch?v=a5hzILYMVMw
