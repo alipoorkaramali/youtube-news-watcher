@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-11T11:01:06.446887+00:00
-Generated (Iran): 2026-10-11T14:31:06.446906+00:00
+Generated (UTC):  2026-10-11T15:01:06.462206+00:00
+Generated (Iran): 2026-10-11T18:31:06.462222+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-10 19:31:30]
+    1. [2026-10-11 15:00:29]
+       اخبار ساعت شش عصر یکشنبه ۱۹ مهر: پیامدهای مرگبار به فرودگاه ریاض
+       https://www.youtube.com/watch?v=4jin0PwODeY
+
+    2. [2026-10-11 13:48:38]
+       سرخط خبرها، یکشنبه ۱۹ مهر
+       https://www.youtube.com/shorts/fIOAJqoxrbM
+
+    3. [2026-10-11 13:36:59]
+       نجات ۲۲ نفر از خدمه نفت‌کش «جم ۲» بعد از انفجار و آتش‌سوزی
+       https://www.youtube.com/shorts/urEsCmTg8Rk
+
+    4. [2026-10-11 12:17:30]
+       نجات مار نادر دوسر در هند
+       https://www.youtube.com/shorts/BnfiBt9TWMU
+
+    5. [2026-10-11 11:40:46]
+       «یک کشته و دو مفقود» در پی سیل استان گلستان
+       https://www.youtube.com/shorts/MSSaNrP9cC4
+
+    6. [2026-10-10 19:31:30]
        شصت دقیقه شنبه۱۸ مهر- گزارش بی‌بی‌سی از پرونده میدان شهدای اصفهان، طناب دار بر گردن معترضان دی‌ماه
        https://www.youtube.com/watch?v=aNOnRXmMF7Y
 
-    2. [2026-10-10 17:09:22]
+    7. [2026-10-10 17:09:22]
        نخستین پرواز انفرادی ملکه تایلند با یک جنگنده
        https://www.youtube.com/shorts/diV-yRW13Mw
 
-    3. [2026-10-10 17:03:27]
+    8. [2026-10-10 17:03:27]
        ​جام جهان‌نما، شنبه ۱۸ مهر: ترور یک مقام ارشد انتظامی در جنوب‌شرقی ایران
        https://www.youtube.com/watch?v=fYnzxnzGwxM
 
-    4. [2026-10-10 16:47:39]
+    9. [2026-10-10 16:47:39]
        بلاتکلیفی تیم تراکتور در بغداد
        https://www.youtube.com/shorts/DFuae3KxncA
 
-    5. [2026-10-10 15:21:27]
+    10. [2026-10-10 15:21:27]
        زلزله مهیب در پاناما
        https://www.youtube.com/shorts/5F5aeRhqTOc
 
-    6. [2026-10-10 15:18:40]
+    11. [2026-10-10 15:18:40]
        افتتاح مجموعه «بارگاه شمس تبریزی» در شهر خوی
        https://www.youtube.com/shorts/KFtbQfxBzsY
 
-    7. [2026-10-10 15:14:10]
+    12. [2026-10-10 15:14:10]
        تظاهرات «حزب سوسک» در دهلی و برخورد پلیس
        https://www.youtube.com/shorts/i9sSbxMeN-Y
 
-    8. [2026-10-10 15:01:22]
+    13. [2026-10-10 15:01:22]
        اخبار ساعت شش عصر- شنبه ۱۸ مهر- جنگ یمن
        https://www.youtube.com/watch?v=a5hzILYMVMw
 
-    9. [2026-10-10 13:14:48]
+    14. [2026-10-10 13:14:48]
        کشته‌شدن معاون فرهنگی اجتماعی فراجای سیستان و بلوچستان
        https://www.youtube.com/shorts/o9pFBC7qtrs
 
-    10. [2026-10-10 12:54:26]
+    15. [2026-10-10 12:54:26]
        ویدیویی از هو کردن اسماعیل بقایی جریان اجرای نمایش «آرش»
        https://www.youtube.com/shorts/o8mJs7o_iN4
-
-    11. [2026-10-10 11:37:43]
-       افسردگی خندان یا پنهان چیست؟
-       https://www.youtube.com/shorts/ezTw4jHIKuw
-
-    12. [2026-10-10 09:45:23]
-       عملیات «طرد اقتصادی» ایران- گفتگو با معاون وزارت دارایی آمریکا
-       https://www.youtube.com/watch?v=8mR0RZyklRM
-
-    13. [2026-10-09 18:30:31]
-       آیا واقعا ممکن است یک نسل کامل، کم‌هوش‌تر شده باشد؟
-       https://www.youtube.com/watch?v=pFKX5viRi4c
-
-    14. [2026-10-09 16:59:57]
-       حکومت ایران از هوش مصنوعی چطور استفاده می‌کند؟ جام جهان‌نما جمعه ۱۷ مهر ۱۴۰۵
-       https://www.youtube.com/watch?v=nQiwJ17bflw
-
-    15. [2026-10-09 16:00:07]
-       هوشواره؛ تهدیدهای عامل‌های هوش مصنوعی
-       https://www.youtube.com/watch?v=jBAvBhxlwtk
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-11 10:21:04]
+    16. [2026-10-11 14:13:50]
+       کایا کالاس حمله حوثی‌ها به فرودگاه ریاض را تروریستی خواند
+       https://www.youtube.com/watch?v=_UDdaT4vgJ4
+
+    17. [2026-10-11 14:06:47]
+       ناصر کرمی: گزارشی مستند از انتشار مواد رادیواکتیو وجود ندارد
+       https://www.youtube.com/watch?v=KKB0Jn_AQ-s
+
+    18. [2026-10-11 13:27:51]
+       فقر، محرومیت آموزشی و قانون از عوامل گسترش کودک‌همسری در ایران
+       https://www.youtube.com/watch?v=pFNP-qT36E8
+
+    19. [2026-10-11 13:22:26]
+       برگزاری مراسم زادروز شهبانو فرح پهلوی در هامبورگ
+       https://www.youtube.com/watch?v=xvN_iRH3ZwA
+
+    20. [2026-10-11 13:04:52]
+       اخراج و صدور احکام انضباطی برای دانشجویان پس از اعتراضات ۱۴۰۴
+       https://www.youtube.com/watch?v=lh7tJfts0ak
+
+    21. [2026-10-11 12:42:58]
+       لیلا مروتی: دیپلماسی به بن‌بست رسیده و جمهوری اسلامی و اسرائیل آماده رویارویی نظامی‌اند
+       https://www.youtube.com/watch?v=s_406wLWVi4
+
+    22. [2026-10-11 12:32:46]
+       اخبار نیمروزی | یکشنبه ۱۹ مهر
+       https://www.youtube.com/watch?v=q2OeNrwo02A
+
+    23. [2026-10-11 11:36:06]
+       مروری بر روزنامه‌های ایران، یکشنبه ۱۹ مهر با مجتبی هاشمی
+       https://www.youtube.com/watch?v=p9j1L_kvCTM
+
+    24. [2026-10-11 11:33:13]
+       مهتاب قلی‌زاده: اختلال مرزی شبکه لجستیک ایران را با بحران روبه‌رو کرده است
+       https://www.youtube.com/watch?v=5YybPJrmftw
+
+    25. [2026-10-11 11:02:35]
+       معاون هماهنگ‌کننده ارتش: لازم باشد باز هم به دشمن ضربه می‌زنیم
+       https://www.youtube.com/shorts/qShrrHLLBXU
+
+    26. [2026-10-11 10:21:04]
        نهمین ماه کشتار دی‌ماه؛ پویش مادران جاویدنامان برای یاد فرزندانشان
        https://www.youtube.com/watch?v=2zbenFhNfSA
 
-    17. [2026-10-11 10:07:22]
+    27. [2026-10-11 10:07:22]
        ایمان آقایاری: احتمال حمله پیشدستانه جمهوری اسلامی هر روز پررنگ‌تر می‌شود
        https://www.youtube.com/watch?v=r9VkqWtOOqs
 
-    18. [2026-10-11 09:25:30]
+    28. [2026-10-11 09:25:30]
        کمالوندی: با دیپلماسی نشد، با جنگ به منافعمان می‌رسیم
        https://www.youtube.com/shorts/MHD9NjT5vfE
 
-    19. [2026-10-11 09:17:44]
+    29. [2026-10-11 09:17:44]
        جاری شدن سیلاب در منطقه گورخا در نپال
        https://www.youtube.com/shorts/Yu_-jUWLlDU
 
-    20. [2026-10-11 09:14:36]
+    30. [2026-10-11 09:14:36]
        تاکید وزیر دفاع ایتالیا بر ادامه حمایت از اوکراین
        https://www.youtube.com/watch?v=hKZ5Y9pw5Ko
-
-    21. [2026-10-11 09:08:46]
-       محمدجواد اکبرین: حوثی‌ها به آخر خط رسیده‌اند
-       https://www.youtube.com/watch?v=qJEPaX3wdrk
-
-    22. [2026-10-11 09:06:14]
-       عراقچی: حملات به تأسیسات هسته‌ای خطرات زیست‌محیطی ایجاد کرده است
-       https://www.youtube.com/shorts/65E-G6Mndvc
-
-    23. [2026-10-11 08:29:47]
-       شبکه ۱۱ اسرائیل: حمله مستقل اسرائیل به جمهوری اسلامی در حال بررسی است
-       https://www.youtube.com/watch?v=Yp2mDGW2EDU
-
-    24. [2026-10-11 08:28:06]
-       کاشت چهار درخت سرو در آمریکا به یاد چهار جاویدنام انقلاب ملی ایرانیان
-       https://www.youtube.com/watch?v=xLp5nzqo7o8
-
-    25. [2026-10-11 08:25:20]
-       حسین علیزاده: تهران برای جلوگیری از حمله آمریکا درباره غنی‌سازی انعطاف نشان داده است
-       https://www.youtube.com/watch?v=PMWLvsoVGM8
-
-    26. [2026-10-11 08:23:23]
-       هوشنگ حسن‌یاری: حملات سپاه به کشتی‌ها می‌تواند آمریکا را به پاسخ سنگین وادار کند
-       https://www.youtube.com/watch?v=2JngAY7RtbU
-
-    27. [2026-10-11 07:11:29]
-       اخبار بامدادی | یکشنبه ۱۹ مهر
-       https://www.youtube.com/watch?v=1JCcyMtlPYA
-
-    28. [2026-10-11 07:08:33]
-       حمله حوثی‌ها به فرودگاه ریاض ۱۲ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت
-       https://www.youtube.com/watch?v=BLS2rQ3o2X8
-
-    29. [2026-10-11 04:13:04]
-       محمد قائدی: ترامپ ممکن است برای کنار رفتن زلنسکی به اوکراین فشار بیاورد
-       https://www.youtube.com/watch?v=4GZpB-kr6pk
-
-    30. [2026-10-11 04:06:04]
-       آمریکا به‌دنبال شناسایی و مصادره یک میلیارد دلار رمزارز مرتبط با جمهوری اسلامی است
-       https://www.youtube.com/watch?v=Rzi2kCxBuOI
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | یکشنبه ۱۹ مهر
+       https://soundcloud.com/iranintl/ojecpy21keng
+
+    32. [Unknown]
        اخبار بامدادی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/pm8fzppycrpl
 
-    32. [Unknown]
+    33. [Unknown]
        سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق
        https://soundcloud.com/iranintl/mk1jllh4a5ho
 
-    33. [Unknown]
+    34. [Unknown]
        آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!
        https://soundcloud.com/iranintl/tr6fp2byoslh
 
-    34. [Unknown]
+    35. [Unknown]
        تیتراول با نیوشا صارمی: پوتین پیام تهران را به ترامپ رساند؛نشانه‌های تازه ازآمادگی آمریکا برای حمله
        https://soundcloud.com/iranintl/oxsl07eot9d5
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار شبانگاهی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/citvwiejnj2j
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/ga3kjs8vp0px
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/hsvmg0e7dlqc
 
-    38. [Unknown]
+    39. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
        https://soundcloud.com/iranintl/giatshktxyyu
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/zw7huz9w4mbr
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار نیمروزی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pdztppo3jev8
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار بامدادی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pgquu3fgvflk
 
-    42. [Unknown]
+    43. [Unknown]
        برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله به ایران را داشتید، چه می‌گفتید؟
        https://soundcloud.com/iranintl/dap53uominaw
 
-    43. [Unknown]
+    44. [Unknown]
        ۲۴ با فرداد فرحزاد:چرخش دوباره ترامپ، قبل از انتخابات میان‌دوره‌ای حمله نمی‌کنیم.
        https://soundcloud.com/iranintl/1sbcvdrk6dos
 
-    44. [Unknown]
+    45. [Unknown]
        دومینو: خاومیانه در یک قدمی جنگی دیگر
        https://soundcloud.com/iranintl/rv6qdyzmfdiq
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/wxwq3y30yg54
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی |‌ پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/urwzcjhmzj63
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار بامدادی |‌ پنجشنبه ۱۶ مهر
        https://soundcloud.com/iranintl/f5j2tohravaz
 
-    48. [Unknown]
+    49. [Unknown]
        سیاست با مراد ویسی: سرنوشت مرگبار رجزخوانان علیه اسرائیل
        https://soundcloud.com/iranintl/pqywf350dn9s
 
-    49. [Unknown]
+    50. [Unknown]
        برنامه با کامبیز حسینی | امشب در تریبون آزاد؛ روایت شما از سه سال پس از ۷ اکتبر
        https://soundcloud.com/iranintl/w9niupic6eho
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: سومین سالگرد حمله هفتم اکتبر؛ سرآغاز فروپاشی رویای جمهوری اسلامی
-       https://soundcloud.com/iranintl/ihzwishu35r1
 
 ----------------------------------------
 
