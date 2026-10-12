@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-12T15:01:01.911059+00:00
-Generated (Iran): 2026-10-12T18:31:01.911073+00:00
+Generated (UTC):  2026-10-12T19:01:04.047304+00:00
+Generated (Iran): 2026-10-12T22:31:04.047322+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-12 14:00:00]
+    1. [2026-10-12 18:00:00]
+       رهگیری موشک‌های بالستیک حوثی‌های یمن در آسمان ریاض - ۶۰ دقیقه دوشنبه ۲۰ مهر
+       https://www.youtube.com/watch?v=Xgup_qv5-xw
+
+    2. [2026-10-12 17:00:13]
+       جام جهان‌نما ۲۰ مهر: افزایش ۵۰۰ هزار تومانی کالابرگ، اما فقط برای ۴۰ میلیون ایرانی
+       https://www.youtube.com/watch?v=tf6gzeb0cL8
+
+    3. [2026-10-12 15:01:30]
        اخبار ساعت ۶ عصر دوشنبه ۲۰ مهر: لغو بیشتر پروازهای ورودی و خروجی به عربستان با ادامه حمله حوثی‌ها
        https://www.youtube.com/watch?v=2pg7kCX5prE
 
-    2. [2026-10-12 13:00:15]
+    4. [2026-10-12 13:00:15]
        تنها مسابقه در جهان که زنان همیشه از مردان می‌برند
        https://www.youtube.com/shorts/5GznuFnlDyE
 
-    3. [2026-10-12 11:55:03]
+    5. [2026-10-12 11:55:03]
        فرار معجزه‌آسای مردی از حمله پهبادی روسیه به اوکراین
        https://www.youtube.com/shorts/vb4s8Wydf6w
 
-    4. [2026-10-11 21:13:43]
+    6. [2026-10-11 21:13:43]
        حوثی‌ها خاورمیانه را به کدام سو می‌برند؟ حسین البخیتی، تحلیلگر سیاسی نزدیک به حوثی‌های یمن
        https://www.youtube.com/watch?v=tNA5uPm88CM
 
-    5. [2026-10-11 19:32:12]
+    7. [2026-10-11 19:32:12]
        حمله به فرودگاه ریاض و اوضاع خاورمیانه در گفتگو با رئیس سابق دفتر سفارت بریتانیا در بنغازی
        https://www.youtube.com/watch?v=lFg1c4xcsf4
 
-    6. [2026-10-11 19:31:13]
+    8. [2026-10-11 19:31:13]
        ۶۰‌دقیقه یکشنبه ۱۹ مهر: حوثی‌ها مسئولیت حمله به فرودگاه ریاض و تاسیسات آرامکو را برعهده گرفتند
        https://www.youtube.com/watch?v=cx733mWLn9g
 
-    7. [2026-10-11 17:02:22]
+    9. [2026-10-11 17:02:22]
        چه کسی می‌خواهد پای عربستان را به جنگ تمام عیار منطقه باز کند؟ جام جهان‌نما یکشنبه ۱۹ مهر
        https://www.youtube.com/watch?v=WjmuAvGh0Ks
 
-    8. [2026-10-11 15:29:20]
+    10. [2026-10-11 15:29:20]
        سیل در مرکز نپال خانه‌ها و پل‌ها را با خود برد
        https://www.youtube.com/shorts/e8v2Q3irx6c
 
-    9. [2026-10-11 15:00:29]
+    11. [2026-10-11 15:00:29]
        اخبار ساعت شش عصر یکشنبه ۱۹ مهر: پیامدهای مرگبار به فرودگاه ریاض
        https://www.youtube.com/watch?v=4jin0PwODeY
 
-    10. [2026-10-11 13:48:38]
+    12. [2026-10-11 13:48:38]
        سرخط خبرها، یکشنبه ۱۹ مهر
        https://www.youtube.com/shorts/fIOAJqoxrbM
 
-    11. [2026-10-11 13:36:59]
+    13. [2026-10-11 13:36:59]
        نجات ۲۲ نفر از خدمه نفت‌کش «جم ۲» بعد از انفجار و آتش‌سوزی
        https://www.youtube.com/shorts/urEsCmTg8Rk
 
-    12. [2026-10-11 12:17:30]
+    14. [2026-10-11 12:17:30]
        نجات مار نادر دوسر در هند
        https://www.youtube.com/shorts/BnfiBt9TWMU
 
-    13. [2026-10-11 11:40:46]
+    15. [2026-10-11 11:40:46]
        «یک کشته و دو مفقود» در پی سیل استان گلستان
        https://www.youtube.com/shorts/MSSaNrP9cC4
-
-    14. [2026-10-10 19:31:30]
-       شصت دقیقه شنبه۱۸ مهر- چرا مارکو روبیو پای هخامنشیان را به جنگ آمریکا و ایران کشاند؟
-       https://www.youtube.com/watch?v=aNOnRXmMF7Y
-
-    15. [2026-10-10 17:09:22]
-       نخستین پرواز انفرادی ملکه تایلند با یک جنگنده
-       https://www.youtube.com/shorts/diV-yRW13Mw
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-12 14:29:31]
+    16. [2026-10-12 18:43:15]
+       شکست کودتای پرهزینه سپاه در لبنان و یمن
+       https://www.youtube.com/shorts/rKEbEhQKAxY
+
+    17. [2026-10-12 17:41:22]
+       تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
+       https://www.youtube.com/watch?v=JHdWO3fzODs
+
+    18. [2026-10-12 17:40:15]
+       نخست‌وزیر بریتانیا: طرح حمله به پایگاه فرفورد با هدایت سپاه پاسداران هماهنگ شده است
+       https://www.youtube.com/shorts/IruKwQStww4
+
+    19. [2026-10-12 16:27:22]
+       اقتصاد و بازار: صفر‌ شدن فروش نفت و بحران سوخت در ایران؛ فساد ساختاری در جمهوری اسلامی
+       https://www.youtube.com/watch?v=001ZJR8PatI
+
+    20. [2026-10-12 16:22:50]
+       مهدی نخل احمدی: حکومت برای توجیه ناکامی در سیستان و بلوچستان روایت‌سازی امنیتی می‌کند
+       https://www.youtube.com/watch?v=_fjP-1UwpB0
+
+    21. [2026-10-12 16:00:50]
+       اخبار شبانگاهی | دوشنبه ۲۰ مهر
+       https://www.youtube.com/watch?v=iG7mdLhyPLw
+
+    22. [2026-10-12 15:42:40]
+       نمایندگان فوتبال ایران در آسیا زیر فشار محدودیت پرواز و سلب میزبانی
+       https://www.youtube.com/watch?v=N-fk1PsJ32A
+
+    23. [2026-10-12 15:30:22]
+       گزارش روز با مجتبا پورمحسن: گام آخر حمله؛ انتشار پوستر رسمی ارتش آمریکا برای جنگ با ایران
+       https://www.youtube.com/watch?v=loxvBcG8FtA
+
+    24. [2026-10-12 15:03:58]
+       اختلال در اجرای طرح افزایش اعتبار کالابرگ در ایران
+       https://www.youtube.com/watch?v=ySjXa0Y9eHU
+
+    25. [2026-10-12 14:29:31]
        واکنش شاهزاده رضا پهلوی به حملات حوثی‌ها به فرودگاه ریاض
        https://www.youtube.com/watch?v=lhEDltnwaf8
 
-    17. [2026-10-12 14:23:23]
+    26. [2026-10-12 14:23:23]
        امانی: حادثه منجر به کشته شدن رئیسی و امیرعبداللهیان مشکوک بود
        https://www.youtube.com/shorts/MgvmS8CpTFk
 
-    18. [2026-10-12 14:09:20]
+    27. [2026-10-12 14:09:20]
        واکنش‌ها به پیشنهاد مدیرمسئول کیهان درباره قطع کابل‌های فیبر نوری در خلیج فارس
        https://www.youtube.com/watch?v=H0FwHhq2URY
 
-    19. [2026-10-12 13:21:11]
+    28. [2026-10-12 13:21:11]
        ادامه رسیدگی به پرونده سه ایرانی متهم به اقدام امنیتی علیه مجتبی پورمحسن و کامبیز حسینی
        https://www.youtube.com/watch?v=yalw8lvsnng
 
-    20. [2026-10-12 12:45:38]
-       بقایی: حاضرجوابی من برای دشمن است نه هم‌میهنانم
+    29. [2026-10-12 12:45:38]
+       واکنش سخنگوی وزارت امور خارجه به هو شدنش از سوی مردم
        https://www.youtube.com/shorts/wqNcaMnF7ao
 
-    21. [2026-10-12 12:32:26]
+    30. [2026-10-12 12:32:26]
        گزارش‌های مردمی از بحران معیشتی معلمان در آغاز سال تحصیلی
        https://www.youtube.com/watch?v=1jpuw57-XtQ
-
-    22. [2026-10-12 12:07:31]
-       روایت میلاد محمدی از کشته شدن برادرش در خیزش زن، زندگی، آزادی و فشارهای امنیتی بر خانواده
-       https://www.youtube.com/watch?v=FRgnj87QF-I
-
-    23. [2026-10-12 12:00:05]
-       اخبار نیمروزی | دوشنبه ۲۰ مهر
-       https://www.youtube.com/watch?v=2Z3riZL7IWk
-
-    24. [2026-10-12 11:54:12]
-       گزارش‌ها از تلاش جمهوری اسلامی برای کشتن رییس‌جمهور و نخست‌وزیر لبنان
-       https://www.youtube.com/watch?v=S4ADXXqhqLY
-
-    25. [2026-10-12 11:18:57]
-       گفت‌وگو با دبیرکل تحقیق عفو بین‌الملل درباره سرکوب خانواده‌های دادخواه
-       https://www.youtube.com/watch?v=Vq6_FLIV8UI
-
-    26. [2026-10-12 11:16:53]
-       مروری بر روزنامه‌های ایران، دوشنبه ۲۰ مهر با مجتبی هاشمی
-       https://www.youtube.com/watch?v=cbRB0J4XLKc
-
-    27. [2026-10-12 11:08:47]
-       سیلاب شدید پلی را در منطقه گورخای نپال با خود برد
-       https://www.youtube.com/shorts/LY8f7ohgiGQ
-
-    28. [2026-10-12 11:01:46]
-       سرکوب خانواده‌های دادخواه جنبش مهسا
-       https://www.youtube.com/watch?v=A_6q1U8bCVc
-
-    29. [2026-10-12 10:59:30]
-       اذعان مسعود پزشکیان به فساد ساختاری در جمهوری اسلامی
-       https://www.youtube.com/watch?v=Ub8Oy_SfG1A
-
-    30. [2026-10-12 10:53:32]
-       یک نفتکش پس از حمله در نزدیکی تنگه هرمز آتش گرفت؛ دو ملوان مفقود شدند
-       https://www.youtube.com/shorts/zpNRoWtksP0
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
+       https://soundcloud.com/iranintl/2luctekgjws7
+
+    32. [Unknown]
+       اخبار شبانگاهی | دوشنبه ۲۰ مهر
+       https://soundcloud.com/iranintl/1opqvuiftvey
+
+    33. [Unknown]
        اخبار نیمروزی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/ghvr8wg17nrn
 
-    32. [Unknown]
+    34. [Unknown]
        اخبار بامدادی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/inubdn8uso6i
 
-    33. [Unknown]
+    35. [Unknown]
        سیاست با مراد ویسی: شمارش معکوس برای جنگ بزرگ در خاورمیانه
        https://soundcloud.com/iranintl/zkdf75c7mbrv
 
-    34. [Unknown]
+    36. [Unknown]
        چشم‌انداز: جنگ سوم ایران و آمریکا؛ دورنمای سقوط جمهوری اسلامی
        https://soundcloud.com/iranintl/qf2qkb2jrlgt
 
-    35. [Unknown]
+    37. [Unknown]
        تیتراول با نیوشا صارمی:. ۱۲ کشته در ریاض؛ آیا حملات حوثی‌ها پای ایران را به جنگ باز می‌کند؟
        https://soundcloud.com/iranintl/j6gnaojshrgr
 
-    36. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/wnkjpprh5w1o
 
-    37. [Unknown]
+    39. [Unknown]
        اخبار نیمروزی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/ojecpy21keng
 
-    38. [Unknown]
+    40. [Unknown]
        اخبار بامدادی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/pm8fzppycrpl
 
-    39. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق
        https://soundcloud.com/iranintl/mk1jllh4a5ho
 
-    40. [Unknown]
+    42. [Unknown]
        آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!
        https://soundcloud.com/iranintl/tr6fp2byoslh
 
-    41. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: پوتین پیام تهران را به ترامپ رساند؛نشانه‌های تازه ازآمادگی آمریکا برای حمله
        https://soundcloud.com/iranintl/oxsl07eot9d5
 
-    42. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/citvwiejnj2j
 
-    43. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/ga3kjs8vp0px
 
-    44. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/hsvmg0e7dlqc
 
-    45. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
        https://soundcloud.com/iranintl/giatshktxyyu
 
-    46. [Unknown]
+    48. [Unknown]
        اخبار شبانگاهی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/zw7huz9w4mbr
 
-    47. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pdztppo3jev8
 
-    48. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | جمعه ۱۷ مهر
        https://soundcloud.com/iranintl/pgquu3fgvflk
-
-    49. [Unknown]
-       برنامه با کامبیز حسینی | اگر فقط فرصت گفتن یک جمله به ایران را داشتید، چه می‌گفتید؟
-       https://soundcloud.com/iranintl/dap53uominaw
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد:چرخش دوباره ترامپ، قبل از انتخابات میان‌دوره‌ای حمله نمی‌کنیم.
-       https://soundcloud.com/iranintl/1sbcvdrk6dos
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
+       https://soundcloud.com/bbcpersian/eibj7xtmt6mn
+
+    52. [Unknown]
        جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/wwkpzfaiwruj
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/rndpj72hvy9y
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/swmt3gl9dmgh
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/vdxllmratlqu
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6hxjyonsexu0
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/r9w1jubcdswh
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/d1dqyvdknspf
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyznhsmcixdq
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۳ اکتبر ۲۰۲۶ / ۱۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/otqjbsvv6kav
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۲ اکتبر ۲۰۲۶ / ۱۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/afb8purmaqkd
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/p9pc60cebnwx
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/qsghtn33ecp9
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/cvkxev1f2x7d
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۲۶ سپتامبر ۲۰۲۶ / ۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/fbuzzy7ypsnn
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۲۵ سپتامبر ۲۰۲۶ / ۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/ii72ixfjdepp
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۲۴ سپتامبر ۲۰۲۶ / ۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/iqqtrb7mcfon
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۲۳ سپتامبر ۲۰۲۶ / ۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/jutnxmdwdxoe
-
-    70. [Unknown]
-       جام جهان‌نما ۲۲ سپتامبر ۲۰۲۶ / ۳۱ شهریور ۱۴۰۵
-       https://soundcloud.com/bbcpersian/p9dpo3e4xw23
 
 ----------------------------------------
 
