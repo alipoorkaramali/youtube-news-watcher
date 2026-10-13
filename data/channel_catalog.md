@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-12T19:01:04.047304+00:00
-Generated (Iran): 2026-10-12T22:31:04.047322+00:00
+Generated (UTC):  2026-10-13T07:01:05.558215+00:00
+Generated (Iran): 2026-10-13T10:31:05.558230+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-12 18:00:00]
+    1. [2026-10-12 19:31:17]
        رهگیری موشک‌های بالستیک حوثی‌های یمن در آسمان ریاض - ۶۰ دقیقه دوشنبه ۲۰ مهر
        https://www.youtube.com/watch?v=Xgup_qv5-xw
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-12 18:43:15]
-       شکست کودتای پرهزینه سپاه در لبنان و یمن
-       https://www.youtube.com/shorts/rKEbEhQKAxY
+    16. [2026-10-13 05:17:05]
+       اخبار بامدادی | سه‌شنبه ۲۱ مهر
+       https://www.youtube.com/watch?v=0DQIuoabgsE
 
-    17. [2026-10-12 17:41:22]
-       تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
-       https://www.youtube.com/watch?v=JHdWO3fzODs
+    17. [2026-10-13 04:28:56]
+       بازرسی خانه ایلهان عمر، نماینده دموکرات آمریکا در ارتباط با تحقیقات مدارک مهاجرتی
+       https://www.youtube.com/watch?v=pef_MKGey0U
 
-    18. [2026-10-12 17:40:15]
-       نخست‌وزیر بریتانیا: طرح حمله به پایگاه فرفورد با هدایت سپاه پاسداران هماهنگ شده است
-       https://www.youtube.com/shorts/IruKwQStww4
+    18. [2026-10-13 04:27:11]
+       شهرام خلدی: احتمال همکاری نظامی اسرائیل و عربستان علیه حوثی‌ها وجود دارد
+       https://www.youtube.com/watch?v=IrM-4qBj3dI
 
-    19. [2026-10-12 16:27:22]
-       اقتصاد و بازار: صفر‌ شدن فروش نفت و بحران سوخت در ایران؛ فساد ساختاری در جمهوری اسلامی
-       https://www.youtube.com/watch?v=001ZJR8PatI
+    19. [2026-10-13 04:23:20]
+       صادق بیگدلی: ترامپ با حفظ فشار نظامی و اقتصادی به‌دنبال تغییر موازنه قدرت در تهران است
+       https://www.youtube.com/watch?v=tyl_FwqN1Vo
 
-    20. [2026-10-12 16:22:50]
-       مهدی نخل احمدی: حکومت برای توجیه ناکامی در سیستان و بلوچستان روایت‌سازی امنیتی می‌کند
-       https://www.youtube.com/watch?v=_fjP-1UwpB0
+    20. [2026-10-13 04:18:57]
+       آیدین پناهی: کاهش تزریق گاز می‌تواند تولید نفت ایران را برای سال‌ها کاهش دهد
+       https://www.youtube.com/watch?v=TA4vKrZOwGM
 
-    21. [2026-10-12 16:00:50]
-       اخبار شبانگاهی | دوشنبه ۲۰ مهر
-       https://www.youtube.com/watch?v=iG7mdLhyPLw
+    21. [2026-10-13 04:11:51]
+       کامیار بهرنگ: دعوای جلیلی و پزشکیان بر سر میراث خامنه‌ای است
+       https://www.youtube.com/watch?v=gpPsI8E7qTA
 
-    22. [2026-10-12 15:42:40]
-       نمایندگان فوتبال ایران در آسیا زیر فشار محدودیت پرواز و سلب میزبانی
-       https://www.youtube.com/watch?v=N-fk1PsJ32A
+    22. [2026-10-13 04:08:05]
+       احمد باطبی: ضعف تجهیزات و نفوذ انسانی امنیت جمهوری اسلامی را آسیب‌پذیر کرده است
+       https://www.youtube.com/watch?v=BanU2pvuB0s
 
-    23. [2026-10-12 15:30:22]
-       گزارش روز با مجتبا پورمحسن: گام آخر حمله؛ انتشار پوستر رسمی ارتش آمریکا برای جنگ با ایران
-       https://www.youtube.com/watch?v=loxvBcG8FtA
+    23. [2026-10-13 03:56:31]
+       افزایش اختلاف تهران و واشینگتن همزمان با ادامه بحث توافق
+       https://www.youtube.com/watch?v=Eny0JwdgStc
 
-    24. [2026-10-12 15:03:58]
-       اختلال در اجرای طرح افزایش اعتبار کالابرگ در ایران
-       https://www.youtube.com/watch?v=ySjXa0Y9eHU
+    24. [2026-10-13 03:44:46]
+       ساختار مخفی جمهوری اسلامی برای ربایش و ترور مخالفان
+       https://www.youtube.com/watch?v=A5-0rNTCUFg
 
-    25. [2026-10-12 14:29:31]
-       واکنش شاهزاده رضا پهلوی به حملات حوثی‌ها به فرودگاه ریاض
-       https://www.youtube.com/watch?v=lhEDltnwaf8
+    25. [2026-10-13 03:43:40]
+       نخست‌وزیر بریتانیا: طرح حمله به پایگاه فرفورد به دستور سپاه انجام شد
+       https://www.youtube.com/watch?v=XKhHqiXYN1s
 
-    26. [2026-10-12 14:23:23]
-       امانی: حادثه منجر به کشته شدن رئیسی و امیرعبداللهیان مشکوک بود
-       https://www.youtube.com/shorts/MgvmS8CpTFk
+    26. [2026-10-12 22:51:11]
+       مهدی صارمی‌فر: دوربین‌های شهری در حملات به ایران نقش پیجرها در حمله به حزب‌الله را داشتند
+       https://www.youtube.com/watch?v=UXwZrXHccv8
 
-    27. [2026-10-12 14:09:20]
-       واکنش‌ها به پیشنهاد مدیرمسئول کیهان درباره قطع کابل‌های فیبر نوری در خلیج فارس
-       https://www.youtube.com/watch?v=H0FwHhq2URY
+    27. [2026-10-12 22:49:42]
+       امیر گیتی: جمهوری اسلامی آخرین برگ منطقه‌ای خود را با حوثی‌ها بازی می‌کند
+       https://www.youtube.com/watch?v=wFVJDmjopDo
 
-    28. [2026-10-12 13:21:11]
-       ادامه رسیدگی به پرونده سه ایرانی متهم به اقدام امنیتی علیه مجتبی پورمحسن و کامبیز حسینی
-       https://www.youtube.com/watch?v=yalw8lvsnng
+    28. [2026-10-12 22:15:27]
+       ایوار فرهادی: پرونده فرفورد همکاری امنیتی لندن و واشینگتن علیه تهران را افزایش می‌دهد
+       https://www.youtube.com/watch?v=yMtmHR6azdU
 
-    29. [2026-10-12 12:45:38]
-       واکنش سخنگوی وزارت امور خارجه به هو شدنش از سوی مردم
-       https://www.youtube.com/shorts/wqNcaMnF7ao
+    29. [2026-10-12 22:04:54]
+       سیاست با مراد ویسی: روایت داغداران بعد از جنایت
+       https://www.youtube.com/watch?v=t6hXy6ClWPM
 
-    30. [2026-10-12 12:32:26]
-       گزارش‌های مردمی از بحران معیشتی معلمان در آغاز سال تحصیلی
-       https://www.youtube.com/watch?v=1jpuw57-XtQ
+    30. [2026-10-12 22:00:35]
+       سرنگونی جمهوری اسلامی هدف جاوید‌نام‌ها
+       https://www.youtube.com/shorts/2eP8j7rxfQo
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | سه‌شنبه ۲۱ مهر
+       https://soundcloud.com/iranintl/grga1lrwteml
+
+    32. [Unknown]
+       سیاست با مراد ویسی: روایت داغداران بعد از جنایت
+       https://soundcloud.com/iranintl/k3ycv0epmqu5
+
+    33. [Unknown]
+       برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت اول
+       https://soundcloud.com/iranintl/7lb0bvobiwpu
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: تقابل بریتانیا با جمهوری اسلامی؛ کشف رد پای سپاه در یک توطئه امنیتی
+       https://soundcloud.com/iranintl/cplpnuluueug
+
+    35. [Unknown]
+       چشم‌انداز: شکست کودتای پرهزینه سپاه در لبنان و یمن
+       https://soundcloud.com/iranintl/acckz7ahx0f9
+
+    36. [Unknown]
        تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
        https://soundcloud.com/iranintl/2luctekgjws7
 
-    32. [Unknown]
+    37. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/1opqvuiftvey
 
-    33. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/ghvr8wg17nrn
 
-    34. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/inubdn8uso6i
 
-    35. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: شمارش معکوس برای جنگ بزرگ در خاورمیانه
        https://soundcloud.com/iranintl/zkdf75c7mbrv
 
-    36. [Unknown]
+    41. [Unknown]
        چشم‌انداز: جنگ سوم ایران و آمریکا؛ دورنمای سقوط جمهوری اسلامی
        https://soundcloud.com/iranintl/qf2qkb2jrlgt
 
-    37. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی:. ۱۲ کشته در ریاض؛ آیا حملات حوثی‌ها پای ایران را به جنگ باز می‌کند؟
        https://soundcloud.com/iranintl/j6gnaojshrgr
 
-    38. [Unknown]
+    43. [Unknown]
        اخبار شبانگاهی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/wnkjpprh5w1o
 
-    39. [Unknown]
+    44. [Unknown]
        اخبار نیمروزی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/ojecpy21keng
 
-    40. [Unknown]
+    45. [Unknown]
        اخبار بامدادی | یکشنبه ۱۹ مهر
        https://soundcloud.com/iranintl/pm8fzppycrpl
 
-    41. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق
        https://soundcloud.com/iranintl/mk1jllh4a5ho
 
-    42. [Unknown]
+    47. [Unknown]
        آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!
        https://soundcloud.com/iranintl/tr6fp2byoslh
 
-    43. [Unknown]
+    48. [Unknown]
        تیتراول با نیوشا صارمی: پوتین پیام تهران را به ترامپ رساند؛نشانه‌های تازه ازآمادگی آمریکا برای حمله
        https://soundcloud.com/iranintl/oxsl07eot9d5
 
-    44. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/citvwiejnj2j
 
-    45. [Unknown]
+    50. [Unknown]
        اخبار نیمروزی | شنبه ۱۸ مهر
        https://soundcloud.com/iranintl/ga3kjs8vp0px
-
-    46. [Unknown]
-       اخبار بامدادی | شنبه ۱۸ مهر
-       https://soundcloud.com/iranintl/hsvmg0e7dlqc
-
-    47. [Unknown]
-       ۲۴ با فرداد فرحزاد: ترامپ: حمله به جمهوری‌اسلامی, آمریکا را از تهدید اتمی نجات داد.
-       https://soundcloud.com/iranintl/giatshktxyyu
-
-    48. [Unknown]
-       اخبار شبانگاهی | جمعه ۱۷ مهر
-       https://soundcloud.com/iranintl/zw7huz9w4mbr
-
-    49. [Unknown]
-       اخبار نیمروزی | جمعه ۱۷ مهر
-       https://soundcloud.com/iranintl/pdztppo3jev8
-
-    50. [Unknown]
-       اخبار بامدادی | جمعه ۱۷ مهر
-       https://soundcloud.com/iranintl/pgquu3fgvflk
 
 ----------------------------------------
 
