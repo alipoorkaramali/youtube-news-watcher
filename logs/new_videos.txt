@@ -5,3 +5,5 @@
 2026-10-14T15:15:36.852754+00:00 | youtube | اخبار ساعت شش عصر- چهارشنبه ۲۲ مهر- خسارت به آرامکو؛ تهدید تازه حوثی‌ها | 14 minutes ago | https://www.youtube.com/watch?v=pSRmt3AjzUY
 2026-10-14T15:30:47.202286+00:00 | youtube | اخبار شبانگاهی | چهارشنبه ۲۲ مهر | 7 minutes ago | https://www.youtube.com/watch?v=Y8GfRVIIi-8
 2026-10-14T16:30:46.316764+00:00 | soundcloud | اخبار شبانگاهی | چهارشنبه ۲۲ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/ex4tkixhtey1
+2026-10-14T19:30:48.317683+00:00 | youtube | احتمال جنگ ایران و آمریکا پیش از انتخابات بیشتر شده؟ - ۶۰ دقیقه چهارشنبه ۲۲ مهر | 1 hours ago | https://www.youtube.com/watch?v=X6xtaGqrXbo
+2026-10-14T19:30:51.165967+00:00 | soundcloud | جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/3leaz3mmtrle
