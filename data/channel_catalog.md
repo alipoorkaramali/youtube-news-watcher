@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-13T19:01:09.017591+00:00
-Generated (Iran): 2026-10-13T22:31:09.017607+00:00
+Generated (UTC):  2026-10-14T07:01:01.710366+00:00
+Generated (Iran): 2026-10-14T10:31:01.710389+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-13 18:00:00]
+    1. [2026-10-13 19:33:16]
+       آیا جنگی دیگر در راه است؟ گفتگو با بابک دربیکی
+       https://www.youtube.com/watch?v=V6SGafK7nLI
+
+    2. [2026-10-13 19:31:49]
        ترامپ: در کشتن رهبران ایران شاید زیاده‌روی کرده باشیم - ۶۰ دقیقه سه‌شنبه ۲۱ مهر
        https://www.youtube.com/watch?v=BzwsUs7-Idk
 
-    2. [2026-10-13 18:03:31]
+    3. [2026-10-13 18:03:31]
        بحران‌های در هم تنیده جهانی، از روسیه و ایران تا یمن وعربستان -صفحه ۲
        https://www.youtube.com/watch?v=k_RSDAhawas
 
-    3. [2026-10-13 17:00:55]
+    4. [2026-10-13 17:00:55]
        ترامپ برای مذاکره دنبال چه کسی در تهران است؟ جام جهان‌نما، سه‌شنبه ۲۱ مهر
        https://www.youtube.com/watch?v=SjogylTjq9o
 
-    4. [2026-10-13 15:18:08]
+    5. [2026-10-13 15:18:08]
        طوفان ریچل کالیفرنیای جنوبی
        https://www.youtube.com/shorts/yVYD0R7r0wo
 
-    5. [2026-10-13 15:00:24]
+    6. [2026-10-13 15:00:24]
        اخبار ساعت شش عصر سه شنبه ۲۱ مهر- سایه جنگ بر مذاکرات ایران و آمریکا؛ سردرگمی تازه ترامپ
        https://www.youtube.com/watch?v=Ggy8_Xt-YRs
 
-    6. [2026-10-13 14:40:04]
+    7. [2026-10-13 14:40:04]
        سرخط خبرها، سه‌شنبه ۲۱ مهر ۱۴۰۵
        https://www.youtube.com/shorts/D1rCW6Oxgc0
 
-    7. [2026-10-13 08:33:36]
+    8. [2026-10-13 08:33:36]
        عملیات نجات بازماندگان سیل نپال با هلی کوپتر
        https://www.youtube.com/shorts/nLg6JdqND6M
 
-    8. [2026-10-13 08:30:01]
+    9. [2026-10-13 08:30:01]
        اعتصاب دانشجویان دانشگاه بوعلی‌سینا در پی «مسمومیت»
        https://www.youtube.com/shorts/T7TmaCsAqaU
 
-    9. [2026-10-12 19:31:17]
+    10. [2026-10-12 19:31:17]
        ۶۰ دقیقه دوشنبه ۲۰ مهر- رهگیری موشک‌های بالستیک حوثی‌های یمن در آسمان ریاض
        https://www.youtube.com/watch?v=Xgup_qv5-xw
 
-    10. [2026-10-12 17:00:13]
+    11. [2026-10-12 17:00:13]
        جام جهان‌نما ۲۰ مهر: افزایش ۵۰۰ هزار تومانی کالابرگ، اما فقط برای ۴۰ میلیون ایرانی
        https://www.youtube.com/watch?v=tf6gzeb0cL8
 
-    11. [2026-10-12 15:01:30]
+    12. [2026-10-12 15:01:30]
        اخبار ساعت ۶ عصر دوشنبه ۲۰ مهر: لغو بیشتر پروازهای ورودی و خروجی به عربستان با ادامه حمله حوثی‌ها
        https://www.youtube.com/watch?v=2pg7kCX5prE
 
-    12. [2026-10-12 13:00:15]
+    13. [2026-10-12 13:00:15]
        تنها مسابقه در جهان که زنان همیشه از مردان می‌برند
        https://www.youtube.com/shorts/5GznuFnlDyE
 
-    13. [2026-10-12 11:55:03]
+    14. [2026-10-12 11:55:03]
        فرار معجزه‌آسای مردی از حمله پهبادی روسیه به اوکراین
        https://www.youtube.com/shorts/vb4s8Wydf6w
 
-    14. [2026-10-11 21:13:43]
+    15. [2026-10-11 21:13:43]
        حوثی‌ها خاورمیانه را به کدام سو می‌برند؟ حسین البخیتی، تحلیلگر سیاسی نزدیک به حوثی‌های یمن
        https://www.youtube.com/watch?v=tNA5uPm88CM
-
-    15. [2026-10-11 19:32:12]
-       حمله به فرودگاه ریاض و اوضاع خاورمیانه در گفتگو با رئیس سابق دفتر سفارت بریتانیا در بنغازی
-       https://www.youtube.com/watch?v=lFg1c4xcsf4
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-13 18:19:30]
-       اولتیماتوم سیاسی و هشدار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
-       https://www.youtube.com/shorts/YthlxbkR7Ys
+    16. [2026-10-14 05:32:46]
+       آر جی میته، بازیگر سریال «بریکینگ بد»، در ۳۴ سالگی درگذشت
+       https://www.youtube.com/watch?v=l-Rr63MKaGY
 
-    17. [2026-10-13 17:43:04]
-       تیتراول با نیوشا صارمی: هشدار تهران به منطقه درباره حملات زمینی؛ ترامپ از تصمیم قریب‌الوقوع خبر داد
-       https://www.youtube.com/watch?v=2WXpzqJ4e00
+    17. [2026-10-14 04:53:58]
+       اخبار بامدادی | چهارشنبه ۲۲ مهر
+       https://www.youtube.com/watch?v=YgnUBpqR9NM
 
-    18. [2026-10-13 16:56:34]
-       دونالد ترامپ: درباره ایران خیلی زود تصمیم خواهیم گرفت
-       https://www.youtube.com/shorts/e7G8-OzeSJM
+    18. [2026-10-14 04:36:59]
+       ترامپ: به‌زودی درباره گام بعدی در قبال جمهوری اسلامی تصمیم می‌گیریم
+       https://www.youtube.com/shorts/0k9TYpl9oFs
 
-    19. [2026-10-13 16:41:59]
-       اقتصاد و بازار: رکود تورمی بی‌سابقه‌ اقتصاد ایران؛ مسیر متفاوت نرخ دولتی و آزاد ارز
-       https://www.youtube.com/watch?v=2fxcnfptUvU
+    19. [2026-10-14 04:31:42]
+       نوید محبی: احتمال حملات سنگین آمریکا و اسرائیل به جمهوری اسلامی افزایش یافته است
+       https://www.youtube.com/watch?v=Etd6gZgihCc
 
-    20. [2026-10-13 16:31:56]
-       کاهش مصرف غذاهای فوق‌فرآوری‌شده خطر دیابت نوع دو را تا ۵۰ درصد کم می‌کند
-       https://www.youtube.com/watch?v=rtksURm8Mu8
+    20. [2026-10-14 04:20:10]
+       شهرام خلدی: ایدئولوژی انقلابی جمهوری اسلامی دیگر توان بسیج نیروهایش را ندارد
+       https://www.youtube.com/watch?v=WU2STMEp154
 
-    21. [2026-10-13 16:27:24]
-       گزارش روز مجتبا پورمحسن: افشای هویت فرمانده جدید یگان ترور سپاه بعد از ضربه موساد
-       https://www.youtube.com/watch?v=hl_wnFiIxMQ
+    21. [2026-10-14 04:10:38]
+       نمایش فیلم «خانه دوست اینجاست» در جشنواره فیلم لندن
+       https://www.youtube.com/watch?v=le6j8zcO0ec
 
-    22. [2026-10-13 15:50:07]
-       اخبار شبانگاهی | سه‌شنبه ۲۱ مهر
-       https://www.youtube.com/watch?v=cjNFbKnOXF8
+    22. [2026-10-14 04:03:02]
+       ترانه رحیمی، معترض محکوم به اعدام، در زندان از دریافت غذا محروم شد
+       https://www.youtube.com/watch?v=ZqeCBpeglsc
 
-    23. [2026-10-13 15:47:04]
-       ام‌آی۵: بیش از ۵۰ نفر در بریتانیا در ۱۲ ماه در ارتباط با جمهوری اسلامی بازداشت شده‌اند
-       https://www.youtube.com/shorts/KCC2N6lawqg
+    23. [2026-10-14 03:57:55]
+       شایان سمیعی: ترور در نگاه فرماندهی جمهوری اسلامی ابزاری کنارگذاشتنی نیست
+       https://www.youtube.com/watch?v=QbqVK0sQ_2g
 
-    24. [2026-10-13 14:30:37]
-       حمله سایبری به فروشگاه‌ها در فرانسه، نابودی محصولات تازه و منجمد
-       https://www.youtube.com/shorts/dkfYFdwK5Uo
+    24. [2026-10-14 03:48:50]
+       رضا عرب: فشار نظامی و اقتصادی آمریکا اهرم‌های منطقه‌ای جمهوری اسلامی را تضعیف کرده است
+       https://www.youtube.com/watch?v=IdgKApZtuZQ
 
-    25. [2026-10-13 14:27:37]
-       بی‌توجهی صنایع خوزستان به استخدام نیروهای بومی و گسترش فقر در این استان
-       https://www.youtube.com/watch?v=8wDk5sBN3yw
+    25. [2026-10-14 03:45:45]
+       ترامپ گزینه نظامی علیه جمهوری اسلامی را جدی‌تر از قبل بررسی می‌کند
+       https://www.youtube.com/watch?v=V8mwb6cmezY
 
-    26. [2026-10-13 14:20:18]
-       ارتباط سامانه مروج کودک‌همسری و همسریابی با چهره‌های نزدیک به قالیباف و مجتبی خامنه‌ای
-       https://www.youtube.com/watch?v=fzsNWsWtk2o
+    26. [2026-10-14 00:03:47]
+       تشدید درگیری عربستان سعودی و حوثی‌ها هم‌زمان با افزایش فشار بر واشینگتن
+       https://www.youtube.com/watch?v=57zE0tN5xf8
 
-    27. [2026-10-13 13:58:14]
-       واکنش رسانه‌های نوردیک به فعالیت‌های امنیتی جمهوری اسلامی در اروپا
-       https://www.youtube.com/watch?v=7FD5O56LKmc
+    27. [2026-10-13 23:30:27]
+       احتمال حمله زمینی سپاه به همسایه‌ها
+       https://www.youtube.com/shorts/CvsohoO4C8k
 
-    28. [2026-10-13 13:50:11]
-       بریتانیا درباره تهدیدهای امنیتی جمهوری اسلامی هشدار داد
-       https://www.youtube.com/watch?v=vVcA6b4NYas
+    28. [2026-10-13 23:04:10]
+       ترس جمهوری‌ اسلامی از استارلینک
+       https://www.youtube.com/shorts/EVr4WZ-17Ko
 
-    29. [2026-10-13 13:33:10]
-       روایت شهروندان از تاخیرهای مکرر در پرداخت بیمه بیکاری و افزایش فشارهای معیشتی در ایران
-       https://www.youtube.com/watch?v=I3mRj9ZaCWs
+    29. [2026-10-13 22:54:14]
+       جمشید برزگر: تحریم به‌تنهایی مانع عملیات برون‌مرزی جمهوری اسلامی نشده است
+       https://www.youtube.com/watch?v=GQiq6tswO7A
 
-    30. [2026-10-13 13:29:00]
-       واکنش کاربران شبکه‌های اجتماعی به اظهارات حجت‌الله عبدالملکی درباره بحران اقتصادی ایران
-       https://www.youtube.com/watch?v=PEWzyUwrC3s
+    30. [2026-10-13 22:09:26]
+       برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت دوم
+       https://www.youtube.com/watch?v=QwgQdIYkvis
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | چهارشنبه ۲۲ مهر
+       https://soundcloud.com/iranintl/12zgbp90uzik
+
+    32. [Unknown]
+       سیاست با مراد ویسی: پیشنهاد نتانیاهو به ترامپ؛ حمله کنیم
+       https://soundcloud.com/iranintl/wazn0wui6ihc
+
+    33. [Unknown]
+       برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت دوم
+       https://soundcloud.com/iranintl/frkmkrcmq6n6
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: خبر فوری: پیشنهاد نتانیاهو به ترامپ برای حمله نظامی جدید علیه جمهوری اسلامی
+       https://soundcloud.com/iranintl/dlg7z5iyv0bo
+
+    35. [Unknown]
+       اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
+       https://soundcloud.com/iranintl/2jjc68v9h6wm
+
+    36. [Unknown]
        تیتراول با نیوشا صارمی: هشدار تهران به منطقه درباره حملات زمینی؛ ترامپ از تصمیم قریب‌الوقوع خبر داد
        https://soundcloud.com/iranintl/kvwkf0mw8paa
 
-    32. [Unknown]
+    37. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/vxjhbd8krr8i
 
-    33. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/ou8rf4rqqep7
 
-    34. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/grga1lrwteml
 
-    35. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: روایت داغداران بعد از جنایت
        https://soundcloud.com/iranintl/k3ycv0epmqu5
 
-    36. [Unknown]
+    41. [Unknown]
        برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت اول
        https://soundcloud.com/iranintl/7lb0bvobiwpu
 
-    37. [Unknown]
+    42. [Unknown]
        ۲۴ با فرداد فرحزاد: تقابل بریتانیا با جمهوری اسلامی؛ کشف رد پای سپاه در یک توطئه امنیتی
        https://soundcloud.com/iranintl/cplpnuluueug
 
-    38. [Unknown]
+    43. [Unknown]
        چشم‌انداز: شکست کودتای پرهزینه سپاه در لبنان و یمن
        https://soundcloud.com/iranintl/acckz7ahx0f9
 
-    39. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
        https://soundcloud.com/iranintl/2luctekgjws7
 
-    40. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/1opqvuiftvey
 
-    41. [Unknown]
+    46. [Unknown]
        اخبار نیمروزی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/ghvr8wg17nrn
 
-    42. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | دوشنبه ۲۰ مهر
        https://soundcloud.com/iranintl/inubdn8uso6i
 
-    43. [Unknown]
+    48. [Unknown]
        سیاست با مراد ویسی: شمارش معکوس برای جنگ بزرگ در خاورمیانه
        https://soundcloud.com/iranintl/zkdf75c7mbrv
 
-    44. [Unknown]
+    49. [Unknown]
        چشم‌انداز: جنگ سوم ایران و آمریکا؛ دورنمای سقوط جمهوری اسلامی
        https://soundcloud.com/iranintl/qf2qkb2jrlgt
 
-    45. [Unknown]
+    50. [Unknown]
        تیتراول با نیوشا صارمی:. ۱۲ کشته در ریاض؛ آیا حملات حوثی‌ها پای ایران را به جنگ باز می‌کند؟
        https://soundcloud.com/iranintl/j6gnaojshrgr
-
-    46. [Unknown]
-       اخبار شبانگاهی | یکشنبه ۱۹ مهر
-       https://soundcloud.com/iranintl/wnkjpprh5w1o
-
-    47. [Unknown]
-       اخبار نیمروزی | یکشنبه ۱۹ مهر
-       https://soundcloud.com/iranintl/ojecpy21keng
-
-    48. [Unknown]
-       اخبار بامدادی | یکشنبه ۱۹ مهر
-       https://soundcloud.com/iranintl/pm8fzppycrpl
-
-    49. [Unknown]
-       سیاست با مراد ویسی: شبیه‌سازی حمله به جمهوری اسلامی در آسمان عراق
-       https://soundcloud.com/iranintl/mk1jllh4a5ho
-
-    50. [Unknown]
-       آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!
-       https://soundcloud.com/iranintl/tr6fp2byoslh
 
 ----------------------------------------
 
