@@ -4,3 +4,4 @@
 2026-10-14T12:30:47.998557+00:00 | youtube | اخبار نیمروزی | چهارشنبه ۲۲ مهر | 32 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=BV6yrza1t2o
 2026-10-14T15:15:36.852754+00:00 | youtube | اخبار ساعت شش عصر- چهارشنبه ۲۲ مهر- خسارت به آرامکو؛ تهدید تازه حوثی‌ها | 14 minutes ago | https://www.youtube.com/watch?v=pSRmt3AjzUY
 2026-10-14T15:30:47.202286+00:00 | youtube | اخبار شبانگاهی | چهارشنبه ۲۲ مهر | 7 minutes ago | https://www.youtube.com/watch?v=Y8GfRVIIi-8
+2026-10-14T16:30:46.316764+00:00 | soundcloud | اخبار شبانگاهی | چهارشنبه ۲۲ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/ex4tkixhtey1
