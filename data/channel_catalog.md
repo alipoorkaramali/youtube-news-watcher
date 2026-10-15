@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-14T19:01:06.500086+00:00
-Generated (Iran): 2026-10-14T22:31:06.500103+00:00
+Generated (UTC):  2026-10-15T07:01:06.139505+00:00
+Generated (Iran): 2026-10-15T10:31:06.139518+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-14 18:00:00]
+    1. [2026-10-14 19:31:06]
        احتمال جنگ ایران و آمریکا پیش از انتخابات بیشتر شده؟ - ۶۰ دقیقه چهارشنبه ۲۲ مهر
        https://www.youtube.com/watch?v=X6xtaGqrXbo
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-14 18:35:00]
-       شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
-       https://www.youtube.com/shorts/ppQGALej6Vo
+    16. [2026-10-15 06:55:44]
+       اخبار بامدادی | پنجشنبه ۲۳ مهر
+       https://www.youtube.com/watch?v=trhaAVaoZ38
 
-    17. [2026-10-14 18:30:27]
-       سایه جنگ سوم؛ گمانه‌زنی درباره احتمالی از سرگیری حمله‌های آمریکا و اسرائیل
-       https://www.youtube.com/shorts/x_NHwimR9zE
+    17. [2026-10-15 06:53:35]
+       غرق شدن دو کشتی در نزدیکی تنگه هرمز در پی حملات به شناورها
+       https://www.youtube.com/watch?v=WBZJD7L26so
 
-    18. [2026-10-14 17:41:19]
-       تیتراول با نیوشا صارمی: نتانیاهو با هشدار درباره تحرکات تهران: حکومت ایران رو سرنگون می‌کنیم
-       https://www.youtube.com/watch?v=ZPsrHiZoHPQ
+    18. [2026-10-15 04:26:04]
+       استرالیا و اردن حملات جمهوری اسلامی و حوثی‌ها را محکوم کردند
+       https://www.youtube.com/watch?v=-_C9h2xUwBs
 
-    19. [2026-10-14 16:34:08]
-       اقتصاد و بازار: وضعیت بحرانی تولید و صادرات نفت ایران؛ کالابرگ و افزایش نرخ دولتی ارز
-       https://www.youtube.com/watch?v=k1mWVy7EOrU
+    19. [2026-10-15 04:23:39]
+       امید معماریان: جنگ به گسترش روابط اسرائیل با کشورهای منطقه کمک کرده است
+       https://www.youtube.com/watch?v=0guv5MjyIdg
 
-    20. [2026-10-14 16:17:35]
-       سه کشتی در تنگه هرمز هدف پرتابه قرار گرفتند؛ یکی غرق شد
-       https://www.youtube.com/shorts/JR7H9XQZxyY
+    20. [2026-10-15 04:17:38]
+       بیژن کیان: اظهارات ترامپ در میانه جنگ لزوما تصمیم نهایی او نیست
+       https://www.youtube.com/watch?v=Sll5sezcvUU
 
-    21. [2026-10-14 16:01:22]
-       برگزاری چهارمین جلسه دادگاه مهران محققی، متهم به حمله با خودرو به معترضان ایرانی در کانادا
-       https://www.youtube.com/watch?v=mpUrN-5jo2s
+    21. [2026-10-15 04:16:12]
+       شهرام خلدی: بازدارندگی اسرائیل تقویت شده و در آماده‌باش کامل عملیاتی است
+       https://www.youtube.com/watch?v=YAg8F3YDlak
 
-    22. [2026-10-14 15:55:22]
-       منچسترسیتی میزبان پاری‌سن‌ژرمن در لیگ قهرمانان اروپا
-       https://www.youtube.com/watch?v=3WT73ib-l8w
+    22. [2026-10-15 04:10:54]
+       ترامپ: جنگ با جمهوری اسلامی به‌زودی پایان می‌یابد
+       https://www.youtube.com/shorts/gkWtoZJftK8
 
-    23. [2026-10-14 15:45:31]
-       گزارش روز با مجتبا پورمحسن: توافق ترامپ و نتانیاهو بر سر زمان حمله به ایران
-       https://www.youtube.com/watch?v=16ThHO55k-g
+    23. [2026-10-15 03:44:43]
+       ترامپ: جنگ با جمهوری اسلامی به‌زودی پایان می‌یابد و قیمت نفت کاهش پیدا می‌کند
+       https://www.youtube.com/watch?v=pv9u-fe86eA
 
-    24. [2026-10-14 15:31:27]
-       محمد خاتمی: جمهوری اسلامی حق دخالت در بحران فلسطین را ندارد
-       https://www.youtube.com/shorts/AXHWFNVQO0M
+    24. [2026-10-15 03:44:37]
+       برگزاری نشست بررسی حافظه تاریخی ایران و نقش آن در ساختن آینده در پاریس
+       https://www.youtube.com/watch?v=0kmsvfNUNLc
 
-    25. [2026-10-14 15:22:53]
-       اخبار شبانگاهی | چهارشنبه ۲۲ مهر
-       https://www.youtube.com/watch?v=Y8GfRVIIi-8
+    25. [2026-10-15 03:40:44]
+       وریشه مرادی با تغییر اتهام به بغی، به اعدام محکوم شد
+       https://www.youtube.com/watch?v=0jctf9KYoBM
 
-    26. [2026-10-14 15:02:06]
-       دونالد ترامپ از احتمال اقدام شدیدتر علیه جمهوری اسلامی خبر داد
-       https://www.youtube.com/watch?v=YJLU9b5_XYc
+    26. [2026-10-15 03:31:39]
+       افزایش حملات جمهوری اسلامی به کشتی‌ها در تنگه هرمز
+       https://www.youtube.com/watch?v=TyMO-7A91W0
 
-    27. [2026-10-14 14:37:10]
-       آغاز محاکمه متهم پرونده انفجار خطوط لوله نورد استریم در هامبورگ
-       https://www.youtube.com/watch?v=rAORALrxW3w
+    27. [2026-10-15 03:27:01]
+       آغاز محاکمه متهم انفجار خطوط لوله نورد استریم در آلمان
+       https://www.youtube.com/watch?v=UUHZStH9G3I
 
-    28. [2026-10-14 14:28:09]
-       افزایش حملات مسلحانه علیه جمهوری اسلامی در سیستان و بلوچستان
-       https://www.youtube.com/watch?v=u-3EZv8L3ws
+    28. [2026-10-14 22:57:15]
+       رییس مجلس جمهوری اسلامی: آمریکا عهدشکنی کرده و باید تنبیه شود
+       https://www.youtube.com/shorts/2ju18IKJOuU
 
-    29. [2026-10-14 14:09:52]
-       افزایش فشار بر خانواده‌های دادخواه؛ سنگ مزار سامان دلارام شکسته شد
-       https://www.youtube.com/watch?v=PmD_cgisjlM
+    29. [2026-10-14 22:50:38]
+       سیاست با مراد ویسی: آخرین وضعیت مجتبی
+       https://www.youtube.com/watch?v=9Zb8H0bWzuA
 
-    30. [2026-10-14 13:55:25]
-       گمانه‌زنی‌ها درباره احتمال حملات جمهوری اسلامی و نیروهای نیابتی‌اش به اسرائیل
-       https://www.youtube.com/watch?v=wqKWIxMGANk
+    30. [2026-10-14 22:46:02]
+       آیا اسرائیل از مجتبی خبر دارد؟
+       https://www.youtube.com/shorts/r8y12G8yl9Q
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       سیاست با مراد ویسی: آخرین وضعیت مجتبی
+       https://soundcloud.com/iranintl/bz7ybizlamrs
+
+    32. [Unknown]
+       برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت سوم
+       https://soundcloud.com/iranintl/fbmsbbduzjfy
+
+    33. [Unknown]
+       14 10
+       https://soundcloud.com/iranintl/14-10
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: نتانیاهو: اسرائیل سرانجام جمهوری اسلامی را سرنگون می‌کند
+       https://soundcloud.com/iranintl/xpjnc6ytum9l
+
+    35. [Unknown]
+       چشم‌انداز: شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
+       https://soundcloud.com/iranintl/pxi94m2wxc8a
+
+    36. [Unknown]
        تیتراول با نیوشا صارمی: نتانیاهو با هشدار درباره تحرکات تهران: حکومت ایران رو سرنگون می‌کنیم
        https://soundcloud.com/iranintl/u49xlqihtuez
 
-    32. [Unknown]
+    37. [Unknown]
        گزارش روز با مجتبا پورمحسن: توافق ترامپ و نتانیاهو بر سر زمان حمله به ایران
        https://soundcloud.com/iranintl/rkhvriqjyaga
 
-    33. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/ex4tkixhtey1
 
-    34. [Unknown]
+    39. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/yntwxbtgogmw
 
-    35. [Unknown]
+    40. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/12zgbp90uzik
 
-    36. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: پیشنهاد نتانیاهو به ترامپ؛ حمله کنیم
        https://soundcloud.com/iranintl/wazn0wui6ihc
 
-    37. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت دوم
        https://soundcloud.com/iranintl/frkmkrcmq6n6
 
-    38. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: خبر فوری: پیشنهاد نتانیاهو به ترامپ برای حمله نظامی جدید علیه جمهوری اسلامی
        https://soundcloud.com/iranintl/dlg7z5iyv0bo
 
-    39. [Unknown]
+    44. [Unknown]
        اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
        https://soundcloud.com/iranintl/2jjc68v9h6wm
 
-    40. [Unknown]
+    45. [Unknown]
        تیتراول با نیوشا صارمی: هشدار تهران به منطقه درباره حملات زمینی؛ ترامپ از تصمیم قریب‌الوقوع خبر داد
        https://soundcloud.com/iranintl/kvwkf0mw8paa
 
-    41. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/vxjhbd8krr8i
 
-    42. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/ou8rf4rqqep7
 
-    43. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۱ مهر
        https://soundcloud.com/iranintl/grga1lrwteml
 
-    44. [Unknown]
+    49. [Unknown]
        سیاست با مراد ویسی: روایت داغداران بعد از جنایت
        https://soundcloud.com/iranintl/k3ycv0epmqu5
 
-    45. [Unknown]
+    50. [Unknown]
        برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت اول
        https://soundcloud.com/iranintl/7lb0bvobiwpu
-
-    46. [Unknown]
-       ۲۴ با فرداد فرحزاد: تقابل بریتانیا با جمهوری اسلامی؛ کشف رد پای سپاه در یک توطئه امنیتی
-       https://soundcloud.com/iranintl/cplpnuluueug
-
-    47. [Unknown]
-       چشم‌انداز: شکست کودتای پرهزینه سپاه در لبنان و یمن
-       https://soundcloud.com/iranintl/acckz7ahx0f9
-
-    48. [Unknown]
-       تیتراول با نیوشا صارمی: بریتانیا: عملیات فرفورد قطعا تحت هدایت سپاه بود؛ هشدار کم‌سابقه به تهران
-       https://soundcloud.com/iranintl/2luctekgjws7
-
-    49. [Unknown]
-       اخبار شبانگاهی | دوشنبه ۲۰ مهر
-       https://soundcloud.com/iranintl/1opqvuiftvey
-
-    50. [Unknown]
-       اخبار نیمروزی | دوشنبه ۲۰ مهر
-       https://soundcloud.com/iranintl/ghvr8wg17nrn
 
 ----------------------------------------
 
