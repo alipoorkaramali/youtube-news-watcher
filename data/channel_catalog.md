@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-15T11:01:07.856429+00:00
-Generated (Iran): 2026-10-15T14:31:07.856449+00:00
+Generated (UTC):  2026-10-15T15:01:11.895417+00:00
+Generated (Iran): 2026-10-15T18:31:11.895430+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-14 19:31:06]
-       احتمال جنگ ایران و آمریکا پیش از انتخابات بیشتر شده؟ - ۶۰ دقیقه چهارشنبه ۲۲ مهر
+    1. [2026-10-15 15:00:23]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=a0em4D8wI3k
+
+    2. [2026-10-15 13:54:55]
+       «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
+       https://www.youtube.com/shorts/Y3uXmw4ALww
+
+    3. [2026-10-15 12:09:55]
+       ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
+       https://www.youtube.com/shorts/_VEQyMYckKc
+
+    4. [2026-10-14 19:31:06]
+       ۶۰ دقیقه چهارشنبه ۲۲ مهر: احتمال جنگ ایران و آمریکا پیش از انتخابات بیشتر شده؟
        https://www.youtube.com/watch?v=X6xtaGqrXbo
 
-    2. [2026-10-14 16:59:35]
-       دیدبانی با لنج، تاکتیک جدید سپاه در تنگه هرمز؛ جام جهان‌نما چهارشنبه ۲۲ مهر
+    5. [2026-10-14 16:59:35]
+       جام جهان‌نما چهارشنبه ۲۲ مهر: دیدبانی با لنج، تاکتیک جدید سپاه در تنگه هرمز
        https://www.youtube.com/watch?v=8PaPzKRq_6w
 
-    3. [2026-10-14 15:32:01]
+    6. [2026-10-14 15:32:01]
        بنون سیوان: تا وقنی رهبران افغانستان منافع شخصی را کنار نگذازند، صلحی شکل نمی گیرد - گفت‌وگوی ویژه
        https://www.youtube.com/watch?v=egzO4ISAKIk
 
-    4. [2026-10-14 15:00:41]
-       اخبار ساعت شش عصر- چهارشنبه ۲۲ مهر- خسارت به آرامکو؛ تهدید تازه حوثی‌ها
+    7. [2026-10-14 15:00:41]
+       اخبار ساعت شش عصر، چهارشنبه ۲۲ مهر: خسارت به آرامکو؛ تهدید تازه حوثی‌ها
        https://www.youtube.com/watch?v=pSRmt3AjzUY
 
-    5. [2026-10-14 15:00:16]
+    8. [2026-10-14 15:00:16]
        نسخه متخصصان تغذیه برای یک سبد غذایی سالم؟ ۳۷درجه
        https://www.youtube.com/watch?v=rNEXpADs39g
 
-    6. [2026-10-14 13:54:52]
+    9. [2026-10-14 13:54:52]
        وقوع حادثه‌ای در ترن هوایی در پارک تفریحی «سیکس فلگز اوور جورجیا» در ایالت جورجیای آمریکا
        https://www.youtube.com/shorts/kWVo_Mac4n8
 
-    7. [2026-10-14 13:50:58]
+    10. [2026-10-14 13:50:58]
        حمله به تاسیسات نفتی جنوب صنعا پس ازخسارت به دفتر مرکزی آرامکو درظهران
        https://www.youtube.com/shorts/zl71QTWzsjA
 
-    8. [2026-10-14 13:47:18]
+    11. [2026-10-14 13:47:18]
        سرخط خبرهای چهارشنبه ۲۲ مهر ۱۴۰۵
        https://www.youtube.com/shorts/h2xjbQBUUsw
 
-    9. [2026-10-14 07:17:09]
+    12. [2026-10-14 07:17:09]
        صدای تیراندازی و درگیری در اعتراضات میمه
        https://www.youtube.com/shorts/hjC8e0RDv6k
 
-    10. [2026-10-13 19:33:16]
+    13. [2026-10-13 19:33:16]
        آیا جنگی دیگر در راه است؟ گفتگو با بابک دربیکی
        https://www.youtube.com/watch?v=V6SGafK7nLI
 
-    11. [2026-10-13 19:31:49]
-       ۶۰ دقیقه سه‌شنبه ۲۱ مهر- ترامپ: در کشتن رهبران ایران شاید زیاده‌روی کرده باشیم
+    14. [2026-10-13 19:31:49]
+       ۶۰ دقیقه سه‌شنبه ۲۱ مهر: ترامپ: در کشتن رهبران ایران شاید زیاده‌روی کرده باشیم
        https://www.youtube.com/watch?v=BzwsUs7-Idk
 
-    12. [2026-10-13 18:03:31]
+    15. [2026-10-13 18:03:31]
        بحران‌های در هم تنیده جهانی، از روسیه و ایران تا یمن وعربستان -صفحه ۲
        https://www.youtube.com/watch?v=k_RSDAhawas
-
-    13. [2026-10-13 17:00:55]
-       ترامپ برای مذاکره دنبال چه کسی در تهران است؟ جام جهان‌نما، سه‌شنبه ۲۱ مهر
-       https://www.youtube.com/watch?v=SjogylTjq9o
-
-    14. [2026-10-13 15:18:08]
-       طوفان ریچل کالیفرنیای جنوبی
-       https://www.youtube.com/shorts/yVYD0R7r0wo
-
-    15. [2026-10-13 15:00:24]
-       اخبار ساعت شش عصر سه شنبه ۲۱ مهر- سایه جنگ بر مذاکرات ایران و آمریکا؛ سردرگمی تازه ترامپ
-       https://www.youtube.com/watch?v=Ggy8_Xt-YRs
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-15 10:29:05]
+    16. [2026-10-15 14:32:54]
+       ۱۴ زندانی سیاسی نسبت به احتمال صدور حکم اعدام برای امیرحسین موسوی هشدار دادند
+       https://www.youtube.com/watch?v=jxz94BKzBGQ
+
+    17. [2026-10-15 14:26:02]
+       خانواده‌های بیماران نقص ایمنی زیر فشار افزایش هزینه دارو
+       https://www.youtube.com/watch?v=kcRcYGQf0Ac
+
+    18. [2026-10-15 14:05:52]
+       واکنش کاربران به تشکیل پرونده قضایی برای سعید شکیبا پس از تقلید صدای خامنه‌ای
+       https://www.youtube.com/watch?v=kzx1hQrci1U
+
+    19. [2026-10-15 13:28:24]
+       ائتلاف به رهبری عربستان سعودی از رهگیری موشک کروز در مدینه خبر داد
+       https://www.youtube.com/watch?v=KnW_3S1mJns
+
+    20. [2026-10-15 13:10:27]
+       محکومیت دو شهروند افغانستان به اتهام جاسوسی برای نیروی قدس سپاه در آلمان
+       https://www.youtube.com/watch?v=zwWrgjDPGTM
+
+    21. [2026-10-15 12:34:19]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://www.youtube.com/watch?v=CHACxTJMPEQ
+
+    22. [2026-10-15 12:16:52]
+       بررسی استفاده از «مادر همه بمب‌ها» علیه جمهوری اسلامی
+       https://www.youtube.com/watch?v=_jmAIxav1MM
+
+    23. [2026-10-15 12:03:39]
+       کرباسچی: ما نمی‌توانیم پدر آمریکا را دربیاوریم
+       https://www.youtube.com/shorts/xCspNfDa7a0
+
+    24. [2026-10-15 12:02:18]
+       وزارت خارجه سوئد به ایران‌اینترنشنال: جمهوری اسلامی نباید به سلاح هسته‌ای دست یابد
+       https://www.youtube.com/watch?v=GwTO6bgB3gM
+
+    25. [2026-10-15 11:55:46]
+       واکنش سیاستمداران ایتالیایی به صدور حکم اعدام برای نجمه امینی
+       https://www.youtube.com/watch?v=A0b7tZcUdiI
+
+    26. [2026-10-15 11:26:26]
+       علی شیرازی: اختلاف بر سر تفاهم‌نامه اسلام‌آباد شکاف در حاکمیت را تشدید کرده است
+       https://www.youtube.com/watch?v=ijw7JJALVHE
+
+    27. [2026-10-15 11:04:41]
+       پزشکیان: با پوشیدن لباس گرم و کاهش مصرف گاز چشم دشمن را کور کنیم
+       https://www.youtube.com/shorts/LxU1__3pjAI
+
+    28. [2026-10-15 10:29:05]
        رقابت تنگاتنگ موافقان و مخالفان نتانیاهو در آستانه انتخابات اسرائیل
        https://www.youtube.com/watch?v=V9ReA2UoKFw
 
-    17. [2026-10-15 10:00:55]
+    29. [2026-10-15 10:00:55]
        محمدجواد اکبرین: اختلاف بر سر مذاکره در جمهوری اسلامی، ریشه در نگرانی از آینده قدرت دارد
        https://www.youtube.com/watch?v=aXfd_qykK1E
 
-    18. [2026-10-15 09:43:51]
+    30. [2026-10-15 09:43:51]
        جاری شدن سیل در استانبول به‌دنبال بارش شدید باران
        https://www.youtube.com/shorts/hgX_LD0HZq0
-
-    19. [2026-10-15 09:38:58]
-       همایش انجمن دانشجویی اتحادیه دانشجویان شیر و خورشید اروپا با محور آینده ایران
-       https://www.youtube.com/watch?v=DNSpkS-Ny_4
-
-    20. [2026-10-15 09:29:56]
-       حسین آقایی: سرنوشت جنگ به تصمیم ترامپ درباره پایان درگیری یا تغییر رژیم ایران بستگی دارد
-       https://www.youtube.com/watch?v=sgu5TtKo4xI
-
-    21. [2026-10-15 09:26:03]
-       مرتضی کاظمیان: ممکن است ترامپ به‌دنبال توافق با بخشی از ساختار قدرت جمهوری اسلامی باشد
-       https://www.youtube.com/watch?v=SajmIo2y-Mg
-
-    22. [2026-10-15 09:20:43]
-       روایت مخاطبان ایران‌اینترنشنال از هزینه‌های سرسام‌آور خدمات دندان‌پزشکی
-       https://www.youtube.com/watch?v=6j6KUYE-dKs
-
-    23. [2026-10-15 08:23:29]
-       مقام یک پژوهشگاه اسلامی: حوزه برای حل مشکلات اقتصادی کشور راه‌حل دارد
-       https://www.youtube.com/shorts/QyCrCUJhIUA
-
-    24. [2026-10-15 07:59:19]
-       دیدارهای دیپلماتیک در حاشیه اجلاس سران آسیا در باکو
-       https://www.youtube.com/watch?v=L80nfDak0HA
-
-    25. [2026-10-15 07:54:02]
-       فروریختن سقف مدرسه در پاکستان؛ دست‌کم ۲۹ دانش‌آموز کشته شدند
-       https://www.youtube.com/watch?v=D6ysRuJzO-I
-
-    26. [2026-10-15 07:52:51]
-       روح‌الله رحیم‌پور: ترامپ می‌خواهد نشان دهد زمان پایان جنگ در اختیار آمریکا است
-       https://www.youtube.com/watch?v=7488Q5vysqM
-
-    27. [2026-10-15 07:51:11]
-       حسین علیزاده: دیپلماسی اسرائیل در پیرامون ایران، دیپلماسی فعالی است
-       https://www.youtube.com/watch?v=TKCi9XkmR4E
-
-    28. [2026-10-15 07:29:43]
-       آغاز فصل تازه کشت گندم در ایران با مطالبات پرداخت‌نشده کشاورزان
-       https://www.youtube.com/watch?v=dUUoEUJBOHk
-
-    29. [2026-10-15 06:55:44]
-       اخبار بامدادی | پنجشنبه ۲۳ مهر
-       https://www.youtube.com/watch?v=trhaAVaoZ38
-
-    30. [2026-10-15 06:53:35]
-       غرق شدن دو کشتی در نزدیکی تنگه هرمز در پی حملات به شناورها
-       https://www.youtube.com/watch?v=WBZJD7L26so
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://soundcloud.com/iranintl/7qannxthrjjb
+
+    32. [Unknown]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://soundcloud.com/iranintl/5unejw8btqpc
+
+    33. [Unknown]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://soundcloud.com/iranintl/785brzteddva
+
+    34. [Unknown]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://soundcloud.com/iranintl/eo1rbq6filtj
+
+    35. [Unknown]
+       اخبار نیمروزی | پنجشنبه ۲۳ مهر
+       https://soundcloud.com/iranintl/jjuasimytroy
+
+    36. [Unknown]
        اخبار بامدادی | پنجشنبه ۲۳ مهر
        https://soundcloud.com/iranintl/9o6ojavkg3r9
 
-    32. [Unknown]
+    37. [Unknown]
        سیاست با مراد ویسی: آخرین وضعیت مجتبی
        https://soundcloud.com/iranintl/bz7ybizlamrs
 
-    33. [Unknown]
+    38. [Unknown]
        برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت سوم
        https://soundcloud.com/iranintl/fbmsbbduzjfy
 
-    34. [Unknown]
+    39. [Unknown]
        14 10
        https://soundcloud.com/iranintl/14-10
 
-    35. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: اسرائیل سرانجام جمهوری اسلامی را سرنگون می‌کند
        https://soundcloud.com/iranintl/xpjnc6ytum9l
 
-    36. [Unknown]
+    41. [Unknown]
        چشم‌انداز: شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
        https://soundcloud.com/iranintl/pxi94m2wxc8a
 
-    37. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی: نتانیاهو با هشدار درباره تحرکات تهران: حکومت ایران رو سرنگون می‌کنیم
        https://soundcloud.com/iranintl/u49xlqihtuez
 
-    38. [Unknown]
+    43. [Unknown]
        گزارش روز با مجتبا پورمحسن: توافق ترامپ و نتانیاهو بر سر زمان حمله به ایران
        https://soundcloud.com/iranintl/rkhvriqjyaga
 
-    39. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/ex4tkixhtey1
 
-    40. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/yntwxbtgogmw
 
-    41. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۲ مهر
        https://soundcloud.com/iranintl/12zgbp90uzik
 
-    42. [Unknown]
+    47. [Unknown]
        سیاست با مراد ویسی: پیشنهاد نتانیاهو به ترامپ؛ حمله کنیم
        https://soundcloud.com/iranintl/wazn0wui6ihc
 
-    43. [Unknown]
+    48. [Unknown]
        برنامه با کامبیز حسینی | ماراتن تریبون آزاد «برنامه»؛ قسمت دوم
        https://soundcloud.com/iranintl/frkmkrcmq6n6
 
-    44. [Unknown]
+    49. [Unknown]
        ۲۴ با فرداد فرحزاد: خبر فوری: پیشنهاد نتانیاهو به ترامپ برای حمله نظامی جدید علیه جمهوری اسلامی
        https://soundcloud.com/iranintl/dlg7z5iyv0bo
 
-    45. [Unknown]
+    50. [Unknown]
        اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
        https://soundcloud.com/iranintl/2jjc68v9h6wm
-
-    46. [Unknown]
-       تیتراول با نیوشا صارمی: هشدار تهران به منطقه درباره حملات زمینی؛ ترامپ از تصمیم قریب‌الوقوع خبر داد
-       https://soundcloud.com/iranintl/kvwkf0mw8paa
-
-    47. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۲۱ مهر
-       https://soundcloud.com/iranintl/vxjhbd8krr8i
-
-    48. [Unknown]
-       اخبار نیمروزی | سه‌شنبه ۲۱ مهر
-       https://soundcloud.com/iranintl/ou8rf4rqqep7
-
-    49. [Unknown]
-       اخبار بامدادی | سه‌شنبه ۲۱ مهر
-       https://soundcloud.com/iranintl/grga1lrwteml
-
-    50. [Unknown]
-       سیاست با مراد ویسی: روایت داغداران بعد از جنایت
-       https://soundcloud.com/iranintl/k3ycv0epmqu5
 
 ----------------------------------------
 
