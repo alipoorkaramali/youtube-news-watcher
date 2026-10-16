@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-16T07:01:04.252299+00:00
-Generated (Iran): 2026-10-16T10:31:04.252314+00:00
+Generated (UTC):  2026-10-16T11:01:05.923131+00:00
+Generated (Iran): 2026-10-16T14:31:05.923148+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-16 04:14:21]
+    1. [2026-10-16 09:14:20]
+       کلیک؛ سفر خیالی با هوش مصنوعی
+       https://www.youtube.com/watch?v=Ca1HA9VRIcE
+
+    2. [2026-10-16 07:59:11]
+       بازگشت ژیان - ژیان برقی
+       https://www.youtube.com/shorts/ghWh4CJfjvE
+
+    3. [2026-10-16 04:14:21]
        پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
        https://www.youtube.com/watch?v=qNRUwNLwF9k
 
-    2. [2026-10-15 18:03:56]
+    4. [2026-10-15 18:03:56]
        «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
        https://www.youtube.com/watch?v=LjCdojXkZSc
 
-    3. [2026-10-15 16:59:53]
+    5. [2026-10-15 16:59:53]
        دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
        https://www.youtube.com/watch?v=fMrpBy-1BSs
 
-    4. [2026-10-15 15:46:49]
+    6. [2026-10-15 15:46:49]
        گفت‌وگوی خبرساز کرباسچی در صدا و سیما
        https://www.youtube.com/watch?v=gwH9VhQHHzY
 
-    5. [2026-10-15 15:00:23]
+    7. [2026-10-15 15:00:23]
        اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
        https://www.youtube.com/watch?v=a0em4D8wI3k
 
-    6. [2026-10-15 13:54:55]
+    8. [2026-10-15 13:54:55]
        «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
        https://www.youtube.com/shorts/Y3uXmw4ALww
 
-    7. [2026-10-15 12:09:55]
+    9. [2026-10-15 12:09:55]
        ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
        https://www.youtube.com/shorts/_VEQyMYckKc
 
-    8. [2026-10-14 19:31:06]
+    10. [2026-10-14 19:31:06]
        ۶۰ دقیقه چهارشنبه ۲۲ مهر: احتمال جنگ ایران و آمریکا پیش از انتخابات بیشتر شده؟
        https://www.youtube.com/watch?v=X6xtaGqrXbo
 
-    9. [2026-10-14 16:59:35]
+    11. [2026-10-14 16:59:35]
        جام جهان‌نما چهارشنبه ۲۲ مهر: دیدبانی با لنج، تاکتیک جدید سپاه در تنگه هرمز
        https://www.youtube.com/watch?v=8PaPzKRq_6w
 
-    10. [2026-10-14 15:32:01]
+    12. [2026-10-14 15:32:01]
        بنون سیوان: تا وقنی رهبران افغانستان منافع شخصی را کنار نگذازند، صلحی شکل نمی گیرد - گفت‌وگوی ویژه
        https://www.youtube.com/watch?v=egzO4ISAKIk
 
-    11. [2026-10-14 15:00:41]
+    13. [2026-10-14 15:00:41]
        اخبار ساعت شش عصر، چهارشنبه ۲۲ مهر: خسارت به آرامکو؛ تهدید تازه حوثی‌ها
        https://www.youtube.com/watch?v=pSRmt3AjzUY
 
-    12. [2026-10-14 15:00:16]
+    14. [2026-10-14 15:00:16]
        نسخه متخصصان تغذیه برای یک سبد غذایی سالم؟ ۳۷درجه
        https://www.youtube.com/watch?v=rNEXpADs39g
 
-    13. [2026-10-14 13:54:52]
+    15. [2026-10-14 13:54:52]
        وقوع حادثه‌ای در ترن هوایی در پارک تفریحی «سیکس فلگز اوور جورجیا» در ایالت جورجیای آمریکا
        https://www.youtube.com/shorts/kWVo_Mac4n8
-
-    14. [2026-10-14 13:50:58]
-       حمله به تاسیسات نفتی جنوب صنعا پس ازخسارت به دفتر مرکزی آرامکو درظهران
-       https://www.youtube.com/shorts/zl71QTWzsjA
-
-    15. [2026-10-14 13:47:18]
-       سرخط خبرهای چهارشنبه ۲۲ مهر ۱۴۰۵
-       https://www.youtube.com/shorts/h2xjbQBUUsw
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-16 06:43:43]
+    16. [2026-10-16 10:30:45]
+       دیدار رییس مجلس لبنان و معاون وزارت خارجه جمهوری اسلامی در بیروت
+       https://www.youtube.com/shorts/LcUBXvSgjfs
+
+    17. [2026-10-16 10:30:16]
+       محمدجواد اکبرین: ممکن است خطیب‌زاده برای انتقال دستی پول به لبنان رفته باشد
+       https://www.youtube.com/watch?v=PHFe4e4gQFw
+
+    18. [2026-10-16 10:16:17]
+       گزارش مخاطبان از فضای امنیتی در مدارس و اعزام افرادی برای تبلیغ علیه شاهزاده رضا پهلوی
+       https://www.youtube.com/watch?v=yO3-1tyhn6U
+
+    19. [2026-10-16 10:03:28]
+       پیمان قدیری، معترض دی‌ماه، پس از ۹ ماه کما جان باخت
+       https://www.youtube.com/watch?v=lQRsz_wPDNU
+
+    20. [2026-10-16 10:00:24]
+       هشدار اسرائیل به جمهوری اسلامی و حزب‌الله درباره اخلال در انتخابات
+       https://www.youtube.com/shorts/_LerAFlRcV8
+
+    21. [2026-10-16 09:18:32]
+       آغاز اجلاس سران کنوانسیون تنوع زیستی سازمان ملل در ایروان
+       https://www.youtube.com/watch?v=SS5JwXMQz_o
+
+    22. [2026-10-16 09:16:18]
+       روایت مخاطبان ایران‌اینترنشنال از هزینه تجمعات حکومتی در برابر فقر مردم
+       https://www.youtube.com/watch?v=irJc3jNRY5g
+
+    23. [2026-10-16 09:13:44]
+       بازتاب گسترده محکومیت دو عامل مرتبط با سپاه در آلمان
+       https://www.youtube.com/watch?v=cjMKf3hvBJs
+
+    24. [2026-10-16 08:58:28]
+       حمله موشکی حوثی‌ها به مجتمع کاخ ریاست‌جمهوری در عدن
+       https://www.youtube.com/shorts/NJcFNj0c_T0
+
+    25. [2026-10-16 08:15:20]
+       کره جنوبی اعزام هواپیمای گشت دریایی به دریای عمان را بررسی می‌کند
+       https://www.youtube.com/watch?v=ufPHdq7RO0g
+
+    26. [2026-10-16 08:09:41]
+       «۷۷ ساعت»؛ روایت سینمایی از اعتراضات و کشتار دی‌ماه
+       https://www.youtube.com/watch?v=G-E9kTXnhvw
+
+    27. [2026-10-16 08:07:02]
+       نتانیاهو: حمله جمهوری اسلامی به اسرائیل اشتباهی بزرگ خواهد بود
+       https://www.youtube.com/watch?v=Y0Ca5bTHthg
+
+    28. [2026-10-16 07:54:37]
+       تسلا از رودستر جدید با فناوری پرواز رونمایی کرد
+       https://www.youtube.com/shorts/XgT8sbTKpuA
+
+    29. [2026-10-16 06:43:43]
        اخبار بامدادی | جمعه ۲۴ مهر
        https://www.youtube.com/watch?v=gsfmwG2nYBo
 
-    17. [2026-10-16 04:33:29]
+    30. [2026-10-16 04:33:29]
        آغاز رای‌گیری زودهنگام در آلبرتا درباره استقلال از کانادا
        https://www.youtube.com/watch?v=CWM1HD20QNc
-
-    18. [2026-10-16 04:32:23]
-       حضور همزمان نمایندگان ایران و اسرائیل در اجلاس سیکا در باکو
-       https://www.youtube.com/watch?v=ejLF-RPjzqY
-
-    19. [2026-10-16 04:31:44]
-       تولید پهپادهای شاهد در روسیه با قاچاق انسان و کار اجباری گره خورده است
-       https://www.youtube.com/watch?v=aU-I9RrDabE
-
-    20. [2026-10-16 04:27:53]
-       روبیو از رییس‌جمهوری لبنان خواست در برابر فشار حزب‌الله مقاومت کند
-       https://www.youtube.com/watch?v=ide1xPQUG-s
-
-    21. [2026-10-16 04:26:15]
-       امید معماریان: ترامپ فشار برای صلح اوکراین را از روسیه به زلنسکی منتقل می‌کند
-       https://www.youtube.com/watch?v=doIBjdkycjs
-
-    22. [2026-10-16 04:11:16]
-       عرفان قانعی‌فرد: هشدار اسرائیل به تهران لزوما به معنای حمله قریب‌الوقوع نیست
-       https://www.youtube.com/watch?v=h1L3mCDueks
-
-    23. [2026-10-16 03:53:45]
-       میعاد ملکی: تحریم‌های تازه آمریکا مسیرهای دسترسی تهران به دلار را هدف گرفته است
-       https://www.youtube.com/watch?v=bsimbjOl0cw
-
-    24. [2026-10-16 03:51:30]
-       امیر حمیدی: بازسازی توان موشکی جمهوری اسلامی، هزینه توافق را برای ترامپ بالا می‌برد
-       https://www.youtube.com/watch?v=yJGgcKSD7RY
-
-    25. [2026-10-16 03:49:20]
-       فرزین ندیمی: هشدارهای ترامپ برای تغییر رفتار جمهوری اسلامی است
-       https://www.youtube.com/watch?v=E8LqPUoCmMw
-
-    26. [2026-10-16 03:49:05]
-       مهدی صارمی‌فر: ادعاهای جمهوری اسلامی درباره تنگه هرمز برای اثرگذاری بر افکار عمومی است
-       https://www.youtube.com/watch?v=nPI1XPztXMs
-
-    27. [2026-10-16 03:31:50]
-       دادگاه آلمان دو نفر را به جاسوسی برای نیروی قدس سپاه محکوم کرد
-       https://www.youtube.com/watch?v=qOtkzWTt55I
-
-    28. [2026-10-16 03:28:29]
-       ارتش آمریکا استفاده از قدرتمندترین بمب غیرهسته‌ای خود علیه جمهوری اسلامی را بررسی می‌کند
-       https://www.youtube.com/watch?v=iVSLMYrk35c
-
-    29. [2026-10-15 22:29:18]
-       شایان سمیعی: مطرح شدن «مادر همه بمب‌ها» بیشتر با هدف فشار روانی بر جمهوری اسلامی است
-       https://www.youtube.com/watch?v=TgtUAG3tLlU
-
-    30. [2026-10-15 22:28:04]
-       امیر گیتی: آمریکا با تشدید فشار مالی به دنبال گرفتن امتیاز بیشتر از جمهوری اسلامی است
-       https://www.youtube.com/watch?v=49iPc6SBZ2g
 
 ----------------------------------------
 
@@ -187,83 +187,83 @@ SoundCloud sources (2)
 
     31. [Unknown]
        دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/uxonujcxn1jj
+       https://soundcloud.com/iranintl/mmznxolv0ojh
 
     32. [Unknown]
-       اخبار شبانگاهی | پنجشنبه ۲۳ مهر
-       https://soundcloud.com/iranintl/aijfw9nxybuc
+       اخبار بامدادی | جمعه ۲۴ مهر
+       https://soundcloud.com/iranintl/mzhu7rnszen3
 
     33. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/jm5jto4ny5k0
+       https://soundcloud.com/iranintl/51rbmcqloayu
 
     34. [Unknown]
        ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
-       https://soundcloud.com/iranintl/cl5z7s7vnaeu
+       https://soundcloud.com/iranintl/kg35jp2mi2zi
 
     35. [Unknown]
-       اخبار شبانگاهی | پنجشنبه ۲۳ مهر
-       https://soundcloud.com/iranintl/1lwig6c05z7d
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/gc0elzfgysdg
 
     36. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/78h8k2mugn3w
+       اخبار بامدادی | جمعه ۲۴ مهر
+       https://soundcloud.com/iranintl/onubpy6x6jn9
 
     37. [Unknown]
-       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
-       https://soundcloud.com/iranintl/kvgdspv5pf9c
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/fgmjbqhbsbj6
 
     38. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/btq8dda5hgmz
+       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
+       https://soundcloud.com/iranintl/l3kefx6horkq
 
     39. [Unknown]
-       اخبار شبانگاهی | پنجشنبه ۲۳ مهر
-       https://soundcloud.com/iranintl/1trez8uouprp
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/igjkf6mlx9ff
 
     40. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/j8rsari55qfa
+       اخبار بامدادی | جمعه ۲۴ مهر
+       https://soundcloud.com/iranintl/byzc1acpzwts
 
     41. [Unknown]
-       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
-       https://soundcloud.com/iranintl/63nzv38cve48
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/xntljssxzex6
 
     42. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/dqoxiugzpoma
+       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
+       https://soundcloud.com/iranintl/1iymek9fmj1m
 
     43. [Unknown]
-       اخبار شبانگاهی | پنجشنبه ۲۳ مهر
-       https://soundcloud.com/iranintl/0jj8dm5dwszw
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/lpsddnyq8is9
 
     44. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/f6qp32egmyhs
+       اخبار بامدادی | جمعه ۲۴ مهر
+       https://soundcloud.com/iranintl/f2lgagl0ytkk
 
     45. [Unknown]
-       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
-       https://soundcloud.com/iranintl/psllieuu7kif
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/iqvlunywzsg3
 
     46. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/zuxvifziudrf
+       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
+       https://soundcloud.com/iranintl/wq6w0znyo9ye
 
     47. [Unknown]
-       اخبار شبانگاهی | پنجشنبه ۲۳ مهر
-       https://soundcloud.com/iranintl/stowjmsiqtgs
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/s8m3l8k0xuts
 
     48. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/nk5fsouveofn
+       اخبار بامدادی | جمعه ۲۴ مهر
+       https://soundcloud.com/iranintl/6weu5fofo1us
 
     49. [Unknown]
-       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
-       https://soundcloud.com/iranintl/jrvap4xwqh7j
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/h9stowz4ukiw
 
     50. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/62hjadkiojrz
+       ۲۴ با فرداد فرحزاد:  «مادر همه بمب ها!»
+       https://soundcloud.com/iranintl/blubq2ia3dlz
 
 ----------------------------------------
 
