@@ -7,7 +7,7 @@ on:
 # -------------------------------------------------------------
 # Comment syntax (on issue title: 📺 Channel Catalog – Download)
 #
-#   /download <number> [mode] [dest]
+#   /download <number> [mode] [dest] [quality]
 #
 # mode (optional):
 #   audio   → automatic audio workflow (auto)
@@ -19,11 +19,22 @@ on:
 #   repo    → new-youtube-SoundCloud-downloader (store in repo)
 #   (omit)  → repo (default)
 #
+# quality (optional, فقط برای ویدیو + costume + mega):
+#   balanced      → ⭐ تعادل عالی، حجم ≈۵۰٪ (پیش‌فرض، سریع)
+#   quality       → 🎬 کیفیت بالا، حجم کمتر (زمان بیشتر)
+#   high_quality  → 🔥 حداکثر کیفیت + حجم بهینه (زمان طولانی)
+#   size          → 📱 کیفیت خوب، حجم خیلی کم (سریع)
+#   ultra         → 💾 کیفیت قابل‌قبول، حجم فوق‌العاده کم (خیلی سریع)
+#   original      → 🔵 بدون تغییر - همان کیفیت اصلی
+#   (omit)        → balanced
+#
 # Examples:
 #   /download 5
 #   /download 5 audio
 #   /download 5 video mega
+#   /download 5 video mega ultra
 #   /download 12 audio mega
+#   /download 8 video mega quality
 # -------------------------------------------------------------
 
 jobs:
@@ -48,36 +59,40 @@ jobs:
           # Normalize to one line for parsing
           LINE=$(echo "$COMMENT" | tr '\n' ' ' | sed 's/[[:space:]]\+/ /g')
 
-          # Extract: /download <num> [mode] [dest]
-          # Accept Persian/English aliases
-          RAW=$(echo "$LINE" | grep -oiE '/download[[:space:]]+[0-9]+([[:space:]]+[a-zA-Z_]+)?([[:space:]]+[a-zA-Z_]+)?' | head -1)
+          # Extract: /download <num> [mode] [dest] [quality]  (order-independent for args)
+          RAW=$(echo "$LINE" | grep -oiE '/download[[:space:]]+[0-9]+([[:space:]]+[a-zA-Z_]+)*' | head -1)
           if [ -z "$RAW" ]; then
             echo "❌ فرمت صحیح نیست."
             echo ""
             echo "استفاده:"
-            echo "  /download <شماره> [audio|video] [mega|repo]"
+            echo "  /download <شماره> [audio|video] [mega|repo] [balanced|quality|high_quality|size|ultra|original]"
             echo ""
             echo "مثال‌ها:"
             echo "  /download 5"
             echo "  /download 5 audio"
             echo "  /download 5 video mega"
+            echo "  /download 5 video mega ultra"
             echo "  /download 12 audio mega"
             exit 1
           fi
 
           NUM=$(echo "$RAW" | awk '{print $2}')
-          ARG3=$(echo "$RAW" | awk '{print tolower($3)}')
-          ARG4=$(echo "$RAW" | awk '{print tolower($4)}')
 
           MODE=""
           DEST=""
+          QUALITY=""
 
-          for A in "$ARG3" "$ARG4"; do
+          # Parse all remaining tokens (order-independent)
+          TOKENS=$(echo "$RAW" | awk '{for(i=3;i<=NF;i++) print tolower($i)}')
+          for A in $TOKENS; do
             case "$A" in
               audio|mp3|صوتی) MODE="audio" ;;
               video|default|manual|پیشفرض|دستی) MODE="video" ;;
               mega|مگا) DEST="mega" ;;
               repo|default_repo|مخزن|repo_storage) DEST="repo" ;;
+              balanced|quality|high_quality|size|ultra|original)
+                QUALITY="$A"
+                ;;
               "") ;;
               *)
                 echo "⚠️ آرگومان ناشناخته نادیده گرفته شد: $A"
@@ -88,12 +103,14 @@ jobs:
           # Defaults
           if [ -z "$MODE" ]; then MODE="default"; fi
           if [ -z "$DEST" ]; then DEST="repo"; fi
+          if [ -z "$QUALITY" ]; then QUALITY="balanced"; fi
 
           echo "number=$NUM" >> "$GITHUB_OUTPUT"
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           echo "dest=$DEST" >> "$GITHUB_OUTPUT"
+          echo "quality=$QUALITY" >> "$GITHUB_OUTPUT"
 
-          echo "📌 number=$NUM  mode=$MODE  dest=$DEST"
+          echo "📌 number=$NUM  mode=$MODE  dest=$DEST  quality=$QUALITY"
 
       - name: Load catalog index
         id: index
@@ -150,17 +167,6 @@ jobs:
           DEST="${{ steps.parse.outputs.dest }}"
           FMT="${{ steps.index.outputs.format }}"
 
-          # mode audio → auto pipelines; otherwise costume (manual)
-          if [ "$MODE" = "audio" ] || [ "$FMT" = "audio" -a "$MODE" = "default" -a false ]; then
-            KIND="auto"
-          else
-            if [ "$MODE" = "audio" ]; then
-              KIND="auto"
-            else
-              KIND="costume"
-            fi
-          fi
-
           # Force: audio mode always auto; anything else costume
           if [ "$MODE" = "audio" ]; then
             KIND="auto"
@@ -211,11 +217,13 @@ jobs:
           WORKFLOW_FILE: ${{ steps.target.outputs.workflow_file }}
           KIND: ${{ steps.target.outputs.kind }}
           DEST: ${{ steps.parse.outputs.dest }}
+          QUALITY: ${{ steps.parse.outputs.quality }}
         run: |
           set -e
           echo "🚀 Triggering: $WORKFLOW_FILE"
           echo "   Platform: $PLATFORM"
           echo "   Format:   $FORMAT"
+          echo "   Quality:  $QUALITY"
           echo "   URL:      $URL"
           echo "   Title:    $TITLE"
 
@@ -241,19 +249,23 @@ jobs:
           PY
           )
             else
-              # Mega costume: platform, url, type (audio|video), folder, mega_folder
+              # Mega costume: platform, url, type (audio|video), optimization_profile, folder, mega_folder
               PAYLOAD=$(python3 - <<'PY'
           import json, os
           fmt = os.environ.get("FORMAT") or "video"
           if fmt not in ("audio", "video"):
               fmt = "video"
+          quality = os.environ.get("QUALITY") or "balanced"
+          valid = ("balanced", "quality", "high_quality", "size", "ultra", "original")
+          if quality not in valid:
+              quality = "balanced"
           print(json.dumps({
             "ref": "main",
             "inputs": {
               "platform": os.environ["PLATFORM"],
               "url": os.environ["URL"],
               "type": fmt,
-              "optimization_profile": "balanced",
+              "optimization_profile": quality,
               "folder": "downloads",
               "mega_folder": "YoutubeDownloads",
               "split_choice": "single",
@@ -280,6 +292,7 @@ jobs:
           )
             else
               # Repo costume: platform, url, format video|audio, folder
+              # (quality input هنوز در این ورک‌فلو پشتیبانی نمی‌شود)
               PAYLOAD=$(python3 - <<'PY'
           import json, os
           fmt = os.environ.get("FORMAT") or "video"
@@ -327,6 +340,7 @@ jobs:
           NUM="${{ steps.parse.outputs.number }}"
           MODE="${{ steps.parse.outputs.mode }}"
           DEST="${{ steps.parse.outputs.dest }}"
+          QUALITY="${{ steps.parse.outputs.quality }}"
           URL="${{ steps.index.outputs.url }}"
           TITLE="${{ steps.index.outputs.title }}"
           PLATFORM="${{ steps.index.outputs.platform }}"
@@ -345,13 +359,14 @@ jobs:
           | **فرمت** | ${FORMAT} |
           | **حالت** | ${MODE} |
           | **مقصد** | ${DEST} |
+          | **کیفیت** | ${QUALITY} |
           | **مسیر** | ${LABEL} |
           | **مخزن** | \`${REPO}\` |
           | **ورک‌فلو** | \`${WF}\` |
           | **لینک** | ${URL} |
 
           راهنما برای دفعات بعد:
-          \`/download <n>\` · \`/download <n> audio\` · \`/download <n> video mega\` · \`/download <n> audio mega\`
+          \`/download <n>\` · \`/download <n> audio\` · \`/download <n> video mega\` · \`/download <n> video mega ultra\`
           EOF
           )
 
@@ -366,12 +381,13 @@ jobs:
           ❌ خطا در پردازش دستور دانلود.
 
           فرمت صحیح:
-          \`/download <شماره> [audio|video] [mega|repo]\`
+          \`/download <شماره> [audio|video] [mega|repo] [balanced|quality|high_quality|size|ultra|original]\`
 
           مثال:
           - \`/download 5\` → پیش‌فرض (costume) + ذخیره در مخزن
           - \`/download 5 audio\` → صوتی خودکار + مخزن
-          - \`/download 5 video mega\` → ویدیو دستی + Mega
+          - \`/download 5 video mega\` → ویدیو دستی + Mega (کیفیت balanced)
+          - \`/download 5 video mega ultra\` → ویدیو دستی + Mega با کیفیت ultra
           - \`/download 12 audio mega\` → صوتی خودکار + Mega
 
           لاگ ورک‌فلو را در تب Actions بررسی کنید.
