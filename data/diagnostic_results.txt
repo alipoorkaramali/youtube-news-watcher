@@ -5,52 +5,53 @@ Saved channels: 2 YouTube, 2 SoundCloud
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['اخبار ساعت شش']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 Found 15 videos in feed
-1. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
+1. اخبار ساعت شش عصر
+   https://www.youtube.com/watch?v=KxQYYidCFbs
+   2026-10-17T14:00:00+00:00
+2. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
    https://www.youtube.com/watch?v=LGuOdTtbXA0
    2026-10-16T17:30:14+00:00
-2. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
+3. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
    https://www.youtube.com/watch?v=E-urJxrmlUI
    2026-10-16T17:00:07+00:00
-3. کلیک؛ سفر خیالی با هوش مصنوعی
+4. کلیک؛ سفر خیالی با هوش مصنوعی
    https://www.youtube.com/watch?v=Ca1HA9VRIcE
    2026-10-16T16:00:09+00:00
-4. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
+5. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
    https://www.youtube.com/watch?v=G-r6jv_w2ks
    2026-10-16T15:29:07+00:00
-5. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
+6. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
    https://www.youtube.com/watch?v=-YyJ6bomffI
    2026-10-16T15:00:42+00:00
-6. مردی که برای نجات جان مردم می‌رقصد
+7. مردی که برای نجات جان مردم می‌رقصد
    https://www.youtube.com/shorts/MDMDLCWRz3g
    2026-10-16T12:05:31+00:00
-7. باشگاه زنان بدون گرمکن و کتانی
+8. باشگاه زنان بدون گرمکن و کتانی
    https://www.youtube.com/shorts/OMNc8lqfDkQ
    2026-10-16T12:00:45+00:00
-8. بازگشت ژیان - ژیان برقی
+9. بازگشت ژیان - ژیان برقی
    https://www.youtube.com/shorts/ghWh4CJfjvE
    2026-10-16T07:59:11+00:00
-9. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
+10. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
    https://www.youtube.com/watch?v=qNRUwNLwF9k
    2026-10-16T04:14:21+00:00
-10. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
+11. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
    https://www.youtube.com/watch?v=LjCdojXkZSc
    2026-10-15T18:03:56+00:00
-11. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
+12. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
    https://www.youtube.com/watch?v=fMrpBy-1BSs
    2026-10-15T16:59:53+00:00
-12. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
+13. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
    https://www.youtube.com/watch?v=gwH9VhQHHzY
    2026-10-15T15:46:49+00:00
-13. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
+14. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
    https://www.youtube.com/watch?v=a0em4D8wI3k
    2026-10-15T15:00:23+00:00
-14. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
+15. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
    https://www.youtube.com/shorts/Y3uXmw4ALww
    2026-10-15T13:54:55+00:00
-15. ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
-   https://www.youtube.com/shorts/_VEQyMYckKc
-   2026-10-15T12:09:55+00:00
 Keyword matches:
+  [MATCH] اخبار ساعت شش عصر
   [    ] دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
   [    ] چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
   [    ] کلیک؛ سفر خیالی با هوش مصنوعی
@@ -65,57 +66,57 @@ Keyword matches:
   [    ] گفت‌وگوی خبرساز کرباسچی در صدا و سیما
   [MATCH] اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
   [    ] «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
-  [    ] ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
 
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['۶۰ دقیقه']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 Found 15 videos in feed
-1. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
+1. اخبار ساعت شش عصر
+   https://www.youtube.com/watch?v=KxQYYidCFbs
+   2026-10-17T15:00:45+00:00
+2. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
    https://www.youtube.com/watch?v=LGuOdTtbXA0
    2026-10-16T17:30:14+00:00
-2. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
+3. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
    https://www.youtube.com/watch?v=E-urJxrmlUI
    2026-10-16T17:00:07+00:00
-3. کلیک؛ سفر خیالی با هوش مصنوعی
+4. کلیک؛ سفر خیالی با هوش مصنوعی
    https://www.youtube.com/watch?v=Ca1HA9VRIcE
    2026-10-16T16:00:09+00:00
-4. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
+5. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
    https://www.youtube.com/watch?v=G-r6jv_w2ks
    2026-10-16T15:29:07+00:00
-5. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
+6. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
    https://www.youtube.com/watch?v=-YyJ6bomffI
    2026-10-16T15:00:42+00:00
-6. مردی که برای نجات جان مردم می‌رقصد
+7. مردی که برای نجات جان مردم می‌رقصد
    https://www.youtube.com/shorts/MDMDLCWRz3g
    2026-10-16T12:05:31+00:00
-7. باشگاه زنان بدون گرمکن و کتانی
+8. باشگاه زنان بدون گرمکن و کتانی
    https://www.youtube.com/shorts/OMNc8lqfDkQ
    2026-10-16T12:00:45+00:00
-8. بازگشت ژیان - ژیان برقی
+9. بازگشت ژیان - ژیان برقی
    https://www.youtube.com/shorts/ghWh4CJfjvE
    2026-10-16T07:59:11+00:00
-9. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
+10. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
    https://www.youtube.com/watch?v=qNRUwNLwF9k
    2026-10-16T04:14:21+00:00
-10. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
+11. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
    https://www.youtube.com/watch?v=LjCdojXkZSc
    2026-10-15T18:03:56+00:00
-11. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
+12. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
    https://www.youtube.com/watch?v=fMrpBy-1BSs
    2026-10-15T16:59:53+00:00
-12. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
+13. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
    https://www.youtube.com/watch?v=gwH9VhQHHzY
    2026-10-15T15:46:49+00:00
-13. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
+14. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
    https://www.youtube.com/watch?v=a0em4D8wI3k
    2026-10-15T15:00:23+00:00
-14. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
+15. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
    https://www.youtube.com/shorts/Y3uXmw4ALww
    2026-10-15T13:54:55+00:00
-15. ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
-   https://www.youtube.com/shorts/_VEQyMYckKc
-   2026-10-15T12:09:55+00:00
 Keyword matches:
+  [    ] اخبار ساعت شش عصر
   [    ] دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
   [    ] چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
   [    ] کلیک؛ سفر خیالی با هوش مصنوعی
@@ -130,299 +131,298 @@ Keyword matches:
   [    ] گفت‌وگوی خبرساز کرباسچی در صدا و سیما
   [    ] اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
   [    ] «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
-  [    ] ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار بامدادی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 Found 15 videos in feed
-1. واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-   https://www.youtube.com/watch?v=tT-RvmqLPsw
-   2026-10-17T10:00:56+00:00
-2. معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-   https://www.youtube.com/shorts/w6pxctSxSeY
-   2026-10-17T09:52:10+00:00
-3. لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-   https://www.youtube.com/watch?v=__z6dha26dc
-   2026-10-17T09:05:32+00:00
-4. عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-   https://www.youtube.com/shorts/TJPtNxihB84
-   2026-10-17T08:37:51+00:00
-5. تداوم حملات موشکی در عربستان و یمن
-   https://www.youtube.com/watch?v=SY6BCHiiPJM
-   2026-10-17T07:57:35+00:00
-6. محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-   https://www.youtube.com/watch?v=BhNwMW3ZPHs
-   2026-10-17T07:54:16+00:00
-7. آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-   https://www.youtube.com/watch?v=BlKHLhoD6MU
-   2026-10-17T07:44:25+00:00
-8. عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-   https://www.youtube.com/shorts/ivGXdbkZ78g
-   2026-10-17T07:39:35+00:00
-9. محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-   https://www.youtube.com/watch?v=A0exV2_wtuQ
-   2026-10-17T07:38:58+00:00
-10. حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-   https://www.youtube.com/watch?v=MWm8vg3keUA
-   2026-10-17T07:36:54+00:00
-11. اخبار بامدادی | شنبه ۲۵ مهر
-   https://www.youtube.com/watch?v=jHtbyRtJICs
-   2026-10-17T05:01:06+00:00
-12. تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-   https://www.youtube.com/watch?v=IvOkc3-5ky8
-   2026-10-17T04:14:02+00:00
-13. ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-   https://www.youtube.com/watch?v=g8QTlHeCCuY
-   2026-10-17T04:12:30+00:00
-14. میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-   https://www.youtube.com/watch?v=EfmXPfx4BIs
-   2026-10-17T04:08:58+00:00
-15. شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
-   https://www.youtube.com/watch?v=qC22pIr9qR8
-   2026-10-17T04:05:47+00:00
+1. مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+   https://www.youtube.com/shorts/sFxPmNEHOVg
+   2026-10-17T14:41:09+00:00
+2. ساختار فرماندهی سرکوب
+   https://www.youtube.com/watch?v=PrZwIgCMYKg
+   2026-10-17T14:24:18+00:00
+3. خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+   https://www.youtube.com/shorts/vTe-oppVC9c
+   2026-10-17T14:03:35+00:00
+4. روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+   https://www.youtube.com/watch?v=a4B6Roy_URs
+   2026-10-17T14:02:52+00:00
+5. معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+   https://www.youtube.com/watch?v=jN-uvaGzKIM
+   2026-10-17T13:51:38+00:00
+6. شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+   https://www.youtube.com/watch?v=Q7MgrM3v--g
+   2026-10-17T13:13:22+00:00
+7. شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+   https://www.youtube.com/shorts/vsFdVzjzois
+   2026-10-17T12:59:33+00:00
+8. تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+   https://www.youtube.com/watch?v=WkN-IVUU0yk
+   2026-10-17T12:19:50+00:00
+9. دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+   https://www.youtube.com/watch?v=1mXU-ZZjX6g
+   2026-10-17T12:02:18+00:00
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=ib1d9uwBOmI
+   2026-10-17T11:59:34+00:00
+11. دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+   https://www.youtube.com/shorts/9eNdpTbRmqU
+   2026-10-17T11:58:44+00:00
+12. رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+   https://www.youtube.com/shorts/Smy_KNoSfak
+   2026-10-17T11:27:37+00:00
+13. مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=Hp0mOGNe1_w
+   2026-10-17T11:24:22+00:00
+14. مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+   https://www.youtube.com/watch?v=GnzQbKgwOU4
+   2026-10-17T11:12:16+00:00
+15. شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
+   https://www.youtube.com/watch?v=vstrLK0mZR4
+   2026-10-17T11:04:46+00:00
 Keyword matches:
-  [    ] واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-  [    ] معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-  [    ] لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-  [    ] عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-  [    ] تداوم حملات موشکی در عربستان و یمن
-  [    ] محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-  [    ] آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-  [    ] عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-  [    ] محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-  [    ] حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
-  [    ] تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-  [    ] ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-  [    ] میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-  [    ] شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
+  [    ] مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+  [    ] ساختار فرماندهی سرکوب
+  [    ] خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+  [    ] روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+  [    ] معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+  [    ] شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+  [    ] شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+  [    ] تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+  [    ] دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
+  [    ] دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+  [    ] رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+  [    ] مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+  [    ] مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+  [    ] شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار شبانگاهی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 Found 15 videos in feed
-1. واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-   https://www.youtube.com/watch?v=tT-RvmqLPsw
-   2026-10-17T10:00:56+00:00
-2. معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-   https://www.youtube.com/shorts/w6pxctSxSeY
-   2026-10-17T09:52:10+00:00
-3. لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-   https://www.youtube.com/watch?v=__z6dha26dc
-   2026-10-17T09:05:32+00:00
-4. عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-   https://www.youtube.com/shorts/TJPtNxihB84
-   2026-10-17T08:37:51+00:00
-5. تداوم حملات موشکی در عربستان و یمن
-   https://www.youtube.com/watch?v=SY6BCHiiPJM
-   2026-10-17T07:57:35+00:00
-6. محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-   https://www.youtube.com/watch?v=BhNwMW3ZPHs
-   2026-10-17T07:54:16+00:00
-7. آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-   https://www.youtube.com/watch?v=BlKHLhoD6MU
-   2026-10-17T07:44:25+00:00
-8. عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-   https://www.youtube.com/shorts/ivGXdbkZ78g
-   2026-10-17T07:39:35+00:00
-9. محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-   https://www.youtube.com/watch?v=A0exV2_wtuQ
-   2026-10-17T07:38:58+00:00
-10. حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-   https://www.youtube.com/watch?v=MWm8vg3keUA
-   2026-10-17T07:36:54+00:00
-11. اخبار بامدادی | شنبه ۲۵ مهر
-   https://www.youtube.com/watch?v=jHtbyRtJICs
-   2026-10-17T05:01:06+00:00
-12. تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-   https://www.youtube.com/watch?v=IvOkc3-5ky8
-   2026-10-17T04:14:02+00:00
-13. ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-   https://www.youtube.com/watch?v=g8QTlHeCCuY
-   2026-10-17T04:12:30+00:00
-14. میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-   https://www.youtube.com/watch?v=EfmXPfx4BIs
-   2026-10-17T04:08:58+00:00
-15. شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
-   https://www.youtube.com/watch?v=qC22pIr9qR8
-   2026-10-17T04:05:47+00:00
+1. مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+   https://www.youtube.com/shorts/sFxPmNEHOVg
+   2026-10-17T14:41:09+00:00
+2. ساختار فرماندهی سرکوب
+   https://www.youtube.com/watch?v=PrZwIgCMYKg
+   2026-10-17T14:24:18+00:00
+3. خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+   https://www.youtube.com/shorts/vTe-oppVC9c
+   2026-10-17T14:03:35+00:00
+4. روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+   https://www.youtube.com/watch?v=a4B6Roy_URs
+   2026-10-17T14:02:52+00:00
+5. معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+   https://www.youtube.com/watch?v=jN-uvaGzKIM
+   2026-10-17T13:51:38+00:00
+6. شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+   https://www.youtube.com/watch?v=Q7MgrM3v--g
+   2026-10-17T13:13:22+00:00
+7. شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+   https://www.youtube.com/shorts/vsFdVzjzois
+   2026-10-17T12:59:33+00:00
+8. تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+   https://www.youtube.com/watch?v=WkN-IVUU0yk
+   2026-10-17T12:19:50+00:00
+9. دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+   https://www.youtube.com/watch?v=1mXU-ZZjX6g
+   2026-10-17T12:02:18+00:00
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=ib1d9uwBOmI
+   2026-10-17T11:59:34+00:00
+11. دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+   https://www.youtube.com/shorts/9eNdpTbRmqU
+   2026-10-17T11:58:44+00:00
+12. رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+   https://www.youtube.com/shorts/Smy_KNoSfak
+   2026-10-17T11:27:37+00:00
+13. مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=Hp0mOGNe1_w
+   2026-10-17T11:24:22+00:00
+14. مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+   https://www.youtube.com/watch?v=GnzQbKgwOU4
+   2026-10-17T11:12:16+00:00
+15. شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
+   https://www.youtube.com/watch?v=vstrLK0mZR4
+   2026-10-17T11:04:46+00:00
 Keyword matches:
-  [    ] واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-  [    ] معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-  [    ] لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-  [    ] عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-  [    ] تداوم حملات موشکی در عربستان و یمن
-  [    ] محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-  [    ] آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-  [    ] عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-  [    ] محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-  [    ] حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
-  [    ] تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-  [    ] ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-  [    ] میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-  [    ] شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
+  [    ] مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+  [    ] ساختار فرماندهی سرکوب
+  [    ] خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+  [    ] روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+  [    ] معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+  [    ] شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+  [    ] شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+  [    ] تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+  [    ] دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
+  [    ] دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+  [    ] رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+  [    ] مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+  [    ] مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+  [    ] شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار بامدادی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1ekb5rex64lo
+1. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/sqrxcel1jplx
    Unknown
 2. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/0wtnbicesd21
+   https://soundcloud.com/iranintl/ekxkx2mwpebr
    Unknown
 3. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/e8ifplqkcg1h
+   https://soundcloud.com/iranintl/7lrs0rnextr7
    Unknown
 4. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/qx56i2jt0mz2
+   https://soundcloud.com/iranintl/bagoribmb72l
    Unknown
-5. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/o5lwrrtkyavy
+5. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ecsnoqvla2fx
    Unknown
 6. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8h8zkakm7rwd
+   https://soundcloud.com/iranintl/qpjxr5wb0ex5
    Unknown
 7. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/6h5m9vl8egij
+   https://soundcloud.com/iranintl/asepdjzmmjqs
    Unknown
 8. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/hipv3al9xijx
+   https://soundcloud.com/iranintl/fggxb5trn4hn
    Unknown
-9. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/h9w2ogowm7ep
+9. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0erei4axbctf
    Unknown
 10. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/g81ysctmy9zw
+   https://soundcloud.com/iranintl/76g3vwged7mi
    Unknown
 11. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/67jyjbq0hghy
+   https://soundcloud.com/iranintl/0gvol3h5nelm
    Unknown
 12. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/3jb7h5csjge9
+   https://soundcloud.com/iranintl/ildclgowoxqe
    Unknown
-13. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/zoihgasoewu0
+13. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0ilgn5psmceh
    Unknown
 14. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/60va8j1lefpn
+   https://soundcloud.com/iranintl/pvw2y5v7mn3y
    Unknown
 15. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/kbtpftjplezq
+   https://soundcloud.com/iranintl/r3kgatfg1gzk
    Unknown
 16. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/xm8amnhnbzdd
+   https://soundcloud.com/iranintl/oofifwmq45gv
    Unknown
-17. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1kcomodshdhp
+17. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/3svtaiyrdnra
    Unknown
 18. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8qso4jak9rxw
+   https://soundcloud.com/iranintl/qcnvj3nhoc4y
    Unknown
 19. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/nwkossbipuyf
+   https://soundcloud.com/iranintl/iubahdlo8ehb
    Unknown
 20. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/bzcaewutba67
+   https://soundcloud.com/iranintl/otugn4cqz47q
    Unknown
-21. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/v10ob5pukwjr
+21. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ow8mqb1tnebj
    Unknown
 22. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ynpelve8gmm0
+   https://soundcloud.com/iranintl/ozizakifmtk8
    Unknown
 23. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/bvvxatam81y3
+   https://soundcloud.com/iranintl/ynpdcbvz0y1h
    Unknown
 24. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/iwroaerbr7oq
+   https://soundcloud.com/iranintl/8bpobodoplgk
    Unknown
-25. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/upl7vzxqh0w7
+25. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/zrwxpkzpatjj
    Unknown
 26. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/nkzobz8wpqgo
+   https://soundcloud.com/iranintl/2qmczbkcywrk
    Unknown
 27. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/63a0nirpnhot
+   https://soundcloud.com/iranintl/su99i9yjwwdc
    Unknown
 28. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/a7abugf9rdfj
+   https://soundcloud.com/iranintl/5cc2snwytbe5
    Unknown
-29. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/iabv6fs4by7e
+29. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/dhpxhao8cqh0
    Unknown
 30. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ogsysdrvihfr
+   https://soundcloud.com/iranintl/9xg5qup1cszf
    Unknown
 31. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/vrsrpcpz1ajj
+   https://soundcloud.com/iranintl/vut0jehtdw2w
    Unknown
 32. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/cfhwxgoz7dxz
+   https://soundcloud.com/iranintl/lnl3vaklntd8
    Unknown
-33. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/kh3qvewwhg0w
+33. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/mv4heyw1rai8
    Unknown
 34. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/tncucbrasqiv
+   https://soundcloud.com/iranintl/obcfcnyssvqv
    Unknown
 35. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/preo4dyoayue
+   https://soundcloud.com/iranintl/1tapa4e5n1jq
    Unknown
 36. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/n86zah9kqneg
+   https://soundcloud.com/iranintl/gvlozi02heiv
    Unknown
-37. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/rpstp15hnp3q
+37. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/4mluvqq0osmd
    Unknown
 38. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/7hs3x72gcmmt
+   https://soundcloud.com/iranintl/4grnyjbptvpw
    Unknown
 39. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/cubycmt1ztd0
+   https://soundcloud.com/iranintl/kfjt6uhdkkpt
    Unknown
 40. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/oayoohtenzgs
+   https://soundcloud.com/iranintl/tgveoey3i7dg
    Unknown
 Titles:
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [MATCH] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
@@ -430,164 +430,164 @@ Titles:
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار نیمروزی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1ekb5rex64lo
+1. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/sqrxcel1jplx
    Unknown
 2. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/0wtnbicesd21
+   https://soundcloud.com/iranintl/ekxkx2mwpebr
    Unknown
 3. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/e8ifplqkcg1h
+   https://soundcloud.com/iranintl/7lrs0rnextr7
    Unknown
 4. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/qx56i2jt0mz2
+   https://soundcloud.com/iranintl/bagoribmb72l
    Unknown
-5. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/o5lwrrtkyavy
+5. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ecsnoqvla2fx
    Unknown
 6. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8h8zkakm7rwd
+   https://soundcloud.com/iranintl/qpjxr5wb0ex5
    Unknown
 7. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/6h5m9vl8egij
+   https://soundcloud.com/iranintl/asepdjzmmjqs
    Unknown
 8. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/hipv3al9xijx
+   https://soundcloud.com/iranintl/fggxb5trn4hn
    Unknown
-9. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/h9w2ogowm7ep
+9. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0erei4axbctf
    Unknown
 10. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/g81ysctmy9zw
+   https://soundcloud.com/iranintl/76g3vwged7mi
    Unknown
 11. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/67jyjbq0hghy
+   https://soundcloud.com/iranintl/0gvol3h5nelm
    Unknown
 12. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/3jb7h5csjge9
+   https://soundcloud.com/iranintl/ildclgowoxqe
    Unknown
-13. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/zoihgasoewu0
+13. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0ilgn5psmceh
    Unknown
 14. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/60va8j1lefpn
+   https://soundcloud.com/iranintl/pvw2y5v7mn3y
    Unknown
 15. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/kbtpftjplezq
+   https://soundcloud.com/iranintl/r3kgatfg1gzk
    Unknown
 16. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/xm8amnhnbzdd
+   https://soundcloud.com/iranintl/oofifwmq45gv
    Unknown
-17. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1kcomodshdhp
+17. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/3svtaiyrdnra
    Unknown
 18. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8qso4jak9rxw
+   https://soundcloud.com/iranintl/qcnvj3nhoc4y
    Unknown
 19. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/nwkossbipuyf
+   https://soundcloud.com/iranintl/iubahdlo8ehb
    Unknown
 20. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/bzcaewutba67
+   https://soundcloud.com/iranintl/otugn4cqz47q
    Unknown
-21. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/v10ob5pukwjr
+21. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ow8mqb1tnebj
    Unknown
 22. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ynpelve8gmm0
+   https://soundcloud.com/iranintl/ozizakifmtk8
    Unknown
 23. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/bvvxatam81y3
+   https://soundcloud.com/iranintl/ynpdcbvz0y1h
    Unknown
 24. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/iwroaerbr7oq
+   https://soundcloud.com/iranintl/8bpobodoplgk
    Unknown
-25. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/upl7vzxqh0w7
+25. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/zrwxpkzpatjj
    Unknown
 26. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/nkzobz8wpqgo
+   https://soundcloud.com/iranintl/2qmczbkcywrk
    Unknown
 27. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/63a0nirpnhot
+   https://soundcloud.com/iranintl/su99i9yjwwdc
    Unknown
 28. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/a7abugf9rdfj
+   https://soundcloud.com/iranintl/5cc2snwytbe5
    Unknown
-29. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/iabv6fs4by7e
+29. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/dhpxhao8cqh0
    Unknown
 30. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ogsysdrvihfr
+   https://soundcloud.com/iranintl/9xg5qup1cszf
    Unknown
 31. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/vrsrpcpz1ajj
+   https://soundcloud.com/iranintl/vut0jehtdw2w
    Unknown
 32. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/cfhwxgoz7dxz
+   https://soundcloud.com/iranintl/lnl3vaklntd8
    Unknown
-33. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/kh3qvewwhg0w
+33. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/mv4heyw1rai8
    Unknown
 34. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/tncucbrasqiv
+   https://soundcloud.com/iranintl/obcfcnyssvqv
    Unknown
 35. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/preo4dyoayue
+   https://soundcloud.com/iranintl/1tapa4e5n1jq
    Unknown
 36. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/n86zah9kqneg
+   https://soundcloud.com/iranintl/gvlozi02heiv
    Unknown
-37. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/rpstp15hnp3q
+37. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/4mluvqq0osmd
    Unknown
 38. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/7hs3x72gcmmt
+   https://soundcloud.com/iranintl/4grnyjbptvpw
    Unknown
 39. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/cubycmt1ztd0
+   https://soundcloud.com/iranintl/kfjt6uhdkkpt
    Unknown
 40. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/oayoohtenzgs
+   https://soundcloud.com/iranintl/tgveoey3i7dg
    Unknown
 Titles:
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
@@ -595,167 +595,167 @@ Titles:
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار شبانگاهی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1ekb5rex64lo
+1. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/3spspmgzzvg0
    Unknown
-2. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/0wtnbicesd21
+2. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/sqrxcel1jplx
    Unknown
-3. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/e8ifplqkcg1h
+3. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/ekxkx2mwpebr
    Unknown
-4. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/qx56i2jt0mz2
+4. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/7lrs0rnextr7
    Unknown
-5. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/o5lwrrtkyavy
+5. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/bagoribmb72l
    Unknown
-6. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8h8zkakm7rwd
+6. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ecsnoqvla2fx
    Unknown
-7. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/6h5m9vl8egij
+7. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/qpjxr5wb0ex5
    Unknown
-8. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/hipv3al9xijx
+8. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/asepdjzmmjqs
    Unknown
-9. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/h9w2ogowm7ep
+9. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/fggxb5trn4hn
    Unknown
-10. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/g81ysctmy9zw
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0erei4axbctf
    Unknown
-11. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/67jyjbq0hghy
+11. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/76g3vwged7mi
    Unknown
-12. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/3jb7h5csjge9
+12. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/0gvol3h5nelm
    Unknown
-13. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/zoihgasoewu0
+13. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/ildclgowoxqe
    Unknown
-14. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/60va8j1lefpn
+14. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0ilgn5psmceh
    Unknown
-15. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/kbtpftjplezq
+15. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/pvw2y5v7mn3y
    Unknown
-16. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/xm8amnhnbzdd
+16. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/r3kgatfg1gzk
    Unknown
-17. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1kcomodshdhp
+17. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/oofifwmq45gv
    Unknown
-18. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8qso4jak9rxw
+18. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/3svtaiyrdnra
    Unknown
-19. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/nwkossbipuyf
+19. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/qcnvj3nhoc4y
    Unknown
-20. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/bzcaewutba67
+20. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/iubahdlo8ehb
    Unknown
-21. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/v10ob5pukwjr
+21. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/otugn4cqz47q
    Unknown
-22. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ynpelve8gmm0
+22. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ow8mqb1tnebj
    Unknown
-23. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/bvvxatam81y3
+23. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/ozizakifmtk8
    Unknown
-24. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/iwroaerbr7oq
+24. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/ynpdcbvz0y1h
    Unknown
-25. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/upl7vzxqh0w7
+25. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/8bpobodoplgk
    Unknown
-26. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/nkzobz8wpqgo
+26. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/zrwxpkzpatjj
    Unknown
-27. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/63a0nirpnhot
+27. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/2qmczbkcywrk
    Unknown
-28. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/a7abugf9rdfj
+28. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/su99i9yjwwdc
    Unknown
-29. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/iabv6fs4by7e
+29. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/5cc2snwytbe5
    Unknown
-30. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/ogsysdrvihfr
+30. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/dhpxhao8cqh0
    Unknown
-31. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/vrsrpcpz1ajj
+31. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/9xg5qup1cszf
    Unknown
-32. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/cfhwxgoz7dxz
+32. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/vut0jehtdw2w
    Unknown
-33. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/kh3qvewwhg0w
+33. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/lnl3vaklntd8
    Unknown
-34. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/tncucbrasqiv
+34. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/mv4heyw1rai8
    Unknown
-35. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/preo4dyoayue
+35. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/obcfcnyssvqv
    Unknown
-36. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/n86zah9kqneg
+36. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/1tapa4e5n1jq
    Unknown
-37. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/rpstp15hnp3q
+37. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/gvlozi02heiv
    Unknown
-38. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/7hs3x72gcmmt
+38. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/4mluvqq0osmd
    Unknown
-39. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/cubycmt1ztd0
+39. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/4grnyjbptvpw
    Unknown
-40. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/oayoohtenzgs
+40. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/kfjt6uhdkkpt
    Unknown
 Titles:
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
   [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
+  [    ] اخبار نیمروزی | شنبه ۲۵ مهر
   [    ] برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
   [    ] ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-  [    ] دومینو: وحشت حکومت از خیزش دوباره ایرانیان
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/bbcpersian, keywords=['جام جهان\u200cنما']
 SoundCloud: https://soundcloud.com/bbcpersian
@@ -925,223 +925,223 @@ Titles:
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['نیم']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 Found 15 videos in feed
-1. واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-   https://www.youtube.com/watch?v=tT-RvmqLPsw
-   2026-10-17T10:00:56+00:00
-2. معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-   https://www.youtube.com/shorts/w6pxctSxSeY
-   2026-10-17T09:52:10+00:00
-3. لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-   https://www.youtube.com/watch?v=__z6dha26dc
-   2026-10-17T09:05:32+00:00
-4. عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-   https://www.youtube.com/shorts/TJPtNxihB84
-   2026-10-17T08:37:51+00:00
-5. تداوم حملات موشکی در عربستان و یمن
-   https://www.youtube.com/watch?v=SY6BCHiiPJM
-   2026-10-17T07:57:35+00:00
-6. محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-   https://www.youtube.com/watch?v=BhNwMW3ZPHs
-   2026-10-17T07:54:16+00:00
-7. آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-   https://www.youtube.com/watch?v=BlKHLhoD6MU
-   2026-10-17T07:44:25+00:00
-8. عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-   https://www.youtube.com/shorts/ivGXdbkZ78g
-   2026-10-17T07:39:35+00:00
-9. محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-   https://www.youtube.com/watch?v=A0exV2_wtuQ
-   2026-10-17T07:38:58+00:00
-10. حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-   https://www.youtube.com/watch?v=MWm8vg3keUA
-   2026-10-17T07:36:54+00:00
-11. اخبار بامدادی | شنبه ۲۵ مهر
-   https://www.youtube.com/watch?v=jHtbyRtJICs
-   2026-10-17T05:01:06+00:00
-12. تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-   https://www.youtube.com/watch?v=IvOkc3-5ky8
-   2026-10-17T04:14:02+00:00
-13. ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-   https://www.youtube.com/watch?v=g8QTlHeCCuY
-   2026-10-17T04:12:30+00:00
-14. میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-   https://www.youtube.com/watch?v=EfmXPfx4BIs
-   2026-10-17T04:08:58+00:00
-15. شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
-   https://www.youtube.com/watch?v=qC22pIr9qR8
-   2026-10-17T04:05:47+00:00
+1. مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+   https://www.youtube.com/shorts/sFxPmNEHOVg
+   2026-10-17T14:41:09+00:00
+2. ساختار فرماندهی سرکوب
+   https://www.youtube.com/watch?v=PrZwIgCMYKg
+   2026-10-17T14:24:18+00:00
+3. خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+   https://www.youtube.com/shorts/vTe-oppVC9c
+   2026-10-17T14:03:35+00:00
+4. روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+   https://www.youtube.com/watch?v=a4B6Roy_URs
+   2026-10-17T14:02:52+00:00
+5. معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+   https://www.youtube.com/watch?v=jN-uvaGzKIM
+   2026-10-17T13:51:38+00:00
+6. شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+   https://www.youtube.com/watch?v=Q7MgrM3v--g
+   2026-10-17T13:13:22+00:00
+7. شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+   https://www.youtube.com/shorts/vsFdVzjzois
+   2026-10-17T12:59:33+00:00
+8. تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+   https://www.youtube.com/watch?v=WkN-IVUU0yk
+   2026-10-17T12:19:50+00:00
+9. دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+   https://www.youtube.com/watch?v=1mXU-ZZjX6g
+   2026-10-17T12:02:18+00:00
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=ib1d9uwBOmI
+   2026-10-17T11:59:34+00:00
+11. دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+   https://www.youtube.com/shorts/9eNdpTbRmqU
+   2026-10-17T11:58:44+00:00
+12. رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+   https://www.youtube.com/shorts/Smy_KNoSfak
+   2026-10-17T11:27:37+00:00
+13. مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=Hp0mOGNe1_w
+   2026-10-17T11:24:22+00:00
+14. مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+   https://www.youtube.com/watch?v=GnzQbKgwOU4
+   2026-10-17T11:12:16+00:00
+15. شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
+   https://www.youtube.com/watch?v=vstrLK0mZR4
+   2026-10-17T11:04:46+00:00
 Keyword matches:
-  [    ] واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-  [    ] معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-  [    ] لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-  [    ] عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-  [    ] تداوم حملات موشکی در عربستان و یمن
-  [    ] محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-  [    ] آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-  [    ] عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-  [    ] محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-  [    ] حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-  [    ] اخبار بامدادی | شنبه ۲۵ مهر
-  [    ] تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-  [    ] ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-  [    ] میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-  [    ] شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
+  [    ] مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+  [    ] ساختار فرماندهی سرکوب
+  [    ] خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+  [    ] روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+  [    ] معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+  [    ] شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+  [    ] شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+  [    ] تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+  [    ] دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+  [MATCH] اخبار نیمروزی | شنبه ۲۵ مهر
+  [    ] دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+  [    ] رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+  [    ] مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+  [    ] مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+  [    ] شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
 Building channel_catalog.md
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 Found 15 videos in feed
-1. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
+1. اخبار ساعت شش عصر
+   https://www.youtube.com/watch?v=KxQYYidCFbs
+   2026-10-17T15:00:45+00:00
+2. دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
    https://www.youtube.com/watch?v=LGuOdTtbXA0
    2026-10-16T17:30:14+00:00
-2. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
+3. چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
    https://www.youtube.com/watch?v=E-urJxrmlUI
    2026-10-16T17:00:07+00:00
-3. کلیک؛ سفر خیالی با هوش مصنوعی
+4. کلیک؛ سفر خیالی با هوش مصنوعی
    https://www.youtube.com/watch?v=Ca1HA9VRIcE
    2026-10-16T16:00:09+00:00
-4. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
+5. پادکست انتخابات آمریکا - رد پای غولهای فناوری در انتخابات و سناتوری که پنجه در پنجه ترامپ انداخت
    https://www.youtube.com/watch?v=G-r6jv_w2ks
    2026-10-16T15:29:07+00:00
-5. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
+6. اخبار ساعت شش عصر-جمعه ۲۴ مهر: احتمال حمله به تاسیسات کوه‌کلنگ
    https://www.youtube.com/watch?v=-YyJ6bomffI
    2026-10-16T15:00:42+00:00
-6. مردی که برای نجات جان مردم می‌رقصد
+7. مردی که برای نجات جان مردم می‌رقصد
    https://www.youtube.com/shorts/MDMDLCWRz3g
    2026-10-16T12:05:31+00:00
-7. باشگاه زنان بدون گرمکن و کتانی
+8. باشگاه زنان بدون گرمکن و کتانی
    https://www.youtube.com/shorts/OMNc8lqfDkQ
    2026-10-16T12:00:45+00:00
-8. بازگشت ژیان - ژیان برقی
+9. بازگشت ژیان - ژیان برقی
    https://www.youtube.com/shorts/ghWh4CJfjvE
    2026-10-16T07:59:11+00:00
-9. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
+10. پرونده میدان شهدای اصفهان، مخفیگاه طالبان در قندهار، کاشت مو و ابرو در تاجیکستان، و بیشتر: خبرنگاران
    https://www.youtube.com/watch?v=qNRUwNLwF9k
    2026-10-16T04:14:21+00:00
-10. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
+11. «مادر همه بمب‌ها»؟ آیا جنگی دیگر در راه است؟- صفحه ۲ آخرهفته
    https://www.youtube.com/watch?v=LjCdojXkZSc
    2026-10-15T18:03:56+00:00
-11. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
+12. دوباره جنگ می‌شود؟ جام جهان‌نما پنجشنبه ۲۳ مهر ۱۴۰۵
    https://www.youtube.com/watch?v=fMrpBy-1BSs
    2026-10-15T16:59:53+00:00
-12. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
+13. گفت‌وگوی خبرساز کرباسچی در صدا و سیما
    https://www.youtube.com/watch?v=gwH9VhQHHzY
    2026-10-15T15:46:49+00:00
-13. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
+14. اخبار ساعت شش عصر- پنج‌شنبه ۲۳ مهر: حمله به مدرسه میناب
    https://www.youtube.com/watch?v=a0em4D8wI3k
    2026-10-15T15:00:23+00:00
-14. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
+15. «فیلمی کمتر دیده شده از داریوش مهرجویی؛ «دایره مینا
    https://www.youtube.com/shorts/Y3uXmw4ALww
    2026-10-15T13:54:55+00:00
-15. ٔده‌ها کشته و زخمی در حادثه فروریختن سقف یک مدرسه در شهر پیشاور
-   https://www.youtube.com/shorts/_VEQyMYckKc
-   2026-10-15T12:09:55+00:00
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 Found 15 videos in feed
-1. واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
-   https://www.youtube.com/watch?v=tT-RvmqLPsw
-   2026-10-17T10:00:56+00:00
-2. معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
-   https://www.youtube.com/shorts/w6pxctSxSeY
-   2026-10-17T09:52:10+00:00
-3. لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
-   https://www.youtube.com/watch?v=__z6dha26dc
-   2026-10-17T09:05:32+00:00
-4. عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
-   https://www.youtube.com/shorts/TJPtNxihB84
-   2026-10-17T08:37:51+00:00
-5. تداوم حملات موشکی در عربستان و یمن
-   https://www.youtube.com/watch?v=SY6BCHiiPJM
-   2026-10-17T07:57:35+00:00
-6. محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
-   https://www.youtube.com/watch?v=BhNwMW3ZPHs
-   2026-10-17T07:54:16+00:00
-7. آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
-   https://www.youtube.com/watch?v=BlKHLhoD6MU
-   2026-10-17T07:44:25+00:00
-8. عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
-   https://www.youtube.com/shorts/ivGXdbkZ78g
-   2026-10-17T07:39:35+00:00
-9. محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
-   https://www.youtube.com/watch?v=A0exV2_wtuQ
-   2026-10-17T07:38:58+00:00
-10. حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
-   https://www.youtube.com/watch?v=MWm8vg3keUA
-   2026-10-17T07:36:54+00:00
-11. اخبار بامدادی | شنبه ۲۵ مهر
-   https://www.youtube.com/watch?v=jHtbyRtJICs
-   2026-10-17T05:01:06+00:00
-12. تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
-   https://www.youtube.com/watch?v=IvOkc3-5ky8
-   2026-10-17T04:14:02+00:00
-13. ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
-   https://www.youtube.com/watch?v=g8QTlHeCCuY
-   2026-10-17T04:12:30+00:00
-14. میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
-   https://www.youtube.com/watch?v=EfmXPfx4BIs
-   2026-10-17T04:08:58+00:00
-15. شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
-   https://www.youtube.com/watch?v=qC22pIr9qR8
-   2026-10-17T04:05:47+00:00
+1. مسیح علی‌نژاد، از اروپا به‌دلیل رد درخواست ویزای زنان هیات همراهش انتقاد کرد
+   https://www.youtube.com/shorts/sFxPmNEHOVg
+   2026-10-17T14:41:09+00:00
+2. ساختار فرماندهی سرکوب
+   https://www.youtube.com/watch?v=PrZwIgCMYKg
+   2026-10-17T14:24:18+00:00
+3. خانواده بهنام خواجوی‌نیا بر مزار او شمع روشن کردند
+   https://www.youtube.com/shorts/vTe-oppVC9c
+   2026-10-17T14:03:35+00:00
+4. روایت یک شهروند از دلیل انتقام‌گیری از سرهنگ نیروی انتظامی
+   https://www.youtube.com/watch?v=a4B6Roy_URs
+   2026-10-17T14:02:52+00:00
+5. معصومه طاهرخانی: توقف تجارت با پاکستان فشار ارزی و تورم را در ایران تشدید می‌کند
+   https://www.youtube.com/watch?v=jN-uvaGzKIM
+   2026-10-17T13:51:38+00:00
+6. شهرام خلدی: آمریکا به دنبال دستیابی به نتیجه مطلوب در جنگ با جمهوری اسلامی است
+   https://www.youtube.com/watch?v=Q7MgrM3v--g
+   2026-10-17T13:13:22+00:00
+7. شرکت‌کننده در تجمع استکهلم: وظیفه ما رساندن صدای آزادی‌خواهی جوانان کشته‌شده ایران است
+   https://www.youtube.com/shorts/vsFdVzjzois
+   2026-10-17T12:59:33+00:00
+8. تجمع ایرانیان در استکهلم در حمایت از اعتراضات مردم ایران
+   https://www.youtube.com/watch?v=WkN-IVUU0yk
+   2026-10-17T12:19:50+00:00
+9. دور تازه اعتراضات سراسری در فرانسه با حضور دانش‌آموزان و اتحادیه‌های کارگری
+   https://www.youtube.com/watch?v=1mXU-ZZjX6g
+   2026-10-17T12:02:18+00:00
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=ib1d9uwBOmI
+   2026-10-17T11:59:34+00:00
+11. دیدار وزرای خارجه جمهوری اسلامی و ترکیه در بغداد
+   https://www.youtube.com/shorts/9eNdpTbRmqU
+   2026-10-17T11:58:44+00:00
+12. رییس هلال احمر: اعتقاد دارم رئیسی ترور شد
+   https://www.youtube.com/shorts/Smy_KNoSfak
+   2026-10-17T11:27:37+00:00
+13. مروری بر روزنامه‌های ایران، شنبه ۲۵ مهر
+   https://www.youtube.com/watch?v=Hp0mOGNe1_w
+   2026-10-17T11:24:22+00:00
+14. مهتاب قلی‌زاده: لغو مجوز بانک صادرات لبنان نشانه فرسایش شبکه بانکی جمهوری اسلامی است
+   https://www.youtube.com/watch?v=GnzQbKgwOU4
+   2026-10-17T11:12:16+00:00
+15. شهروندان از تشدید کمبود دارو و عرضه داروهای تاریخ‌مصرف‌گذشته خبر دادند
+   https://www.youtube.com/watch?v=vstrLK0mZR4
+   2026-10-17T11:04:46+00:00
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1ekb5rex64lo
+1. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/3spspmgzzvg0
    Unknown
-2. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/0wtnbicesd21
+2. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/sqrxcel1jplx
    Unknown
-3. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/e8ifplqkcg1h
+3. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/ekxkx2mwpebr
    Unknown
-4. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/qx56i2jt0mz2
+4. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/7lrs0rnextr7
    Unknown
-5. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/o5lwrrtkyavy
+5. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/bagoribmb72l
    Unknown
-6. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8h8zkakm7rwd
+6. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/ecsnoqvla2fx
    Unknown
-7. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/6h5m9vl8egij
+7. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/qpjxr5wb0ex5
    Unknown
-8. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/hipv3al9xijx
+8. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/asepdjzmmjqs
    Unknown
-9. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/h9w2ogowm7ep
+9. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/fggxb5trn4hn
    Unknown
-10. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/g81ysctmy9zw
+10. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0erei4axbctf
    Unknown
-11. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/67jyjbq0hghy
+11. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/76g3vwged7mi
    Unknown
-12. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/3jb7h5csjge9
+12. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/0gvol3h5nelm
    Unknown
-13. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/zoihgasoewu0
+13. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/ildclgowoxqe
    Unknown
-14. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/60va8j1lefpn
+14. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/0ilgn5psmceh
    Unknown
-15. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/kbtpftjplezq
+15. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/pvw2y5v7mn3y
    Unknown
-16. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/xm8amnhnbzdd
+16. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/r3kgatfg1gzk
    Unknown
-17. اخبار بامدادی | شنبه ۲۵ مهر
-   https://soundcloud.com/iranintl/1kcomodshdhp
+17. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+   https://soundcloud.com/iranintl/oofifwmq45gv
    Unknown
-18. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-   https://soundcloud.com/iranintl/8qso4jak9rxw
+18. اخبار نیمروزی | شنبه ۲۵ مهر
+   https://soundcloud.com/iranintl/3svtaiyrdnra
    Unknown
-19. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-   https://soundcloud.com/iranintl/nwkossbipuyf
+19. برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+   https://soundcloud.com/iranintl/qcnvj3nhoc4y
    Unknown
-20. دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-   https://soundcloud.com/iranintl/bzcaewutba67
+20. ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+   https://soundcloud.com/iranintl/iubahdlo8ehb
    Unknown
 SoundCloud: https://soundcloud.com/bbcpersian
 Found 80 tracks
