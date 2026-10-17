@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-17T07:00:59.566388+00:00
-Generated (Iran): 2026-10-17T10:30:59.566404+00:00
+Generated (UTC):  2026-10-17T11:01:04.025764+00:00
+Generated (Iran): 2026-10-17T14:31:04.025778+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-17 05:01:06]
+    16. [2026-10-17 10:00:56]
+       واکنش سفارت جمهوری اسلامی به حکم دادگاه هامبورگ و رد اتهامات امنیتی
+       https://www.youtube.com/watch?v=tT-RvmqLPsw
+
+    17. [2026-10-17 09:52:10]
+       معاون اجرایی کل ارتش جمهوری اسلامی: پدر بمب‌ها ملت ایران‌اند
+       https://www.youtube.com/shorts/w6pxctSxSeY
+
+    18. [2026-10-17 09:05:32]
+       لیلا مروتی: سپاه در تامین مالی نیروهای نیابتی دچار استیصال شده است
+       https://www.youtube.com/watch?v=__z6dha26dc
+
+    19. [2026-10-17 08:37:51]
+       عراقچی در بدو ورود به عراق به دیدن مجسمه سلیمانی رفت
+       https://www.youtube.com/shorts/TJPtNxihB84
+
+    20. [2026-10-17 07:57:35]
+       تداوم حملات موشکی در عربستان و یمن
+       https://www.youtube.com/watch?v=SY6BCHiiPJM
+
+    21. [2026-10-17 07:54:16]
+       محدودیت دسترسی به کوه کلنگ و احتمال نگهداری مواد هسته‌ای ارزشمند در آن
+       https://www.youtube.com/watch?v=BhNwMW3ZPHs
+
+    22. [2026-10-17 07:44:25]
+       آغاز نشست وزیران خارجه سازمان همکاری اسلامی در بغداد
+       https://www.youtube.com/watch?v=BlKHLhoD6MU
+
+    23. [2026-10-17 07:39:35]
+       عراقچی به مجسمه قاسم سلیمانی و ابومهدی المهندس ادای احترام کرد
+       https://www.youtube.com/shorts/ivGXdbkZ78g
+
+    24. [2026-10-17 07:38:58]
+       محمدجواد اکبرین: همکاری امنیتی اسرائیل و عربستان معادلات جنگ با حوثی‌ها را تغییر می‌دهد
+       https://www.youtube.com/watch?v=A0exV2_wtuQ
+
+    25. [2026-10-17 07:36:54]
+       حسین آقایی: جمهوری اسلامی می‌خواهد هزینه جنگ را برای آمریکا و اسرائیل افزایش دهد
+       https://www.youtube.com/watch?v=MWm8vg3keUA
+
+    26. [2026-10-17 05:01:06]
        اخبار بامدادی | شنبه ۲۵ مهر
        https://www.youtube.com/watch?v=jHtbyRtJICs
 
-    17. [2026-10-17 04:14:02]
+    27. [2026-10-17 04:14:02]
        تاکید اتحادیه اروپا بر ادامه تحریم روسیه و حمایت از اوکراین
        https://www.youtube.com/watch?v=IvOkc3-5ky8
 
-    18. [2026-10-17 04:12:30]
+    28. [2026-10-17 04:12:30]
        ۲۰ سال حبس برای جوان نروژی به اتهام توطئه قتل به سفارش باند منسوب به جمهوری اسلامی
        https://www.youtube.com/watch?v=g8QTlHeCCuY
 
-    19. [2026-10-17 04:08:58]
+    29. [2026-10-17 04:08:58]
        میعاد ملکی: روسیه نجات‌دهنده جمهوری اسلامی نیست
        https://www.youtube.com/watch?v=EfmXPfx4BIs
 
-    20. [2026-10-17 04:05:47]
+    30. [2026-10-17 04:05:47]
        شهرام خلدی: جمهوری اسلامی می‌خواهد زمان حمله آمریکا را کنترل کند
        https://www.youtube.com/watch?v=qC22pIr9qR8
-
-    21. [2026-10-17 04:04:01]
-       هوشنگ حسن‌یاری: چین از هزینه‌های نظامی آمریکا برای امنیت خلیج فارس بهره می‌برد
-       https://www.youtube.com/watch?v=ZOe72p-tRKI
-
-    22. [2026-10-17 03:55:24]
-       امید معماریان: آمریکا می‌خواهد ادامه مقاومت به بهای نابودی جمهوری اسلامی تمام شود
-       https://www.youtube.com/watch?v=g3D0TmC2CXI
-
-    23. [2026-10-17 03:46:50]
-       هزینه سالانه مسکن خانوارهای شهری در ایران ۱۵ برابر شد
-       https://www.youtube.com/watch?v=OhANQbcmzdY
-
-    24. [2026-10-17 03:43:04]
-       انتخابات میان‌دوره‌ای آمریکا؛ آزمونی سرنوشت‌ساز برای ترامپ
-       https://www.youtube.com/watch?v=V7jY0U8qyZU
-
-    25. [2026-10-17 03:42:06]
-       نتانیاهو: هیچ راهی جز سرنگونی حکومت جمهوری اسلامی وجود ندارد
-       https://www.youtube.com/watch?v=JPpjcl6PA6Q
-
-    26. [2026-10-16 22:19:43]
-       احتمال ازسرگیری جنگ در خاورمیانه
-       https://www.youtube.com/shorts/bGyrbYJkLeI
-
-    27. [2026-10-16 22:16:10]
-       نتانیاهو: اسرائیل آماده حمله مستقل یا مشترک با آمریکا به جمهوری اسلامی است
-       https://www.youtube.com/watch?v=Kasr8mWz0S8
-
-    28. [2026-10-16 22:13:42]
-       کامبیز توانا: آمریکا از توان نظامی خود برای تشدید فشار اقتصادی بر تهران استفاده می‌کند
-       https://www.youtube.com/watch?v=PLTKQaYPC_A
-
-    29. [2026-10-16 22:11:16]
-       فرمانده سنتکام: فشارهای اقتصادی آمریکا پرداخت حقوق نیروهای امنیتی و سپاه را مختل کرده است
-       https://www.youtube.com/shorts/A8xjAB6RADo
-
-    30. [2026-10-16 21:37:45]
-       رونمایی از رودسترهای پرنده تسلا
-       https://www.youtube.com/shorts/eAgczyZs2m0
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/ii9xkhdg8rgb
+       اخبار بامدادی | شنبه ۲۵ مهر
+       https://soundcloud.com/iranintl/1ekb5rex64lo
 
     32. [Unknown]
-       اخبار بامدادی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/za0mmr8wzea9
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/0wtnbicesd21
 
     33. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/janavgvbagfj
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/e8ifplqkcg1h
 
     34. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/0jrgadswzffj
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/qx56i2jt0mz2
 
     35. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/ze8fgeimom4p
+       اخبار بامدادی | شنبه ۲۵ مهر
+       https://soundcloud.com/iranintl/o5lwrrtkyavy
 
     36. [Unknown]
-       اخبار بامدادی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/njl0yqmzjq9a
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/8h8zkakm7rwd
 
     37. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/jpcxzw394r9h
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/6h5m9vl8egij
 
     38. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/v6tqruzemwtu
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/hipv3al9xijx
 
     39. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/uung0awvv7p0
+       اخبار بامدادی | شنبه ۲۵ مهر
+       https://soundcloud.com/iranintl/h9w2ogowm7ep
 
     40. [Unknown]
-       اخبار بامدادی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/dhhiilmuoe4z
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/g81ysctmy9zw
 
     41. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/hy3byqektvjc
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/67jyjbq0hghy
 
     42. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/ubkh7ow7ynrj
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/3jb7h5csjge9
 
     43. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/bym99ksvoz0g
+       اخبار بامدادی | شنبه ۲۵ مهر
+       https://soundcloud.com/iranintl/zoihgasoewu0
 
     44. [Unknown]
-       اخبار بامدادی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/ol3cxvtbdjf4
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/60va8j1lefpn
 
     45. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/6c79v46ddrju
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/kbtpftjplezq
 
     46. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/chrzoktsvf9t
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/xm8amnhnbzdd
 
     47. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/bjlpfk0yzirq
+       اخبار بامدادی | شنبه ۲۵ مهر
+       https://soundcloud.com/iranintl/1kcomodshdhp
 
     48. [Unknown]
-       اخبار بامدادی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/otvgx1wqmygx
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/8qso4jak9rxw
 
     49. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/wiqhr7m6csgx
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/nwkossbipuyf
 
     50. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/57e5gvv3snti
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/bzcaewutba67
 
 ----------------------------------------
 
