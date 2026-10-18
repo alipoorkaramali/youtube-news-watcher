@@ -6,3 +6,4 @@
 2026-10-18T16:30:43.595545+00:00 | youtube | اخبار شبانگاهی | یکشنبه ۲۶ مهر | 56 minutes ago | https://www.youtube.com/watch?v=guPHRcoj5os
 2026-10-18T16:30:46.535003+00:00 | soundcloud | اخبار شبانگاهی | یکشنبه ۲۶ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/pn85c2nspvue
 2026-10-18T17:30:46.710308+00:00 | soundcloud | جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
+2026-10-18T19:30:44.166194+00:00 | youtube | حمایت قاطع ترامپ از نتانیاهو؛ «با هم کار ایران را تمام می‌کنیم» - ۶۰ دقیقه یکشنبه ۲۶ مهر | 1 hours ago | https://www.youtube.com/watch?v=Pd5ene8avsA
