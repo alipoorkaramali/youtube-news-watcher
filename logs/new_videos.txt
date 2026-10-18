@@ -3,3 +3,5 @@
 2026-10-18T12:30:46.414258+00:00 | soundcloud | اخبار نیمروزی | یکشنبه ۲۶ مهر | 0 minutes ago | https://soundcloud.com/iranintl/nsbpahygnrds
 2026-10-18T12:30:47.095274+00:00 | youtube | اخبار نیمروزی | یکشنبه ۲۶ مهر | 37 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=4CoKKfsnqBA
 2026-10-18T15:15:32.507222+00:00 | youtube | اخبار ساعت شش عصر، یکشنبه ۲۶ مهر - تاکید دوباره ترامپ بر به سرانجام رسیدن جنگ ایران به زودی | 14 minutes ago | https://www.youtube.com/watch?v=Kl4sndCd4b8
+2026-10-18T16:30:43.595545+00:00 | youtube | اخبار شبانگاهی | یکشنبه ۲۶ مهر | 56 minutes ago | https://www.youtube.com/watch?v=guPHRcoj5os
+2026-10-18T16:30:46.535003+00:00 | soundcloud | اخبار شبانگاهی | یکشنبه ۲۶ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/pn85c2nspvue
