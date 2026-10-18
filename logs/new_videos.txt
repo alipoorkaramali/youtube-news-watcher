@@ -1,2 +1,4 @@
 2026-10-18T07:30:52.423065+00:00 | youtube | اخبار بامدادی | یکشنبه ۲۶ مهر | 21 minutes ago | https://www.youtube.com/watch?v=5wmNKUwM2E8
 2026-10-18T08:30:48.532619+00:00 | soundcloud | اخبار بامدادی | یکشنبه ۲۶ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/0nzfbmudfmbs
+2026-10-18T12:30:46.414258+00:00 | soundcloud | اخبار نیمروزی | یکشنبه ۲۶ مهر | 0 minutes ago | https://soundcloud.com/iranintl/nsbpahygnrds
+2026-10-18T12:30:47.095274+00:00 | youtube | اخبار نیمروزی | یکشنبه ۲۶ مهر | 37 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=4CoKKfsnqBA
