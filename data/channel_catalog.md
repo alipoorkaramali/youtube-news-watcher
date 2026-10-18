@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-18T07:00:59.830716+00:00
-Generated (Iran): 2026-10-18T10:30:59.830733+00:00
+Generated (UTC):  2026-10-18T11:01:01.371671+00:00
+Generated (Iran): 2026-10-18T14:31:01.371688+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -35,7 +35,7 @@ YouTube channels (2)
   Videos in RSS (15):
 
     1. [2026-10-17 19:32:23]
-       ۶۰ دقیقه  شنبه ۲۵ مهر - بالا گرفتن جنگ نفتکشها خاورمیانه را به کدام سو می برد؟
+       شصت دقیقه  شنبه ۲۵ مهر - بالا گرفتن جنگ نفتکشها خاورمیانه را به کدام سو می برد؟
        https://www.youtube.com/watch?v=rg4TVH0H5-o
 
     2. [2026-10-17 18:57:46]
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-18 04:20:38]
+    16. [2026-10-18 10:29:17]
+       علیرضا رییسی، معترض اعدام‌شده، در بیابان‌های اطراف انارک دفن شد
+       https://www.youtube.com/watch?v=pKI0cbnL70U
+
+    17. [2026-10-18 10:26:37]
+       ساختار فرماندهی سرکوب
+       https://www.youtube.com/watch?v=siGLt_CzLu8
+
+    18. [2026-10-18 10:22:45]
+       علی شیرازی: وزیر دفاع جدید جمهوری اسلامی سابقه همکاری در پروژه‌های موشکی و هسته‌ای دارد
+       https://www.youtube.com/watch?v=mK-lMZnWaOI
+
+    19. [2026-10-18 09:56:07]
+       عراقچی: از نظر ما طرح ۷ روزه روی میز است
+       https://www.youtube.com/shorts/Q8sL0wWqIwE
+
+    20. [2026-10-18 09:44:33]
+       ترامپ: قیمت بنزین پس از پایان جنگ از قبل هم پایین‌تر می‌آید
+       https://www.youtube.com/shorts/WzZarmqyNmQ
+
+    21. [2026-10-18 09:40:03]
+       جلال ایجادی: اعتراضات فرانسه و ایتالیا نشان‌دهنده تشدید بحران‌های اقتصادی در اروپاست
+       https://www.youtube.com/watch?v=Wp9W9aag9fo
+
+    22. [2026-10-18 09:28:46]
+       علی صدرزاده: حملات حوثی‌ها به عربستان می‌تواند بحران منطقه را وارد مرحله تازه‌ای کند
+       https://www.youtube.com/watch?v=uKW1FeFdO9s
+
+    23. [2026-10-18 09:22:50]
+       اعتراضات گسترده در فرانسه؛ از غارت فروشگاه‌ها تا آتش‌سوزی در ساختمان شهرداری لیموژ
+       https://www.youtube.com/shorts/_-6baCmfLtc
+
+    24. [2026-10-18 09:13:15]
+       روح‌الله رحیم‌پور: شکست راهبرد فشار آمریکا گزینه نظامی علیه جمهوری اسلامی را فعال می‌کند
+       https://www.youtube.com/watch?v=YWIzn37t_q0
+
+    25. [2026-10-18 07:48:07]
+       درگیری معترضان و پلیس در شهرهای ایتالیا؛ ده‌ها نفر زخمی و بازداشت شدند
+       https://www.youtube.com/watch?v=f0PYVhcIqP0
+
+    26. [2026-10-18 07:46:01]
+       نتانیاهو از تهدید موشکی جمهوری اسلامی و آمادگی اسرائیل برای حمله خبر داد
+       https://www.youtube.com/watch?v=KFbB-tB_ILA
+
+    27. [2026-10-18 07:28:51]
+       عراقچی در بغداد با مقام‌های عراقی و وزیر خارجه ترکیه دیدار کرد
+       https://www.youtube.com/watch?v=li3Uc5s92dE
+
+    28. [2026-10-18 07:09:01]
+       اخبار بامدادی | یکشنبه ۲۶ مهر
+       https://www.youtube.com/watch?v=5wmNKUwM2E8
+
+    29. [2026-10-18 04:20:38]
        غسان عاشور: بخشی از پول نفت عراق از طریق حشدالشعبی به سپاه قدس منتقل می‌شد
        https://www.youtube.com/watch?v=_SzyXkyz41Y
 
-    17. [2026-10-18 04:20:04]
+    30. [2026-10-18 04:20:04]
        بازداشت خبرنگار ژاپنی در روسیه به اتهام جاسوسی
        https://www.youtube.com/watch?v=vH-WWFTq46o
-
-    18. [2026-10-18 04:12:53]
-       ترامپ از پایان نزدیک جنگ و کاهش قیمت بنزین در آمریکا خبر داد
-       https://www.youtube.com/watch?v=OMY6EaNfKqA
-
-    19. [2026-10-18 04:01:08]
-       محمد قائدی:‌ تهران هم حوثی‌ها را تقویت می‌کند و هم خود را میانجی صلح جا می‌زند
-       https://www.youtube.com/watch?v=_LH7HmfBC4A
-
-    20. [2026-10-18 03:47:34]
-       فرزین ندیمی: حمله نظامی نمی‌تواند مانع بازسازی برنامه هسته‌ای جمهوری اسلامی شود
-       https://www.youtube.com/watch?v=uYQ9SZBL_aI
-
-    21. [2026-10-18 03:45:29]
-       فرزین کرباسی: دولت عراق توان مهار گروه‌های مسلح وابسته به تهران را ندارد
-       https://www.youtube.com/watch?v=YBFBEwhpv-E
-
-    22. [2026-10-18 03:43:39]
-       کمبود ۱۰۰ هزار پرستار در نظام درمانی ایران
-       https://www.youtube.com/watch?v=DPNxMyu6At0
-
-    23. [2026-10-18 03:40:56]
-       تجمع ایرانیان در واشینگتن در اعتراض به موج اعدام‌ها در ایران
-       https://www.youtube.com/watch?v=ad5aEz2zyAs
-
-    24. [2026-10-17 22:52:41]
-       کامبیز توانا: نتانیاهو مقابله با جمهوری اسلامی را به محور رقابت انتخاباتی تبدیل کرده است
-       https://www.youtube.com/watch?v=GFHKDUoKvUY
-
-    25. [2026-10-17 22:41:46]
-       میثم مهرانی: توافق هسته‌ای به‌تنهایی اختلافات آمریکا و جمهوری اسلامی را حل نمی‌کند
-       https://www.youtube.com/watch?v=bIiDMAivaQU
-
-    26. [2026-10-17 22:35:27]
-       دبه درآوردن دولت درباره یارانه‌ها
-       https://www.youtube.com/shorts/Mi_uQ4lQYzQ
-
-    27. [2026-10-17 22:14:44]
-       سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
-       https://www.youtube.com/watch?v=opwn71ombr0
-
-    28. [2026-10-17 22:14:14]
-       بازی مار و پله اسرائیل با مقامات جمهوری اسلامی
-       https://www.youtube.com/shorts/yPl0FsILgKg
-
-    29. [2026-10-17 22:09:56]
-       اختصاصی ایران‌اینترنشنال؛ وزارت خارجه آلمان: به اقدامات جمهوری اسلامی واکنش نشان می‌دهیم
-       https://www.youtube.com/shorts/R8YQKpOWwzE
-
-    30. [2026-10-17 21:59:37]
-       نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
-       https://www.youtube.com/shorts/9VezI76Lat8
 
 ----------------------------------------
 
@@ -187,83 +187,83 @@ SoundCloud sources (2)
 
     31. [Unknown]
        دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/qjpveomoyfsf
+       https://soundcloud.com/iranintl/1tg74jczfejf
 
     32. [Unknown]
        تیتراول با نیوشا صارمی: ادامه حملات حوثی‌ها به عربستان؛ حمایت اطلاعاتی تهران از شبه‌نظامیان یمنی
-       https://soundcloud.com/iranintl/nmphdhvm6pjh
+       https://soundcloud.com/iranintl/qbbtmflfxpnh
 
     33. [Unknown]
-       اخبار شبانگاهی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/lrirsk8qxq1p
+       اخبار بامدادی | یکشنبه ۲۶ مهر
+       https://soundcloud.com/iranintl/daovzsh42yaw
 
     34. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
-       https://soundcloud.com/iranintl/nigzxpgvlgvd
+       https://soundcloud.com/iranintl/k5audc27ttxw
 
     35. [Unknown]
        چشم‌انداز: طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران
-       https://soundcloud.com/iranintl/143ua4rsbgxf
+       https://soundcloud.com/iranintl/rqztxqizrybf
 
     36. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/uz2hquexepql
+       https://soundcloud.com/iranintl/mykvlnz8iwce
 
     37. [Unknown]
        ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/r6q9n692ty80
+       https://soundcloud.com/iranintl/1h29gtnu59jk
 
     38. [Unknown]
        دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/eahu4w9moaq7
+       https://soundcloud.com/iranintl/bv5ir5hbk7rk
 
     39. [Unknown]
        تیتراول با نیوشا صارمی: ادامه حملات حوثی‌ها به عربستان؛ حمایت اطلاعاتی تهران از شبه‌نظامیان یمنی
-       https://soundcloud.com/iranintl/jzhltc6ntcxx
+       https://soundcloud.com/iranintl/tm05uu6hv5lr
 
     40. [Unknown]
-       اخبار شبانگاهی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/s7z5agxdfejo
+       اخبار بامدادی | یکشنبه ۲۶ مهر
+       https://soundcloud.com/iranintl/c5t4li2iheze
 
     41. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
-       https://soundcloud.com/iranintl/n4ru2ti7rgeo
+       https://soundcloud.com/iranintl/oyxi2mqkgrie
 
     42. [Unknown]
        چشم‌انداز: طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران
-       https://soundcloud.com/iranintl/sgw3767qdlj0
+       https://soundcloud.com/iranintl/idv5vqduhpdo
 
     43. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/hnpi6dwkvzkz
+       https://soundcloud.com/iranintl/fspvzuyh098f
 
     44. [Unknown]
        ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/rxdwl5osngjr
+       https://soundcloud.com/iranintl/vbwmmbizvwtt
 
     45. [Unknown]
        دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/nsd7szuydici
+       https://soundcloud.com/iranintl/kwjcodyf44ce
 
     46. [Unknown]
        تیتراول با نیوشا صارمی: ادامه حملات حوثی‌ها به عربستان؛ حمایت اطلاعاتی تهران از شبه‌نظامیان یمنی
-       https://soundcloud.com/iranintl/zdon83imly3r
+       https://soundcloud.com/iranintl/yln95rxlgryx
 
     47. [Unknown]
-       اخبار شبانگاهی | شنبه ۲۵ مهر
-       https://soundcloud.com/iranintl/nr2ljk1t6m48
+       اخبار بامدادی | یکشنبه ۲۶ مهر
+       https://soundcloud.com/iranintl/udntdfyiqoq0
 
     48. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: راه سرنگونی جمهوری اسلامی را بلدم
-       https://soundcloud.com/iranintl/qu55jqfsdvgx
+       https://soundcloud.com/iranintl/cdc7cdsgucpz
 
     49. [Unknown]
        چشم‌انداز: طرح‌های نظامی هولناک آمریکا برای تسلیم کردن حکومت ایران
-       https://soundcloud.com/iranintl/waxgczqyyn9w
+       https://soundcloud.com/iranintl/j6ros4equ8eb
 
     50. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/afi5xm8b1qqs
+       https://soundcloud.com/iranintl/st5bx46op8a5
 
 ----------------------------------------
 
