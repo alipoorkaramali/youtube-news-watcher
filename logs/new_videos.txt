@@ -5,3 +5,5 @@
 2026-10-19T15:15:36.287016+00:00 | youtube | اخبار ساعت شش عصر، دوشنبه ۲۷ مهر: ایران و روسیه درباره مذاکرات، خلیج فارس و اوکراین گفت‌وگو کردند | 14 minutes ago | https://www.youtube.com/watch?v=IrQlVsVbaO0
 2026-10-19T15:30:46.362039+00:00 | youtube | اخبار شبانگاهی | دوشنبه ۲۷ مهر | 3 minutes ago | https://www.youtube.com/watch?v=rSWDUIx_3Kc
 2026-10-19T16:30:51.182086+00:00 | soundcloud | اخبار شبانگاهی | دوشنبه ۲۷ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/78xvhfy4nunx
+2026-10-19T19:30:48.247374+00:00 | youtube | سایه ایران بر دو انتخابات سرنوشت‌ساز اسرائیل و آمریکا - ۶۰ دقیقه دوشنبه ۲۷ مهر | 1 hours ago | https://www.youtube.com/watch?v=OEj79LzMgrk
+2026-10-19T19:30:50.818011+00:00 | soundcloud | جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/l8cbozddpo54
