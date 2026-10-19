@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-19T11:01:04.046941+00:00
-Generated (Iran): 2026-10-19T14:31:04.046957+00:00
+Generated (UTC):  2026-10-19T15:01:06.057327+00:00
+Generated (Iran): 2026-10-19T18:31:06.057347+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-19 09:43:04]
+    1. [2026-10-19 14:00:00]
+       اخبار ساعت شش عصر، دوشنبه ۲۷ مهر: ایران و روسیه درباره مذاکرات، خلیج فارس و اوکراین گفت‌وگو کردند
+       https://www.youtube.com/watch?v=IrQlVsVbaO0
+
+    2. [2026-10-19 14:47:20]
+       سرخط خبرها، دوشنبه ۲۷ مهر ۱۴۰۵
+       https://www.youtube.com/shorts/Qsu1mFv_idg
+
+    3. [2026-10-19 11:47:23]
+       علیرضا رئیسی از بازداشتی‌های اعدام شده دی‌ماه، در بیابان به خاک سپرده شده است
+       https://www.youtube.com/shorts/w6aDwhi7oGo
+
+    4. [2026-10-19 11:36:46]
+       صاحب یک مغازه در پاریس: «بیش از صدهزار یورو خسارت غارت مغازه‌ام است»
+       https://www.youtube.com/shorts/ll8NGwgXz50
+
+    5. [2026-10-19 09:43:04]
        تلنبار شدن خودروها در تونلی در سائوپائولو برزیل پس از بارش شدید باران
        https://www.youtube.com/shorts/VyiGsBdYtCQ
 
-    2. [2026-10-19 09:36:39]
+    6. [2026-10-19 09:36:39]
        شمشیر، آتش و رقص‌های محلی در فستیوال نوراتری هند
        https://www.youtube.com/shorts/-bBNtwZDwdg
 
-    3. [2026-10-18 19:31:39]
+    7. [2026-10-18 19:31:39]
        حمایت قاطع ترامپ از نتانیاهو؛ «با هم کار ایران را تمام می‌کنیم» - ۶۰ دقیقه یکشنبه ۲۶ مهر
        https://www.youtube.com/watch?v=Pd5ene8avsA
 
-    4. [2026-10-18 17:03:12]
+    8. [2026-10-18 17:03:12]
        خط‌‌ ونشان وزیر دفاع تازه ایران برای آمریکا؛ جام جهان‌نما یکشنبه ۲۶ مهر
        https://www.youtube.com/watch?v=bCA47tDmBl8
 
-    5. [2026-10-18 15:00:47]
+    9. [2026-10-18 15:00:47]
        اخبار ساعت شش عصر، یکشنبه ۲۶ مهر - تاکید دوباره ترامپ بر به سرانجام رسیدن جنگ ایران به زودی
        https://www.youtube.com/watch?v=Kl4sndCd4b8
 
-    6. [2026-10-18 13:59:48]
+    10. [2026-10-18 13:59:48]
        سرخط خبرها، یکشنبه ۲۶ مهر ۱۴۰۵
        https://www.youtube.com/shorts/W73z8JgNs2Y
 
-    7. [2026-10-18 13:49:59]
+    11. [2026-10-18 13:49:59]
        استقبال از سلام‌ایر عمان در تهران
        https://www.youtube.com/shorts/Z44oWOQBq_I
 
-    8. [2026-10-18 12:23:02]
+    12. [2026-10-18 12:23:02]
        اعتراضات سراسری در فرانسه
        https://www.youtube.com/shorts/NWzqELnmais
 
-    9. [2026-10-17 19:32:23]
+    13. [2026-10-17 19:32:23]
        شصت دقیقه  شنبه ۲۵ مهر - بالا گرفتن جنگ نفتکشها خاورمیانه را به کدام سو می برد؟
        https://www.youtube.com/watch?v=rg4TVH0H5-o
 
-    10. [2026-10-17 18:57:46]
+    14. [2026-10-17 18:57:46]
        خاکسپاری پیمان قدیری، معترض دی‌ماه که پس از۹ ماه کما جان باخت.
        https://www.youtube.com/shorts/TVKH67i6p-g
 
-    11. [2026-10-17 18:50:42]
+    15. [2026-10-17 18:50:42]
        پنجمین روز اعتراضات ضددولتی در تیرانا، پایتخت آلبانی
        https://www.youtube.com/shorts/W5i7BpeJdO8
-
-    12. [2026-10-17 17:02:37]
-       بحران از هر سو؛ ترامپ می‌تواند از این وضعیت پیروز بیرون بیاید؟ جام جهان‌نما شنبه ۲۵ مهر ۱۴۰۵
-       https://www.youtube.com/watch?v=ICHVhn6JBvc
-
-    13. [2026-10-17 15:00:45]
-       اخبار ساعت شش عصر- شنبه ۲۵ مهر: انفجار دو نفتکش در تنگه هرمز
-       https://www.youtube.com/watch?v=KxQYYidCFbs
-
-    14. [2026-10-16 17:30:14]
-       دایره مینا»؛ فیلمی کمتر دیده شده از داریوش مهرجویی»
-       https://www.youtube.com/watch?v=LGuOdTtbXA0
-
-    15. [2026-10-16 17:00:07]
-       چند طرف در جنگ ایران درگیرند؟ جام جهان‌نما جمعه ۲۴ مهر
-       https://www.youtube.com/watch?v=E-urJxrmlUI
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-19 10:50:08]
-       لحظات غیرمنتظره در جریان اعتراضات فرانسه
-       https://www.youtube.com/shorts/BIbK0FnvOJI
+    16. [2026-10-19 14:37:07]
+       درگیری با پلیس و تخریب اموال در دومین روز ناآرامی‌های میلان
+       https://www.youtube.com/watch?v=qFGNVHBwoDI
 
-    17. [2026-10-19 10:20:04]
-       علی‌حسین قاضی‌زاده: تاکید ترامپ بر همراهی نتانیاهو نشانه انتخاب مسیر نظامی است
-       https://www.youtube.com/watch?v=xtAepMTmXCg
+    17. [2026-10-19 14:30:03]
+       جانفدایان مجتبی یا حقوق‌بگیران ۲۴ ساعته؟
+       https://www.youtube.com/watch?v=Z4kM3C_GOGY
 
-    18. [2026-10-19 10:19:08]
-       دوره نخست‌وزیری نتانیاهو
-       https://www.youtube.com/watch?v=vjBv2MAY8oQ
+    18. [2026-10-19 13:31:38]
+       واکنش کاربران ایرانی به اعتراضات فرانسه و بازخوانی ائتلاف چپ‌گرایان و اسلام‌گرایان در انقلاب ۵۷
+       https://www.youtube.com/watch?v=v27EqoQpjKM
 
-    19. [2026-10-19 10:12:54]
-       معترضان در فرانسه قطار گردشگری را ربودند
-       https://www.youtube.com/shorts/30R-nJFjXO0
+    19. [2026-10-19 13:27:19]
+       زوجی در نزدیکی محل درگیری‌ها در پاریس، در کافه نوشیدنی می‌نوشند
+       https://www.youtube.com/shorts/m_aNX9tyDmE
 
-    20. [2026-10-19 10:05:51]
-       ساختار خامنه‌ای برای سرکوب خیزش زن، زندگی، آزادی
-       https://www.youtube.com/watch?v=bI7eHtvbbPw
+    20. [2026-10-19 13:26:21]
+       پیام شهروندان درباره قطع یارانه و کالابرگ و مشکلات دریافت کمک‌های معیشتی
+       https://www.youtube.com/watch?v=NARobnwmCtM
 
-    21. [2026-10-19 09:51:48]
-       واکنش مخاطبان به تفاوت برخورد با معترضان در فرانسه و ایران
-       https://www.youtube.com/watch?v=K6_SQZAqo00
+    21. [2026-10-19 13:17:25]
+       هشدارها درباره پیامدهای تشدید بحران اقتصادی ایران
+       https://www.youtube.com/watch?v=zOMzQ47NPmU
 
-    22. [2026-10-19 09:25:02]
-       وزیر امور خارجه آمریکا از میدان تاریخی ریگستان در سمرقند بازدید کرد
-       https://www.youtube.com/shorts/tf3TVzFyPfM
+    22. [2026-10-19 13:06:03]
+       دیدار لاوروف با عراقچی در تهران
+       https://www.youtube.com/shorts/p4BcKw_ADcg
 
-    23. [2026-10-19 09:13:52]
-       مخبر: با مجتبی خامنه‌ای آرامش و آینده درخشانی در کشور داریم
-       https://www.youtube.com/shorts/X_YppAdOXog
+    23. [2026-10-19 12:52:44]
+       ترامپ: واشینگتن تمایلی به مقابله با جمهوری اسلامی بدون همراهی نتانیاهو ندارد
+       https://www.youtube.com/watch?v=ihko2qwyMak
 
-    24. [2026-10-19 08:26:52]
-       نتانیاهو: اسرائیل و آمریکا با هم ماموریت خود علیه تهدید جمهوری اسلامی را پایان می‌دهند
-       https://www.youtube.com/watch?v=B69xPuDC0YI
+    24. [2026-10-19 12:37:16]
+       معترضان در ششمین شب اعتراضات آلبانی مواد آتش‌زا پرتاب کردند
+       https://www.youtube.com/shorts/V3N-H3LMTF0
 
-    25. [2026-10-19 08:21:59]
-       خوش‌چشم، تحلیلگر حکومتی: اگر لازم باشد به اروپا هم موشک می‌زنیم
-       https://www.youtube.com/shorts/n-xQ0WnPlVo
+    25. [2026-10-19 12:30:24]
+       تیم ملی کشتی آزاد ایران قهرمان رقابت‌های زیر ۲۳ سال جهان شد
+       https://www.youtube.com/watch?v=QdEWdLOHPYI
 
-    26. [2026-10-19 08:17:43]
-       فرود اضطراری هواپیمای مسافربری در بلغارستان در پی تهدید به بمب‌گذاری
-       https://www.youtube.com/watch?v=5dGc44ATGTk
+    26. [2026-10-19 12:22:25]
+       حمله موشکی حوثی‌های مورد حمایت جمهوری اسلامی به اردوگاه نظامی در یمن؛ دست‌کم ۱۸ کشته
+       https://www.youtube.com/watch?v=xqqBIwUBU5s
 
-    27. [2026-10-19 08:05:52]
-       تجمع ایرانیان در پاریس در اعتراض به اعدام‌ها و حمایت از زندانیان سیاسی
-       https://www.youtube.com/watch?v=SwZPTefS2Y8
+    27. [2026-10-19 12:21:27]
+       شش فیلم از ایران در هفتادمین جشنواره بین‌المللی فیلم لندن
+       https://www.youtube.com/watch?v=1Oq5XoW7qXE
 
-    28. [2026-10-19 07:54:41]
-       روح‌الله رحیم‌پور: پیروزی نتانیاهو در انتخابات اسرائیل احتمال جنگ دوباره را افزایش می‌دهد
-       https://www.youtube.com/watch?v=c38y9mKvp5Y
+    28. [2026-10-19 12:04:41]
+       ۲۰ روز جست‌وجو برای یافتن پیکر امیرمحمد حاتمی
+       https://www.youtube.com/watch?v=deQlyuH9TJk
 
-    29. [2026-10-19 07:39:27]
-       آسیا تایمز: جنگ آمریکا و جمهوری اسلامی رقابت واشینگتن و پکن را وارد مرحله تازه‌ای کرده است
-       https://www.youtube.com/watch?v=JlRZWupXzPw
+    29. [2026-10-19 11:33:13]
+       مجروح شدن آلفرد یعقوب‌زاده، عکاس ایرانی، در اعتراضات پاریس
+       https://www.youtube.com/watch?v=4wihSPMRo0Q
 
-    30. [2026-10-19 07:33:34]
-       آرش رازی: شاهزاده رضا پهلوی به دنبال تغییر نگاه واشینگتن به آینده ایران است
-       https://www.youtube.com/watch?v=83Bdl-XfFAM
+    30. [2026-10-19 11:29:28]
+       مکرون و امیر کویت توافق‌نامه امضا کردند
+       https://www.youtube.com/shorts/zGP7i2faSr8
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | دوشنبه ۲۷ مهر
+       https://soundcloud.com/iranintl/vituiiz7x9ko
+
+    32. [Unknown]
+       سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
+       https://soundcloud.com/iranintl/dskls2xhigbf
+
+    33. [Unknown]
+       چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
+       https://soundcloud.com/iranintl/ocktzg5qxgl6
+
+    34. [Unknown]
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/rnud4xrufvep
+
+    35. [Unknown]
+       تیتراول با نیوشا صارمی: حمایت بی‌قیدوشرط ترامپ از نتانیاهو هم‌زمان با اولتیماتوم به جمهوری اسلامی
+       https://soundcloud.com/iranintl/pm05dx5yapoy
+
+    36. [Unknown]
+       اخبار بامدادی | دوشنبه ۲۷ مهر
+       https://soundcloud.com/iranintl/jlg6bv8j6pw0
+
+    37. [Unknown]
+       سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
+       https://soundcloud.com/iranintl/0ddxjn8xwoh8
+
+    38. [Unknown]
+       چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
+       https://soundcloud.com/iranintl/g71flnkvf5o5
+
+    39. [Unknown]
+       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
+       https://soundcloud.com/iranintl/gkwa3xqdj911
+
+    40. [Unknown]
+       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
+       https://soundcloud.com/iranintl/lacoyjrbnizy
+
+    41. [Unknown]
+       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
+       https://soundcloud.com/iranintl/wf9tq9xvnb5s
+
+    42. [Unknown]
        تیتراول با نیوشا صارمی: حمایت بی‌قیدوشرط ترامپ از نتانیاهو هم‌زمان با اولتیماتوم به جمهوری اسلامی
        https://soundcloud.com/iranintl/zjw0z0xnchfc
 
-    32. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/n7simeojphm4
 
-    33. [Unknown]
+    44. [Unknown]
        سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
        https://soundcloud.com/iranintl/b8hunaosqizu
 
-    34. [Unknown]
+    45. [Unknown]
        چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
        https://soundcloud.com/iranintl/qd3osvhuamoi
 
-    35. [Unknown]
+    46. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
        https://soundcloud.com/iranintl/yagwlyfkkvrt
 
-    36. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
        https://soundcloud.com/iranintl/3fr9hh36evld
 
-    37. [Unknown]
+    48. [Unknown]
        دومینو: وحشت حکومت از خیزش دوباره ایرانیان
        https://soundcloud.com/iranintl/ttjhl8vuepnr
 
-    38. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: حمایت بی‌قیدوشرط ترامپ از نتانیاهو هم‌زمان با اولتیماتوم به جمهوری اسلامی
        https://soundcloud.com/iranintl/watn2hvtpixc
 
-    39. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/bznl5d45gy4d
-
-    40. [Unknown]
-       سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
-       https://soundcloud.com/iranintl/29qpzwe2viz0
-
-    41. [Unknown]
-       چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
-       https://soundcloud.com/iranintl/xuh3frufdjrh
-
-    42. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/f3nmp7isdtfv
-
-    43. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/kwh1fxl3pdao
-
-    44. [Unknown]
-       دومینو: وحشت حکومت از خیزش دوباره ایرانیان
-       https://soundcloud.com/iranintl/kb2t4fg166fj
-
-    45. [Unknown]
-       تیتراول با نیوشا صارمی: حمایت بی‌قیدوشرط ترامپ از نتانیاهو هم‌زمان با اولتیماتوم به جمهوری اسلامی
-       https://soundcloud.com/iranintl/r7ly0sbcdpoc
-
-    46. [Unknown]
-       اخبار بامدادی | دوشنبه ۲۷ مهر
-       https://soundcloud.com/iranintl/n1lqpg7zkf37
-
-    47. [Unknown]
-       سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
-       https://soundcloud.com/iranintl/q1ojzo6dxmzs
-
-    48. [Unknown]
-       چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
-       https://soundcloud.com/iranintl/wo4amzj3cx3b
-
-    49. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/hvs81dg80tjs
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/gvksuoqrjknf
 
 ----------------------------------------
 
