@@ -3,3 +3,5 @@
 2026-10-20T11:30:50.014962+00:00 | youtube | اخبار نیمروزی | سه‌شنبه ۲۸ مهر | 23 minutes ago | https://www.youtube.com/watch?v=M0MHqo0kE2o
 2026-10-20T12:30:45.731847+00:00 | soundcloud | اخبار نیمروزی | سه‌شنبه ۲۸ مهر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/bsthrzzyyfmk
 2026-10-20T15:15:40.983505+00:00 | youtube | اخبار ساعت شش عصر | 15 minutes ago | https://www.youtube.com/watch?v=xErav2gZde8
+2026-10-20T19:30:49.487065+00:00 | youtube | تأکید نتانیاهو بر سرنگونی حکومت ایران در هماهنگی با آمریکا - ۶۰ دقیقه سه‌شنبه ۲۸ مهر | 1 hours ago | https://www.youtube.com/watch?v=XnKZ5EOL8qg
+2026-10-20T19:30:53.918409+00:00 | soundcloud | جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/8ys75f0kbyvh
