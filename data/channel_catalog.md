@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-20T19:01:01.283905+00:00
-Generated (Iran): 2026-10-20T22:31:01.283922+00:00
+Generated (UTC):  2026-10-21T07:01:03.613529+00:00
+Generated (Iran): 2026-10-21T10:31:03.613545+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-20 18:00:00]
+    1. [2026-10-20 19:31:28]
        تأکید نتانیاهو بر سرنگونی حکومت ایران در هماهنگی با آمریکا - ۶۰ دقیقه سه‌شنبه ۲۸ مهر
        https://www.youtube.com/watch?v=XnKZ5EOL8qg
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-20 18:48:44]
-       کمک بریتانیا به ریاض در جنگ با حوثی‌ها
-       https://www.youtube.com/shorts/4kBSeifgPOg
+    16. [2026-10-21 06:47:24]
+       اخبار بامدادی | چهارشنبه ۲۹ مهر
+       https://www.youtube.com/watch?v=APpc-UJfHx4
 
-    17. [2026-10-20 17:31:36]
-       تیتراول با نیوشا صارمی: نتانیاهو: سرنگونی جمهوری اسلامی در دستور کار موساد است، ترامپ هم موافق است
-       https://www.youtube.com/watch?v=Qyqdc4sYf-A
+    17. [2026-10-21 04:16:26]
+       ایتالیا ۵۰۰ نیروی ارتش را برای تقویت امنیت به میلان اعزام می‌کند
+       https://www.youtube.com/watch?v=-ZhLfI94Is4
 
-    18. [2026-10-20 17:07:00]
-       اقتصاد و بازار: تاکید بسنت بر سقوط اقتصاد ایران؛ برگشت خوردن کامیون‌ها از مرز پاکستان
-       https://www.youtube.com/watch?v=hXFpebyTaAY
+    18. [2026-10-21 04:15:37]
+       افزایش نگرانی‌ها از صدور و اجرای احکام اعدام زندانیان سیاسی در ایران
+       https://www.youtube.com/watch?v=-EO6Ok49OdI
 
-    19. [2026-10-20 16:06:17]
-       مردم آلبرتا با اکثریت ۷۶ درصدی، طرح آغاز روند استقلال را رد کردند
-       https://www.youtube.com/watch?v=GIk1UocdKdg
+    19. [2026-10-21 04:08:15]
+       علیرضا نامور حقیقی: اختلاف بر سر مذاکره، شکاف راهبردی در جمهوری اسلامی را آشکار کرده است
+       https://www.youtube.com/watch?v=5efQDQ5V-_E
 
-    20. [2026-10-20 15:38:28]
-       گزارش روز با مجتبا پورمحسن: سلام ترامپ به جنگ با رد پیشنهاد توافق جمهوری اسلامی
-       https://www.youtube.com/watch?v=HtlC6I2Nop0
+    20. [2026-10-21 04:01:12]
+       تنش در تنگه هرمز، آسیا را به‌سوی منابع انرژی آفریقا می‌برد
+       https://www.youtube.com/watch?v=HE-qHnm9h8w
 
-    21. [2026-10-20 15:29:47]
-       جدال صدرنشین‌ها در آغاز هفته سوم لیگ قهرمانان فوتبال اروپا
-       https://www.youtube.com/watch?v=0yUQgmBtfGY
+    21. [2026-10-21 03:38:39]
+       کامیار بهرنگ: هزینه سیاست‌های جمهوری اسلامی را مردم ایران می‌پردازند
+       https://www.youtube.com/watch?v=xIrgIhZkkkQ
 
-    22. [2026-10-20 15:14:27]
-       اخبار عصرگاهی | سه‌شنبه ۲۸ مهر
-       https://www.youtube.com/watch?v=aMXSMZcCRXE
+    22. [2026-10-21 03:27:05]
+       رضا عرب: جمهوری اسلامی توان مقابله مستقیم با آمریکا و اسرائیل را ندارد
+       https://www.youtube.com/watch?v=9yEE2DHNLiQ
 
-    23. [2026-10-20 15:11:59]
-       لحظات نجات خلبانان یاک-۱۳۰ جمهوری اسلامی پس از هدف قرار گرفتن جنگنده آنها به دست اسرائیل
-       https://www.youtube.com/shorts/sZc8ClNhlSw
+    23. [2026-10-21 03:24:04]
+       کامبیز توانا: آمریکا دیگر برای مذاکره از صفر پای میز نمی‌نشیند
+       https://www.youtube.com/watch?v=Dbvh-QFQN3Q
 
-    24. [2026-10-20 14:38:12]
-       افشای اقدامات رسانه‌ای جمهوری اسلامی درباره اعتراضات فرانسه
-       https://www.youtube.com/watch?v=zz0XlAaLS4Q
+    24. [2026-10-21 03:21:11]
+       فرزین ندیمی: حضور سه ناو هواپیمابر آمریکا فشار نظامی بر جمهوری اسلامی را افزایش می‌دهد
+       https://www.youtube.com/watch?v=6mUAmBhw-9E
 
-    25. [2026-10-20 14:34:01]
-       زلنسکی برای دیدار با ویتکاف، فرستاده آمریکا، وارد نروژ شد
-       https://www.youtube.com/shorts/9o04Le4MaFU
+    25. [2026-10-21 03:14:25]
+       آمریکا ناو هواپیمابر روزولت و تفنگداران دریایی را به خاورمیانه می‌فرستد
+       https://www.youtube.com/watch?v=b2OTl-I6HJw
 
-    26. [2026-10-20 14:33:40]
-       نشست اسلو با حضور نمایندگان دولت ترامپ و رهبران اروپایی درباره جنگ اوکراین
-       https://www.youtube.com/watch?v=vPWwLfsxan4
+    26. [2026-10-21 00:07:09]
+       حملات روسیه به اوکراین دست‌کم هفت کشته بر جای گذاشت
+       https://www.youtube.com/watch?v=Dl31hTJWPj0
 
-    27. [2026-10-20 14:20:49]
-       سهم مردم از صرفه‌جویی میلیارد دلاری کجاست؟
-       https://www.youtube.com/watch?v=2vdVY8Btzzg
+    27. [2026-10-21 00:01:49]
+       گزارش رسانه‌های فرانسوی از مخالفت مکرون با انتشار یافته‌های امنیتی درباره جمهوری اسلامی
+       https://www.youtube.com/watch?v=2x2kpPW2drI
 
-    28. [2026-10-20 14:12:35]
-       بریتانیا به عملیات دفاعی مقابله با حملات حوثی‌ها می‌پیوندد
-       https://www.youtube.com/watch?v=ynlzEuJVgD4
+    28. [2026-10-20 23:54:45]
+       روح‌الله رحیم‌پور: دستور نتانیاهو برای سرنگونی جمهوری اسلامی فراتر از تبلیغات انتخابات است
+       https://www.youtube.com/watch?v=yhNm1THij3Y
 
-    29. [2026-10-20 13:58:24]
-       نتانیاهو خطاب به جمهوری اسلامی: در صورت حمله‌ به اسرائیل، ضربه‌ای غیرقابل تصور خواهید خورد
-       https://www.youtube.com/shorts/yrTTBRdFMt4
+    29. [2026-10-20 23:40:12]
+       روبیو خواستار اتحاد جامعه بین‌المللی برای محکوم کردن حملات جمهوری اسلامی شد
+       https://www.youtube.com/watch?v=bD948ALNHuk
 
-    30. [2026-10-20 13:52:36]
-       وضعیت بحرانی در پی بسته شدن مرزهای پاکستان به روی ایران
-       https://www.youtube.com/watch?v=C4hZA9tEuco
+    30. [2026-10-20 23:09:38]
+       نتانیاهو: موافقت ترامپ با سرنگونی جمهوری اسلامی
+       https://www.youtube.com/shorts/9EyhDVHe2t4
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار شبانگاهی | سه‌شنبه ۲۸ مهر
+       https://soundcloud.com/iranintl/kvrs08oz2jmm
+
+    32. [Unknown]
+       سیاست با مراد ویسی: نتانیاهو: موافقت ترامپ با سرنگونی جمهوری اسلامی
+       https://soundcloud.com/iranintl/m6eyv4dcqzca
+
+    33. [Unknown]
+       ۲۴ با فرداد فرحزاد: برنامه موساد برای سرنگونی جمهوری اسلامی
+       https://soundcloud.com/iranintl/xfizz5tzvgd2
+
+    34. [Unknown]
+       انتخابات اسرائیل و سرنوشت راهبرد سرنگونی جمهوری اسلامی
+       https://soundcloud.com/iranintl/zhi3nqjwylyt
+
+    35. [Unknown]
        تیتراول با نیوشا صارمی: نتانیاهو: سرنگونی جمهوری اسلامی در دستور کار موساد است، ترامپ هم موافق است
        https://soundcloud.com/iranintl/bqkmxkntbua6
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/lonnadeepy9i
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/bsthrzzyyfmk
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/2kvpglbzmcgz
 
-    35. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/uyuofrb3ylj6
 
-    36. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: اسرائیل چقدر در سرنگونی جمهوری اسلامی جدی است؟
        https://soundcloud.com/iranintl/xq6drt3cvfvm
 
-    37. [Unknown]
+    41. [Unknown]
        چشم‌انداز: فرصت‌طلبی حکومت ایران در اعتراضات خشن فرانسه
        https://soundcloud.com/iranintl/qihikyarebca
 
-    38. [Unknown]
+    42. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: برای ضربه زدن در هر لحظه آماده‌ایم
        https://soundcloud.com/iranintl/beeilvirxx48
 
-    39. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: فرستاده پوتین در تهران هم‌زمان با تهدید ترامپ، هشدار مقامات تهران درباره جنگ
        https://soundcloud.com/iranintl/ylnlsdqvdqya
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/78xvhfy4nunx
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/vituiiz7x9ko
 
-    42. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
        https://soundcloud.com/iranintl/dskls2xhigbf
 
-    43. [Unknown]
+    47. [Unknown]
        چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
        https://soundcloud.com/iranintl/ocktzg5qxgl6
 
-    44. [Unknown]
+    48. [Unknown]
        برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
        https://soundcloud.com/iranintl/rnud4xrufvep
 
-    45. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: حمایت بی‌قیدوشرط ترامپ از نتانیاهو هم‌زمان با اولتیماتوم به جمهوری اسلامی
        https://soundcloud.com/iranintl/pm05dx5yapoy
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/jlg6bv8j6pw0
-
-    47. [Unknown]
-       سیاست با مراد ویسی: چراغ سبز ترامپ به اسرائیل برای حمله مشترک
-       https://soundcloud.com/iranintl/0ddxjn8xwoh8
-
-    48. [Unknown]
-       چشم‌انداز: فتوای متفاوت مجتبی خامنه‌ای برای ساخت بمب اتمی
-       https://soundcloud.com/iranintl/g71flnkvf5o5
-
-    49. [Unknown]
-       برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی
-       https://soundcloud.com/iranintl/gkwa3xqdj911
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: صحبت‌های جدید ترامپ درباره جنگ با ایران
-       https://soundcloud.com/iranintl/lacoyjrbnizy
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
+       https://soundcloud.com/bbcpersian/8ys75f0kbyvh
+
+    52. [Unknown]
        جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/l8cbozddpo54
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8mizwndjy06n
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/oinrtb0mlb0d
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/kp6t5z60wmwp
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/3leaz3mmtrle
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/mgujxdjzq4zk
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eibj7xtmt6mn
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/wwkpzfaiwruj
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/rndpj72hvy9y
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/swmt3gl9dmgh
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/vdxllmratlqu
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6hxjyonsexu0
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/r9w1jubcdswh
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/d1dqyvdknspf
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyznhsmcixdq
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۳ اکتبر ۲۰۲۶ / ۱۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/otqjbsvv6kav
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۲ اکتبر ۲۰۲۶ / ۱۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
-
-    70. [Unknown]
-       جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
-       https://soundcloud.com/bbcpersian/afb8purmaqkd
 
 ----------------------------------------
 
