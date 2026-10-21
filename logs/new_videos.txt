@@ -4,3 +4,4 @@
 2026-10-21T11:30:50.687417+00:00 | youtube | اخبار نیمروزی | چهارشنبه ۲۹ مهر | 25 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=dDayhAsTbzg
 2026-10-21T15:15:37.542286+00:00 | youtube | اخبار ساعت شش عصر چهارشنبه ۲۹ مهر ۱۴۰۵- | 15 minutes ago | https://www.youtube.com/watch?v=68RRv3YPPyE
 2026-10-21T17:30:48.918809+00:00 | soundcloud | جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/crbvwjfbcma6
+2026-10-21T19:30:58.221031+00:00 | youtube | نتانیاهو: سرنگونی حکومت ایران تنها راه پایان دادن به تهدید است - ۶۰ دقیقه چهارشنبه ۲۹ مهر | 1 hours ago | https://www.youtube.com/watch?v=jeaQVTDGeRU
