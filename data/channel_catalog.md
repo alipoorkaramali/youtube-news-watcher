@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-22T11:01:04.074413+00:00
-Generated (Iran): 2026-10-22T14:31:04.074430+00:00
+Generated (UTC):  2026-10-22T15:01:12.051145+00:00
+Generated (Iran): 2026-10-22T18:31:12.051162+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-21 19:31:25]
+    1. [2026-10-22 15:00:34]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=aLC89srwtp8
+
+    2. [2026-10-22 13:52:08]
+       علی» را حذف کردند، «سنتوری» ماند»
+       https://www.youtube.com/shorts/Brj29TfWeDQ
+
+    3. [2026-10-22 12:08:10]
+       روایت ترانه رحیمی  و مژده هاشمی، دو زن محکوم به اعدام با‌ اتهامات امنیتی
+       https://www.youtube.com/shorts/_MZ6PcjaTMY
+
+    4. [2026-10-22 11:28:50]
+       ترامپ پشت میله‌های زندان در میدان تجریش
+       https://www.youtube.com/shorts/ko0LO8DltZo
+
+    5. [2026-10-22 10:56:51]
+       آبشاری که از میان ابرها می‌بارد
+       https://www.youtube.com/shorts/0CLRriUR9UE
+
+    6. [2026-10-21 19:31:25]
        نتانیاهو: سرنگونی حکومت ایران تنها راه پایان دادن به تهدید است - ۶۰ دقیقه چهارشنبه ۲۹ مهر
        https://www.youtube.com/watch?v=jeaQVTDGeRU
 
-    2. [2026-10-21 17:00:39]
+    7. [2026-10-21 17:00:39]
        جام جهان‌نما چهارشنبه ۲۹ مهر ۱۴۰۵؛ نتانیاهو: تنها راه رفع تهدید سرنگونی حکومت ایران است
        https://www.youtube.com/watch?v=_IlfH4WTxCU
 
-    3. [2026-10-21 17:00:18]
+    8. [2026-10-21 17:00:18]
        از مرگبارترین «ابر ال‌نینو» تاریخ چه درس‌هایی می‌توان گرفت؟
        https://www.youtube.com/watch?v=1-DKhUFocUM
 
-    4. [2026-10-21 15:00:26]
+    9. [2026-10-21 15:00:26]
        اخبار ساعت شش عصر چهارشنبه ۲۹ مهر ۱۴۰۵- سفر بی‌نتیجه میانجی پاکستانی به تهران
        https://www.youtube.com/watch?v=68RRv3YPPyE
 
-    5. [2026-10-21 15:00:24]
+    10. [2026-10-21 15:00:24]
        وقتی در رابطه احساس بی‌احترامی می‌کنید، چطور بدون دعوا حرفتان را بزنید؟گفت‌وگو با دکتر سارا ناصرزاده
        https://www.youtube.com/watch?v=ejxyqVwfzSU
 
-    6. [2026-10-21 14:00:21]
-       زنان معترض زیر حکم اعدام
+    11. [2026-10-21 14:00:21]
+       زنان معترض زیر حکم اعدام- مستند
        https://www.youtube.com/watch?v=CQtgyMbv2_4
 
-    7. [2026-10-21 11:14:28]
+    12. [2026-10-21 11:14:28]
        تلاش برای نجات کوسه‌ای نادر که در بندرگاهی گیر افتاده است
        https://www.youtube.com/shorts/ExXiR0tjyK4
 
-    8. [2026-10-21 07:59:10]
+    13. [2026-10-21 07:59:10]
        لحظه غارت یک جواهرفروشی در لیون فرانسه
        https://www.youtube.com/shorts/kMDEs5a469o
 
-    9. [2026-10-21 07:56:02]
+    14. [2026-10-21 07:56:02]
        مشکلات رانندگان کامیون در پی بسته شدن مرزهای ایران و پاکستان
        https://www.youtube.com/shorts/lHbjDKRKOA8
 
-    10. [2026-10-21 07:12:24]
+    15. [2026-10-21 07:12:24]
        تصاویر پلنگ صورتی در اعتراضات فرانسه واقعی نیستند.
        https://www.youtube.com/shorts/gPfwP57PZW8
-
-    11. [2026-10-20 19:31:28]
-       ۶۰ دقیقه سه‌شنبه ۲۸ مهر- تاکید نتانیاهو بر سرنگونی حکومت ایران در هماهنگی با آمریکا
-       https://www.youtube.com/watch?v=XnKZ5EOL8qg
-
-    12. [2026-10-20 18:03:46]
-       ریشه‌های ناآرامی اروپا چیست؟ - صفحه دو
-       https://www.youtube.com/watch?v=fpPQPKuwgy4
-
-    13. [2026-10-20 17:00:41]
-       جام جهان‌نما سه‌شنبه ۲۸ مهر: ایران برای تصمیم‌های سخت آماده می‌شود؟ تصمیم نهایی را چه کسی می‌گیرد؟
-       https://www.youtube.com/watch?v=ymY1YDW_luI
-
-    14. [2026-10-20 16:13:02]
-       لحظه نجات خلبان‌های جنگنده آموزشی ایران در جنگ ۴۰ روزه
-       https://www.youtube.com/shorts/6SaT2hCYfQo
-
-    15. [2026-10-20 16:09:04]
-       تشکر نتانیاهو از ترامپ بابت حمایت‌هایش
-       https://www.youtube.com/shorts/4J5a68MMqps
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-22 10:42:41]
+    16. [2026-10-22 14:54:12]
+       رونمایی از ربات محافظ کونگ‌فو‌کار
+       https://www.youtube.com/shorts/PnVhUUVfoJg
+
+    17. [2026-10-22 14:42:26]
+       جایزه حقوق بشری ساخاروف ۲۰۲۶ به دیوان بین‌المللی کیفری و قضات آن اهدا شد
+       https://www.youtube.com/watch?v=MbqSCWvHPmU
+
+    18. [2026-10-22 14:29:33]
+       سفر سه‌روزه مارک کارنی به آنکارا با محوریت همکاری‌های تجاری و امنیتی
+       https://www.youtube.com/watch?v=m3ZjRkB1SAk
+
+    19. [2026-10-22 14:10:18]
+       گفت‌وگوی ویژه با نازنین شریفیان، عضو حزب یاشار اسرائیل
+       https://www.youtube.com/shorts/WN7Rdsdq32s
+
+    20. [2026-10-22 14:07:12]
+       حملات گسترده موشکی و پهپادی روسیه به اوکراین ساعاتی پس از دیدار پوتین و ویتکاف
+       https://www.youtube.com/watch?v=9k-Vij0s_-Q
+
+    21. [2026-10-22 12:28:55]
+       گفت‌وگوی ویژه با نازنین شریفیان، عضو حزب یاشار اسرائیل
+       https://www.youtube.com/watch?v=kf3GhG9qqM4
+
+    22. [2026-10-22 12:20:05]
+       نشست وزیران خارجه هفت کشور در استانبول با محوریت بحران‌های منطقه‌ای و جنگ اوکراین
+       https://www.youtube.com/watch?v=LQfdL60hpoY
+
+    23. [2026-10-22 12:04:22]
+       آبشاری از دل آسمان؛ منظره شگفت‌انگیز غار «کازا د پدرا» در برزیل
+       https://www.youtube.com/shorts/4DJjOyCPgOg
+
+    24. [2026-10-22 12:03:46]
+       ادامه محاکمه سه متهم به همکاری با جمهوری اسلامی علیه خبرنگاران ایران‌اینترنشنال
+       https://www.youtube.com/watch?v=ycALeMmJZtc
+
+    25. [2026-10-22 11:43:25]
+       یسرائیل کاتز: احتمال حمله نظامی به اسرائیل با هدف تاثیرگذاری بر انتخابات وجود دارد
+       https://www.youtube.com/watch?v=wgHv-2odCLg
+
+    26. [2026-10-22 11:38:34]
+       دستور پیشاپیش نهادهای بالادستی جمهوری‌اسلامی برای قطع دسترسی مردم ایران به اینترنت جهانی
+       https://www.youtube.com/watch?v=miYX41Q_vJw
+
+    27. [2026-10-22 11:35:04]
+       مشاور نخست‌وزیر عراق: جمهوری اسلامی عامدانه برای تخریب اقتصاد عراق اقدام می‌کند
+       https://www.youtube.com/watch?v=l8PpIfuJZow
+
+    28. [2026-10-22 11:26:37]
+       اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
+       https://www.youtube.com/watch?v=8DPtS48DMGg
+
+    29. [2026-10-22 11:19:52]
+       روشن شدن آسمان کی‌یف در پی حمله روسیه به اوکراین
+       https://www.youtube.com/shorts/tA0rIVDzjLY
+
+    30. [2026-10-22 10:42:41]
        دو نظرسنجی تازه از پیشتازی حزب گادی آیزنکوت در انتخابات اسرائیل خبر دادند
        https://www.youtube.com/watch?v=ud6j3rHEg3s
-
-    17. [2026-10-22 10:27:39]
-       رییس‌جمهوری مصر: حمایت نظامی مصر از عربستان سعودی شامل حمله به یمن نمی‌شود
-       https://www.youtube.com/shorts/M8R7UvdGLcM
-
-    18. [2026-10-22 10:26:36]
-       ایتالیا طرح استقرار ۵۰۰ نیروی ارتش در خیابان‌ها برای مقابله با ناآرامی‌ها را تصویب کرد
-       https://www.youtube.com/watch?v=7FaxrAmkpIg
-
-    19. [2026-10-22 10:18:26]
-       علی شیرازی: جمهوری اسلامی بیش از جنگ، نگران مردم داخل ایران است
-       https://www.youtube.com/watch?v=qY4ZqWI_zAo
-
-    20. [2026-10-22 09:44:44]
-       ترامپ: جمهوری اسلامی را از نظر نظامی و اقتصادی شکست دادیم
-       https://www.youtube.com/shorts/0FkL-jM_dUE
-
-    21. [2026-10-22 09:14:13]
-       روایت مخاطبان ایران‌اینترنشنال از افزایش هزینه‌های زندگی و فشار معیشتی بر مردم در ایران
-       https://www.youtube.com/watch?v=1IEy-cwP6AQ
-
-    22. [2026-10-22 09:11:34]
-       مرتضی کاظمیان: بحران تهران و واشینگتن تا زمان بقای جمهوری اسلامی ادامه دارد
-       https://www.youtube.com/watch?v=ux2W7tgbEyw
-
-    23. [2026-10-22 09:09:04]
-       ترامپ: درباره ایران «تقریبا زود» به نتیجه‌ای می‌رسیم
-       https://www.youtube.com/shorts/EsAFtOLf4Is
-
-    24. [2026-10-22 09:08:35]
-       حسین آقایی: اسرائیل برای دور تازه حمله به جمهوری اسلامی آماده می‌شود
-       https://www.youtube.com/watch?v=QAZqgMfmvMo
-
-    25. [2026-10-22 08:24:15]
-       آلمان مجوز فعالیت بانک صادرات ایران را لغو کرد
-       https://www.youtube.com/watch?v=J3PdEfzXq-0
-
-    26. [2026-10-22 07:41:37]
-       پیشتازی حزب آیزنکوت از حزب نتانیاهو در نظرسنجی‌های انتخابات اسرائیل
-       https://www.youtube.com/watch?v=2NIgMoTfJVo
-
-    27. [2026-10-22 07:37:59]
-       حسین علیزاده: احتمال اقدام سریع آمریکا علیه جمهوری اسلامی وجود دارد
-       https://www.youtube.com/watch?v=654ho6JFsGo
-
-    28. [2026-10-22 05:53:38]
-       اخبار بامدادی | پنجشنبه ۳۰ مهر
-       https://www.youtube.com/watch?v=E0ZOjReACZ0
-
-    29. [2026-10-22 04:18:46]
-       افزایش تنش میان دو کره با تهدیدهای نظامی در سایه آمادگی نظامی آمریکا
-       https://www.youtube.com/watch?v=rfitQW_VygM
-
-    30. [2026-10-22 04:06:05]
-       افزایش نگرانی‌ها از اجرای احکام اعدام معترضان و زندانیان سیاسی
-       https://www.youtube.com/watch?v=mVh08n6cstM
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
+       https://soundcloud.com/iranintl/8ovkhe1msrea
+
+    32. [Unknown]
        اخبار بامدادی | پنجشنبه ۳۰ مهر
        https://soundcloud.com/iranintl/0dwqpbx9ho1z
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/j8y7emvasgpa
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها
        https://soundcloud.com/iranintl/jwteq3vjcvo4
 
-    34. [Unknown]
+    35. [Unknown]
        چشم‌انداز: بسته شدن مرزهای زمینی کشورهای همسایه با ایران
        https://soundcloud.com/iranintl/d7usfxdrdma3
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: جمهوری اسلامی باید سرنگون شود
        https://soundcloud.com/iranintl/psro8m3uocpy
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/vkf4mlimxcot
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/x0ojyolpuynt
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/ach6m4hguoal
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/kvrs08oz2jmm
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: موافقت ترامپ با سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/m6eyv4dcqzca
 
-    41. [Unknown]
+    42. [Unknown]
        ۲۴ با فرداد فرحزاد: برنامه موساد برای سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/xfizz5tzvgd2
 
-    42. [Unknown]
+    43. [Unknown]
        انتخابات اسرائیل و سرنوشت راهبرد سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/zhi3nqjwylyt
 
-    43. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: نتانیاهو: سرنگونی جمهوری اسلامی در دستور کار موساد است، ترامپ هم موافق است
        https://soundcloud.com/iranintl/bqkmxkntbua6
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/lonnadeepy9i
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/bsthrzzyyfmk
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/2kvpglbzmcgz
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲۷ مهر
        https://soundcloud.com/iranintl/uyuofrb3ylj6
 
-    48. [Unknown]
+    49. [Unknown]
        سیاست با مراد ویسی: اسرائیل چقدر در سرنگونی جمهوری اسلامی جدی است؟
        https://soundcloud.com/iranintl/xq6drt3cvfvm
 
-    49. [Unknown]
+    50. [Unknown]
        چشم‌انداز: فرصت‌طلبی حکومت ایران در اعتراضات خشن فرانسه
        https://soundcloud.com/iranintl/qihikyarebca
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: نتانیاهو: برای ضربه زدن در هر لحظه آماده‌ایم
-       https://soundcloud.com/iranintl/beeilvirxx48
 
 ----------------------------------------
 
