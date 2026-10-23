@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-22T19:01:07.579758+00:00
-Generated (Iran): 2026-10-22T22:31:07.579786+00:00
+Generated (UTC):  2026-10-23T07:00:58.947861+00:00
+Generated (Iran): 2026-10-23T10:30:58.947877+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-22 18:26:32]
-       ماشین‌چیان: همراهی امارات با تحریم‌های آمریکا شوک بزرگی به اقتصاد جمهوری اسلامی وارد کرد
-       https://www.youtube.com/shorts/nIaNPq_jPuc
+    16. [2026-10-23 06:02:54]
+       پایان ذخایر نفت ایران در آب‌های آسیا و افزایش واردات نفت چین
+       https://www.youtube.com/watch?v=2xLLjeXRyCg
 
-    17. [2026-10-22 18:17:42]
-       پژوهشگر ارشد انستیتو واشینگتن: زمستان سختی در انتظار جمهوری اسلامی است
-       https://www.youtube.com/shorts/0hNIisVE5oY
+    17. [2026-10-23 05:15:38]
+       اخبار بامدادی | جمعه ۱ آبان
+       https://www.youtube.com/watch?v=GzWg1MnsoaM
 
-    18. [2026-10-22 17:51:19]
-       کری بیتسوف: تمرکز آمریکا بر متعهد کردن کشورها به اجرای تحریم‌ها علیه جمهوری اسلامی است
-       https://www.youtube.com/shorts/PAM0kLIzJhQ
+    18. [2026-10-23 04:49:28]
+       سیامک آرام: جمهوری اسلامی جنگ را برای بقای خود نعمت می‌داند
+       https://www.youtube.com/watch?v=gCp0mDOv130
 
-    19. [2026-10-22 17:50:50]
-       گفت‌وگوهای واشینگتن: سارا هارموش کارشناس تروریسم، دانشگاه جورج واشنگتن
-       https://www.youtube.com/watch?v=eyZBdl8b8YQ
+    19. [2026-10-23 04:09:26]
+       محمد اولیایی‌فرد: جمهوری اسلامی می‌خواهد با تهدید خانواده‌های دادخواه، حقیقت پنهان بماند
+       https://www.youtube.com/watch?v=OEKYAzsrQZc
 
-    20. [2026-10-22 17:41:35]
-       گفت‌وگوهای واشینگتن: بررسی پیامدهای تحریم و محاصره دریایی جمهوری اسلامی
-       https://www.youtube.com/watch?v=tj0b_7s9hJM
+    20. [2026-10-23 04:00:09]
+       مادر سودا اکرمی‌فرد، در گفت‌وگو با ایران‌اینترنشنال: نگران جان خواهرانم هستم
+       https://www.youtube.com/watch?v=PXp1ZHovzSM
 
-    21. [2026-10-22 17:39:22]
-       ائتلاف آیزنکوت از نتانیاهو پیش افتاد؛ هیچ‌کدام به ۶۱ کرسی نمی‌رسند
-       https://www.youtube.com/shorts/mnMmtL5gsiY
+    21. [2026-10-23 03:43:44]
+       تداوم فشار بر خانواده‌های دادخواه؛ بازداشت نزدیکان سودا اکرمی‌فرد، نوجوان کشته‌شده
+       https://www.youtube.com/watch?v=eoOV1h2W7uk
 
-    22. [2026-10-22 17:21:52]
-       سفیر کره جنوبی «سلطان قلب‌ها» را به فارسی خواند
-       https://www.youtube.com/shorts/zpfOlsZRLcg
+    22. [2026-10-23 03:40:12]
+       کامیار بهرنگ: دست‌خط منسوب به مجتبی خامنه‌ای ابزاری برای امتیازگیری با تهدید هسته‌ای است
+       https://www.youtube.com/watch?v=3LIh7aXDmbI
 
-    23. [2026-10-22 16:57:01]
-       سوریه احکام صادرشده علیه بشار و ماهر اسد را به اینترپل ارسال کرد
-       https://www.youtube.com/watch?v=aLEHI4mHEv4
+    23. [2026-10-23 03:27:30]
+       افزایش گمانه‌زنی‌ها درباره زمان حمله دوباره آمریکا و اسرائیل به جمهوری اسلامی
+       https://www.youtube.com/watch?v=2g1p7TTtxUg
 
-    24. [2026-10-22 16:23:12]
-       گرامیداشت هشتادمین سالگرد تولد فردی مرکوری با نمایش آثار شخصی او در لندن
-       https://www.youtube.com/watch?v=NXvbFB-22c4
+    24. [2026-10-22 23:34:23]
+       اخبار شبانگاهی | جمعه ۱ آبان
+       https://www.youtube.com/watch?v=SUg6VzHZuLk
 
-    25. [2026-10-22 15:10:43]
-       اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
-       https://www.youtube.com/watch?v=dJPiy6i7M_8
+    25. [2026-10-22 22:41:24]
+       میعاد ملکی: محاصره دریایی منبع اصلی درآمد جمهوری اسلامی را قطع کرده است
+       https://www.youtube.com/watch?v=msi6jUcEhww
 
-    26. [2026-10-22 14:54:12]
-       رونمایی از ربات محافظ کونگ‌فو‌کار
-       https://www.youtube.com/shorts/PnVhUUVfoJg
+    26. [2026-10-22 22:34:14]
+       نوید محبی: ترامپ به‌دنبال فراهم کردن زمینه سیاسی برای حمله احتمالی به جمهوری اسلامی است
+       https://www.youtube.com/watch?v=oa-2B8__OKs
 
-    27. [2026-10-22 14:42:26]
-       جایزه حقوق بشری ساخاروف ۲۰۲۶ به دیوان بین‌المللی کیفری و قضات آن اهدا شد
-       https://www.youtube.com/watch?v=MbqSCWvHPmU
+    27. [2026-10-22 22:28:15]
+       امیر گیتی: نتیجه انتخابات آمریکا سیاست ترامپ علیه جمهوری اسلامی را تغییر نخواهد داد
+       https://www.youtube.com/watch?v=RH-3CYjrdqY
 
-    28. [2026-10-22 14:29:33]
-       سفر سه‌روزه مارک کارنی به آنکارا با محوریت همکاری‌های تجاری و امنیتی
-       https://www.youtube.com/watch?v=m3ZjRkB1SAk
+    28. [2026-10-22 22:24:13]
+       محمدرضاشاه پهلوی و حفظ حیثیت و آبروی نهاد پادشاهی
+       https://www.youtube.com/shorts/j5wppcX6lnM
 
-    29. [2026-10-22 14:10:18]
-       گفت‌وگوی ویژه با نازنین شریفیان، عضو حزب یاشار اسرائیل
-       https://www.youtube.com/shorts/WN7Rdsdq32s
+    29. [2026-10-22 21:43:01]
+       دادگری و خردمندی؛ معیار ارزیابی پادشاه در پادشاهیِ ایرانی
+       https://www.youtube.com/shorts/lFcarwdqUj4
 
-    30. [2026-10-22 14:07:12]
-       حملات گسترده موشکی و پهپادی روسیه به اوکراین ساعاتی پس از دیدار پوتین و ویتکاف
-       https://www.youtube.com/watch?v=9k-Vij0s_-Q
+    30. [2026-10-22 21:25:18]
+       فریدون: آیا پادشاهی‌خواهی، شخص‌پرستی است؟
+       https://www.youtube.com/watch?v=zkfX8bt6014
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | جمعه ۱ آبان
+       https://soundcloud.com/iranintl/w1rirvu8mugb
+
+    32. [Unknown]
+       اخبار شبانگاهی | جمعه ۱ آبان
+       https://soundcloud.com/iranintl/ok2sewtesb6a
+
+    33. [Unknown]
+       ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
+       https://soundcloud.com/iranintl/czgbx62v74jv
+
+    34. [Unknown]
+       دومینو: شمارش معکوس برای شروع جنگی دیگر
+       https://soundcloud.com/iranintl/yxbwn7di8s63
+
+    35. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/qwm0vm0ukjsl
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/8ovkhe1msrea
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | پنجشنبه ۳۰ مهر
        https://soundcloud.com/iranintl/0dwqpbx9ho1z
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/j8y7emvasgpa
 
-    35. [Unknown]
+    39. [Unknown]
        سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها
        https://soundcloud.com/iranintl/jwteq3vjcvo4
 
-    36. [Unknown]
+    40. [Unknown]
        چشم‌انداز: بسته شدن مرزهای زمینی کشورهای همسایه با ایران
        https://soundcloud.com/iranintl/d7usfxdrdma3
 
-    37. [Unknown]
+    41. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: جمهوری اسلامی باید سرنگون شود
        https://soundcloud.com/iranintl/psro8m3uocpy
 
-    38. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/vkf4mlimxcot
 
-    39. [Unknown]
+    43. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/x0ojyolpuynt
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/ach6m4hguoal
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/kvrs08oz2jmm
 
-    42. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: موافقت ترامپ با سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/m6eyv4dcqzca
 
-    43. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: برنامه موساد برای سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/xfizz5tzvgd2
 
-    44. [Unknown]
+    48. [Unknown]
        انتخابات اسرائیل و سرنوشت راهبرد سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/zhi3nqjwylyt
 
-    45. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: نتانیاهو: سرنگونی جمهوری اسلامی در دستور کار موساد است، ترامپ هم موافق است
        https://soundcloud.com/iranintl/bqkmxkntbua6
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/lonnadeepy9i
-
-    47. [Unknown]
-       اخبار نیمروزی | سه‌شنبه ۲۸ مهر
-       https://soundcloud.com/iranintl/bsthrzzyyfmk
-
-    48. [Unknown]
-       اخبار بامدادی | سه‌شنبه ۲۸ مهر
-       https://soundcloud.com/iranintl/2kvpglbzmcgz
-
-    49. [Unknown]
-       اخبار شبانگاهی | دوشنبه ۲۷ مهر
-       https://soundcloud.com/iranintl/uyuofrb3ylj6
-
-    50. [Unknown]
-       سیاست با مراد ویسی: اسرائیل چقدر در سرنگونی جمهوری اسلامی جدی است؟
-       https://soundcloud.com/iranintl/xq6drt3cvfvm
 
 ----------------------------------------
 
