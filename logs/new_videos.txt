@@ -3,3 +3,4 @@
 2026-10-23T11:30:44.686223+00:00 | youtube | اخبار نیمروزی | جمعه ۱ آبان | 18 minutes ago | https://www.youtube.com/watch?v=t2w6JdNyiog
 2026-10-23T12:30:50.815260+00:00 | soundcloud | اخبار نیمروزی | جمعه ۱ آبان | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/cj7vcc3wpnq9
 2026-10-23T15:15:39.235180+00:00 | youtube | اخبار ساعت شش عصر- جمعه اول آبان:‌ افزایش قیمت نفت | 14 minutes ago | https://www.youtube.com/watch?v=Ok5XxbncdtI
+2026-10-23T15:30:48.968070+00:00 | soundcloud | اخبار شبانگاهی | جمعه ۱ آبان | 0 minutes ago | https://soundcloud.com/iranintl/ok2sewtesb6a
