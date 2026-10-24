@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-24T11:01:00.274421+00:00
-Generated (Iran): 2026-10-24T14:31:00.274441+00:00
+Generated (UTC):  2026-10-24T15:00:57.469213+00:00
+Generated (Iran): 2026-10-24T18:30:57.469228+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-24 08:58:13]
+    1. [2026-10-24 15:00:30]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=c8rRMzAlsZE
+
+    2. [2026-10-24 14:00:04]
+       پرگار:  اختلاف سیاسی و قطع دوستی
+       https://www.youtube.com/watch?v=_yU4TWvXtSc
+
+    3. [2026-10-24 12:48:01]
+       خسارت‌‌های طوفان «آستن»‌ در بریتانیا
+       https://www.youtube.com/shorts/wJPnO9qogC4
+
+    4. [2026-10-24 12:23:26]
+       جلوگیری از ورود خانواده‌های اعدام‌شدگان سال ۶۷ به خاوران
+       https://www.youtube.com/shorts/pNRRxrDD2lQ
+
+    5. [2026-10-24 11:19:37]
+       زنی با شیرجه زدن از روی کوه یخ تاریخ‌ساز شد
+       https://www.youtube.com/shorts/FMHoYQ_aoXw
+
+    6. [2026-10-24 08:58:13]
        تگرگ شیشه خودرویی را که افراد داخل آن پناه گرفته بودند٬ شکست
        https://www.youtube.com/shorts/eyP9xxO6wns
 
-    2. [2026-10-24 08:48:54]
+    7. [2026-10-24 08:48:54]
        هنرمندی که در ازدحام جمعیت در کنسرت طراحی می‌کند
        https://www.youtube.com/shorts/cGcvLbdqhd8
 
-    3. [2026-10-23 17:30:21]
+    8. [2026-10-23 17:30:21]
        سنتوری»؛ چطور اسم «علی» دردساز شد»
        https://www.youtube.com/watch?v=YPhvy-gNnqg
 
-    4. [2026-10-23 16:59:50]
+    9. [2026-10-23 16:59:50]
        جنگی که امریکا و اسراییل شروع کردند را ایران چطور در حال ادامه دادن است؟ جام جهان‌نما جمعه ۱ آبان
        https://www.youtube.com/watch?v=z79AUKokil8
 
-    5. [2026-10-23 16:00:22]
+    10. [2026-10-23 16:00:22]
        کلیک؛ اعتراض به مراکز داده‌پردازی هوش مصنوعی
        https://www.youtube.com/watch?v=o1kHhPMBiEU
 
-    6. [2026-10-23 15:01:02]
+    11. [2026-10-23 15:01:02]
        اخبار ساعت شش عصر- جمعه اول آبان:‌ افزایش قیمت نفت
        https://www.youtube.com/watch?v=Ok5XxbncdtI
 
-    7. [2026-10-23 15:00:18]
+    12. [2026-10-23 15:00:18]
        پادکست انتخابات آمریکا- چرا قدرت در آمریکا در انحصار دو حزب سیاسی است؟
        https://www.youtube.com/watch?v=DGGsMPS8PUg
 
-    8. [2026-10-23 14:47:53]
+    13. [2026-10-23 14:47:53]
        مولی با شیرجه زدن از روی یک کوه یخ تاریخ‌ساز شد
        https://www.youtube.com/shorts/DFA8a1Hcsro
 
-    9. [2026-10-23 12:28:03]
+    14. [2026-10-23 12:28:03]
        خورشید خانم و توله جدیدیش در پارک توران شاهرود
        https://www.youtube.com/shorts/kqtK8DHBwf8
 
-    10. [2026-10-23 12:23:28]
+    15. [2026-10-23 12:23:28]
        کامیله ۱۱۷ ساله، ممکن است مسن‌ترین فرد جهان باشد
        https://www.youtube.com/shorts/fMjMK5IV22I
-
-    11. [2026-10-22 18:30:20]
-       خبرنگاران:  کمبود گاز طبیعی در زمستان امسال؛ پرونده زنان معترض محکوم به اعدام و بیشتر
-       https://www.youtube.com/watch?v=ete5fM7lqGo
-
-    12. [2026-10-22 18:03:31]
-       آیا کلید همه بحرانها در کرملین است؟ -صفحه۲
-       https://www.youtube.com/watch?v=ptHJ_YyGpXc
-
-    13. [2026-10-22 16:59:38]
-       ترامپ می‌گوید ماجرای ایران بزودی تمام می‌شود؛ جام جهان‌نما پنجشنبه ۳۰ مهر ۱۴۰۵
-       https://www.youtube.com/watch?v=9qj75xr4Qtw
-
-    14. [2026-10-22 15:00:34]
-       اخبار ساعت شش عصر- پنج‌شنبه ۳۰ مهر: تنش در خلیج فارس
-       https://www.youtube.com/watch?v=aLC89srwtp8
-
-    15. [2026-10-22 15:00:17]
-       رنگآهنگ: گفت‌وگو با داریوش آذر، گزارشی از کنسرت «وطن‌به‌دوش» و نگاهی به «بی‌دار» از توماج صالحی
-       https://www.youtube.com/watch?v=RBc2pW4PStw
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-24 10:46:26]
-       نظرسنجی‌های انتخابات اسرائیل؛ هیچ جناحی اکثریت را ندارد
-       https://www.youtube.com/watch?v=6Qem5ni8-e4
+    16. [2026-10-24 14:54:34]
+       تجمع هزاران معترض در پاریس زیر تدابیر شدید امنیتی
+       https://www.youtube.com/shorts/U_1k0P0V5_U
 
-    17. [2026-10-24 10:08:51]
-       علی شیرازی: کیهان احتمال قیام مردمی همزمان با حملات آمریکا و اسرائیل را جدی می‌داند
-       https://www.youtube.com/watch?v=JEEnbb5uK5E
+    17. [2026-10-24 14:50:43]
+       حمایت ۱۷۱ کنشگر و زندانی سیاسی در ایران از شاهزاده رضا پهلوی
+       https://www.youtube.com/watch?v=s2AtlSt4PIQ
 
-    18. [2026-10-24 09:46:26]
-       آماده‌باش پلیس و ارتش در پاریس در آستانه اعتراضات
-       https://www.youtube.com/shorts/5NpQ93rDUx4
+    18. [2026-10-24 14:47:26]
+       افزایش ۴۰ درصدی قیمت بسته‌های اینترنت همراه در ایران با وجود افت کیفیت خدمات
+       https://www.youtube.com/watch?v=yDKbjzMnTkQ
 
-    19. [2026-10-24 09:23:00]
-       کانادا در بن‌بست مذاکرات تجاری با آمریکا؛ تلاش برای کاهش وابستگی اقتصادی به واشینگتن
-       https://www.youtube.com/watch?v=FM-CXzvkE5o
+    19. [2026-10-24 14:33:48]
+       آمران کشتار؛ بخش ششم: جنایات علیه بشریت
+       https://www.youtube.com/watch?v=HE83JFK5Dcc
 
-    20. [2026-10-24 09:18:20]
-       هشدار نروژ به شهروندانش درباره سفر به ایران
-       https://www.youtube.com/watch?v=qIw7SvWLj2Y
+    20. [2026-10-24 13:20:45]
+       اژه‌ای: کشور هنوز به آمادگی شرایط جنگی نرسیده است
+       https://www.youtube.com/shorts/jn_xL1j6zJ4
 
-    21. [2026-10-24 08:00:33]
-       نشست استانبول؛ تاکید بر دیپلماسی برای جلوگیری از جنگ تازه با جمهوری اسلامی
-       https://www.youtube.com/watch?v=7-2FhDdhSYE
+    21. [2026-10-24 12:41:26]
+       تداوم اعتراضات ایرانیان در استکهلم پس از نزدیک به ۱۰ ماه
+       https://www.youtube.com/watch?v=PKkj4Zyi36Q
 
-    22. [2026-10-24 07:59:26]
-       آلودگی نفتی در ساحل قشم
-       https://www.youtube.com/shorts/W3OpnAgJXR4
+    22. [2026-10-24 12:20:22]
+       چهارمین سالگرد تاسیس جبهه هفت آبان
+       https://www.youtube.com/watch?v=VMsTAVO82C4
 
-    23. [2026-10-24 07:57:58]
-       اسرائیل و آمریکا برای عملیات جدید علیه جمهوری اسلامی آماده می‌شوند
-       https://www.youtube.com/watch?v=qNIojUwkcuU
+    23. [2026-10-24 12:10:07]
+       اعلام آمادگی آلمان، بریتانیا و فرانسه برای مذاکره هسته‌ای با جمهوری اسلامی
+       https://www.youtube.com/watch?v=OXgJ-ylpmEQ
 
-    24. [2026-10-24 07:52:38]
-       احمد علوی: هزینه بستن تنگه هرمز با اختلال در تجارت زمینی ایران افزایش می‌یابد
-       https://www.youtube.com/watch?v=YXYX5RqeeFA
+    24. [2026-10-24 12:07:11]
+       میلان در آستانه اعتراضات، تدابیر امنیتی را تشدید کرد
+       https://www.youtube.com/shorts/XP7CBEgPeZk
 
-    25. [2026-10-24 07:51:22]
-       روح‌الله رحیم‌پور: جمهوری اسلامی برای خرید زمان مذاکره می‌کند
-       https://www.youtube.com/watch?v=5zwzTs0ECjI
+    25. [2026-10-24 12:06:43]
+       گفت‌‌وگوی ویژه با استیون دل‌دوکا، شهردار وان
+       https://www.youtube.com/watch?v=HiPAWrOgqjQ
 
-    26. [2026-10-24 06:35:02]
-       اخبار بامدادی | شنبه ۲ آبان
-       https://www.youtube.com/watch?v=oD7zSwFvSSE
+    26. [2026-10-24 11:33:00]
+       سه روز تا انتخابات اسرائیل؛ رقابت نتانیاهو با بنت و آیزنکوت
+       https://www.youtube.com/watch?v=NIlG4WlMomY
 
-    27. [2026-10-24 04:22:25]
-       علی معموری: عراق برای حفظ روابط با ایران و آمریکا با چالش روبه‌رو است
-       https://www.youtube.com/watch?v=igSWkNen7cY
+    27. [2026-10-24 11:17:22]
+       فرانسه در آستانه دور جدید اعتراضات گسترده
+       https://www.youtube.com/watch?v=dZtyRXhqHFk
 
-    28. [2026-10-24 04:06:28]
-       کامبیز توانا: با وجود تلاش‌های دیپلماتیک، فشار آمریکا بر جمهوری اسلامی ادامه دارد
-       https://www.youtube.com/watch?v=nV4tHyz-5b8
+    28. [2026-10-24 11:11:34]
+       پلیس فرانسه برای متفرق کردن معترضان در لیون گاز اشک‌آور شلیک کرد
+       https://www.youtube.com/shorts/UyM0qIyx8VA
 
-    29. [2026-10-24 03:44:46]
-       ترامپ: جمهوری اسلامی با توافق می‌تواند از حمله‌ای دیگر جلوگیری کند
-       https://www.youtube.com/shorts/V-ADa4JV1So
+    29. [2026-10-24 11:08:19]
+       اخبار نیمروزی | شنبه ۲ آبان
+       https://www.youtube.com/watch?v=JmdzCaot9SU
 
-    30. [2026-10-24 03:26:43]
-       شایان سمیعی: احتمال حمله به جمهوری اسلامی پیش از انتخابات میان‌دوره‌ای آمریکا وجود دارد
-       https://www.youtube.com/watch?v=KJwmH_8YnpY
+    30. [2026-10-24 11:04:36]
+       مروری بر روزنامه‌های ایران، شنبه ۲ آبان با مجتبی هاشمی
+       https://www.youtube.com/watch?v=PY_uUSPr7MM
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | شنبه ۲ آبان
+       https://soundcloud.com/iranintl/jxdvgtztqzl7
+
+    32. [Unknown]
        اخبار بامدادی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/bvgcdwdmrjt5
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/v6xmpgj1habr
 
-    33. [Unknown]
+    34. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
        https://soundcloud.com/iranintl/c3fhv8jjcbtl
 
-    34. [Unknown]
+    35. [Unknown]
        اخبار عصرگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ylyrawa4aiwk
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار نیمروزی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/cj7vcc3wpnq9
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/w1rirvu8mugb
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ok2sewtesb6a
 
-    38. [Unknown]
+    39. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
        https://soundcloud.com/iranintl/czgbx62v74jv
 
-    39. [Unknown]
+    40. [Unknown]
        دومینو: شمارش معکوس برای شروع جنگی دیگر
        https://soundcloud.com/iranintl/yxbwn7di8s63
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/qwm0vm0ukjsl
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/8ovkhe1msrea
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | پنجشنبه ۳۰ مهر
        https://soundcloud.com/iranintl/0dwqpbx9ho1z
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/j8y7emvasgpa
 
-    44. [Unknown]
+    45. [Unknown]
        سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها
        https://soundcloud.com/iranintl/jwteq3vjcvo4
 
-    45. [Unknown]
+    46. [Unknown]
        چشم‌انداز: بسته شدن مرزهای زمینی کشورهای همسایه با ایران
        https://soundcloud.com/iranintl/d7usfxdrdma3
 
-    46. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: جمهوری اسلامی باید سرنگون شود
        https://soundcloud.com/iranintl/psro8m3uocpy
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/vkf4mlimxcot
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/x0ojyolpuynt
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/ach6m4hguoal
-
-    50. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۲۸ مهر
-       https://soundcloud.com/iranintl/kvrs08oz2jmm
 
 ----------------------------------------
 
