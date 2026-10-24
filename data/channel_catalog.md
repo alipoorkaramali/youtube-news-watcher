@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-23T19:00:59.716107+00:00
-Generated (Iran): 2026-10-23T22:30:59.716125+00:00
+Generated (UTC):  2026-10-24T07:01:01.466456+00:00
+Generated (Iran): 2026-10-24T10:31:01.466475+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-23 18:29:41]
-       حرف آخر با پوریا زراعتی - جزئیات ۴۸ ساعت اول حمله‌ی آبان ماه
-       https://www.youtube.com/watch?v=JeJknHduR2k
+    16. [2026-10-24 06:35:02]
+       اخبار بامدادی | شنبه ۲ آبان
+       https://www.youtube.com/watch?v=oD7zSwFvSSE
 
-    17. [2026-10-23 17:22:57]
-       حمله مسلحانه به کلیسایی در اردن هفت کشته بر جا گذاشت
-       https://www.youtube.com/shorts/iu-Y07Y0e_k
+    17. [2026-10-24 04:22:25]
+       علی معموری: عراق برای حفظ روابط با ایران و آمریکا با چالش روبه‌رو است
+       https://www.youtube.com/watch?v=igSWkNen7cY
 
-    18. [2026-10-23 16:46:34]
-       گفت‌وگوی ویژه با سامی ابوشحاده، رهبر حزب بلد اسرائیل
-       https://www.youtube.com/shorts/0q3XCuWLn40
+    18. [2026-10-24 04:06:28]
+       کامبیز توانا: با وجود تلاش‌های دیپلماتیک، فشار آمریکا بر جمهوری اسلامی ادامه دارد
+       https://www.youtube.com/watch?v=nV4tHyz-5b8
 
-    19. [2026-10-23 16:10:14]
-       هشدار فوری نروژ به شهروندانش: به ایران سفر نکنید؛ اگر در ایران هستید، این کشور را ترک کنید
-       https://www.youtube.com/watch?v=H6Sszozo_ow
+    19. [2026-10-24 03:44:46]
+       ترامپ: جمهوری اسلامی با توافق می‌تواند از حمله‌ای دیگر جلوگیری کند
+       https://www.youtube.com/shorts/V-ADa4JV1So
 
-    20. [2026-10-23 15:41:39]
-       مریم رحمتی، خبرنگار ایران‌اینترنشنال برنده جایزه یادبود ریکاردو اورتگا شد
-       https://www.youtube.com/watch?v=0p8l--5mLNM
+    20. [2026-10-24 03:26:43]
+       شایان سمیعی: احتمال حمله به جمهوری اسلامی پیش از انتخابات میان‌دوره‌ای آمریکا وجود دارد
+       https://www.youtube.com/watch?v=KJwmH_8YnpY
 
-    21. [2026-10-23 15:38:12]
-       اخبار عصرگاهی | جمعه ۱ آبان
-       https://www.youtube.com/watch?v=-ga-Pl7oblc
+    21. [2026-10-24 03:24:42]
+       درخواست گزارشگر ویژه سازمان ملل برای ارسال مستندات نقض حقوق بشر در ایران
+       https://www.youtube.com/watch?v=dNWGs8iRGSs
 
-    22. [2026-10-23 15:11:01]
-       پرواز جنگنده‌های اف-۳۵سی تفنگداران دریایی آمریکا از پایگاهی در خاورمیانه
-       https://www.youtube.com/shorts/rRo9q0KDyhQ
+    22. [2026-10-24 03:18:29]
+       ترامپ: جمهوری اسلامی با توافق می‌تواند از حمله‌ای دیگر جلوگیری کند
+       https://www.youtube.com/watch?v=lshYKEeHbwY
 
-    23. [2026-10-23 15:02:32]
-       برگزاری دادگاه دو متهم به طراحی حمله به جامعه یهودیان در منچستر
-       https://www.youtube.com/watch?v=bL8P8Vwpf0o
+    23. [2026-10-23 23:34:45]
+       اخبار شبانگاهی | شنبه ۲ آبان
+       https://www.youtube.com/watch?v=LV_EusH_JXo
 
-    24. [2026-10-23 14:42:28]
-       مغازه‌های پاریس در آستانه اعتراضات حصارکشی شدند
-       https://www.youtube.com/shorts/4Rw9qSMWDfA
+    24. [2026-10-23 23:13:29]
+       سرنوشت نتانیاهو در انتخابات اسرائیل چگونه تعیین می‌شود؟
+       https://www.youtube.com/watch?v=doGBJ_8obtA
 
-    25. [2026-10-23 14:33:04]
-       روح‌الله رحیم‌پور: بخشی از نیروهای جمهوری اسلامی به دنبال ساخت سلاح هسته‌ای هستند
-       https://www.youtube.com/watch?v=1uK6GUcwKoY
+    25. [2026-10-23 23:06:00]
+       انفجار و آتش‌سوزی مهیب یک خودرو در کرج
+       https://www.youtube.com/shorts/yNEaxF_loKc
 
-    26. [2026-10-23 14:16:27]
-       دیدار وزیران خارجه ترکیه، پاکستان، عربستان سعودی و مصر در استانبول
-       https://www.youtube.com/shorts/frKkTFEGlHQ
+    26. [2026-10-23 23:04:24]
+       لیلا مروتی: نشست استانبول بدون حضور طرف‌های اصلی جنگ، راه به جایی نمی‌برد
+       https://www.youtube.com/watch?v=KP6YjFbDykQ
 
-    27. [2026-10-23 14:12:32]
-       گزارش‌های رسیده از کندی و قطعی اینترنت و تشدید فضای نظامی و امنیتی در شهرهای مختلف ایران
-       https://www.youtube.com/watch?v=Scm1RgOd4oA
+    27. [2026-10-23 23:01:09]
+       محمد قائدی: دیپلماسی مانع حمله به ایران نخواهد شد؛ مساله فقط زمان آن است
+       https://www.youtube.com/watch?v=7DdC26TZMUw
 
-    28. [2026-10-23 13:55:24]
-       گفت‌وگوی ویژه با سامی ابوشحاده، رهبر حزب بلد اسرائیل
-       https://www.youtube.com/watch?v=j2C-sZWX7t0
+    28. [2026-10-23 21:59:38]
+       جابر رجبی: جنگ تازه می‌تواند عراق را به کانون درگیری آمریکا و جمهوری اسلامی تبدیل کند
+       https://www.youtube.com/watch?v=jVQk6cNavvg
 
-    29. [2026-10-23 13:28:57]
-       لحظات ورود طوفان شن به دشتیاری چابهار
-       https://www.youtube.com/shorts/nbIHJOSZHo8
+    29. [2026-10-23 21:54:25]
+       میعاد ملکی: وعده‌های همتی گفتاردرمانی است؛ جمهوری اسلامی به ذخایر ارزی خود دسترسی ندارد
+       https://www.youtube.com/watch?v=YNZAiufoSjA
 
-    30. [2026-10-23 13:08:51]
-       بخشایش اردستانی: آمریکا احتمالا از جمهوری اسلامی خواسته مذاکرات را آغاز کند
-       https://www.youtube.com/watch?v=y4M3ryfbnNw
+    30. [2026-10-23 21:50:21]
+       بهنام طالب‌لو: محاصره دریایی و فشار اقتصادی، برگ برنده ترامپ علیه جمهوری اسلامی است
+       https://www.youtube.com/watch?v=QMljjwNWqkg
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار شبانگاهی | شنبه ۲ آبان
+       https://soundcloud.com/iranintl/v6xmpgj1habr
+
+    32. [Unknown]
+       ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
+       https://soundcloud.com/iranintl/c3fhv8jjcbtl
+
+    33. [Unknown]
        اخبار عصرگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ylyrawa4aiwk
 
-    32. [Unknown]
+    34. [Unknown]
        اخبار نیمروزی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/cj7vcc3wpnq9
 
-    33. [Unknown]
+    35. [Unknown]
        اخبار بامدادی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/w1rirvu8mugb
 
-    34. [Unknown]
+    36. [Unknown]
        اخبار شبانگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ok2sewtesb6a
 
-    35. [Unknown]
+    37. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
        https://soundcloud.com/iranintl/czgbx62v74jv
 
-    36. [Unknown]
+    38. [Unknown]
        دومینو: شمارش معکوس برای شروع جنگی دیگر
        https://soundcloud.com/iranintl/yxbwn7di8s63
 
-    37. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/qwm0vm0ukjsl
 
-    38. [Unknown]
+    40. [Unknown]
        اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/8ovkhe1msrea
 
-    39. [Unknown]
+    41. [Unknown]
        اخبار بامدادی | پنجشنبه ۳۰ مهر
        https://soundcloud.com/iranintl/0dwqpbx9ho1z
 
-    40. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/j8y7emvasgpa
 
-    41. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها
        https://soundcloud.com/iranintl/jwteq3vjcvo4
 
-    42. [Unknown]
+    44. [Unknown]
        چشم‌انداز: بسته شدن مرزهای زمینی کشورهای همسایه با ایران
        https://soundcloud.com/iranintl/d7usfxdrdma3
 
-    43. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: جمهوری اسلامی باید سرنگون شود
        https://soundcloud.com/iranintl/psro8m3uocpy
 
-    44. [Unknown]
+    46. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/vkf4mlimxcot
 
-    45. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/x0ojyolpuynt
 
-    46. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۹ مهر
        https://soundcloud.com/iranintl/ach6m4hguoal
 
-    47. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۸ مهر
        https://soundcloud.com/iranintl/kvrs08oz2jmm
 
-    48. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: نتانیاهو: موافقت ترامپ با سرنگونی جمهوری اسلامی
        https://soundcloud.com/iranintl/m6eyv4dcqzca
-
-    49. [Unknown]
-       ۲۴ با فرداد فرحزاد: برنامه موساد برای سرنگونی جمهوری اسلامی
-       https://soundcloud.com/iranintl/xfizz5tzvgd2
-
-    50. [Unknown]
-       انتخابات اسرائیل و سرنوشت راهبرد سرنگونی جمهوری اسلامی
-       https://soundcloud.com/iranintl/zhi3nqjwylyt
 
 ----------------------------------------
 
