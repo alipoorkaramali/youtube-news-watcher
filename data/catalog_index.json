@@ -1,491 +1,491 @@
 {
   "1": {
-    "url": "https://www.youtube.com/watch?v=c8rRMzAlsZE",
+    "url": "https://www.youtube.com/watch?v=44YEdbQZGLs",
     "platform": "youtube",
-    "title": "اخبار ساعت شش عصر",
+    "title": "۶۰ دقیقه",
     "format": "video",
     "channel": "BBC Persian"
   },
   "2": {
+    "url": "https://www.youtube.com/watch?v=R2jgk2be1gQ",
+    "platform": "youtube",
+    "title": "نتانیاهو می‌تواند از این همه چالش پیروز بیرون بیاید؟ جام جهان‌نما شنبه ۲ آبان",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "3": {
+    "url": "https://www.youtube.com/shorts/rSh1_xwSMXY",
+    "platform": "youtube",
+    "title": "روایت پسر علیرضا تنگسیری از روز کشته شدن پدرش",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "4": {
+    "url": "https://www.youtube.com/shorts/PhNJIQEJtek",
+    "platform": "youtube",
+    "title": "«بازماندگان مدرسه میناب رها شده‌اند»",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "5": {
+    "url": "https://www.youtube.com/shorts/CVF4hsbmUOM",
+    "platform": "youtube",
+    "title": "جلوگیری از ورود خانواده‌های اعدام‌شدگان ۶۷ به خاوران",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "6": {
+    "url": "https://www.youtube.com/watch?v=pgc_Mna9wRw",
+    "platform": "youtube",
+    "title": "گزارش جمال موسوی از انتخابات اسرائیل",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "7": {
+    "url": "https://www.youtube.com/watch?v=c8rRMzAlsZE",
+    "platform": "youtube",
+    "title": "اخبار ساعت شش عصر-۲ آبان ۱۴۰۵- تنش آمریکا و ایران",
+    "format": "video",
+    "channel": "BBC Persian"
+  },
+  "8": {
     "url": "https://www.youtube.com/watch?v=_yU4TWvXtSc",
     "platform": "youtube",
     "title": "پرگار:  اختلاف سیاسی و قطع دوستی",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "3": {
+  "9": {
     "url": "https://www.youtube.com/shorts/wJPnO9qogC4",
     "platform": "youtube",
     "title": "خسارت‌‌های طوفان «آستن»‌ در بریتانیا",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "4": {
-    "url": "https://www.youtube.com/shorts/pNRRxrDD2lQ",
-    "platform": "youtube",
-    "title": "جلوگیری از ورود خانواده‌های اعدام‌شدگان سال ۶۷ به خاوران",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
-  "5": {
+  "10": {
     "url": "https://www.youtube.com/shorts/FMHoYQ_aoXw",
     "platform": "youtube",
     "title": "زنی با شیرجه زدن از روی کوه یخ تاریخ‌ساز شد",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "6": {
+  "11": {
     "url": "https://www.youtube.com/shorts/eyP9xxO6wns",
     "platform": "youtube",
     "title": "تگرگ شیشه خودرویی را که افراد داخل آن پناه گرفته بودند٬ شکست",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "7": {
+  "12": {
     "url": "https://www.youtube.com/shorts/cGcvLbdqhd8",
     "platform": "youtube",
     "title": "هنرمندی که در ازدحام جمعیت در کنسرت طراحی می‌کند",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "8": {
+  "13": {
     "url": "https://www.youtube.com/watch?v=YPhvy-gNnqg",
     "platform": "youtube",
     "title": "سنتوری»؛ چطور اسم «علی» دردساز شد»",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "9": {
+  "14": {
     "url": "https://www.youtube.com/watch?v=z79AUKokil8",
     "platform": "youtube",
     "title": "جنگی که امریکا و اسراییل شروع کردند را ایران چطور در حال ادامه دادن است؟ جام جهان‌نما جمعه ۱ آبان",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "10": {
+  "15": {
     "url": "https://www.youtube.com/watch?v=o1kHhPMBiEU",
     "platform": "youtube",
     "title": "کلیک؛ اعتراض به مراکز داده‌پردازی هوش مصنوعی",
     "format": "video",
     "channel": "BBC Persian"
   },
-  "11": {
-    "url": "https://www.youtube.com/watch?v=Ok5XxbncdtI",
-    "platform": "youtube",
-    "title": "اخبار ساعت شش عصر- جمعه اول آبان:‌ افزایش قیمت نفت",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
-  "12": {
-    "url": "https://www.youtube.com/watch?v=DGGsMPS8PUg",
-    "platform": "youtube",
-    "title": "پادکست انتخابات آمریکا- چرا قدرت در آمریکا در انحصار دو حزب سیاسی است؟",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
-  "13": {
-    "url": "https://www.youtube.com/shorts/DFA8a1Hcsro",
-    "platform": "youtube",
-    "title": "مولی با شیرجه زدن از روی یک کوه یخ تاریخ‌ساز شد",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
-  "14": {
-    "url": "https://www.youtube.com/shorts/kqtK8DHBwf8",
-    "platform": "youtube",
-    "title": "خورشید خانم و توله جدیدیش در پارک توران شاهرود",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
-  "15": {
-    "url": "https://www.youtube.com/shorts/fMjMK5IV22I",
-    "platform": "youtube",
-    "title": "کامیله ۱۱۷ ساله، ممکن است مسن‌ترین فرد جهان باشد",
-    "format": "video",
-    "channel": "BBC Persian"
-  },
   "16": {
+    "url": "https://www.youtube.com/shorts/bLGt7Le13bA",
+    "platform": "youtube",
+    "title": "Vertical Sequence 9 by 16_29.mp4",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "17": {
+    "url": "https://www.youtube.com/shorts/g9laLFYbwsM",
+    "platform": "youtube",
+    "title": "منشه امیر: اسرائیل در جنگ احتمالی آینده مراکز فرماندهی سپاه را هدف قرار خواهد داد",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "18": {
+    "url": "https://www.youtube.com/shorts/J_zYTdWb-o0",
+    "platform": "youtube",
+    "title": "روایات مشکوک حکومت درباره مجتبی خامنه‌ای و وصیت‌نامه پدرش",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "19": {
+    "url": "https://www.youtube.com/watch?v=_Cp2UeqmA0U",
+    "platform": "youtube",
+    "title": "تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "20": {
+    "url": "https://www.youtube.com/watch?v=0tKAy40mDpo",
+    "platform": "youtube",
+    "title": "شایان سمیعی کاشان: آمریکا می‌خواهد هشدارهای نظامی ترامپ پشتوانه عملیاتی داشته باشد",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "21": {
+    "url": "https://www.youtube.com/watch?v=H1BkhIVYy_Y",
+    "platform": "youtube",
+    "title": "چرتکه: درس‌های نوبل اقتصاد برای شرایط امروز ایران",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "22": {
+    "url": "https://www.youtube.com/watch?v=RapduzP0nj4",
+    "platform": "youtube",
+    "title": "گزارش روز با مجتبا پورمحسن: تدارک ناوهای آمریکایی برای حمله به ایران با مهمات سنگین",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "23": {
+    "url": "https://www.youtube.com/watch?v=D588As817dY",
+    "platform": "youtube",
+    "title": "اخبار عصرگاهی | شنبه ۲ آبان",
+    "format": "video",
+    "channel": "Iran International ايران اينترنشنال"
+  },
+  "24": {
     "url": "https://www.youtube.com/shorts/U_1k0P0V5_U",
     "platform": "youtube",
     "title": "تجمع هزاران معترض در پاریس زیر تدابیر شدید امنیتی",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "17": {
+  "25": {
     "url": "https://www.youtube.com/watch?v=s2AtlSt4PIQ",
     "platform": "youtube",
     "title": "حمایت ۱۷۱ کنشگر و زندانی سیاسی در ایران از شاهزاده رضا پهلوی",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "18": {
+  "26": {
     "url": "https://www.youtube.com/watch?v=yDKbjzMnTkQ",
     "platform": "youtube",
     "title": "افزایش ۴۰ درصدی قیمت بسته‌های اینترنت همراه در ایران با وجود افت کیفیت خدمات",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "19": {
+  "27": {
     "url": "https://www.youtube.com/watch?v=HE83JFK5Dcc",
     "platform": "youtube",
     "title": "آمران کشتار؛ بخش ششم: جنایات علیه بشریت",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "20": {
+  "28": {
     "url": "https://www.youtube.com/shorts/jn_xL1j6zJ4",
     "platform": "youtube",
     "title": "اژه‌ای: کشور هنوز به آمادگی شرایط جنگی نرسیده است",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "21": {
+  "29": {
     "url": "https://www.youtube.com/watch?v=PKkj4Zyi36Q",
     "platform": "youtube",
     "title": "تداوم اعتراضات ایرانیان در استکهلم پس از نزدیک به ۱۰ ماه",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "22": {
+  "30": {
     "url": "https://www.youtube.com/watch?v=VMsTAVO82C4",
     "platform": "youtube",
     "title": "چهارمین سالگرد تاسیس جبهه هفت آبان",
     "format": "video",
     "channel": "Iran International ايران اينترنشنال"
   },
-  "23": {
-    "url": "https://www.youtube.com/watch?v=OXgJ-ylpmEQ",
-    "platform": "youtube",
-    "title": "اعلام آمادگی آلمان، بریتانیا و فرانسه برای مذاکره هسته‌ای با جمهوری اسلامی",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "24": {
-    "url": "https://www.youtube.com/shorts/XP7CBEgPeZk",
-    "platform": "youtube",
-    "title": "میلان در آستانه اعتراضات، تدابیر امنیتی را تشدید کرد",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "25": {
-    "url": "https://www.youtube.com/watch?v=HiPAWrOgqjQ",
-    "platform": "youtube",
-    "title": "گفت‌‌وگوی ویژه با استیون دل‌دوکا، شهردار وان",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "26": {
-    "url": "https://www.youtube.com/watch?v=NIlG4WlMomY",
-    "platform": "youtube",
-    "title": "سه روز تا انتخابات اسرائیل؛ رقابت نتانیاهو با بنت و آیزنکوت",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "27": {
-    "url": "https://www.youtube.com/watch?v=dZtyRXhqHFk",
-    "platform": "youtube",
-    "title": "فرانسه در آستانه دور جدید اعتراضات گسترده",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "28": {
-    "url": "https://www.youtube.com/shorts/UyM0qIyx8VA",
-    "platform": "youtube",
-    "title": "پلیس فرانسه برای متفرق کردن معترضان در لیون گاز اشک‌آور شلیک کرد",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "29": {
-    "url": "https://www.youtube.com/watch?v=JmdzCaot9SU",
-    "platform": "youtube",
-    "title": "اخبار نیمروزی | شنبه ۲ آبان",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
-  "30": {
-    "url": "https://www.youtube.com/watch?v=PY_uUSPr7MM",
-    "platform": "youtube",
-    "title": "مروری بر روزنامه‌های ایران، شنبه ۲ آبان با مجتبی هاشمی",
-    "format": "video",
-    "channel": "Iran International ايران اينترنشنال"
-  },
   "31": {
+    "url": "https://soundcloud.com/iranintl/bi5bunaiaeq5",
+    "platform": "soundcloud",
+    "title": "تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق",
+    "format": "audio",
+    "channel": "Iran International ایران اینترنشنال (All)"
+  },
+  "32": {
+    "url": "https://soundcloud.com/iranintl/6yao8ezmde0e",
+    "platform": "soundcloud",
+    "title": "اخبار عصرگاهی | شنبه ۲ آبان",
+    "format": "audio",
+    "channel": "Iran International ایران اینترنشنال (All)"
+  },
+  "33": {
     "url": "https://soundcloud.com/iranintl/jxdvgtztqzl7",
     "platform": "soundcloud",
     "title": "اخبار نیمروزی | شنبه ۲ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "32": {
+  "34": {
     "url": "https://soundcloud.com/iranintl/bvgcdwdmrjt5",
     "platform": "soundcloud",
     "title": "اخبار بامدادی | شنبه ۲ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "33": {
+  "35": {
     "url": "https://soundcloud.com/iranintl/v6xmpgj1habr",
     "platform": "soundcloud",
     "title": "اخبار شبانگاهی | شنبه ۲ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "34": {
+  "36": {
     "url": "https://soundcloud.com/iranintl/c3fhv8jjcbtl",
     "platform": "soundcloud",
     "title": "۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "35": {
+  "37": {
     "url": "https://soundcloud.com/iranintl/ylyrawa4aiwk",
     "platform": "soundcloud",
     "title": "اخبار عصرگاهی | جمعه ۱ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "36": {
+  "38": {
     "url": "https://soundcloud.com/iranintl/cj7vcc3wpnq9",
     "platform": "soundcloud",
     "title": "اخبار نیمروزی | جمعه ۱ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "37": {
+  "39": {
     "url": "https://soundcloud.com/iranintl/w1rirvu8mugb",
     "platform": "soundcloud",
     "title": "اخبار بامدادی | جمعه ۱ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "38": {
+  "40": {
     "url": "https://soundcloud.com/iranintl/ok2sewtesb6a",
     "platform": "soundcloud",
     "title": "اخبار شبانگاهی | جمعه ۱ آبان",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "39": {
+  "41": {
     "url": "https://soundcloud.com/iranintl/czgbx62v74jv",
     "platform": "soundcloud",
     "title": "۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "40": {
+  "42": {
     "url": "https://soundcloud.com/iranintl/yxbwn7di8s63",
     "platform": "soundcloud",
     "title": "دومینو: شمارش معکوس برای شروع جنگی دیگر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "41": {
+  "43": {
     "url": "https://soundcloud.com/iranintl/qwm0vm0ukjsl",
     "platform": "soundcloud",
     "title": "اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "42": {
+  "44": {
     "url": "https://soundcloud.com/iranintl/8ovkhe1msrea",
     "platform": "soundcloud",
     "title": "اخبار نیمروزی | پنج‌شنبه ۳۰ مهر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "43": {
+  "45": {
     "url": "https://soundcloud.com/iranintl/0dwqpbx9ho1z",
     "platform": "soundcloud",
     "title": "اخبار بامدادی | پنجشنبه ۳۰ مهر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "44": {
+  "46": {
     "url": "https://soundcloud.com/iranintl/j8y7emvasgpa",
     "platform": "soundcloud",
     "title": "اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "45": {
+  "47": {
     "url": "https://soundcloud.com/iranintl/jwteq3vjcvo4",
     "platform": "soundcloud",
     "title": "سیاست با مراد ویسی: افزایش معترض‌کشی در زندان‌ها",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "46": {
+  "48": {
     "url": "https://soundcloud.com/iranintl/d7usfxdrdma3",
     "platform": "soundcloud",
     "title": "چشم‌انداز: بسته شدن مرزهای زمینی کشورهای همسایه با ایران",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "47": {
+  "49": {
     "url": "https://soundcloud.com/iranintl/psro8m3uocpy",
     "platform": "soundcloud",
     "title": "۲۴ با فرداد فرحزاد: نتانیاهو: جمهوری اسلامی باید سرنگون شود",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "48": {
+  "50": {
     "url": "https://soundcloud.com/iranintl/vkf4mlimxcot",
     "platform": "soundcloud",
     "title": "اخبار عصرگاهی | چهارشنبه ۲۹ مهر",
     "format": "audio",
     "channel": "Iran International ایران اینترنشنال (All)"
   },
-  "49": {
-    "url": "https://soundcloud.com/iranintl/x0ojyolpuynt",
-    "platform": "soundcloud",
-    "title": "اخبار نیمروزی | چهارشنبه ۲۹ مهر",
-    "format": "audio",
-    "channel": "Iran International ایران اینترنشنال (All)"
-  },
-  "50": {
-    "url": "https://soundcloud.com/iranintl/ach6m4hguoal",
-    "platform": "soundcloud",
-    "title": "اخبار بامدادی | چهارشنبه ۲۹ مهر",
-    "format": "audio",
-    "channel": "Iran International ایران اینترنشنال (All)"
-  },
   "51": {
+    "url": "https://soundcloud.com/bbcpersian/lbyf89xgizov",
+    "platform": "soundcloud",
+    "title": "جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵",
+    "format": "audio",
+    "channel": "BBC Persian (All)"
+  },
+  "52": {
     "url": "https://soundcloud.com/bbcpersian/jq2lgtbenddj",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "52": {
+  "53": {
     "url": "https://soundcloud.com/bbcpersian/dl7v3kaxdhcq",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "53": {
+  "54": {
     "url": "https://soundcloud.com/bbcpersian/crbvwjfbcma6",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "54": {
+  "55": {
     "url": "https://soundcloud.com/bbcpersian/8ys75f0kbyvh",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "55": {
+  "56": {
     "url": "https://soundcloud.com/bbcpersian/l8cbozddpo54",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "56": {
+  "57": {
     "url": "https://soundcloud.com/bbcpersian/6nqd6rhsdgnw",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "57": {
+  "58": {
     "url": "https://soundcloud.com/bbcpersian/8mizwndjy06n",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "58": {
+  "59": {
     "url": "https://soundcloud.com/bbcpersian/oinrtb0mlb0d",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "59": {
+  "60": {
     "url": "https://soundcloud.com/bbcpersian/kp6t5z60wmwp",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "60": {
+  "61": {
     "url": "https://soundcloud.com/bbcpersian/3leaz3mmtrle",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "61": {
+  "62": {
     "url": "https://soundcloud.com/bbcpersian/mgujxdjzq4zk",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "62": {
+  "63": {
     "url": "https://soundcloud.com/bbcpersian/eibj7xtmt6mn",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "63": {
+  "64": {
     "url": "https://soundcloud.com/bbcpersian/wwkpzfaiwruj",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "64": {
+  "65": {
     "url": "https://soundcloud.com/bbcpersian/rndpj72hvy9y",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "65": {
+  "66": {
     "url": "https://soundcloud.com/bbcpersian/swmt3gl9dmgh",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "66": {
+  "67": {
     "url": "https://soundcloud.com/bbcpersian/vdxllmratlqu",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "67": {
+  "68": {
     "url": "https://soundcloud.com/bbcpersian/6hxjyonsexu0",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "68": {
+  "69": {
     "url": "https://soundcloud.com/bbcpersian/r9w1jubcdswh",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   },
-  "69": {
+  "70": {
     "url": "https://soundcloud.com/bbcpersian/d1dqyvdknspf",
     "platform": "soundcloud",
     "title": "جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵",
-    "format": "audio",
-    "channel": "BBC Persian (All)"
-  },
-  "70": {
-    "url": "https://soundcloud.com/bbcpersian/eyznhsmcixdq",
-    "platform": "soundcloud",
-    "title": "جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵",
     "format": "audio",
     "channel": "BBC Persian (All)"
   }
