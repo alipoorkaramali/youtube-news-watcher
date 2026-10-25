@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-25T11:00:57.814367+00:00
-Generated (Iran): 2026-10-25T14:30:57.814382+00:00
+Generated (UTC):  2026-10-25T15:01:00.163925+00:00
+Generated (Iran): 2026-10-25T18:31:00.163942+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-24 19:31:15]
+    1. [2026-10-25 15:00:31]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=Ruk9qszfJkw
+
+    2. [2026-10-25 13:01:14]
+       انتقاد اوباما از جنگ آمریکا علیه ایران
+       https://www.youtube.com/shorts/Em0-8P7x-ig
+
+    3. [2026-10-24 19:31:15]
        شصت دقیقه شنبه ۲ آبان: شمارش معکوس تا انتخابات اسرائیل، آزمونی برای نتانیاهو در رقابتی شانه به شانه
        https://www.youtube.com/watch?v=44YEdbQZGLs
 
-    2. [2026-10-24 17:02:46]
+    4. [2026-10-24 17:02:46]
        نتانیاهو می‌تواند از این همه چالش پیروز بیرون بیاید؟ جام جهان‌نما شنبه ۲ آبان
        https://www.youtube.com/watch?v=R2jgk2be1gQ
 
-    3. [2026-10-24 16:17:34]
+    5. [2026-10-24 16:17:34]
        روایت پسر علیرضا تنگسیری از روز کشته شدن پدرش
        https://www.youtube.com/shorts/rSh1_xwSMXY
 
-    4. [2026-10-24 16:15:42]
+    6. [2026-10-24 16:15:42]
        «بازماندگان مدرسه میناب رها شده‌اند»
        https://www.youtube.com/shorts/PhNJIQEJtek
 
-    5. [2026-10-24 16:12:01]
+    7. [2026-10-24 16:12:01]
        جلوگیری از ورود خانواده‌های اعدام‌شدگان ۶۷ به خاوران
        https://www.youtube.com/shorts/CVF4hsbmUOM
 
-    6. [2026-10-24 15:39:19]
+    8. [2026-10-24 15:39:19]
        گزارش جمال موسوی از انتخابات اسرائیل
        https://www.youtube.com/watch?v=pgc_Mna9wRw
 
-    7. [2026-10-24 15:00:30]
+    9. [2026-10-24 15:00:30]
        اخبار ساعت شش عصر-۲ آبان ۱۴۰۵- تنش آمریکا و ایران
        https://www.youtube.com/watch?v=c8rRMzAlsZE
 
-    8. [2026-10-24 14:00:04]
+    10. [2026-10-24 14:00:04]
        پرگار:  اختلاف سیاسی و قطع دوستی
        https://www.youtube.com/watch?v=_yU4TWvXtSc
 
-    9. [2026-10-24 12:48:01]
+    11. [2026-10-24 12:48:01]
        خسارت‌‌های طوفان «آستن»‌ در بریتانیا
        https://www.youtube.com/shorts/wJPnO9qogC4
 
-    10. [2026-10-24 11:19:37]
+    12. [2026-10-24 11:19:37]
        زنی با شیرجه زدن از روی کوه یخ تاریخ‌ساز شد
        https://www.youtube.com/shorts/FMHoYQ_aoXw
 
-    11. [2026-10-24 08:58:13]
+    13. [2026-10-24 08:58:13]
        تگرگ شیشه خودرویی را که افراد داخل آن پناه گرفته بودند٬ شکست
        https://www.youtube.com/shorts/eyP9xxO6wns
 
-    12. [2026-10-24 08:48:54]
+    14. [2026-10-24 08:48:54]
        هنرمندی که در ازدحام جمعیت در کنسرت طراحی می‌کند
        https://www.youtube.com/shorts/cGcvLbdqhd8
 
-    13. [2026-10-23 17:30:21]
+    15. [2026-10-23 17:30:21]
        سنتوری»؛ چطور اسم «علی» دردساز شد»
        https://www.youtube.com/watch?v=YPhvy-gNnqg
-
-    14. [2026-10-23 16:59:50]
-       جنگی که امریکا و اسراییل شروع کردند را ایران چطور در حال ادامه دادن است؟ جام جهان‌نما جمعه ۱ آبان
-       https://www.youtube.com/watch?v=z79AUKokil8
-
-    15. [2026-10-23 16:00:22]
-       کلیک؛ اعتراض به مراکز داده‌پردازی هوش مصنوعی
-       https://www.youtube.com/watch?v=o1kHhPMBiEU
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-25 10:48:04]
+    16. [2026-10-25 14:36:34]
+       آلمان با ۱۰ افسر و دو هواپیمای سوخت‌رسان در رزمایش ائتلاف حامی اوکراین شرکت می‌کند
+       https://www.youtube.com/watch?v=DZhRxsINu50
+
+    17. [2026-10-25 14:27:42]
+       درس‌های نوبل اقتصاد برای شرایط امروز ایران
+       https://www.youtube.com/shorts/ihQTVMeVtYc
+
+    18. [2026-10-25 14:05:37]
+       هشدار نتانیاهو با انتشار تصویری از انفجار اتمی در تل‌آویو درباره تهدید جمهوری اسلامی
+       https://www.youtube.com/watch?v=daR9klhnx14
+
+    19. [2026-10-25 13:45:56]
+       فروغ کنعانی: ارجاع قالیباف به خاندان پهلوی، نشانه نگرانی جمهوری اسلامی از آلترناتیو است
+       https://www.youtube.com/watch?v=iClbo4bqxfo
+
+    20. [2026-10-25 13:25:26]
+       درهای کاخ رضاشاه در کلاردشت پس از سال‌ها به روی مردم باز شد
+       https://www.youtube.com/watch?v=asJau3roF7U
+
+    21. [2026-10-25 12:22:22]
+       ولودیمیر زلنسکی از حملات گسترده روسیه به اوکراین خبر داد
+       https://www.youtube.com/watch?v=nnAoivJQBkw
+
+    22. [2026-10-25 12:15:49]
+       اخبار نیمروزی | یکشنبه ۳ آبان
+       https://www.youtube.com/watch?v=kldQ-8Jliyg
+
+    23. [2026-10-25 11:21:44]
+       مروری بر روزنامه‌های ایران، یکشنبه ۳ آبان با مجتبی هاشمی
+       https://www.youtube.com/watch?v=zvGrjP-qQus
+
+    24. [2026-10-25 11:15:01]
+       بن‌بست انتخاباتی در اسرائیل؛ پیش‌بینی نبود اکثریت پارلمانی برای ائتلاف‌ها
+       https://www.youtube.com/watch?v=ApZj2gz4AtQ
+
+    25. [2026-10-25 10:48:04]
        رییس کل دادگستری قم: اموال ساعدی‌نیا در حال کارشناسی و مصادره است
        https://www.youtube.com/shorts/KCmDmQq8iSs
 
-    17. [2026-10-25 10:23:41]
+    26. [2026-10-25 10:23:41]
        صربستان در پی ماه‌ها اعتراض ضد دولتی، انتخابات زودهنگام پارلمانی برگزار می‌کند
        https://www.youtube.com/watch?v=h-ACBpS1eoA
 
-    18. [2026-10-25 10:12:05]
+    27. [2026-10-25 10:12:05]
        علی شیرازی: عراقچی بر تداوم سیاست‌های ضداسرائیلی و ضدآمریکایی جمهوری اسلامی تاکید دارد
        https://www.youtube.com/watch?v=AVSCd8PuvWI
 
-    19. [2026-10-25 09:33:59]
+    28. [2026-10-25 09:33:59]
        قالیباف: ما حرف جدیدی با آمریکا نداریم
        https://www.youtube.com/shorts/djzmglAJC9g
 
-    20. [2026-10-25 09:20:56]
+    29. [2026-10-25 09:20:56]
        صبا آلاله: بحران‌های ممتد اقتصادی و اجتماعی سلامت روان ایرانیان را فرسوده کرده است
        https://www.youtube.com/watch?v=2DIzFebmp3k
 
-    21. [2026-10-25 08:58:49]
+    30. [2026-10-25 08:58:49]
        ارتش اسرائیل رزمایش نظامی با مشارکت چهار لشکر و نیروی هوایی برگزار می‌کند
        https://www.youtube.com/watch?v=0l6dGdpljc0
-
-    22. [2026-10-25 08:40:08]
-       تداوم اعتراضات ایرانیان مقیم استکهلم با هدف مخالفت با جمهوری اسلامی
-       https://www.youtube.com/watch?v=qcKFAoWBw1g
-
-    23. [2026-10-25 08:34:04]
-       وزیر خارجه ترکیه: حمله دوباره به جمهوری اسلامی می‌تواند تنش‌ها را گسترش دهد
-       https://www.youtube.com/watch?v=fD_DL4lNypU
-
-    24. [2026-10-25 08:32:10]
-       هوشنگ حسن‌یاری: برتری هوایی، محور اصلی حمله احتمالی آمریکا به جمهوری اسلامی است
-       https://www.youtube.com/watch?v=QujsCN7gZuA
-
-    25. [2026-10-25 08:26:17]
-       روح‌الله رحیم‌پور: حمله محدود آمریکا و اسرائیل می‌تواند به جنگی طولانی تبدیل شود
-       https://www.youtube.com/watch?v=eYeYLc-tbpk
-
-    26. [2026-10-25 08:24:24]
-       عراقچی: با جنگ یا بدون جنگ، سیاست‌های جمهوری اسلامی تغییر نمی‌کند
-       https://www.youtube.com/shorts/08jCteggwII
-
-    27. [2026-10-25 05:29:51]
-       اخبار بامدادی | یکشنبه ۳ آبان
-       https://www.youtube.com/watch?v=g-FMX5qDVGc
-
-    28. [2026-10-25 05:12:58]
-       علی دادپی: دولت و مجلس با سیاست‌های مالی، هزینه گرانی و تورم را به مردم تحمیل می‌کنند
-       https://www.youtube.com/watch?v=k04LHK3K-q4
-
-    29. [2026-10-25 05:07:57]
-       نظرسنجی‌ها از بن‌بست انتخاباتی در اسرائیل حکایت دارند
-       https://www.youtube.com/watch?v=izpyoQVt2Mc
-
-    30. [2026-10-25 05:05:12]
-       فرانسه ۷۰ هزار نیروی پلیس را در پی اعتراضات خشونت‌آمیز در این کشور مستقر کرد
-       https://www.youtube.com/watch?v=I6DAmx9fvvk
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | یکشنبه ۳ آبان
+       https://soundcloud.com/iranintl/jarn9xmgg0wv
+
+    32. [Unknown]
        اخبار بامدادی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/wvbtqg9an9vt
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yfnhf3mw48yb
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: قاتلان مردم اصفهان
        https://soundcloud.com/iranintl/nqpaxias1iy9
 
-    34. [Unknown]
+    35. [Unknown]
        روایت مشکوک حکومت درباره مجتبی خامنه‌ای و وصیت‌نامه پدرش
        https://soundcloud.com/iranintl/owrub09dawjk
 
-    35. [Unknown]
+    36. [Unknown]
        تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق
        https://soundcloud.com/iranintl/bi5bunaiaeq5
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/6yao8ezmde0e
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/jxdvgtztqzl7
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/bvgcdwdmrjt5
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/v6xmpgj1habr
 
-    40. [Unknown]
+    41. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
        https://soundcloud.com/iranintl/c3fhv8jjcbtl
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ylyrawa4aiwk
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار نیمروزی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/cj7vcc3wpnq9
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/w1rirvu8mugb
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ok2sewtesb6a
 
-    45. [Unknown]
+    46. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
        https://soundcloud.com/iranintl/czgbx62v74jv
 
-    46. [Unknown]
+    47. [Unknown]
        دومینو: شمارش معکوس برای شروع جنگی دیگر
        https://soundcloud.com/iranintl/yxbwn7di8s63
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/qwm0vm0ukjsl
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | پنج‌شنبه ۳۰ مهر
        https://soundcloud.com/iranintl/8ovkhe1msrea
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | پنجشنبه ۳۰ مهر
        https://soundcloud.com/iranintl/0dwqpbx9ho1z
-
-    50. [Unknown]
-       اخبار شبانگاهی | پنج‌شنبه ۳۰ مهر
-       https://soundcloud.com/iranintl/j8y7emvasgpa
 
 ----------------------------------------
 
