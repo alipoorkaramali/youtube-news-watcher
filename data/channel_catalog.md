@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-26T11:00:59.210577+00:00
-Generated (Iran): 2026-10-26T14:30:59.210591+00:00
+Generated (UTC):  2026-10-26T15:01:08.613503+00:00
+Generated (Iran): 2026-10-26T18:31:08.613519+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-26 09:56:00]
+    1. [2026-10-26 15:00:36]
+       اخبار ساعت شش عصر دوشنبه ۴ آبان: دیدار نمایندگان سه کشور عضو پیمان دفاعی مکه با مقامهای ارشد ایران
+       https://www.youtube.com/watch?v=jZImUoCE260
+
+    2. [2026-10-26 14:51:01]
+       سرخط خبرها، دوشنبه ۴ آبان ۱۴۰۵
+       https://www.youtube.com/shorts/kUEY1LYRb9w
+
+    3. [2026-10-26 12:55:29]
+       خارج شدن هواپیما از باند فرودگاه بیرمنگام به دلیل طوفان
+       https://www.youtube.com/shorts/RRnxZRMjjwA
+
+    4. [2026-10-26 12:54:20]
+       پیروزی جنبش دانشجویی در انتخابات زودهنگام صربستان پس از دو سال اعتراض گسترده
+       https://www.youtube.com/shorts/LoeSVlkAVoo
+
+    5. [2026-10-26 09:56:00]
        پیروزی تاریخی لولا برای چهارمین دوره ریاست جمهوری برزیل
        https://www.youtube.com/shorts/1M9w1LTbsAg
 
-    2. [2026-10-26 09:54:42]
+    6. [2026-10-26 09:54:42]
        مارین لوپن کارزار انتخاباتی برای ریاست جمهوری فرانسه را آغاز کرد
        https://www.youtube.com/shorts/bbQd4juTqYE
 
-    3. [2026-10-26 09:43:41]
+    7. [2026-10-26 09:43:41]
        جنجال نمایشگاه فیتکس تهران؛ وزارت ورزش: «ارتباطی با ما نداشت و مجوزی به آن نداده بودیم»
        https://www.youtube.com/shorts/Dm5uODGCq8s
 
-    4. [2026-10-25 19:31:28]
+    8. [2026-10-25 19:31:28]
        ۶۰ دقیقه یکشنبه ۳ آبان ۱۴۰۵: انتخابات اسرائیل؛ رفراندومی برای عملکرد نتانیاهو؟
        https://www.youtube.com/watch?v=u9rg6P7q0Is
 
-    5. [2026-10-25 17:02:41]
+    9. [2026-10-25 17:02:41]
        ترامپ: شاید مجبور شوم کار را تمام کنم؛ جام جهان‌نما یکشنبه ۳ آبان
        https://www.youtube.com/watch?v=C5BvlC3pkfA
 
-    6. [2026-10-25 16:00:00]
-       ترامپ: شاید مجبور شوم کار را تمام کنم؛ جام جهان‌نما یکشنبه ۳ آبان
-       https://www.youtube.com/watch?v=YBRDZaw-1iU
-
-    7. [2026-10-25 15:43:17]
+    10. [2026-10-25 15:43:17]
        ادامه اعتراضات در شهرهای مختلف اروپا
        https://www.youtube.com/shorts/TCF_sVmD1mY
 
-    8. [2026-10-25 15:39:46]
+    11. [2026-10-25 15:39:46]
        سرخط خبرها یکشنبه ۳ آبان
        https://www.youtube.com/shorts/nCGrrg6j9b4
 
-    9. [2026-10-25 15:00:31]
+    12. [2026-10-25 15:00:31]
        اخبار ساعت شش عصر یکشنبه ۳ آبان: چشم‌انداز تنش آمریکا و ایران
        https://www.youtube.com/watch?v=Ruk9qszfJkw
 
-    10. [2026-10-25 13:01:14]
+    13. [2026-10-25 13:01:14]
        انتقاد اوباما از جنگ آمریکا علیه ایران
        https://www.youtube.com/shorts/Em0-8P7x-ig
 
-    11. [2026-10-24 19:31:15]
+    14. [2026-10-24 19:31:15]
        شصت دقیقه شنبه ۲ آبان: شمارش معکوس تا انتخابات اسرائیل، آزمونی برای نتانیاهو در رقابتی شانه به شانه
        https://www.youtube.com/watch?v=44YEdbQZGLs
 
-    12. [2026-10-24 17:02:46]
+    15. [2026-10-24 17:02:46]
        نتانیاهو می‌تواند از این همه چالش پیروز بیرون بیاید؟ جام جهان‌نما شنبه ۲ آبان
        https://www.youtube.com/watch?v=R2jgk2be1gQ
-
-    13. [2026-10-24 16:17:34]
-       روایت پسر علیرضا تنگسیری از روز کشته شدن پدرش
-       https://www.youtube.com/shorts/rSh1_xwSMXY
-
-    14. [2026-10-24 16:15:42]
-       «بازماندگان مدرسه میناب رها شده‌اند»
-       https://www.youtube.com/shorts/PhNJIQEJtek
-
-    15. [2026-10-24 16:12:01]
-       جلوگیری از ورود خانواده‌های اعدام‌شدگان ۶۷ به خاوران
-       https://www.youtube.com/shorts/CVF4hsbmUOM
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-26 10:43:58]
+    16. [2026-10-26 14:49:13]
+       لولا برای چهارمین بار به‌عنوان رییس‌جمهوری برزیل انتخاب شد
+       https://www.youtube.com/shorts/qggJE_OEru0
+
+    17. [2026-10-26 14:22:34]
+       استفاده از چاقوهای مرغ‌فروشی به‌عنوان مدرک در پرونده علیرضا رییسی، معترض اعدام‌شده
+       https://www.youtube.com/watch?v=lGxVzW9EWiI
+
+    18. [2026-10-26 14:13:31]
+       انفجار منزل مسکونی در کرمانشاه ۱۰ مصدوم بر جای گذاشت
+       https://www.youtube.com/shorts/FiFHGkq65Oc
+
+    19. [2026-10-26 14:10:02]
+       نتانیاهو دو گزارش درباره اقدام علیه جمهوری اسلامی پیش از انتخابات را رد کرد
+       https://www.youtube.com/watch?v=vMZX_HWpbwk
+
+    20. [2026-10-26 14:08:31]
+       آغاز نشست چهارجانبه جمهوری اسلامی، پاکستان، ترکیه و عربستان سعودی در تهران
+       https://www.youtube.com/shorts/myJbU9-XJko
+
+    21. [2026-10-26 13:23:41]
+       ادامه محاکمه سه متهم پرونده تهدید روزنامه‌نگاران ایران‌اینترنشنال در لندن
+       https://www.youtube.com/watch?v=zBYyhtbOmc0
+
+    22. [2026-10-26 13:06:53]
+       عطا حسینیان: موج خبری مقابله با قاچاق سوخت، مقدمه افزایش قیمت بنزین است
+       https://www.youtube.com/watch?v=Hg5rz3hVxBg
+
+    23. [2026-10-26 12:56:44]
+       هوشنگ حسن‌یاری: سیاست‌های جمهوری اسلامی با همزیستی مسالمت‌آمیز در منطقه سازگار نیست
+       https://www.youtube.com/watch?v=1pRFU6N9Fko
+
+    24. [2026-10-26 12:19:16]
+       یادبود سینا قائمی؛ مربی ورزشی ایرانی که دی ماه گذشته در سانحه رانندگی در نیجریه جان باخت
+       https://www.youtube.com/watch?v=vvRS5sGsjz4
+
+    25. [2026-10-26 12:18:51]
+       اخبار نیمروزی | دوشنبه ۴ آبان
+       https://www.youtube.com/watch?v=qNboYYafpys
+
+    26. [2026-10-26 11:55:21]
+       پیام‌های رسیده درباره کمبود آرد، تعطیلی نانوایی‌ها و افزایش قیمت نان در شهرهای مختلف ایران
+       https://www.youtube.com/watch?v=Cw1vrr3fdPU
+
+    27. [2026-10-26 11:32:28]
+       مروری بر روزنامه‌های ایران، دوشنبه ۴ آبان
+       https://www.youtube.com/watch?v=bBKO0SGSa8U
+
+    28. [2026-10-26 11:04:37]
+       حسین آقایی: آمریکا برای حمله به جمهوری اسلامی سناریوهای مختلفی دارد
+       https://www.youtube.com/watch?v=XixOcleJTRQ
+
+    29. [2026-10-26 11:00:39]
+       هفت جنایت علیه بشریت در سرکوب خیزش مهسا
+       https://www.youtube.com/watch?v=u1SUBmnMdXY
+
+    30. [2026-10-26 10:43:58]
        ادامه اعتراضات در شهرهای اروپایی در پی بحران اقتصادی
        https://www.youtube.com/watch?v=MM0_on5ycdQ
-
-    17. [2026-10-26 10:14:20]
-       نتایج اولیه انتخابات چه زمانی اعلام می‌شود؟
-       https://www.youtube.com/watch?v=XD8q5-McQrE
-
-    18. [2026-10-26 09:52:12]
-       بقایی: رجزخوانی نتانیاهو نشانه استیصال است
-       https://www.youtube.com/shorts/kYkWjzi_Q7k
-
-    19. [2026-10-26 09:12:03]
-       توقیف اموال صادق ساعدی‌نیا، از حامیان انقلاب ملی ایرانیان و آغاز روند مصادره دارایی‌های او
-       https://www.youtube.com/watch?v=97DOW8W03UQ
-
-    20. [2026-10-26 09:09:46]
-       ترامپ از اسرائیلی‌ها خواست برای تکمیل عملیات علیه جمهوری اسلامی به نتانیاهو رای دهند
-       https://www.youtube.com/watch?v=q-Mmg5T3RHA
-
-    21. [2026-10-26 09:06:57]
-       نجات ۴۰ ملوان ایرانی از نفتکش‌های سرگردان در سریلانکا
-       https://www.youtube.com/watch?v=JNIRQx5qcDY
-
-    22. [2026-10-26 09:05:10]
-       مرتضی کاظمیان: سفر مقام‌های منطقه به تهران حامل هشدارهای امنیتی به جمهوری اسلامی است
-       https://www.youtube.com/watch?v=yHN5Z1c3Uus
-
-    23. [2026-10-26 08:16:27]
-       نشست امنیتی تهران با حضور مقام‌های عربستان، ترکیه و پاکستان
-       https://www.youtube.com/watch?v=iL3xxGN-ufs
-
-    24. [2026-10-26 07:31:08]
-       حسین علیزاده: تاکید ترامپ بر دستاوردهای جنگ در چارچوب رقابت‌های انتخاباتی است
-       https://www.youtube.com/watch?v=94xBO2KE_Mo
-
-    25. [2026-10-26 07:22:03]
-       تجمع ایرانیان کلگری در اعتراض به احکام اعدام زندانیان سیاسی
-       https://www.youtube.com/watch?v=X8Np4F5LuNE
-
-    26. [2026-10-26 07:09:02]
-       نشست مقام‌های عربستان، ترکیه و پاکستان با مقام‌های جمهوری اسلامی در تهران
-       https://www.youtube.com/watch?v=8fUHUQSDdHI
-
-    27. [2026-10-26 06:46:14]
-       اخبار بامدادی | دوشنبه ۴ آبان
-       https://www.youtube.com/watch?v=ZSe4W0t6PiU
-
-    28. [2026-10-26 04:59:15]
-       مری اپیک در گفت‌وگو با ایران‌اینترنشنال: تالار رودکی نقش مهمی در رشد باله و هنر ایران داشت
-       https://www.youtube.com/watch?v=P_49djumqNw
-
-    29. [2026-10-26 04:13:56]
-       تالار رودکی؛ ۵۹ سال فراز و نشیب یک میراث هنری
-       https://www.youtube.com/watch?v=6O68X3xYRRo
-
-    30. [2026-10-26 04:12:09]
-       قطع سوخت ۱۲ هزار قایق صیادی در هرمزگان و تهدید معیشت صیادان
-       https://www.youtube.com/watch?v=E4vEr46_l9k
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | دوشنبه ۴ آبان
+       https://soundcloud.com/iranintl/v11hryxng5wy
+
+    32. [Unknown]
        اخبار بامدادی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/1stm3bo3f7gu
 
-    32. [Unknown]
+    33. [Unknown]
        سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
        https://soundcloud.com/iranintl/smlgz5lszga5
 
-    33. [Unknown]
+    34. [Unknown]
        برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
        https://soundcloud.com/iranintl/mwokjukp2kp7
 
-    34. [Unknown]
+    35. [Unknown]
        تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
        https://soundcloud.com/iranintl/bnbdexowbyk5
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yulgyeea8vdf
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/jarn9xmgg0wv
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/wvbtqg9an9vt
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yfnhf3mw48yb
 
-    39. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: قاتلان مردم اصفهان
        https://soundcloud.com/iranintl/nqpaxias1iy9
 
-    40. [Unknown]
+    41. [Unknown]
        روایت مشکوک حکومت درباره مجتبی خامنه‌ای و وصیت‌نامه پدرش
        https://soundcloud.com/iranintl/owrub09dawjk
 
-    41. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق
        https://soundcloud.com/iranintl/bi5bunaiaeq5
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار عصرگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/6yao8ezmde0e
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار نیمروزی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/jxdvgtztqzl7
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار بامدادی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/bvgcdwdmrjt5
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/v6xmpgj1habr
 
-    46. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
        https://soundcloud.com/iranintl/c3fhv8jjcbtl
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ylyrawa4aiwk
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/cj7vcc3wpnq9
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/w1rirvu8mugb
-
-    50. [Unknown]
-       اخبار شبانگاهی | جمعه ۱ آبان
-       https://soundcloud.com/iranintl/ok2sewtesb6a
 
 ----------------------------------------
 
