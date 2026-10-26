@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-25T19:00:58.453305+00:00
-Generated (Iran): 2026-10-25T22:30:58.453321+00:00
+Generated (UTC):  2026-10-26T07:00:57.193853+00:00
+Generated (Iran): 2026-10-26T10:30:57.193873+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-25 18:00:00]
+    1. [2026-10-25 19:31:28]
        انتخابات اسرائیل؛ رفراندومی برای عملکرد نتانیاهو؟ - ۶۰ دقیقه یکشنبه ۳ آبان
        https://www.youtube.com/watch?v=u9rg6P7q0Is
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-25 18:24:20]
-       برنامه ترامپ برای «یکسره کردن کار جمهوری اسلامی»
-       https://www.youtube.com/shorts/xmd8QuJjb18
+    16. [2026-10-26 06:46:14]
+       اخبار بامدادی | دوشنبه ۴ آبان
+       https://www.youtube.com/watch?v=ZSe4W0t6PiU
 
-    17. [2026-10-25 18:17:16]
-       چهار هفته اعتراض و غارت در فرانسه بدون کشته به دست پلیس؛ مقایسه با سرکوب خونین در ایران
-       https://www.youtube.com/shorts/Vrm1U5eYCa4
+    17. [2026-10-26 04:59:15]
+       مری اپیک در گفت‌وگو با ایران‌اینترنشنال: تالار رودکی نقش مهمی در رشد باله و هنر ایران داشت
+       https://www.youtube.com/watch?v=P_49djumqNw
 
-    18. [2026-10-25 17:53:02]
-       گزارش هیل از آماده‌سازی طرح‌های سنتکام برای حمله احتمالی به ایران پس از انتخابات آمریکا
-       https://www.youtube.com/shorts/gNfxAJP2fRw
+    18. [2026-10-26 04:13:56]
+       تالار رودکی؛ ۵۹ سال فراز و نشیب یک میراث هنری
+       https://www.youtube.com/watch?v=6O68X3xYRRo
 
-    19. [2026-10-25 17:42:38]
-       تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
-       https://www.youtube.com/watch?v=Os3Oc_BCS1Y
+    19. [2026-10-26 04:12:09]
+       قطع سوخت ۱۲ هزار قایق صیادی در هرمزگان و تهدید معیشت صیادان
+       https://www.youtube.com/watch?v=E4vEr46_l9k
 
-    20. [2026-10-25 16:20:38]
-       شایان سمیعی: میانجی‌گری قطر ممکن است خطر جنگ را کاهش دهد، اما به حل بحران منجر نمی‌شود
-       https://www.youtube.com/watch?v=0GfRUX7ffrU
+    20. [2026-10-26 03:48:03]
+       نوید محبی: آینده ایران باید به دست مردم و در انتخابات تعیین شود
+       https://www.youtube.com/watch?v=bdqcp7-TbDU
 
-    21. [2026-10-25 16:03:39]
-       اخبار عصرگاهی | یکشنبه ۳ آبان
-       https://www.youtube.com/watch?v=vyMvaXqbGrk
+    21. [2026-10-26 03:46:17]
+       رضا عرب: پایان مطلوب ترامپ تغییر رژیم جمهوری اسلامی است
+       https://www.youtube.com/watch?v=sOsrKxWggT4
 
-    22. [2026-10-25 14:53:08]
-       افشاگری درباره گم شدن ۱۱ میلیارد دلار پول نفت
-       https://www.youtube.com/shorts/IjV3CTgYAZ4
+    22. [2026-10-26 01:01:17]
+       ترامپ: جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای، ارزش افزایش قیمت سوخت را داشت
+       https://www.youtube.com/shorts/xdE9EzBmXYk
 
-    23. [2026-10-25 14:36:34]
-       آلمان با ۱۰ افسر و دو هواپیمای سوخت‌رسان در رزمایش ائتلاف حامی اوکراین شرکت می‌کند
-       https://www.youtube.com/watch?v=DZhRxsINu50
+    23. [2026-10-26 00:59:37]
+       ترامپ: هشت جنگ را پایان داده‌ام و جلوی تهدید هسته‌ای جمهوری اسلامی را گرفته‌ام
+       https://www.youtube.com/shorts/FAoOswqGnpE
 
-    24. [2026-10-25 14:27:42]
-       درس‌های نوبل اقتصاد برای شرایط امروز ایران
-       https://www.youtube.com/shorts/ihQTVMeVtYc
+    24. [2026-10-26 00:05:57]
+       بازگشت ماچادو به ونزوئلا پس از حدود یک سال دوری
+       https://www.youtube.com/shorts/RoMoXAqezE8
 
-    25. [2026-10-25 14:05:37]
-       هشدار نتانیاهو با انتشار تصویری از انفجار اتمی در تل‌آویو درباره تهدید جمهوری اسلامی
-       https://www.youtube.com/watch?v=daR9klhnx14
+    25. [2026-10-25 22:48:26]
+       نتانیاهو: جمهوری اسلامی ممکن است برای اخلال در انتخابات اسرائیل حمله کند
+       https://www.youtube.com/shorts/C2Nmq0nayBY
 
-    26. [2026-10-25 13:45:56]
-       فروغ کنعانی: ارجاع قالیباف به خاندان پهلوی، نشانه نگرانی جمهوری اسلامی از آلترناتیو است
-       https://www.youtube.com/watch?v=iClbo4bqxfo
+    26. [2026-10-25 22:24:10]
+       هوشنگ حسن‌یاری: برتری نظامی عربستان برای شکست حوثی‌ها کافی نیست
+       https://www.youtube.com/watch?v=9sUgxb4ahEw
 
-    27. [2026-10-25 13:25:26]
-       درهای کاخ رضاشاه در کلاردشت پس از سال‌ها به روی مردم باز شد
-       https://www.youtube.com/watch?v=asJau3roF7U
+    27. [2026-10-25 22:08:54]
+       انتخاب ملت سرنگونی جمهوری اسلامی رهبری شاهزاده است
+       https://www.youtube.com/shorts/eXvfINHO5mY
 
-    28. [2026-10-25 12:22:22]
-       ولودیمیر زلنسکی از حملات گسترده روسیه به اوکراین خبر داد
-       https://www.youtube.com/watch?v=nnAoivJQBkw
+    28. [2026-10-25 22:08:11]
+       کامیار بهرنگ: هشدار نتانیاهو درباره تهدید جمهوری اسلامی را نباید صرفا انتخاباتی دانست
+       https://www.youtube.com/watch?v=AXhdXc1DwUI
 
-    29. [2026-10-25 12:15:49]
-       اخبار نیمروزی | یکشنبه ۳ آبان
-       https://www.youtube.com/watch?v=kldQ-8Jliyg
+    29. [2026-10-25 22:02:16]
+       سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
+       https://www.youtube.com/watch?v=0KxpdHBni-I
 
-    30. [2026-10-25 11:21:44]
-       مروری بر روزنامه‌های ایران، یکشنبه ۳ آبان با مجتبی هاشمی
-       https://www.youtube.com/watch?v=zvGrjP-qQus
+    30. [2026-10-25 21:41:52]
+       احمدی‌نژاد دنبال چیست؟
+       https://www.youtube.com/shorts/ut5LcNHSxiY
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
+       https://soundcloud.com/iranintl/smlgz5lszga5
+
+    32. [Unknown]
+       برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
+       https://soundcloud.com/iranintl/mwokjukp2kp7
+
+    33. [Unknown]
        تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
        https://soundcloud.com/iranintl/bnbdexowbyk5
 
-    32. [Unknown]
+    34. [Unknown]
        اخبار عصرگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yulgyeea8vdf
 
-    33. [Unknown]
+    35. [Unknown]
        اخبار نیمروزی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/jarn9xmgg0wv
 
-    34. [Unknown]
+    36. [Unknown]
        اخبار بامدادی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/wvbtqg9an9vt
 
-    35. [Unknown]
+    37. [Unknown]
        اخبار شبانگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yfnhf3mw48yb
 
-    36. [Unknown]
+    38. [Unknown]
        سیاست با مراد ویسی: قاتلان مردم اصفهان
        https://soundcloud.com/iranintl/nqpaxias1iy9
 
-    37. [Unknown]
+    39. [Unknown]
        روایت مشکوک حکومت درباره مجتبی خامنه‌ای و وصیت‌نامه پدرش
        https://soundcloud.com/iranintl/owrub09dawjk
 
-    38. [Unknown]
+    40. [Unknown]
        تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق
        https://soundcloud.com/iranintl/bi5bunaiaeq5
 
-    39. [Unknown]
+    41. [Unknown]
        اخبار عصرگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/6yao8ezmde0e
 
-    40. [Unknown]
+    42. [Unknown]
        اخبار نیمروزی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/jxdvgtztqzl7
 
-    41. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/bvgcdwdmrjt5
 
-    42. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/v6xmpgj1habr
 
-    43. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
        https://soundcloud.com/iranintl/c3fhv8jjcbtl
 
-    44. [Unknown]
+    46. [Unknown]
        اخبار عصرگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ylyrawa4aiwk
 
-    45. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/cj7vcc3wpnq9
 
-    46. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/w1rirvu8mugb
 
-    47. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | جمعه ۱ آبان
        https://soundcloud.com/iranintl/ok2sewtesb6a
 
-    48. [Unknown]
+    50. [Unknown]
        ۲۴ با فرداد فرحزاد: نتانیاهو: تنها راه مقابله با حکومت نئونازی ایران، سرنگونی آن است
        https://soundcloud.com/iranintl/czgbx62v74jv
-
-    49. [Unknown]
-       دومینو: شمارش معکوس برای شروع جنگی دیگر
-       https://soundcloud.com/iranintl/yxbwn7di8s63
-
-    50. [Unknown]
-       اخبار عصرگاهی | پنج‌شنبه ۳۰ مهر
-       https://soundcloud.com/iranintl/qwm0vm0ukjsl
 
 ----------------------------------------
 
