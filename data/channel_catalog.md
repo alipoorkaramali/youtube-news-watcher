@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-26T15:01:08.613503+00:00
-Generated (Iran): 2026-10-26T18:31:08.613519+00:00
+Generated (UTC):  2026-10-26T19:01:05.111299+00:00
+Generated (Iran): 2026-10-26T22:31:05.111318+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-26 15:00:36]
+    1. [2026-10-26 18:00:00]
+       پایان نشست چهارجانبه تهران؛ سایه جنگ یا توافق بر انتخابات اسرائیل و آمریکا - ۶۰ دقیقه دوشنبه ۴ آبان
+       https://www.youtube.com/watch?v=VFWJNTEctA8
+
+    2. [2026-10-26 17:02:20]
+       ایران چه غافلگیری‌هایی در سر دارد؟ جام جهان‌نما دوشنبه ۴ آبان ۱۴۰۵
+       https://www.youtube.com/watch?v=Ov6pUe1FQlM
+
+    3. [2026-10-26 16:00:11]
+       به‌روز؛ رها در آب‌های جهان، پشت صحنه ویدیو بلاگ و جواهراتی از گذشته
+       https://www.youtube.com/watch?v=gKOKqJlOz5o
+
+    4. [2026-10-26 16:00:00]
+       جام جهان‌نما
+       https://www.youtube.com/watch?v=5QITR5h6TbY
+
+    5. [2026-10-26 15:00:36]
        اخبار ساعت شش عصر دوشنبه ۴ آبان: دیدار نمایندگان سه کشور عضو پیمان دفاعی مکه با مقامهای ارشد ایران
        https://www.youtube.com/watch?v=jZImUoCE260
 
-    2. [2026-10-26 14:51:01]
+    6. [2026-10-26 15:00:12]
+       گزارشها از اختلاف بین بنیامین نتانیاهو و فرمانده ستاد ارتش حکایت دارد، وزیردفاع تکذیب کرد
+       https://www.youtube.com/watch?v=p8ccwCpiUDI
+
+    7. [2026-10-26 14:51:01]
        سرخط خبرها، دوشنبه ۴ آبان ۱۴۰۵
        https://www.youtube.com/shorts/kUEY1LYRb9w
 
-    3. [2026-10-26 12:55:29]
+    8. [2026-10-26 12:55:29]
        خارج شدن هواپیما از باند فرودگاه بیرمنگام به دلیل طوفان
        https://www.youtube.com/shorts/RRnxZRMjjwA
 
-    4. [2026-10-26 12:54:20]
+    9. [2026-10-26 12:54:20]
        پیروزی جنبش دانشجویی در انتخابات زودهنگام صربستان پس از دو سال اعتراض گسترده
        https://www.youtube.com/shorts/LoeSVlkAVoo
 
-    5. [2026-10-26 09:56:00]
+    10. [2026-10-26 09:56:00]
        پیروزی تاریخی لولا برای چهارمین دوره ریاست جمهوری برزیل
        https://www.youtube.com/shorts/1M9w1LTbsAg
 
-    6. [2026-10-26 09:54:42]
+    11. [2026-10-26 09:54:42]
        مارین لوپن کارزار انتخاباتی برای ریاست جمهوری فرانسه را آغاز کرد
        https://www.youtube.com/shorts/bbQd4juTqYE
 
-    7. [2026-10-26 09:43:41]
+    12. [2026-10-26 09:43:41]
        جنجال نمایشگاه فیتکس تهران؛ وزارت ورزش: «ارتباطی با ما نداشت و مجوزی به آن نداده بودیم»
        https://www.youtube.com/shorts/Dm5uODGCq8s
 
-    8. [2026-10-25 19:31:28]
-       ۶۰ دقیقه یکشنبه ۳ آبان ۱۴۰۵: انتخابات اسرائیل؛ رفراندومی برای عملکرد نتانیاهو؟
+    13. [2026-10-25 19:31:28]
+       ۶۰‌دقیقه یکشنبه ۳ آبان ۱۴۰۵: انتخابات اسرائیل؛ رفراندومی برای عملکرد نتانیاهو؟
        https://www.youtube.com/watch?v=u9rg6P7q0Is
 
-    9. [2026-10-25 17:02:41]
-       ترامپ: شاید مجبور شوم کار را تمام کنم؛ جام جهان‌نما یکشنبه ۳ آبان
+    14. [2026-10-25 17:02:41]
+       جام جهان‌نما یکشنبه ۳ آبان: ترامپ: شاید مجبور شوم کار را تمام کنم
        https://www.youtube.com/watch?v=C5BvlC3pkfA
 
-    10. [2026-10-25 15:43:17]
+    15. [2026-10-25 15:43:17]
        ادامه اعتراضات در شهرهای مختلف اروپا
        https://www.youtube.com/shorts/TCF_sVmD1mY
-
-    11. [2026-10-25 15:39:46]
-       سرخط خبرها یکشنبه ۳ آبان
-       https://www.youtube.com/shorts/nCGrrg6j9b4
-
-    12. [2026-10-25 15:00:31]
-       اخبار ساعت شش عصر یکشنبه ۳ آبان: چشم‌انداز تنش آمریکا و ایران
-       https://www.youtube.com/watch?v=Ruk9qszfJkw
-
-    13. [2026-10-25 13:01:14]
-       انتقاد اوباما از جنگ آمریکا علیه ایران
-       https://www.youtube.com/shorts/Em0-8P7x-ig
-
-    14. [2026-10-24 19:31:15]
-       شصت دقیقه شنبه ۲ آبان: شمارش معکوس تا انتخابات اسرائیل، آزمونی برای نتانیاهو در رقابتی شانه به شانه
-       https://www.youtube.com/watch?v=44YEdbQZGLs
-
-    15. [2026-10-24 17:02:46]
-       نتانیاهو می‌تواند از این همه چالش پیروز بیرون بیاید؟ جام جهان‌نما شنبه ۲ آبان
-       https://www.youtube.com/watch?v=R2jgk2be1gQ
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-26 14:49:13]
+    16. [2026-10-26 18:07:35]
+       بسنت، وزیر خزانه‌داری آمریکا: سوخت گرمایشی خود را همین حالا بخرید و بنزین ذخیره کنید
+       https://www.youtube.com/shorts/05RZeWeRDvo
+
+    17. [2026-10-26 18:05:53]
+       سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
+       https://www.youtube.com/shorts/LgyTGqIAMkw
+
+    18. [2026-10-26 18:04:20]
+       بسنت، وزیر خزانه‌داری آمریکا: اقتصاد ایران بیش از ۲۵ درصد کوچک خواهد شد
+       https://www.youtube.com/shorts/WWZB8uRsAcM
+
+    19. [2026-10-26 16:29:42]
+       بحران ارزی و دلار ۲۷۴هزار تومانی؛ رونمایی از بنزین سوپر ۱۰۰هزار تومانی
+       https://www.youtube.com/watch?v=Tgg5A2lKzYc
+
+    20. [2026-10-26 16:13:57]
+       گزارش سی‌ان‌ان از آمادگی ارتش آمریکا برای عملیات گسترده علیه جمهوری اسلامی
+       https://www.youtube.com/watch?v=-26fW_nRuus
+
+    21. [2026-10-26 16:10:33]
+       افزایش تنش میان واشینگتن و اتاوا در آستانه انتخابات میان‌دوره‌ای آمریکا
+       https://www.youtube.com/watch?v=ku0kGXvmwfs
+
+    22. [2026-10-26 16:00:54]
+       پایان مذاکرات چهارجانبه عربستان، پاکستان، ترکیه و جمهوری اسلامی در تهران
+       https://www.youtube.com/shorts/PBX5lM4HELM
+
+    23. [2026-10-26 15:40:19]
+       خبرنگاران ایران‌اینترنشنال: ماندگارترین تصویر زن، زندگی، آزادی
+       https://www.youtube.com/watch?v=YIcI59-BMNQ
+
+    24. [2026-10-26 15:34:57]
+       گزارش روز با مجتبا پورمحسن: زمان حمله آمریکا و اسرائیل به ایران
+       https://www.youtube.com/watch?v=iamzP_bfqEE
+
+    25. [2026-10-26 15:10:22]
+       خبرنگاران ایران‌اینترنشنال: ماندگارترین تصویر زن، زندگی، آزادی
+       https://www.youtube.com/shorts/yljJR8dBILs
+
+    26. [2026-10-26 14:49:13]
        لولا برای چهارمین بار به‌عنوان رییس‌جمهوری برزیل انتخاب شد
        https://www.youtube.com/shorts/qggJE_OEru0
 
-    17. [2026-10-26 14:22:34]
+    27. [2026-10-26 14:22:34]
        استفاده از چاقوهای مرغ‌فروشی به‌عنوان مدرک در پرونده علیرضا رییسی، معترض اعدام‌شده
        https://www.youtube.com/watch?v=lGxVzW9EWiI
 
-    18. [2026-10-26 14:13:31]
+    28. [2026-10-26 14:13:31]
        انفجار منزل مسکونی در کرمانشاه ۱۰ مصدوم بر جای گذاشت
        https://www.youtube.com/shorts/FiFHGkq65Oc
 
-    19. [2026-10-26 14:10:02]
+    29. [2026-10-26 14:10:02]
        نتانیاهو دو گزارش درباره اقدام علیه جمهوری اسلامی پیش از انتخابات را رد کرد
        https://www.youtube.com/watch?v=vMZX_HWpbwk
 
-    20. [2026-10-26 14:08:31]
+    30. [2026-10-26 14:08:31]
        آغاز نشست چهارجانبه جمهوری اسلامی، پاکستان، ترکیه و عربستان سعودی در تهران
        https://www.youtube.com/shorts/myJbU9-XJko
-
-    21. [2026-10-26 13:23:41]
-       ادامه محاکمه سه متهم پرونده تهدید روزنامه‌نگاران ایران‌اینترنشنال در لندن
-       https://www.youtube.com/watch?v=zBYyhtbOmc0
-
-    22. [2026-10-26 13:06:53]
-       عطا حسینیان: موج خبری مقابله با قاچاق سوخت، مقدمه افزایش قیمت بنزین است
-       https://www.youtube.com/watch?v=Hg5rz3hVxBg
-
-    23. [2026-10-26 12:56:44]
-       هوشنگ حسن‌یاری: سیاست‌های جمهوری اسلامی با همزیستی مسالمت‌آمیز در منطقه سازگار نیست
-       https://www.youtube.com/watch?v=1pRFU6N9Fko
-
-    24. [2026-10-26 12:19:16]
-       یادبود سینا قائمی؛ مربی ورزشی ایرانی که دی ماه گذشته در سانحه رانندگی در نیجریه جان باخت
-       https://www.youtube.com/watch?v=vvRS5sGsjz4
-
-    25. [2026-10-26 12:18:51]
-       اخبار نیمروزی | دوشنبه ۴ آبان
-       https://www.youtube.com/watch?v=qNboYYafpys
-
-    26. [2026-10-26 11:55:21]
-       پیام‌های رسیده درباره کمبود آرد، تعطیلی نانوایی‌ها و افزایش قیمت نان در شهرهای مختلف ایران
-       https://www.youtube.com/watch?v=Cw1vrr3fdPU
-
-    27. [2026-10-26 11:32:28]
-       مروری بر روزنامه‌های ایران، دوشنبه ۴ آبان
-       https://www.youtube.com/watch?v=bBKO0SGSa8U
-
-    28. [2026-10-26 11:04:37]
-       حسین آقایی: آمریکا برای حمله به جمهوری اسلامی سناریوهای مختلفی دارد
-       https://www.youtube.com/watch?v=XixOcleJTRQ
-
-    29. [2026-10-26 11:00:39]
-       هفت جنایت علیه بشریت در سرکوب خیزش مهسا
-       https://www.youtube.com/watch?v=u1SUBmnMdXY
-
-    30. [2026-10-26 10:43:58]
-       ادامه اعتراضات در شهرهای اروپایی در پی بحران اقتصادی
-       https://www.youtube.com/watch?v=MM0_on5ycdQ
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
+       https://soundcloud.com/bbcpersian/tftdka4eokwn
+
+    52. [Unknown]
        جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/enkhnonj4san
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/lbyf89xgizov
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/jq2lgtbenddj
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/crbvwjfbcma6
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8ys75f0kbyvh
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/l8cbozddpo54
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8mizwndjy06n
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/oinrtb0mlb0d
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/kp6t5z60wmwp
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/3leaz3mmtrle
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/mgujxdjzq4zk
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eibj7xtmt6mn
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/wwkpzfaiwruj
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/rndpj72hvy9y
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/swmt3gl9dmgh
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/vdxllmratlqu
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6hxjyonsexu0
-
-    70. [Unknown]
-       جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
-       https://soundcloud.com/bbcpersian/r9w1jubcdswh
 
 ----------------------------------------
 
