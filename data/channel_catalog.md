@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-26T19:01:05.111299+00:00
-Generated (Iran): 2026-10-26T22:31:05.111318+00:00
+Generated (UTC):  2026-10-27T07:01:01.008509+00:00
+Generated (Iran): 2026-10-27T10:31:01.008529+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-26 18:00:00]
+    1. [2026-10-26 19:33:36]
        پایان نشست چهارجانبه تهران؛ سایه جنگ یا توافق بر انتخابات اسرائیل و آمریکا - ۶۰ دقیقه دوشنبه ۴ آبان
        https://www.youtube.com/watch?v=VFWJNTEctA8
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-26 18:07:35]
-       بسنت، وزیر خزانه‌داری آمریکا: سوخت گرمایشی خود را همین حالا بخرید و بنزین ذخیره کنید
-       https://www.youtube.com/shorts/05RZeWeRDvo
+    16. [2026-10-27 06:42:50]
+       رای‌گیری سراسری در اسرائیل برای انتخابات پارلمان
+       https://www.youtube.com/shorts/HRJm-7jMnz0
 
-    17. [2026-10-26 18:05:53]
-       سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
-       https://www.youtube.com/shorts/LgyTGqIAMkw
+    17. [2026-10-27 04:30:54]
+       شایان سمیعی: توافق با جمهوری اسلامی باید شامل مهار گروه‌های نیابتی هم باشد
+       https://www.youtube.com/watch?v=wibqGjT4G0w
 
-    18. [2026-10-26 18:04:20]
-       بسنت، وزیر خزانه‌داری آمریکا: اقتصاد ایران بیش از ۲۵ درصد کوچک خواهد شد
-       https://www.youtube.com/shorts/WWZB8uRsAcM
+    18. [2026-10-27 04:23:36]
+       اخبار بامدادی‌ | سه‌شنبه ۵ آبان
+       https://www.youtube.com/watch?v=kWCH3C5a47g
 
-    19. [2026-10-26 16:29:42]
-       بحران ارزی و دلار ۲۷۴هزار تومانی؛ رونمایی از بنزین سوپر ۱۰۰هزار تومانی
-       https://www.youtube.com/watch?v=Tgg5A2lKzYc
+    19. [2026-10-27 04:16:14]
+       بازتاب انتخابات اسرائیل در رسانه‌های آسیا و اقیانوسیه
+       https://www.youtube.com/watch?v=psV0OEFy530
 
-    20. [2026-10-26 16:13:57]
-       گزارش سی‌ان‌ان از آمادگی ارتش آمریکا برای عملیات گسترده علیه جمهوری اسلامی
-       https://www.youtube.com/watch?v=-26fW_nRuus
+    20. [2026-10-27 04:10:41]
+       ترامپ: جمهوری اسلامی جنگ با آمریکا را آغاز کرد
+       https://www.youtube.com/shorts/WBCl2S0enwY
 
-    21. [2026-10-26 16:10:33]
-       افزایش تنش میان واشینگتن و اتاوا در آستانه انتخابات میان‌دوره‌ای آمریکا
-       https://www.youtube.com/watch?v=ku0kGXvmwfs
+    21. [2026-10-27 03:57:21]
+       بیژن کیان: آمریکا به جمهوری اسلامی امتیاز نخواهد داد و حملات می‌تواند گسترش یابد
+       https://www.youtube.com/watch?v=a1J3Iw7eF3k
 
-    22. [2026-10-26 16:00:54]
-       پایان مذاکرات چهارجانبه عربستان، پاکستان، ترکیه و جمهوری اسلامی در تهران
-       https://www.youtube.com/shorts/PBX5lM4HELM
+    22. [2026-10-27 03:47:15]
+       کامیار بهرنگ: ترامپ و نتانیاهو به مرحله‌ای رسیده‌اند که مذاکره برایشان معنایی ندارد
+       https://www.youtube.com/watch?v=fnNbJ9OvW-M
 
-    23. [2026-10-26 15:40:19]
-       خبرنگاران ایران‌اینترنشنال: ماندگارترین تصویر زن، زندگی، آزادی
-       https://www.youtube.com/watch?v=YIcI59-BMNQ
+    23. [2026-10-27 03:41:54]
+       جاناتان سایح: تغییر حکومت در تهران همچنان روی میز اسرائیل خواهد بود
+       https://www.youtube.com/watch?v=9Em1ZTGwC18
 
-    24. [2026-10-26 15:34:57]
-       گزارش روز با مجتبا پورمحسن: زمان حمله آمریکا و اسرائیل به ایران
-       https://www.youtube.com/watch?v=iamzP_bfqEE
+    24. [2026-10-27 03:40:03]
+       نیکلاس گیلانی: جمهوری اسلامی برای ادامه مسیر به جنگ بازدارنده روی می‌آورد
+       https://www.youtube.com/watch?v=M07vkWv2YH4
 
-    25. [2026-10-26 15:10:22]
-       خبرنگاران ایران‌اینترنشنال: ماندگارترین تصویر زن، زندگی، آزادی
-       https://www.youtube.com/shorts/yljJR8dBILs
+    25. [2026-10-27 03:31:56]
+       احزاب عرب چه نقشی در تشکیل دولت آینده اسرائیل دارند؟
+       https://www.youtube.com/watch?v=tzHPxZZ-hTA
 
-    26. [2026-10-26 14:49:13]
-       لولا برای چهارمین بار به‌عنوان رییس‌جمهوری برزیل انتخاب شد
-       https://www.youtube.com/shorts/qggJE_OEru0
+    26. [2026-10-27 01:29:19]
+       تصویر نتانیاهو در کنار ترامپ و جنگنده‌ها بر بیلبوردی در تل‌آویو، یک روز مانده به انتخابات
+       https://www.youtube.com/shorts/XyD5LM-4vqY
 
-    27. [2026-10-26 14:22:34]
-       استفاده از چاقوهای مرغ‌فروشی به‌عنوان مدرک در پرونده علیرضا رییسی، معترض اعدام‌شده
-       https://www.youtube.com/watch?v=lGxVzW9EWiI
+    27. [2026-10-26 23:46:26]
+       سی‌ان‌ان: آمریکا برای حمله‌ای بسیار گسترده‌تر از عملیات پیشین به ایران آماده می‌شود
+       https://www.youtube.com/watch?v=9imQBLAR1tc
 
-    28. [2026-10-26 14:13:31]
-       انفجار منزل مسکونی در کرمانشاه ۱۰ مصدوم بر جای گذاشت
-       https://www.youtube.com/shorts/FiFHGkq65Oc
+    28. [2026-10-26 23:23:54]
+       توصیه فوری آمریکا به مردم ایران
+       https://www.youtube.com/shorts/Wm-ME2dxYu8
 
-    29. [2026-10-26 14:10:02]
-       نتانیاهو دو گزارش درباره اقدام علیه جمهوری اسلامی پیش از انتخابات را رد کرد
-       https://www.youtube.com/watch?v=vMZX_HWpbwk
+    29. [2026-10-26 23:09:01]
+       اخبار شبانگاهی | سه‌شنبه ۵ آبان
+       https://www.youtube.com/watch?v=jSk_iJ2CsZs
 
-    30. [2026-10-26 14:08:31]
-       آغاز نشست چهارجانبه جمهوری اسلامی، پاکستان، ترکیه و عربستان سعودی در تهران
-       https://www.youtube.com/shorts/myJbU9-XJko
+    30. [2026-10-26 23:03:56]
+       احسان دانشور: بحران آب در ایران نتیجه دهه‌ها سوءمدیریت است، نه فقط خشکسالی
+       https://www.youtube.com/watch?v=OINTXnEIdOE
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی‌ | سه‌شنبه ۵ آبان
+       https://soundcloud.com/iranintl/suennomxv0tf
+
+    32. [Unknown]
+       اخبار شبانگاهی | سه‌شنبه ۵ آبان
+       https://soundcloud.com/iranintl/ebh6lcbny1gq
+
+    33. [Unknown]
+       سیاست با مراد ویسی: توصیه فوری آمریکا به مردم ایران
+       https://soundcloud.com/iranintl/uh01oje2g5nx
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ پوشش ویژه انتخابات سرنوشت‌ساز اسرائیل
+       https://soundcloud.com/iranintl/dzhxretpefrs
+
+    35. [Unknown]
+       چشم‌انداز: سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
+       https://soundcloud.com/iranintl/poqvbyhq66ho
+
+    36. [Unknown]
        اخبار نیمروزی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/v11hryxng5wy
 
-    32. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/1stm3bo3f7gu
 
-    33. [Unknown]
+    38. [Unknown]
        سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
        https://soundcloud.com/iranintl/smlgz5lszga5
 
-    34. [Unknown]
+    39. [Unknown]
        برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
        https://soundcloud.com/iranintl/mwokjukp2kp7
 
-    35. [Unknown]
+    40. [Unknown]
        تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
        https://soundcloud.com/iranintl/bnbdexowbyk5
 
-    36. [Unknown]
+    41. [Unknown]
        اخبار عصرگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yulgyeea8vdf
 
-    37. [Unknown]
+    42. [Unknown]
        اخبار نیمروزی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/jarn9xmgg0wv
 
-    38. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/wvbtqg9an9vt
 
-    39. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yfnhf3mw48yb
 
-    40. [Unknown]
+    45. [Unknown]
        سیاست با مراد ویسی: قاتلان مردم اصفهان
        https://soundcloud.com/iranintl/nqpaxias1iy9
 
-    41. [Unknown]
+    46. [Unknown]
        روایت مشکوک حکومت درباره مجتبی خامنه‌ای و وصیت‌نامه پدرش
        https://soundcloud.com/iranintl/owrub09dawjk
 
-    42. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی:احتمال از سرگیری حملات؛ ناو آمریکا مسلح شد، جنگنده‌های اسرائیل در آسمان عراق
        https://soundcloud.com/iranintl/bi5bunaiaeq5
 
-    43. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/6yao8ezmde0e
 
-    44. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/jxdvgtztqzl7
 
-    45. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | شنبه ۲ آبان
        https://soundcloud.com/iranintl/bvgcdwdmrjt5
-
-    46. [Unknown]
-       اخبار شبانگاهی | شنبه ۲ آبان
-       https://soundcloud.com/iranintl/v6xmpgj1habr
-
-    47. [Unknown]
-       ۲۴ با فرداد فرحزاد: ترامپ: می‌توانیم کار جمهوری اسلامی را سریع تمام کنیم
-       https://soundcloud.com/iranintl/c3fhv8jjcbtl
-
-    48. [Unknown]
-       اخبار عصرگاهی | جمعه ۱ آبان
-       https://soundcloud.com/iranintl/ylyrawa4aiwk
-
-    49. [Unknown]
-       اخبار نیمروزی | جمعه ۱ آبان
-       https://soundcloud.com/iranintl/cj7vcc3wpnq9
-
-    50. [Unknown]
-       اخبار بامدادی | جمعه ۱ آبان
-       https://soundcloud.com/iranintl/w1rirvu8mugb
 
 ----------------------------------------
 
