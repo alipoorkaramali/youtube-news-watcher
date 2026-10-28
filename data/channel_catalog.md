@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-28T11:01:04.047844+00:00
-Generated (Iran): 2026-10-28T14:31:04.047862+00:00
+Generated (UTC):  2026-10-28T15:01:04.039477+00:00
+Generated (Iran): 2026-10-28T18:31:04.039495+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-28 09:34:56]
+    1. [2026-10-28 15:00:31]
+       اخبار ساعت شش عصر- چهارشنبه ۶ آبان ۱۴۰۵ نتایج اولیه اسرائیل؛ دولت در هاله ائتلاف
+       https://www.youtube.com/watch?v=LDmtZ8tv5eU
+
+    2. [2026-10-28 13:30:37]
+       ترامپ در کارزار انتخاباتی در تگزاس
+       https://www.youtube.com/shorts/1mSjYVN1h1g
+
+    3. [2026-10-28 13:28:12]
+       آنچه گذشت و آنچه از انتخابات اسرائیل می‌دانیم.
+       https://www.youtube.com/shorts/AQKW6wJbEpc
+
+    4. [2026-10-28 09:34:56]
        مشارکت گسترده در انتخابات اسرائیل
        https://www.youtube.com/shorts/ZUMkakercCk
 
-    2. [2026-10-28 09:32:46]
+    5. [2026-10-28 09:32:46]
        دیدار پزشکیان و پوتین در مسکو
        https://www.youtube.com/shorts/PnejHB_fRHA
 
-    3. [2026-10-27 19:31:35]
+    6. [2026-10-27 19:31:35]
        ۶۰ دقیقه سه‌شنبه ۵ آبان - انتخابات سرنوشت‌ساز اسرائیل؛ مشارکت بی‌سابقه
        https://www.youtube.com/watch?v=I3TJMZ3BcHg
 
-    4. [2026-10-27 18:19:39]
+    7. [2026-10-27 18:19:39]
        انتخابات اسرائیل؛ آیا واقعا برای ایران تفاونی ندارد؟ - صفحه ۲
        https://www.youtube.com/watch?v=3X0bes2OmFs
 
-    5. [2026-10-27 17:18:28]
+    8. [2026-10-27 17:18:28]
        دنیل لوی: آنچه در انتخابات اسرائیل مطرح نیست، مهم‌تر از چیزهایی است که مطرح می‌شود - گفت‌و گوی ویژه
        https://www.youtube.com/watch?v=zpURHvqMJGQ
 
-    6. [2026-10-27 17:02:23]
+    9. [2026-10-27 17:02:23]
        جام جهان‌نما سه شنبه ۵ آبان ۱۴۰۵: روزی سرنوشت‌ساز برای اسرائیل؛ منطقه دستخوش چه تغییراتیست؟
        https://www.youtube.com/watch?v=y_OAKDcg_BQ
 
-    7. [2026-10-27 15:00:37]
+    10. [2026-10-27 15:00:37]
        اخبار ساعت شش عصر- سه شنبه ۵ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=ZVI9yOsl5Qc
 
-    8. [2026-10-27 14:34:27]
+    11. [2026-10-27 14:34:27]
        سرخط خبرهای سه‌شنبه ۵ آبان ۱۴۰۵
        https://www.youtube.com/shorts/sYc3FgFTm6s
 
-    9. [2026-10-27 14:13:52]
+    12. [2026-10-27 14:13:52]
        شروع رای‌گیری در اسرائیل
        https://www.youtube.com/shorts/tIBPnuh4tSY
 
-    10. [2026-10-27 13:00:04]
+    13. [2026-10-27 13:00:04]
        اختلاف سیاسی و قطع دوستی
        https://www.youtube.com/shorts/Y3jp9ia-pW8
 
-    11. [2026-10-27 12:56:09]
+    14. [2026-10-27 12:56:09]
        ‫یک کشته و چهار زخمی در حادثه ریزش یک ساندویچ‌فروشی در شهر میناب
        https://www.youtube.com/shorts/C-7TTL4Jb7U
 
-    12. [2026-10-27 08:35:27]
+    15. [2026-10-27 08:35:27]
        دادستانی تهران علیه برگزارکنندگان یک نمایشگاه هنری در تهران اعلام جرم کرده است.
        https://www.youtube.com/shorts/s3SNAMnjvrg
-
-    13. [2026-10-27 08:31:52]
-       آب آبشار در هوای طوفانی اسکاتلند.
-       https://www.youtube.com/shorts/aytgyxKKHiE
-
-    14. [2026-10-27 08:28:48]
-       ماریا کورینا ماچادو، رهبر مخالفان ونزوئلا، پس از بیش از ۱۰ ماه تبعید به کشورش بازگشت.
-       https://www.youtube.com/shorts/hEt_z-Cxt88
-
-    15. [2026-10-26 19:33:36]
-       ۶۰ دقیقه دوشنبه ۴ آبان - پایان نشست چهارجانبه تهران؛ سایه جنگ یا توافق بر انتخابات اسرائیل و آمریکا
-       https://www.youtube.com/watch?v=VFWJNTEctA8
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-28 10:34:39]
+    16. [2026-10-28 14:49:05]
+       جان‌باختن برادر و پدر احسان عابدینی پس از کشته شدن او در اعتراضات دی ماه
+       https://www.youtube.com/watch?v=O927Y7YXo8Y
+
+    17. [2026-10-28 14:38:54]
+       دو مرد در ارتباط با حادثه امنیتی پایگاه فرفورد متهم شدند
+       https://www.youtube.com/watch?v=YEqy4KbNkcU
+
+    18. [2026-10-28 14:37:43]
+       بسنت، وزیر خزانه‌داری آمریکا: فرمانده‌های سپاه «مثل موش‌هایی در لوله فاضلاب» پنهان شده‌اند
+       https://www.youtube.com/shorts/ebhqCT2wE4U
+
+    19. [2026-10-28 14:24:29]
+       مرتضی کاظمیان: انتخابات اسرائیل دولت را تغییر می‌دهد، در جمهوری اسلامی قدرت جابه‌جا می‌شود
+       https://www.youtube.com/watch?v=3_pUxHUM54U
+
+    20. [2026-10-28 14:06:09]
+       بازتاب نتایج اولیه انتخابات اسرائیل در رسانه‌های عرب و کانادا
+       https://www.youtube.com/watch?v=etJCW228hVw
+
+    21. [2026-10-28 13:55:26]
+       هرتزوگ خواستار تشکیل ائتلاف برای جلوگیری از تکرار انتخابات اسرائیل شد
+       https://www.youtube.com/watch?v=fv03qoZV-yw
+
+    22. [2026-10-28 13:20:43]
+       مقام ارشد جمهوری اسلامی: سیاست عدم انعطاف در موضوع هسته‌ای تغییر نکرده است
+       https://www.youtube.com/watch?v=cTph85LXmr8
+
+    23. [2026-10-28 12:59:49]
+       واکنش کاربران ایرانی به نتایج انتخابات اسرائیل
+       https://www.youtube.com/watch?v=7y394yOLRKU
+
+    24. [2026-10-28 12:54:06]
+       نماینده مجلس: مجتبی خامنه‌ای به‌صورت پنهانی در برخی تجمع‌های مردمی حضور پیدا می‌کند
+       https://www.youtube.com/shorts/3Qraiy9Uy3M
+
+    25. [2026-10-28 12:10:01]
+       برخورد دو قطار سریع‌السیر در اسپانیا دست‌کم ۳۰ کشته بر جا گذاشت
+       https://www.youtube.com/shorts/T21M_VfQ4wc
+
+    26. [2026-10-28 11:33:49]
+       پیام‌های رسیده به مدیابات ایران‌اینترنشنال درباره خشم کاربران از گرانی اینترنت
+       https://www.youtube.com/watch?v=6pvJmoRzxyg
+
+    27. [2026-10-28 11:31:54]
+       اخبار نیم‌روزی | چهارشنبه ۶ آبان
+       https://www.youtube.com/watch?v=w-GO0NfttNI
+
+    28. [2026-10-28 11:26:32]
+       لحظه پا کوبیدن پزشکیان مقابل مقام تشریفات کاخ کرملین
+       https://www.youtube.com/shorts/dKL5JEW8YGY
+
+    29. [2026-10-28 10:34:39]
        نخست‌وزیر عراق برای دیدار با احمد الشرع به دمشق رفت
        https://www.youtube.com/watch?v=RabbRZyyDLQ
 
-    17. [2026-10-28 10:22:16]
+    30. [2026-10-28 10:22:16]
        نوید طوبیان: نقش حمایت ترامپ در نتیجه انتخابات اسرائیل مشخص نیست
        https://www.youtube.com/watch?v=GwSjp54qJMY
-
-    18. [2026-10-28 10:09:16]
-       انتخابات اسرائیل؛ هیچ‌یک از دو ائتلاف اصلی اکثریت کرسی‌ها را به دست نیاوردند
-       https://www.youtube.com/watch?v=7-nD7AhcZOQ
-
-    19. [2026-10-28 09:58:41]
-       نتانیاهو: با ترامپ فرصتی تاریخی برای رفع «تهدید موجودیتی» حکومت ایران داریم
-       https://www.youtube.com/shorts/hiAKwtgaoGg
-
-    20. [2026-10-28 09:38:36]
-       نامزد شکست‌خورده انتخابات ریاست‌جمهوری برزیل در آستانه درخواست پناهندگی به آمریکا
-       https://www.youtube.com/watch?v=Yagajc6dRSw
-
-    21. [2026-10-28 09:37:46]
-       مرتضی کاظمیان: جمهوری اسلامی میان پذیرش خواسته‌های آمریکا و تغییرات داخلی گرفتار شده است
-       https://www.youtube.com/watch?v=Y2YUn4C5Z74
-
-    22. [2026-10-28 09:35:57]
-       محمدجواد اکبرین: احزاب عرب اسرائیل در تلاش‌اند خود را به قدرت سیاسی تبدیل کنند
-       https://www.youtube.com/watch?v=0JLF_H-hS7s
-
-    23. [2026-10-28 09:29:03]
-       بازتاب انتخابات اسرائیل در پیام‌های مخاطبان ایران‌اینترنشنال
-       https://www.youtube.com/watch?v=D2oBuQVc8LQ
-
-    24. [2026-10-28 09:22:21]
-       بازتاب انتخابات اسرائیل در رسانه‌های اروپایی
-       https://www.youtube.com/watch?v=Y6WaW0SumCo
-
-    25. [2026-10-28 08:59:39]
-       ترامپ: نتیجه انتخابات میان‌دوره‌ای آمریکا کمکی به تهران نمی‌کند
-       https://www.youtube.com/shorts/wu8sallMBLo
-
-    26. [2026-10-28 08:18:19]
-       تاثیر تغییر دولت اسرائیل بر آینده روابط این کشور با ترکیه
-       https://www.youtube.com/watch?v=xsVvp3BedPI
-
-    27. [2026-10-28 07:35:49]
-       حسین علیزاده: ترامپ با متهم کردن جمهوری اسلامی به آغاز جنگ، دنبال توجیه انتخاباتی است
-       https://www.youtube.com/watch?v=72EtpTMk0Iw
-
-    28. [2026-10-28 07:33:41]
-       منشه امیر: نتیجه انتخابات اسرائیل، آینده سیاسی نتانیاهو را تعیین می‌کند
-       https://www.youtube.com/watch?v=ImBCML4d4dI
-
-    29. [2026-10-28 07:25:14]
-       نتایج اولیه انتخابات اسرائیل؛ هیچ ائتلافی به اکثریت نرسیده است
-       https://www.youtube.com/watch?v=jfAZj1-4h7I
-
-    30. [2026-10-28 07:22:37]
-       محکومیت جعفر پناهی، کارگردان ایرانی، به پنج سال حبس و مصادره تمامی اموال
-       https://www.youtube.com/watch?v=y1WKnVHsxhU
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | چهارشنبه ۶ آبان
+       https://soundcloud.com/iranintl/lrl2ckt0wa7z
+
+    32. [Unknown]
        اخبار بامدادی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/nmq7uiwjidju
 
-    32. [Unknown]
+    33. [Unknown]
        ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ ویژه‌برنامه پوشش انتخابات اسرائیل
        https://soundcloud.com/iranintl/3urfyzueu13k
 
-    33. [Unknown]
+    34. [Unknown]
        بزرگ‌ترین انتخابات تاریخ اسرائیل و سرنوشت حکومت ایران
        https://soundcloud.com/iranintl/uvtucis4a2my
 
-    34. [Unknown]
+    35. [Unknown]
        تیتراول با نیوشا صارمی: لحظه به لحظه با انتخابات سرنوشت‌ساز اسراییل؛بالاترین میزان مشارکت در نیم قرن
        https://soundcloud.com/iranintl/4c3bjeqdme8a
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/tslefwmcey5e
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/cuyoci07kopq
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار بامدادی‌ | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/suennomxv0tf
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/ebh6lcbny1gq
 
-    39. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: توصیه فوری آمریکا به مردم ایران
        https://soundcloud.com/iranintl/uh01oje2g5nx
 
-    40. [Unknown]
+    41. [Unknown]
        ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ پوشش ویژه انتخابات سرنوشت‌ساز اسرائیل
        https://soundcloud.com/iranintl/dzhxretpefrs
 
-    41. [Unknown]
+    42. [Unknown]
        چشم‌انداز: سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
        https://soundcloud.com/iranintl/poqvbyhq66ho
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار نیمروزی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/v11hryxng5wy
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/1stm3bo3f7gu
 
-    44. [Unknown]
+    45. [Unknown]
        سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
        https://soundcloud.com/iranintl/smlgz5lszga5
 
-    45. [Unknown]
+    46. [Unknown]
        برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
        https://soundcloud.com/iranintl/mwokjukp2kp7
 
-    46. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
        https://soundcloud.com/iranintl/bnbdexowbyk5
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/yulgyeea8vdf
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/jarn9xmgg0wv
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | یکشنبه ۳ آبان
        https://soundcloud.com/iranintl/wvbtqg9an9vt
-
-    50. [Unknown]
-       اخبار شبانگاهی | یکشنبه ۳ آبان
-       https://soundcloud.com/iranintl/yfnhf3mw48yb
 
 ----------------------------------------
 
