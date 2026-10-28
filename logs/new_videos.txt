@@ -2,3 +2,4 @@
 2026-10-28T07:30:49.802856+00:00 | youtube | اخبار بامدادی | چهارشنبه ۶ آبان | 2 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=qRgqpZmZSP8
 2026-10-28T12:30:49.394107+00:00 | youtube | اخبار نیم‌روزی | چهارشنبه ۶ آبان | 58 minutes ago | https://www.youtube.com/watch?v=w-GO0NfttNI
 2026-10-28T15:15:42.503708+00:00 | youtube | اخبار ساعت شش عصر- چهارشنبه ۶ آبان ۱۴۰۵ نتایج اولیه اسرائیل؛ دولت در هاله ائتلاف | 15 minutes ago | https://www.youtube.com/watch?v=LDmtZ8tv5eU
+2026-10-28T17:30:53.048538+00:00 | soundcloud | جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/hgxnfvv0maji
