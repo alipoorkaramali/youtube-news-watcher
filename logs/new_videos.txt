@@ -1,3 +1,4 @@
 2026-10-28T05:30:48.859902+00:00 | soundcloud | اخبار بامدادی | چهارشنبه ۶ آبان | 0 minutes ago | https://soundcloud.com/iranintl/nmq7uiwjidju
 2026-10-28T07:30:49.802856+00:00 | youtube | اخبار بامدادی | چهارشنبه ۶ آبان | 2 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=qRgqpZmZSP8
 2026-10-28T12:30:49.394107+00:00 | youtube | اخبار نیم‌روزی | چهارشنبه ۶ آبان | 58 minutes ago | https://www.youtube.com/watch?v=w-GO0NfttNI
+2026-10-28T15:15:42.503708+00:00 | youtube | اخبار ساعت شش عصر- چهارشنبه ۶ آبان ۱۴۰۵ نتایج اولیه اسرائیل؛ دولت در هاله ائتلاف | 15 minutes ago | https://www.youtube.com/watch?v=LDmtZ8tv5eU
