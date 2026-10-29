@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-28T19:01:04.690037+00:00
-Generated (Iran): 2026-10-28T22:31:04.690054+00:00
+Generated (UTC):  2026-10-29T07:01:06.112301+00:00
+Generated (Iran): 2026-10-29T10:31:06.112320+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,13 +34,13 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-28 18:00:00]
-       ۶۰ دقیقه
-       https://www.youtube.com/watch?v=hlx4VDV_xx4
-
-    2. [2026-10-28 18:39:28]
+    1. [2026-10-28 20:12:37]
        انتخابات اسرائیل؛ رویکرد ائتلاف بعدی به ایران - صفحه دو
-       https://www.youtube.com/watch?v=BCCwn4LqtHI
+       https://www.youtube.com/watch?v=kLJnOi51Df0
+
+    2. [2026-10-28 19:31:24]
+       ۶۰ دقیقه چهارشنبه ۶ آبان- پیشتازی بلوک نتانیاهو، هیچ ‌یک از دو جریان اصلی اکثریت را بدست نیاورده
+       https://www.youtube.com/watch?v=hlx4VDV_xx4
 
     3. [2026-10-28 17:02:40]
        ایران چه تاثیری در انتخابات سرنوشت‌ساز اسرائیل داشت؟ جام جهان‌نما چهارشنبه ۶ آبان ۱۴۰۵
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-28 18:40:37]
-       دلیل اقبال به نتانیاهو در انتخابات با وجود بحران‌های سیاسی
-       https://www.youtube.com/shorts/pS6JtmYwIfc
+    16. [2026-10-29 04:43:56]
+       اخبار بامدادی | پنجشنبه ۷ آبان
+       https://www.youtube.com/watch?v=NW9-C5c362o
 
-    17. [2026-10-28 18:31:40]
-       آمریکا به کشورهای منطقه برای از سرگیری جنگ هشدار داد
-       https://www.youtube.com/shorts/aTmLI7eGUqM
+    17. [2026-10-29 04:43:51]
+       بازتاب آینده تقابل اسرائیل با جمهوری اسلامی در رسانه‌های آسیا و اقیانوسیه
+       https://www.youtube.com/watch?v=eWxKTPbfNok
 
-    18. [2026-10-28 18:18:14]
-       فرصت تاریخی نتانیاهو برای پایان کار جمهوری اسلامی
-       https://www.youtube.com/shorts/LdFSlQU4saA
+    18. [2026-10-29 04:33:11]
+       کور پور، نقاش ایرانی‌تبار در توکیو؛ پیوند نقش فرش ایرانی با هنر شرق آسیا
+       https://www.youtube.com/watch?v=Vx9D39e5ips
 
-    19. [2026-10-28 17:36:50]
-       تیتراول با نیوشا صارمی: زلزله انتخاباتی در اسرائیل؛ سرنوشت نتانیاهو چه می‌شود؟
-       https://www.youtube.com/watch?v=0nc-PsS7Uj0
+    19. [2026-10-29 04:32:22]
+       فزایش شمار جان‌باختگان برخورد دو قطار در اسپانیا به ۶۸ نفر
+       https://www.youtube.com/watch?v=T26bXsR3xn4
 
-    20. [2026-10-28 17:16:39]
-       اولین دربی فوتبال زنان ایران، به نام پرسپولیس شد
-       https://www.youtube.com/watch?v=RgHzQRV0xWQ
+    20. [2026-10-29 04:17:20]
+       امیر حمیدی: مذاکره با تهران بخشی از راهبرد فشار نظامی آمریکا است
+       https://www.youtube.com/watch?v=EuEj68WrwV0
 
-    21. [2026-10-28 17:08:30]
-       بررسی بحران حقوق بشر ایران در مجمع عمومی سازمان ملل
-       https://www.youtube.com/watch?v=3rq_DTn_zvg
+    21. [2026-10-29 04:05:59]
+       کامیار بهرنگ: مسئله آمریکا دیگر فقط سطح غنی‌سازی نیست، توقف فعالیت سانتریفیوژهاست
+       https://www.youtube.com/watch?v=vQxgq1yTEuA
 
-    22. [2026-10-28 16:37:43]
-       انتخابات اسرائیل برنده قطعی ندارد؛ تشکیل دولت آینده در هاله‌ای از ابهام
-       https://www.youtube.com/shorts/S-AbLx19MRg
+    22. [2026-10-29 04:01:55]
+       نگرانی سازمان ملل و اتحادیه اروپا از تشدید سرکوب و اعدام‌ها در ایران
+       https://www.youtube.com/watch?v=JDoXXCnN6so
 
-    23. [2026-10-28 16:28:29]
-       شمارش آرای دوپاکتی، مرحله باقی‌مانده انتخابات اسرائیل
-       https://www.youtube.com/watch?v=EJVrkvLZHcI
+    23. [2026-10-29 04:00:12]
+       کامبیز توانا: آمریکا منتظر اقدام عملی تهران است، نه مذاکره از نقطه صفر
+       https://www.youtube.com/watch?v=LhnjjQ6ERX0
 
-    24. [2026-10-28 16:27:13]
-       اقتصاد و بازار: تورم ۹۰ درصدی و موج بیکاری؛ هشدار قطع گاز برای ۱۱ استان ایران در زمستان
-       https://www.youtube.com/watch?v=2Q5lvAXOhA4
+    24. [2026-10-28 23:59:02]
+       مجری مکزیکی در برنامه زنده پهپادی را لگد زد که به صورت یک مدل خورد
+       https://www.youtube.com/shorts/s90R4ScdrD4
 
-    25. [2026-10-28 16:16:48]
-       ائتلاف نتانیاهو با ۵۳ کرسی در برابر ۴۸ کرسی مخالفان در نتایج اولیه
-       https://www.youtube.com/watch?v=4iwY577Ak_A
+    25. [2026-10-28 23:17:50]
+       اخبار شبانگاهی | پنج‌شنبه ۷ آبان
+       https://www.youtube.com/watch?v=3Brxk81alJE
 
-    26. [2026-10-28 15:58:08]
-       بسنت: تصمیم‌های جمهوری اسلامی اقتصاد ایران را طی ۴۷ سال در رکود نگه داشته است
-       https://www.youtube.com/shorts/jm6D1945YBs
+    26. [2026-10-28 23:10:20]
+       سیاست با مراد ویسی: رمزگشایی از طنزهای ایرانی‌ها درباره انتخابات اسرائیل
+       https://www.youtube.com/watch?v=_IfT4u8VnJo
 
-    27. [2026-10-28 15:31:09]
-       مواضع متفاوت احزاب اسرائیل درباره مشارکت احزاب عرب در دولت آینده
-       https://www.youtube.com/watch?v=7DljbG2j_OY
+    27. [2026-10-28 23:09:45]
+       اشکان نظام‌آبادی: اقتصاد ایران در رکود تورمی گرفتار شده و دولت توان مهار بحران را ندارد
+       https://www.youtube.com/watch?v=zZT2cQB2DNc
 
-    28. [2026-10-28 15:14:47]
-       اخبار عصرگاهی | چهارشنبه ۶ آبان
-       https://www.youtube.com/watch?v=vwEt-nzsjj8
+    28. [2026-10-28 23:02:59]
+       نتیجه انتخابات اسرائیل همچنان نامشخص است؛ ترامپ از تاثیر حمایتش بر آرای نتانیاهو گفت
+       https://www.youtube.com/watch?v=aT5kGtlLclI
 
-    29. [2026-10-28 15:04:13]
-       وداع همسر محسن راستانی با تک‌نوازی ساز در مراسم تشییع او
-       https://www.youtube.com/shorts/mNYrlhxmtAs
+    29. [2026-10-28 22:49:15]
+       حمله احتمالی به ایران و تاثیر آن بر موقعیت نتانیاهو در بن‌بست سیاسی اسرائیل
+       https://www.youtube.com/watch?v=NzIqQE8XIk0
 
-    30. [2026-10-28 14:49:05]
-       جان‌باختن برادر و پدر احسان عابدینی پس از کشته شدن او در اعتراضات دی ماه
-       https://www.youtube.com/watch?v=O927Y7YXo8Y
+    30. [2026-10-28 22:45:56]
+       علی صدرزاده: جنگ احتمالی با ایران می‌تواند بن‌بست سیاسی اسرائیل را بشکند
+       https://www.youtube.com/watch?v=uIAgVxMzV3o
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | پنجشنبه ۷ آبان
+       https://soundcloud.com/iranintl/6aplmy82krbc
+
+    32. [Unknown]
+       اخبار شبانگاهی | پنج‌شنبه ۷ آبان
+       https://soundcloud.com/iranintl/mv4vfbpjczy8
+
+    33. [Unknown]
+       سیاست با مراد ویسی: رمزگشایی از طنزهای ایرانی‌ها درباره انتخابات اسرائیل
+       https://soundcloud.com/iranintl/lsplje3b7nka
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ چشم اسرائیل و خاورمیانه به نتیجه انتخابات
+       https://soundcloud.com/iranintl/movkwicylj65
+
+    35. [Unknown]
+       چشم‌انداز: فرصت تاریخی نتانیاهو برای پایان کار جمهوری اسلامی
+       https://soundcloud.com/iranintl/wlk21gnkh6u3
+
+    36. [Unknown]
        تیتراول با نیوشا صارمی: زلزله انتخاباتی در اسرائیل؛ سرنوشت نتانیاهو چه می‌شود؟
        https://soundcloud.com/iranintl/jnfx60y6skzh
 
-    32. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/ixbvgerdseki
 
-    33. [Unknown]
+    38. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/lrl2ckt0wa7z
 
-    34. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/nmq7uiwjidju
 
-    35. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ ویژه‌برنامه پوشش انتخابات اسرائیل
        https://soundcloud.com/iranintl/3urfyzueu13k
 
-    36. [Unknown]
+    41. [Unknown]
        بزرگ‌ترین انتخابات تاریخ اسرائیل و سرنوشت حکومت ایران
        https://soundcloud.com/iranintl/uvtucis4a2my
 
-    37. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی: لحظه به لحظه با انتخابات سرنوشت‌ساز اسراییل؛بالاترین میزان مشارکت در نیم قرن
        https://soundcloud.com/iranintl/4c3bjeqdme8a
 
-    38. [Unknown]
+    43. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/tslefwmcey5e
 
-    39. [Unknown]
+    44. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/cuyoci07kopq
 
-    40. [Unknown]
+    45. [Unknown]
        اخبار بامدادی‌ | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/suennomxv0tf
 
-    41. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/ebh6lcbny1gq
 
-    42. [Unknown]
+    47. [Unknown]
        سیاست با مراد ویسی: توصیه فوری آمریکا به مردم ایران
        https://soundcloud.com/iranintl/uh01oje2g5nx
 
-    43. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ پوشش ویژه انتخابات سرنوشت‌ساز اسرائیل
        https://soundcloud.com/iranintl/dzhxretpefrs
 
-    44. [Unknown]
+    49. [Unknown]
        چشم‌انداز: سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
        https://soundcloud.com/iranintl/poqvbyhq66ho
 
-    45. [Unknown]
+    50. [Unknown]
        اخبار نیمروزی | دوشنبه ۴ آبان
        https://soundcloud.com/iranintl/v11hryxng5wy
-
-    46. [Unknown]
-       اخبار بامدادی | دوشنبه ۴ آبان
-       https://soundcloud.com/iranintl/1stm3bo3f7gu
-
-    47. [Unknown]
-       سیاست با مراد ویسی: بازگشت احمدی‌نژاد چقدر جدی است؟
-       https://soundcloud.com/iranintl/smlgz5lszga5
-
-    48. [Unknown]
-       برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
-       https://soundcloud.com/iranintl/mwokjukp2kp7
-
-    49. [Unknown]
-       تیتراول با نیوشا صارمی: طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
-       https://soundcloud.com/iranintl/bnbdexowbyk5
-
-    50. [Unknown]
-       اخبار عصرگاهی | یکشنبه ۳ آبان
-       https://soundcloud.com/iranintl/yulgyeea8vdf
 
 ----------------------------------------
 
