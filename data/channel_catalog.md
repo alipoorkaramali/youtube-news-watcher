@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-29T19:01:02.454277+00:00
-Generated (Iran): 2026-10-29T22:31:02.454294+00:00
+Generated (UTC):  2026-10-30T07:00:57.540856+00:00
+Generated (Iran): 2026-10-30T10:30:57.540873+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-29 18:46:34]
-       آیا اسرائیل سابقه برگزاری انتخابات دوباره را دارد؟
-       https://www.youtube.com/shorts/H0S619CV3_I
+    16. [2026-10-30 05:19:00]
+       حمله سایبری به بایننس؛ سرقت ۶.۳ میلیارد دلار دارایی دیجیتال
+       https://www.youtube.com/watch?v=rTre_0gU6Gs
 
-    17. [2026-10-29 18:44:03]
-       دومینو: آخرین هشدار پیش از جنگ
-       https://www.youtube.com/watch?v=WgLzAhwdzF0
+    17. [2026-10-30 05:09:04]
+       برگزاری نشست بزرگداشت کوروش بزرگ و بررسی آینده ایران در لندن
+       https://www.youtube.com/watch?v=pU30rxliF_w
 
-    18. [2026-10-29 17:15:23]
-       هشدار مقام‌های امنیتی کانادا درباره افزایش بی‌سابقه تهدیدها علیه جامعه یهودیان
-       https://www.youtube.com/watch?v=kfUzAo506Wk
+    18. [2026-10-30 04:40:25]
+       انتخابات آمریکا و سایه جنگ با جمهوری اسلامی؛ ترامپ منتظر رای آمریکایی‌ها می‌ماند؟
+       https://www.youtube.com/watch?v=kK5hk_1d_Bs
 
-    19. [2026-10-29 17:07:02]
-       ترامپ: تماس ونس با تهران درباره کمک‌های پزشکی بود
-       https://www.youtube.com/watch?v=ovZ64HF14eg
+    19. [2026-10-30 04:38:49]
+       اخبار بامدادی | جمعه ۸ آبان
+       https://www.youtube.com/watch?v=4h2zBFGfBa8
 
-    20. [2026-10-29 16:34:25]
-       نخست‌وزیر بریتانیا: برای بازگشایی تنگه هرمز تمام تلاش خود را انجام می‌دهیم
-       https://www.youtube.com/shorts/LnF7NE_tmnU
+    20. [2026-10-30 04:37:51]
+       پیامدهای بلندمدت بحران تنگه هرمز برای امنیت انرژی آسیا
+       https://www.youtube.com/watch?v=8hM5K5DgvGQ
 
-    21. [2026-10-29 15:58:48]
-       لندن سیتی؛ باشگاهی با هویتی برآمده از فوتبال زنان
-       https://www.youtube.com/watch?v=qJMjbg0MrbM
+    21. [2026-10-30 04:29:19]
+       محمد قائدی: آزادسازی ذخایر نفتی مانع افزایش بیشتر قیمت سوخت در آمریکا شد
+       https://www.youtube.com/watch?v=rRGO5hctE2s
 
-    22. [2026-10-29 15:53:55]
-       با نزدیک شدن به پایان شمارش آرا هیچ یک از بلوک های سیاسی به اکثریت دست پیدا نکردند
-       https://www.youtube.com/watch?v=HweKlPGaYn0
+    22. [2026-10-30 04:15:24]
+       نوید محبی: مخالفان نتانیاهو اکثریت عددی دارند اما ائتلاف سیاسی ندارند
+       https://www.youtube.com/watch?v=3-F3obdFsa4
 
-    23. [2026-10-29 15:41:39]
-       پس از اعلام نتایج نهایی انتخابات اسرائیل چه اتفاقی می‌افتد؟
-       https://www.youtube.com/shorts/AJ24KH9hWPE
+    23. [2026-10-30 04:13:43]
+       فرمانده ارشد آمریکا گزینه‌های حمله به ایران را به ترامپ ارائه کرد
+       https://www.youtube.com/watch?v=d7SUEbhTl50
 
-    24. [2026-10-29 15:31:59]
-       گزارش رویترز از شبکه پنهان واردات تجهیزات موشکی، پهپادی و ابزار سرکوب
-       https://www.youtube.com/watch?v=lEcusRpRxBE
+    24. [2026-10-30 04:11:37]
+       فرزین ندیمی: تحرکات آمریکا بیشتر نشانه آمادگی برای اقدام نظامی است
+       https://www.youtube.com/watch?v=UV8Slt1lG9o
 
-    25. [2026-10-29 15:21:12]
-       علی صدرزاده: وقوع جنگ می‌تواند محاسبات تشکیل دولت اسرائیل را تغییر دهد
-       https://www.youtube.com/watch?v=WE5TTiqNCOs
+    25. [2026-10-29 23:44:55]
+       اخبار شبانگاهی | جمعه ۸ آبان
+       https://www.youtube.com/watch?v=LK2IAIleLjk
 
-    26. [2026-10-29 15:02:15]
-       اخبار عصرگاهی | پنج‌شنبه ۷ آبان
-       https://www.youtube.com/watch?v=Uoq2raxhaRw
+    26. [2026-10-29 23:33:35]
+       وزارت دفاع ایتالیا: چهار نفر در سقوط بالگرد نظامی این کشور در بوسنی کشته شدند
+       https://www.youtube.com/shorts/ogz9-RcvWvM
 
-    27. [2026-10-29 14:29:15]
-       درگذشت مادران علی علوی و سعید نجفی کمتر از ۱۰ ماه پس از جاویدنام شدن فرزندانشان
-       https://www.youtube.com/watch?v=YBafhIm34jk
+    27. [2026-10-29 23:24:57]
+       رویترز: شبکه‌ای پنهان با پنج هزار نهاد، تجهیزات نظامی و ابزار سرکوب وارد ایران می‌کند
+       https://www.youtube.com/watch?v=5ef3tjo3azs
 
-    28. [2026-10-29 14:19:08]
-       سیل در سوریه؛ دست‌کم دو کشته و تخلیه محل سکونت صدها خانواده
-       https://www.youtube.com/watch?v=CJm6XXStSoM
+    28. [2026-10-29 23:24:40]
+       فروغ کنعانی: کوروش به نماد هویت ملی و کرامت ایرانیان تبدیل شده است
+       https://www.youtube.com/watch?v=Qgt8eqTvKAA
 
-    29. [2026-10-29 14:16:18]
-       سازمان ملل از پنج برابر شدن تولید تریاک در افغانستان خبر داد
-       https://www.youtube.com/watch?v=8TwZnu29r6s
+    29. [2026-10-29 23:24:17]
+       وال‌استریت ژورنال: فرمانده ارشد آمریکایی طرح‌های حمله به ایران را به ترامپ ارائه کرد
+       https://www.youtube.com/watch?v=wtE7icjCXAU
 
-    30. [2026-10-29 14:07:40]
-       درخواست لیکود برای ورود پلیس و شین‌بت به بررسی ادعاهای دستکاری انتخاباتی
-       https://www.youtube.com/watch?v=eD58Ep0i4ek
+    30. [2026-10-29 23:21:02]
+       از کوروش بزرگ و محمدرضاشاه تا آخوند و تروریست سپاهی
+       https://www.youtube.com/shorts/lWJ0O5vSKus
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | جمعه ۸ آبان
+       https://soundcloud.com/iranintl/wykizaq1czrm
+
+    32. [Unknown]
+       اخبار شبانگاهی | جمعه ۸ آبان
+       https://soundcloud.com/iranintl/hus71nrkcpca
+
+    33. [Unknown]
+       ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
+       https://soundcloud.com/iranintl/ykozpjjwt0je
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
+       https://soundcloud.com/iranintl/g2dxjp5bilem
+
+    35. [Unknown]
        دومینو: آخرین هشدار پیش از جنگ
        https://soundcloud.com/iranintl/uhjtv5px3lrk
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/5gehucgkwo3f
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/t2dz2yf3idf5
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | پنجشنبه ۷ آبان
        https://soundcloud.com/iranintl/6aplmy82krbc
 
-    35. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/mv4vfbpjczy8
 
-    36. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: رمزگشایی از طنزهای ایرانی‌ها درباره انتخابات اسرائیل
        https://soundcloud.com/iranintl/lsplje3b7nka
 
-    37. [Unknown]
+    41. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ چشم اسرائیل و خاورمیانه به نتیجه انتخابات
        https://soundcloud.com/iranintl/movkwicylj65
 
-    38. [Unknown]
+    42. [Unknown]
        چشم‌انداز: فرصت تاریخی نتانیاهو برای پایان کار جمهوری اسلامی
        https://soundcloud.com/iranintl/wlk21gnkh6u3
 
-    39. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: زلزله انتخاباتی در اسرائیل؛ سرنوشت نتانیاهو چه می‌شود؟
        https://soundcloud.com/iranintl/jnfx60y6skzh
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/ixbvgerdseki
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/lrl2ckt0wa7z
 
-    42. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/nmq7uiwjidju
 
-    43. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد:  زنده از اورشلیم؛ ویژه‌برنامه پوشش انتخابات اسرائیل
        https://soundcloud.com/iranintl/3urfyzueu13k
 
-    44. [Unknown]
+    48. [Unknown]
        بزرگ‌ترین انتخابات تاریخ اسرائیل و سرنوشت حکومت ایران
        https://soundcloud.com/iranintl/uvtucis4a2my
 
-    45. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: لحظه به لحظه با انتخابات سرنوشت‌ساز اسراییل؛بالاترین میزان مشارکت در نیم قرن
        https://soundcloud.com/iranintl/4c3bjeqdme8a
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۵ آبان
        https://soundcloud.com/iranintl/tslefwmcey5e
-
-    47. [Unknown]
-       اخبار نیمروزی | سه‌شنبه ۵ آبان
-       https://soundcloud.com/iranintl/cuyoci07kopq
-
-    48. [Unknown]
-       اخبار بامدادی‌ | سه‌شنبه ۵ آبان
-       https://soundcloud.com/iranintl/suennomxv0tf
-
-    49. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۵ آبان
-       https://soundcloud.com/iranintl/ebh6lcbny1gq
-
-    50. [Unknown]
-       سیاست با مراد ویسی: توصیه فوری آمریکا به مردم ایران
-       https://soundcloud.com/iranintl/uh01oje2g5nx
 
 ----------------------------------------
 
