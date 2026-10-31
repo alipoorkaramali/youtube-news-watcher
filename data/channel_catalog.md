@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-31T11:00:57.320527+00:00
-Generated (Iran): 2026-10-31T14:30:57.320546+00:00
+Generated (UTC):  2026-10-31T15:01:11.218843+00:00
+Generated (Iran): 2026-10-31T18:31:11.218861+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-31 10:31:33]
+    1. [2026-10-31 15:00:52]
+       اخبار ساعت شش عصر- ۹ آبان ۱۴۰۵
+       https://www.youtube.com/watch?v=CnUe1Kc_tKw
+
+    2. [2026-10-31 10:31:33]
        لغو سفر مادام‌العمر با کشتی تفریحی
        https://www.youtube.com/shorts/QdtSs4oQcVo
 
-    2. [2026-10-31 10:09:26]
+    3. [2026-10-31 10:09:26]
        هالوین در تهران زیر سایه جنگ
        https://www.youtube.com/shorts/TsJ5LHEm86s
 
-    3. [2026-10-30 19:03:54]
+    4. [2026-10-30 19:03:54]
        اسرائیل و فلسطینیان؛ چگونه به ۷ اکتبر رسیدیم؟ قسمت سوم
        https://www.youtube.com/watch?v=riDuQ8vkWzA
 
-    4. [2026-10-30 18:40:00]
+    5. [2026-10-30 18:40:00]
        اسرائیل و فلسطینیان؛ چگونه به ۷ اکتبر رسیدیم؟ قسمت دوم
        https://www.youtube.com/watch?v=n_iGxdZAXdM
 
-    5. [2026-10-30 18:33:44]
+    6. [2026-10-30 18:33:44]
        اسرائیل و فلسطینیان؛ چگونه به ۷ اکتبر رسیدیم؟ قسمت اول
        https://www.youtube.com/watch?v=1FZQa88CXW8
 
-    6. [2026-10-30 18:30:07]
+    7. [2026-10-30 18:30:07]
        فیلم کامل «کودک دیجیتالی»
        https://www.youtube.com/watch?v=0WZnuQnarRY
 
-    7. [2026-10-30 17:02:30]
+    8. [2026-10-30 17:02:30]
        منطقه نگران یک جنگ فراگیر؛ در ذهن مقام‌های ایران چه می‌گذرد؟ جام جهان‌نما جمعه ۸ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=Zy50-v3YR_Y
 
-    8. [2026-10-30 17:00:14]
+    9. [2026-10-30 17:00:14]
        کلیک؛ تحقیقات ناسا در تعقیب کسوف
        https://www.youtube.com/watch?v=aHnkX1PG6zQ
 
-    9. [2026-10-30 15:00:37]
+    10. [2026-10-30 15:00:37]
        شمارش معکوس پرخرج ترین دوره انتخابات آمریکا، سیاست داخلی و خارجی با کنگره جدید به کدام سو می رود؟
        https://www.youtube.com/watch?v=HZCwwS7ztLU
 
-    10. [2026-10-30 15:00:24]
+    11. [2026-10-30 15:00:24]
        اخبار ساعت شش عصر- جمعه ۸ آبان: تحرکات جدید آمریکا در منطقه
        https://www.youtube.com/watch?v=T35C8U4ZBd4
 
-    11. [2026-10-30 11:13:32]
+    12. [2026-10-30 11:13:32]
        آتش‌سوزی یک کارخانه در جاده مخصوص کرج
        https://www.youtube.com/shorts/Bi-ZBDpLIq0
 
-    12. [2026-10-30 11:11:09]
+    13. [2026-10-30 11:11:09]
        آلودگی نفتی در سواحل قشم
        https://www.youtube.com/shorts/yBeu-UT5x3c
 
-    13. [2026-10-29 18:30:13]
+    14. [2026-10-29 18:30:13]
        خبرنگاران: گزارش‌ها از آماده‌باش آمریکا و اسرائیل برای از سرگیری حمله به ایران و بیشتر
        https://www.youtube.com/watch?v=3dzv2HDtAfI
 
-    14. [2026-10-29 18:06:15]
+    15. [2026-10-29 18:06:15]
        انتخابات اسرائیل؛ چقدر حمله به ایران محتمل است؟ - صفحه ۲آخر هفته
        https://www.youtube.com/watch?v=a7hq2YSVugs
-
-    15. [2026-10-29 17:03:03]
-       برنامه رادیویی جام جهان‌نما، پنج‌شنبه ۷ آبان ۱۴۰۵
-       https://www.youtube.com/watch?v=xleHnDbJOc4
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-31 10:00:08]
-       فراخوان اعتراض در ۳۰ شهر آلمان؛ انتظار برای حضور ۱۶۰ هزار نفر
-       https://www.youtube.com/watch?v=XETWl3qGy3Q
+    16. [2026-10-31 14:54:05]
+       بهمن قبادی: جمهوری اسلامی ۱۹ سال است مرا از خانه و خانواده‌ام جدا کرده است
+       https://www.youtube.com/watch?v=GxFLu143KrA
 
-    17. [2026-10-31 09:53:28]
-       بحرین خواستار همکاری امنیتی منطقه‌ای در برابر تهدیدهای جمهوری اسلامی شد
-       https://www.youtube.com/watch?v=vvc_YEPLC2o
+    17. [2026-10-31 14:23:56]
+       درگیری حوثی‌ها با نیروهای عربستان سعودی در الجوف یمن
+       https://www.youtube.com/shorts/9uQXNaIrPyM
 
-    18. [2026-10-31 09:48:28]
-       پاکستان به میانجی‌گری میان تهران و واشینگتن «محتاطانه خوش‌بین» است
-       https://www.youtube.com/shorts/vddtRfe-WWU
+    18. [2026-10-31 14:21:55]
+       آغاز گفت‌وگوهای منامه با حضور مقام‌های بیش از ۵۰ کشور و بدون دعوت از جمهوری اسلامی
+       https://www.youtube.com/watch?v=ox-BOG7_hLY
 
-    19. [2026-10-31 09:08:29]
-       روح‌الله رحیم‌پور: تهدیدهای تهران نشانه نگرانی از هدف قرار گرفتن مقام‌های حکومت است
-       https://www.youtube.com/watch?v=X58KXzQuerY
+    19. [2026-10-31 14:06:51]
+       ادامه تجمعات ایرانیان در استکهلم در حمایت از مردم ایران و شاهزاده رضا پهلوی
+       https://www.youtube.com/watch?v=Gcsd9QACFFo
 
-    20. [2026-10-31 08:44:09]
-       اپوزیسیون اسرائیل در پی برکناری رئیس کنست در نخستین روز پارلمان جدید
-       https://www.youtube.com/watch?v=5sct9jSccbM
+    20. [2026-10-31 13:59:13]
+       اژه‌ای خواستار رسیدگی خارج از نوبت به پرونده ایرانیان خارج از کشور شد
+       https://www.youtube.com/shorts/06NiZ5XI-2k
 
-    21. [2026-10-31 08:31:52]
-       سیلاب خودروها را به ساحل شهر تفریحی لس کابوس مکزیک کشاند
-       https://www.youtube.com/shorts/8c52rG1pfO8
+    21. [2026-10-31 13:21:26]
+       آسیه امینی: جمهوری اسلامی با زندگی‌ای که مردم خودشان انتخاب کنند مشکل دارد
+       https://www.youtube.com/watch?v=8Hr-fyGTqoc
 
-    22. [2026-10-31 07:20:30]
-       حسین علیزاده: تلاش‌های قطر برای میانجی‌گری یک روزنه کوچک ایجاد کرده است
-       https://www.youtube.com/watch?v=vsN_YGiU0Mo
+    22. [2026-10-31 13:12:07]
+       بهمن قبادی: جمهوری اسلامی ۱۹ سال است مرا از خانه و خانواده‌ دور کرده
+       https://www.youtube.com/shorts/18tzpFmf_-c
 
-    23. [2026-10-31 07:18:30]
-       ترکیه فریدون سینیرلی‌اوغلو را نامزد دبیرکلی سازمان ملل کرد
-       https://www.youtube.com/watch?v=Q3uNnyMRSCU
+    23. [2026-10-31 12:58:42]
+       هوشنگ حسن‌یاری: تهدیدهای جمهوری اسلامی با توان عملیاتی آن همخوانی ندارد
+       https://www.youtube.com/watch?v=MXLEEkh4F4U
 
-    24. [2026-10-31 05:03:57]
-       برگزاری نشستی در لندن با محوریت کوروش بزرگ و پیوند تاریخی ایران و اسرائیل
-       https://www.youtube.com/watch?v=U0E5ajQutF0
+    24. [2026-10-31 12:32:07]
+       رقابت احزاب اسرائیل برای تشکیل دولت آینده
+       https://www.youtube.com/watch?v=J4KwIDjOnb8
 
-    25. [2026-10-31 05:02:14]
-       غسان عاشور: حوثی‌ها با حملات موشکی به دنبال فشار اقتصادی بر عربستان هستند
-       https://www.youtube.com/watch?v=L-qjg_9XxEA
+    25. [2026-10-31 12:26:56]
+       بدنساز ۹۰ ساله ژاپنی در رقابت‌های بدنسازی اسپانیا
+       https://www.youtube.com/shorts/hLW6JblVZmg
 
-    26. [2026-10-31 04:21:59]
-       اخبار بامدادی | شنبه ۹ آبان
-       https://www.youtube.com/watch?v=jO7lT55LSfA
+    26. [2026-10-31 12:23:20]
+       رسانه‌های آلمان سخنان عراقچی درباره «ضربه ویرانگر» را تهدید نظامی علیه اروپا خواندند
+       https://www.youtube.com/watch?v=WQ8MCR34ghw
 
-    27. [2026-10-31 04:04:42]
-       امید معماریان: غنی‌سازی ۹۰ درصدی می‌تواند محرک حمله به جمهوری اسلامی باشد
-       https://www.youtube.com/watch?v=WfH7-yVSdjA
+    27. [2026-10-31 12:09:17]
+       شهرام خلدی: تهدیدهای منتسب به مجتبی خامنه‌ای نشانه هراس حکومت از حمله آمریکاست
+       https://www.youtube.com/watch?v=_iF9tD4abNI
 
-    28. [2026-10-31 04:02:57]
-       شایان سمیعی: توافق با جمهوری اسلامی فرصت تجدیدقوای حکومت را فراهم می‌کند
-       https://www.youtube.com/watch?v=Op3tqjPYHEk
+    28. [2026-10-31 11:31:29]
+       مصر نگران ازسرگیری جنگ میان ایالات متحده و جمهوری اسلامی است
+       https://www.youtube.com/shorts/n6dSx7I1dwc
 
-    29. [2026-10-31 04:00:27]
-       اعلام جرم علیه ۱۳ نفر در پرونده محموله مواد منفجره حزب‌الله در لبنان
-       https://www.youtube.com/watch?v=6DmiHWWS58Q
+    29. [2026-10-31 11:25:13]
+       گرامیداشت روز کوروش کبیر و زادروز شاهزاده رضا پهلوی از سوی ایرانیان داخل و خارج
+       https://www.youtube.com/watch?v=Iv-hLLNgK9Y
 
-    30. [2026-10-31 00:04:00]
-       جشن ممنوع هالووین در ایران
-       https://www.youtube.com/shorts/egzH-W3pN4Y
+    30. [2026-10-31 11:10:29]
+       مروری بر روزنامه‌های ایران، شنبه ۹ آبان
+       https://www.youtube.com/watch?v=Kk7twLunF_k
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | شنبه ۹ آبان
+       https://soundcloud.com/iranintl/p7qatrrzb6al
+
+    32. [Unknown]
        اخبار بامدادی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/6e2tucradli4
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/mtsmzwcw7lps
 
-    33. [Unknown]
+    34. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ آغاز مذاکره احزاب برای تشکیل دولت ائتلافی اسرائیل
        https://soundcloud.com/iranintl/7pzp3dxillas
 
-    34. [Unknown]
+    35. [Unknown]
        اخبار عصرگاهی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/kg6rfzvfdhqc
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار نیم‌روزی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/rlctgmzrvz2b
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/wykizaq1czrm
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/hus71nrkcpca
 
-    38. [Unknown]
+    39. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
        https://soundcloud.com/iranintl/ykozpjjwt0je
 
-    39. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
        https://soundcloud.com/iranintl/g2dxjp5bilem
 
-    40. [Unknown]
+    41. [Unknown]
        دومینو: آخرین هشدار پیش از جنگ
        https://soundcloud.com/iranintl/uhjtv5px3lrk
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/5gehucgkwo3f
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/t2dz2yf3idf5
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | پنجشنبه ۷ آبان
        https://soundcloud.com/iranintl/6aplmy82krbc
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/mv4vfbpjczy8
 
-    45. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: رمزگشایی از طنزهای ایرانی‌ها درباره انتخابات اسرائیل
        https://soundcloud.com/iranintl/lsplje3b7nka
 
-    46. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ چشم اسرائیل و خاورمیانه به نتیجه انتخابات
        https://soundcloud.com/iranintl/movkwicylj65
 
-    47. [Unknown]
+    48. [Unknown]
        چشم‌انداز: فرصت تاریخی نتانیاهو برای پایان کار جمهوری اسلامی
        https://soundcloud.com/iranintl/wlk21gnkh6u3
 
-    48. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: زلزله انتخاباتی در اسرائیل؛ سرنوشت نتانیاهو چه می‌شود؟
        https://soundcloud.com/iranintl/jnfx60y6skzh
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۶ آبان
        https://soundcloud.com/iranintl/ixbvgerdseki
-
-    50. [Unknown]
-       اخبار نیم‌روزی | چهارشنبه ۶ آبان
-       https://soundcloud.com/iranintl/lrl2ckt0wa7z
 
 ----------------------------------------
 
