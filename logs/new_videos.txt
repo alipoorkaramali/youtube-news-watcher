@@ -4,3 +4,4 @@
 2026-11-01T11:30:51.340204+00:00 | youtube | اخبار نیمروزی | یکشنبه ۱۰ آبان | 24 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=-FMGjBmeFIg
 2026-11-01T15:15:37.336149+00:00 | youtube | اخبار ساعت شش عصر | 14 minutes ago | https://www.youtube.com/watch?v=qvaHKYSNqOc
 2026-11-01T18:30:51.021243+00:00 | soundcloud | جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/69ge1phs8lhw
+2026-11-01T19:30:43.969403+00:00 | youtube | سوخت‌رسان‌های آمریکایی در اسرائیل، سومین روز مذاکرات در دوحه - ۶۰ دقیقه یکشنبه ۱۰ آبان | 1 hours ago | https://www.youtube.com/watch?v=ZRpRiELxD0E
