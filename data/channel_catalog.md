@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-10-31T19:00:56.710143+00:00
-Generated (Iran): 2026-10-31T22:30:56.710159+00:00
+Generated (UTC):  2026-11-01T07:01:10.882352+00:00
+Generated (Iran): 2026-11-01T10:31:10.882369+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-10-31 18:00:00]
+    1. [2026-10-31 19:31:22]
        دستور مجتبی خامنه‌ای به نظامیان: پاسخ به هر تهدید بدون محدودیت جغرافیایی باشد - ۶۰ دقیقه شنبه ۹ آبان
        https://www.youtube.com/watch?v=QkB1ibR7kho
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-10-31 18:25:06]
-       تلاش‌های فشرده دیپلماتیک برای جلوگیری از جنگ سوم نتیجه می‌دهد؟
-       https://www.youtube.com/shorts/WFxXi67Uas0
+    16. [2026-11-01 05:39:08]
+       ادامه بسته ماندن گذرگاه چذابه با وجود اعتراض جمهوری اسلامی
+       https://www.youtube.com/watch?v=Blw01obQSC0
 
-    17. [2026-10-31 18:16:58]
-       تهدیدات خطرناک مجتبی از مخفیگاه زیرزمینی
-       https://www.youtube.com/shorts/S-4yP9XEhRQ
+    17. [2026-11-01 05:37:25]
+       یازدهمین ماه تجمع ایرانیان در استکهلم در اعتراض به جمهوری اسلامی
+       https://www.youtube.com/watch?v=WUppNvhLq1U
 
-    18. [2026-10-31 17:57:55]
-       برگزاری پرشور جشن هالووین در ایران در سایه فشارهای امنیتی
-       https://www.youtube.com/shorts/FCPuJQndO8k
+    18. [2026-11-01 05:24:08]
+       اخبار بامدادی | یکشنبه ۱۰ آبان
+       https://www.youtube.com/watch?v=4Z20b6b-8kE
 
-    19. [2026-10-31 17:36:55]
-       تیتراول با نیوشا صارمی: بررسی حمله به ایران در کاخ سفید؛دستور مجتبی خامنه‌ای برای واکنش بدون محدودیت
-       https://www.youtube.com/watch?v=SdfRxMH23UM
+    19. [2026-11-01 05:16:57]
+       ترامپ: می‌توانیم در ده دقیقه به اهداف هسته‌ای باقی‌مانده حمله کنیم
+       https://www.youtube.com/shorts/3F3OP30eyjk
 
-    20. [2026-10-31 16:49:01]
-       اخبار عصرگاهی | شنبه ۹ آبان
-       https://www.youtube.com/watch?v=oczrPInupsM
+    20. [2026-11-01 04:32:17]
+       نوید محبی: اسرائیل تمایل به «لایه‌برداری» از مقام‌های جمهوری اسلامی دارد
+       https://www.youtube.com/watch?v=LAf6m6mGW_M
 
-    21. [2026-10-31 16:31:07]
-       ایمان آقایاری: تلاش دیپلماتیک جمهوری اسلامی بیشتر برای خرید زمان است
-       https://www.youtube.com/watch?v=xuS1ISZf3iY
+    21. [2026-11-01 04:11:47]
+       ادامه میانجیگری‌ها برای توافق با جمهوری اسلامی و هشدار واشینگتن درباره محدودیت دیپلماسی
+       https://www.youtube.com/watch?v=_IUDpzU8Qg8
 
-    22. [2026-10-31 16:30:20]
-       اقتصاد و بازار: فساد در فروش نفت ایران به چین؛ حذف ارز دولتی برای واردات خودرو و موبایل
-       https://www.youtube.com/watch?v=uav_9qX_3p0
+    22. [2026-11-01 03:35:35]
+       سیامک آرام: جمهوری اسلامی از تداوم بحران برای سرکوب و خرید زمان سود می‌برد
+       https://www.youtube.com/watch?v=8JG4u1S-R1I
 
-    23. [2026-10-31 16:13:33]
-       اعتراض در آلمان به احتمال بازگشت سربازی اجباری و فشار هزینه‌های زندگی
-       https://www.youtube.com/watch?v=rGPwaYI4AWg
+    23. [2026-11-01 03:27:48]
+       علی معموری: مذاکره تنها راه مواجهه با حوثی‌هاست
+       https://www.youtube.com/watch?v=DqHYWUrZa3c
 
-    24. [2026-10-31 15:59:29]
-       تجمع معترضان در برلین برای اعتراضات سراسری جوانان
-       https://www.youtube.com/shorts/HhQQYc2G7Lw
+    24. [2026-11-01 00:10:13]
+       وزیر خزانه‌داری آمریکا: شبیه تحریم‌ها علیه جمهوری اسلامی در طول تاریخ وجود نداشته است
+       https://www.youtube.com/shorts/ZFhnlCPtZa4
 
-    25. [2026-10-31 15:57:41]
-       گزارش روز با مجتبا پورمحسن: تصمیم ترامپ در مورد روز حمله به ایران
-       https://www.youtube.com/watch?v=GEbLX3S2I6o
+    25. [2026-10-31 23:19:55]
+       اخبار شبانگاهی | یکشنبه ۱۰ آبان
+       https://www.youtube.com/watch?v=_chUxPIKvVU
 
-    26. [2026-10-31 15:43:14]
-       معترضان فرانسوی: تا تحقق مطالباتمان به خیابان‌ها بازمی‌گردیم
-       https://www.youtube.com/shorts/WMJ87quCgfQ
+    26. [2026-10-31 22:51:01]
+       گردهمایی ایرانیان در واشینگتن برای بزرگداشت کوروش بزرگ و دادخواهی برای مردم ایران
+       https://www.youtube.com/watch?v=V5o3gvdMml4
 
-    27. [2026-10-31 15:16:20]
-       وضعیت وخیم روانی زینب سلیمانی، پزشک زندانی، پس از ماه‌ها حبس انفرادی
-       https://www.youtube.com/watch?v=aeXAuuj6ZOI
+    27. [2026-10-31 22:47:49]
+       جمشید برزگر: جمهوری اسلامی با تهدید اروپا به دنبال جلوگیری از حمله نظامی آمریکاست
+       https://www.youtube.com/watch?v=0JxAbPPWbCY
 
-    28. [2026-10-31 14:54:05]
-       بهمن قبادی: جمهوری اسلامی ۱۹ سال است مرا از خانه و خانواده‌ام جدا کرده است
-       https://www.youtube.com/watch?v=GxFLu143KrA
+    28. [2026-10-31 22:43:49]
+       کامبیز توانا: آمریکا از مرحله توافق‌ کلی عبور کرده و از جمهوری اسلامی اقدام عملی می‌خواهد
+       https://www.youtube.com/watch?v=ncPn4B4XDMQ
 
-    29. [2026-10-31 14:23:56]
-       درگیری حوثی‌ها با نیروهای عربستان سعودی در الجوف یمن
-       https://www.youtube.com/shorts/9uQXNaIrPyM
+    29. [2026-10-31 22:17:01]
+       ناو هواپیمابر روزولت در حال تمرین حمله
+       https://www.youtube.com/shorts/DXKjVBiyXLM
 
-    30. [2026-10-31 14:21:55]
-       آغاز گفت‌وگوهای منامه با حضور مقام‌های بیش از ۵۰ کشور و بدون دعوت از جمهوری اسلامی
-       https://www.youtube.com/watch?v=ox-BOG7_hLY
+    30. [2026-10-31 22:15:45]
+       محسن رضایی: لحن نامه جی‌دی ونس «کاملا تغییر کرده» است
+       https://www.youtube.com/shorts/Xrz1WH1QKhU
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | یکشنبه ۱۰ آبان
+       https://soundcloud.com/iranintl/8g7eq5gehwy0
+
+    32. [Unknown]
+       اخبار عصرگاهی | یکشنبه ۱۰ آبان
+       https://soundcloud.com/iranintl/qmqwtntfmcdd
+
+    33. [Unknown]
+       سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
+       https://soundcloud.com/iranintl/mx8dhrmposdb
+
+    34. [Unknown]
+       چشم‌انداز: تهدیدات خطرناک مجتبی خامنه‌ای از مخفیگاه زیرزمینی
+       https://soundcloud.com/iranintl/qjz5fomxrg4g
+
+    35. [Unknown]
        تیتراول با نیوشا صارمی: بررسی حمله به ایران در کاخ سفید؛دستور مجتبی خامنه‌ای برای واکنش بدون محدودیت
        https://soundcloud.com/iranintl/fam5l2lwrrnx
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/6iuirvhbvuht
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار نیم‌روزی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/p7qatrrzb6al
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/6e2tucradli4
 
-    35. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | شنبه ۹ آبان
        https://soundcloud.com/iranintl/mtsmzwcw7lps
 
-    36. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ آغاز مذاکره احزاب برای تشکیل دولت ائتلافی اسرائیل
        https://soundcloud.com/iranintl/7pzp3dxillas
 
-    37. [Unknown]
+    41. [Unknown]
        اخبار عصرگاهی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/kg6rfzvfdhqc
 
-    38. [Unknown]
+    42. [Unknown]
        اخبار نیم‌روزی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/rlctgmzrvz2b
 
-    39. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/wykizaq1czrm
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | جمعه ۸ آبان
        https://soundcloud.com/iranintl/hus71nrkcpca
 
-    41. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
        https://soundcloud.com/iranintl/ykozpjjwt0je
 
-    42. [Unknown]
+    46. [Unknown]
        ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ ادامه بحران سیاسی در اسرائیل
        https://soundcloud.com/iranintl/g2dxjp5bilem
 
-    43. [Unknown]
+    47. [Unknown]
        دومینو: آخرین هشدار پیش از جنگ
        https://soundcloud.com/iranintl/uhjtv5px3lrk
 
-    44. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/5gehucgkwo3f
 
-    45. [Unknown]
+    49. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۷ آبان
        https://soundcloud.com/iranintl/t2dz2yf3idf5
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | پنجشنبه ۷ آبان
        https://soundcloud.com/iranintl/6aplmy82krbc
-
-    47. [Unknown]
-       اخبار شبانگاهی | پنج‌شنبه ۷ آبان
-       https://soundcloud.com/iranintl/mv4vfbpjczy8
-
-    48. [Unknown]
-       سیاست با مراد ویسی: رمزگشایی از طنزهای ایرانی‌ها درباره انتخابات اسرائیل
-       https://soundcloud.com/iranintl/lsplje3b7nka
-
-    49. [Unknown]
-       ۲۴ با فرداد فرحزاد: زنده از اورشلیم؛ چشم اسرائیل و خاورمیانه به نتیجه انتخابات
-       https://soundcloud.com/iranintl/movkwicylj65
-
-    50. [Unknown]
-       چشم‌انداز: فرصت تاریخی نتانیاهو برای پایان کار جمهوری اسلامی
-       https://soundcloud.com/iranintl/wlk21gnkh6u3
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
+       https://soundcloud.com/bbcpersian/h244yhcrje4j
+
+    52. [Unknown]
        جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hreeuwmgp25m
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyb3fnfnowkn
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hgxnfvv0maji
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/aeto5nc5rx3v
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tftdka4eokwn
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/enkhnonj4san
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/lbyf89xgizov
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/jq2lgtbenddj
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/crbvwjfbcma6
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8ys75f0kbyvh
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/l8cbozddpo54
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8mizwndjy06n
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/oinrtb0mlb0d
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/kp6t5z60wmwp
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/3leaz3mmtrle
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/mgujxdjzq4zk
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/eibj7xtmt6mn
-
-    70. [Unknown]
-       جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
-       https://soundcloud.com/bbcpersian/wwkpzfaiwruj
 
 ----------------------------------------
 
