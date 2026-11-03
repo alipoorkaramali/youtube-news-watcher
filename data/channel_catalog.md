@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-03T11:00:59.729635+00:00
-Generated (Iran): 2026-11-03T14:30:59.729646+00:00
+Generated (UTC):  2026-11-03T15:01:05.317522+00:00
+Generated (Iran): 2026-11-03T18:31:05.317535+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-03 10:58:46]
+    1. [2026-11-03 15:00:32]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=r0QNoL-oTQY
+
+    2. [2026-11-03 14:17:14]
+       اوکراین و روسیه می گویند اپلیکیشین‌های هشدار شرایط اضطرای هک شده‌اند
+       https://www.youtube.com/shorts/O9qVK7ltyzU
+
+    3. [2026-11-03 12:09:51]
+       محل دفن زباله‌ای که مدام آتش می‌گیرد.
+       https://www.youtube.com/shorts/FGKUNRPwT5I
+
+    4. [2026-11-03 10:58:46]
        مراسم تشییع حمید علیدوستی در تهران
        https://www.youtube.com/shorts/d4s1eEWW7bA
 
-    2. [2026-11-03 08:49:39]
+    5. [2026-11-03 08:49:39]
        برگزاری مسابقات جهانی کوهنوردی ربات‌ها در چین
        https://www.youtube.com/shorts/dWPnrh_0bag
 
-    3. [2026-11-03 08:35:47]
+    6. [2026-11-03 08:35:47]
        سالگرد فامیلیا بلندترین کلیسای جهان
        https://www.youtube.com/shorts/rWMV55iYisw
 
-    4. [2026-11-03 08:07:40]
+    7. [2026-11-03 08:07:40]
        بررسی ویدئوی جدید سپاه درباره انفجار کشتی‌ها در تنگه هرمز
        https://www.youtube.com/shorts/rqYRWKYnVMw
 
-    5. [2026-11-02 19:40:18]
+    8. [2026-11-02 19:40:18]
        اگر جمهوری‌خواهان ببازند چه می‌شود؟ - باب مکیوئن، نمایندهٔ پیشین کنگره آمریکا از حزب جمهوری‌خواه
        https://www.youtube.com/watch?v=VHItAfppUxc
 
-    6. [2026-11-02 19:31:26]
+    9. [2026-11-02 19:31:26]
        ۶۰ دقیقه دوشنبه ۱۱ آبان - روز سرنوشت؛ آمریکایی‌ها چه مسیری را انتخاب خواهند کرد؟
        https://www.youtube.com/watch?v=2OJMlYs-TtM
 
-    7. [2026-11-02 17:02:17]
+    10. [2026-11-02 17:02:17]
        جام جهان‌نما دوشنبه ۱۱ آبان ۱۴۰۵- چین می‌تواند میانجی توافق میان ایران و آمریکا شود؟
        https://www.youtube.com/watch?v=xmLaFrRJvx8
 
-    8. [2026-11-02 15:00:52]
+    11. [2026-11-02 15:00:52]
        اخبار ساعت شش عصر دوشنبه ۱۱ آبان: اعلام آمادگی تهران برای گشایش تنگه هرمز در ۴۸ ساعت
        https://www.youtube.com/watch?v=UXpQzfqYwFo
 
-    9. [2026-11-02 14:25:09]
+    12. [2026-11-02 14:25:09]
        سرخط خبرها، دوشنبه ۱۱ آبان ۱۴۰۵
        https://www.youtube.com/shorts/VA5iPXanbcw
 
-    10. [2026-11-02 14:14:42]
+    13. [2026-11-02 14:14:42]
        مراسم روز استقلال آنتیگوآ و باربودا؛ پادشاه بریتانیا بدون چتر زیر باران ماند
        https://www.youtube.com/shorts/k1PZ3bUu8jA
 
-    11. [2026-11-02 14:13:22]
+    14. [2026-11-02 14:13:22]
        ۹ کشته در پی سقوط یک هواپیمای کوچک در فلوریدا
        https://www.youtube.com/shorts/XPaMb8ofIrw
 
-    12. [2026-11-02 14:12:07]
+    15. [2026-11-02 14:12:07]
        دیدار اوکراینی‌ها با خانواده‌هایشان در پی آتش‌بس کم‌سابقه
        https://www.youtube.com/shorts/vg1K6nfUj2E
-
-    13. [2026-11-02 10:32:34]
-       امیرحسین زارع به کشتی‌گیر آمریکایی «انشاالله» یاد داد
-       https://www.youtube.com/shorts/II5qqV02LDI
-
-    14. [2026-11-02 10:31:37]
-       «حذف تفاوت‌های آشکار توسط هوش مصنوعی عصبانی‌ام می‌کند»
-       https://www.youtube.com/shorts/DPj9aTSX4hA
-
-    15. [2026-11-02 10:29:16]
-       مشترک خبرنامه بی‌بی‌سی فارسی شوید
-       https://www.youtube.com/shorts/Pa2IJQZPErE
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-03 10:42:29]
-       قالیباف: تصمیم برای جلوگیری از جنگ در اختیار واشینگتن است
-       https://www.youtube.com/shorts/cjk5_UmwlmI
+    16. [2026-11-03 14:55:43]
+       نخستین واکنش ترامپ به تبادل آتش در قشم
+       https://www.youtube.com/watch?v=Jyd9xjigQEc
 
-    17. [2026-11-03 10:35:22]
-       بازتاب انتخابات میان‌دوره‌ای آمریکا در رسانه‌های آلمان و کشور‌های عربی
-       https://www.youtube.com/watch?v=z55CUzJpVXc
+    17. [2026-11-03 14:52:45]
+       اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
+       https://www.youtube.com/watch?v=vySBUrJ7Auk
 
-    18. [2026-11-03 10:13:00]
-       ازسرگیری اعتراضات دانش‌آموزان در فرانسه پس از تعطیلات پاییزی
-       https://www.youtube.com/watch?v=BCvJPXws8_U
+    18. [2026-11-03 14:40:24]
+       واکنش غریب‌آبادی به تهدید هسته‌ای آمریکا
+       https://www.youtube.com/shorts/uoFCzZawX4M
 
-    19. [2026-11-03 09:51:17]
-       علی‌حسین قاضی‌زاده: تهدیدهای جمهوری اسلامی اروپا را به مشارکت در جنگ بعدی نزدیک‌تر می‌کند
-       https://www.youtube.com/watch?v=XJZi0U1kKwo
+    19. [2026-11-03 14:35:26]
+       رای‌گیری برای تعیین ترکیب جدید مجلس نمایندگان و سنای آمریکا آغاز شد
+       https://www.youtube.com/watch?v=RWW5jqOJe3w
 
-    20. [2026-11-03 09:46:39]
-       رفتارهای غیرمعمول رییس دفتر پزشکیان هنگام صحبت‌های او
-       https://www.youtube.com/shorts/ylf_T_Qq7fo
+    20. [2026-11-03 14:25:21]
+       علی‌حسین قاضی‌زاده: تصمیم آمریکا برای ورود به جنگ تابع نتایج انتخابات نیست
+       https://www.youtube.com/watch?v=-q19dLHe3w4
 
-    21. [2026-11-03 09:25:30]
-       تجمع پاکبان‌ها مقابل شهرداری تهران در اعتراض به توقف تبدیل وضعیت
-       https://www.youtube.com/shorts/UeFdAyGbzKc
+    21. [2026-11-03 13:51:10]
+       آغاز انتخابات میان‌دوره‌ای آمریکا با شروع رای‌گیری در ایالت‌های مین و اوهایو
+       https://www.youtube.com/shorts/lYGY-Kmxd_0
 
-    22. [2026-11-03 09:14:31]
-       کشته‌شدن یک مامور پلیس آگاهی سراوان در حمله افراد مسلح
-       https://www.youtube.com/watch?v=OYf5_AyXPZU
+    22. [2026-11-03 13:44:58]
+       آغاز روند رای‌گیری در حوزه‌های انتخاباتی سراسر آمریکا
+       https://www.youtube.com/watch?v=A1AwftoELo8
 
-    23. [2026-11-03 09:06:17]
-       رفتارهای غیرمعمول رییس دفتر پزشکیان هنگام صحبت‌های او
-       https://www.youtube.com/shorts/gJaErvgK3Vo
+    23. [2026-11-03 13:26:14]
+       واکنش مخاطبان به احتمال ازسرگیری جنگ؛ «توان تهیه کوله اضطراری را نداریم»
+       https://www.youtube.com/watch?v=dREof1tXzJU
 
-    24. [2026-11-03 09:02:42]
-       مرتضی کاظمیان: رجزخوانی قالیباف با واقعیت‌های جنگ و ضربات جمهوری اسلامی همخوانی ندارد
-       https://www.youtube.com/watch?v=CgaY3z0lqv8
+    24. [2026-11-03 13:19:26]
+       زلنسکی در آستانه نشست روسیه، آمریکا و اوکراین در ابوظبی، وارد برلین شد
+       https://www.youtube.com/watch?v=J_tym8WoWdk
 
-    25. [2026-11-03 08:54:57]
-       کلید اینترنت ایران در دست کیست؟
-       https://www.youtube.com/watch?v=AUU4QCCq2iE
+    25. [2026-11-03 13:15:55]
+       اهدای جایزه سی‌ونهمین جشنواره بین‌المللی فیلم توکیو به محمد رسول‌اف
+       https://www.youtube.com/watch?v=o-0Nlm_3gC4
 
-    26. [2026-11-03 08:38:58]
-       عضو کمیسیون امنیت ملی مجلس: مردم هزینه خرید جنگنده‌ها را تامین می‌کنند
-       https://www.youtube.com/shorts/dSzGcyrgZrw
+    26. [2026-11-03 13:11:42]
+       رسول‌اف در جشنواره فیلم توکیو: نمی‌توانم شادی این جایزه را از اندوه وضعیت ایران جدا کنم
+       https://www.youtube.com/shorts/_Ygdy5Zws-w
 
-    27. [2026-11-03 07:55:03]
-       اسرائیل خواستار استقرار ارتش لبنان در مناطق محل سکونت اعضای حزب‌الله شد
-       https://www.youtube.com/watch?v=FUImxQFILZo
+    27. [2026-11-03 13:03:44]
+       انتخابات میان‌دوره‌ای آمریکا؛ آزمونی مهم برای ترامپ و جمهوری‌خواهان
+       https://www.youtube.com/shorts/z2N4KfqorjM
 
-    28. [2026-11-03 07:35:22]
-       پدرام زنگویی: آمریکا در پی تضعیف توان موشکی جمهوری اسلامی در خلیج فارس است
-       https://www.youtube.com/watch?v=1M8FS1JXlSE
+    28. [2026-11-03 11:48:56]
+       تجمع هواداران شاهزاده رضا پهلوی در بروکسل هم‌زمان با سفر او به بلژیک
+       https://www.youtube.com/watch?v=IM9-DK2YwT4
 
-    29. [2026-11-03 07:19:20]
-       اعدام امیرحسین ملکی و امیرحسین ابراهیمی، دو معترض بازداشت‌شده در جریان انقلاب ملی ایرانیان
-       https://www.youtube.com/watch?v=HuNdRAZuFRY
+    29. [2026-11-03 11:29:55]
+       عارف خواستار بررسی نام «دریای خزر» شد
+       https://www.youtube.com/shorts/5ska_CFgWj0
 
-    30. [2026-11-03 05:06:21]
-       اخبار بامدادی | سه‌شنبه ۱۲ آبان
-       https://www.youtube.com/watch?v=6a3nhxuvR5M
+    30. [2026-11-03 11:24:58]
+       مروری بر روزنامه‌های ایران سه‌شنبه ۱۲ آبان، با مجتبی هاشمی
+       https://www.youtube.com/watch?v=MLBCZaQMhz4
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
+       https://soundcloud.com/iranintl/mwcodvx7ilvy
+
+    32. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/gsc0hn60zvyt
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/sczmlqlggj68
 
-    33. [Unknown]
+    34. [Unknown]
        برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
        https://soundcloud.com/iranintl/6usmeu3uwv2p
 
-    34. [Unknown]
+    35. [Unknown]
        سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
        https://soundcloud.com/iranintl/92m2oywksglr
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
        https://soundcloud.com/iranintl/bphe68smkhni
 
-    36. [Unknown]
+    37. [Unknown]
        چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
        https://soundcloud.com/iranintl/74bdkpjrg2db
 
-    37. [Unknown]
+    38. [Unknown]
        تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
        https://soundcloud.com/iranintl/vaxveu4mzkak
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی | دوشنبه ۱۱ آبان
        https://soundcloud.com/iranintl/g7rrfcmhoj9d
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار نیمروزی | دوشنبه ۱۱ آبان
        https://soundcloud.com/iranintl/npgoioxcljgf
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار بامدادی | دوشنبه ۱۱ آبان
        https://soundcloud.com/iranintl/dd3luoakzr2u
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | دوشنبه ۱۱ آبان
        https://soundcloud.com/iranintl/lrefaudtnsbn
 
-    42. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
        https://soundcloud.com/iranintl/yyxdfqxwh2dm
 
-    43. [Unknown]
+    44. [Unknown]
        چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
        https://soundcloud.com/iranintl/qquqr06uhnzj
 
-    44. [Unknown]
+    45. [Unknown]
        تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
        https://soundcloud.com/iranintl/q9gttg2xionz
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱۰ آبان
        https://soundcloud.com/iranintl/fkzzqixekbif
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | یکشنبه ۱۰ آبان
        https://soundcloud.com/iranintl/uk0d0ghljrah
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | یکشنبه ۱۰ آبان
        https://soundcloud.com/iranintl/8g7eq5gehwy0
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱۰ آبان
        https://soundcloud.com/iranintl/qmqwtntfmcdd
 
-    49. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
        https://soundcloud.com/iranintl/mx8dhrmposdb
-
-    50. [Unknown]
-       چشم‌انداز: تهدیدات خطرناک مجتبی خامنه‌ای از مخفیگاه زیرزمینی
-       https://soundcloud.com/iranintl/qjz5fomxrg4g
 
 ----------------------------------------
 
