@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-05T11:00:59.039967+00:00
-Generated (Iran): 2026-11-05T14:30:59.039987+00:00
+Generated (UTC):  2026-11-05T15:01:03.246015+00:00
+Generated (Iran): 2026-11-05T18:31:03.246033+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-04 19:31:44]
+    1. [2026-11-05 14:00:00]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=a7HyPmSZubU
+
+    2. [2026-11-05 13:53:16]
+       بنر ترامپ و نتانیاهو درتهران به آتش کشیده شد
+       https://www.youtube.com/shorts/ZTLy4DGQUy0
+
+    3. [2026-11-04 19:31:44]
        ونس: علت شکست ما در انتخابات جنگ با ایران بود - ۶۰ دقیقه چهارشنبه ۱۳ آبان
        https://www.youtube.com/watch?v=PJkrgqHxfDs
 
-    2. [2026-11-04 18:31:09]
+    4. [2026-11-04 18:31:09]
        پیروزی دموکرات‌ها، در دو ماه آینده چه خواهدش ؟
        https://www.youtube.com/watch?v=RPb4-cBI0TA
 
-    3. [2026-11-04 17:02:22]
+    5. [2026-11-04 17:02:22]
        بعد از باخت در انتخابات میان‌دوره‌ای؛ ترامپ با جنگ ایران چه می‌کند؟ جام جهان‌نما چهارشنبه ۱۳ آبان
        https://www.youtube.com/watch?v=nfprlyw7m-g
 
-    4. [2026-11-04 17:00:27]
+    6. [2026-11-04 17:00:27]
        پرگار پلاس: «پوست در بازی داشتن» در گفت‌و‌گوی داریوش کریمی با عبدالرضا احمدی
        https://www.youtube.com/watch?v=t20j91qyEcM
 
-    5. [2026-11-04 15:51:42]
+    7. [2026-11-04 15:51:42]
        فیلم کامل «روزگاری هامون» و ناگفته‌های آن در گفت‌وگوی اختصاصی با کاوه مدنی
        https://www.youtube.com/watch?v=9FpoFZaqR50
 
-    6. [2026-11-04 15:33:54]
+    8. [2026-11-04 15:33:54]
        ‌سخنان عبدالرحمن محمد سید، نخستین مسلمان منتخب سنای آمریکا
        https://www.youtube.com/shorts/PkGNdIAoTOM
 
-    7. [2026-11-04 15:31:21]
+    9. [2026-11-04 15:31:21]
        سرخط خبرهای چهارشنبه ۱۳ آبان ۱۴۰۵
        https://www.youtube.com/shorts/uh7mwXkegBs
 
-    8. [2026-11-04 15:00:42]
+    10. [2026-11-04 15:00:42]
        اخبار ساعت شش عصر- چهارشنبه ۱۳ آبان- پیروزی چشمگیر مخالفان ترامپ در انتخابات آمریکا
        https://www.youtube.com/watch?v=ajTFSLtw_ss
 
-    9. [2026-11-04 10:21:09]
+    11. [2026-11-04 10:21:09]
        دموکرات ها با پیروزی تاریخی در پایگاه‌های جمهوری‌خواهان، اکثریت کنگره را در دست گرفتند.
        https://www.youtube.com/shorts/HY4Xa56Iw_U
 
-    10. [2026-11-04 10:18:15]
+    12. [2026-11-04 10:18:15]
        فضانورد آمریکایی از فضا در انتخابات شرکت کرد
        https://www.youtube.com/shorts/PTNe68oOVTw
 
-    11. [2026-11-03 19:31:29]
+    13. [2026-11-03 19:31:29]
        ۶۰ دقیقه سه‌شنبه ۱۲ آبان - رقابت بر سر کنترل کنگره آمریکا در سایه جنگ با ایران
        https://www.youtube.com/watch?v=m9GUk3bcqY0
 
-    12. [2026-11-03 19:30:36]
+    14. [2026-11-03 19:30:36]
        کودکان ربوده شده در سوریه
        https://www.youtube.com/watch?v=tY95uTTbUAA
 
-    13. [2026-11-03 18:29:01]
+    15. [2026-11-03 18:29:01]
        محسن میلانی: خرج جنگ ایران بر دوش رای‌دهندگان عادی آمریکایی افتاده -  گفتگوی ویژه انتخابات آمریکا
        https://www.youtube.com/watch?v=BzjmVVThDHs
-
-    14. [2026-11-03 18:03:56]
-       انتخابات آمریکا؛ ادامه جنگ یا مذاکره؟ صفحه ۲
-       https://www.youtube.com/watch?v=I9NswNpsYnY
-
-    15. [2026-11-03 17:02:49]
-       حمله به قشم در روز پایانی انتخابات میان‌دوره‌ای آمریکا؛ جام جهان‌نما سه شنبه ۱۲ آبان ۱۴۰۵
-       https://www.youtube.com/watch?v=C9TiukEOP3Q
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-05 10:12:25]
-       نتانیاهو: اسلام افراطی امنیت اسرائیل را از دو جبهه تهدید می‌کند
-       https://www.youtube.com/watch?v=--RIA30jj2Q
+    16. [2026-11-05 14:47:25]
+       چرا آمریکایی‌ها به دموکرات‌ها رای دادند؟
+       https://www.youtube.com/watch?v=_u4CJlhxuws
 
-    17. [2026-11-05 10:10:39]
-       فایننشال‌تایمز: روسیه ۹۰ پرتابگر موشک پیشرفته به ایران فروخته است
-       https://www.youtube.com/watch?v=QZEDl6yenhU
+    17. [2026-11-05 14:42:12]
+       عفو بین‌الملل ادامه رسیدگی به پرونده ثابتی را گامی در مسیر «عدالت» دانست
+       https://www.youtube.com/watch?v=gn1f_Svht3Q
 
-    18. [2026-11-05 10:06:04]
-       نتانیاهو: اسلام افراطی امنیت اسرائیل را از دو جبهه تهدید می‌کند
-       https://www.youtube.com/shorts/o3gnPLA_IWU
+    18. [2026-11-05 14:37:37]
+       فرود هواپیماهای رایان‌ایر در بلغارستان پس از تهدیدهای بمب‌گذاری
+       https://www.youtube.com/shorts/UsyOB-FKsJk
 
-    19. [2026-11-05 09:59:26]
-       آتش زدن سطل‌های زباله در پاریس همزمان با آماده‌باش فرانسه برای اعتراضات سراسری
-       https://www.youtube.com/shorts/fP2DpPQRx2I
+    19. [2026-11-05 14:12:57]
+       جلال ایجادی: دولت فرانسه باید برای پاسخ به مطالبات معترضان وارد مذاکره شود
+       https://www.youtube.com/watch?v=sd4LGeLM6w8
 
-    20. [2026-11-05 09:19:20]
-       رسانه‌های ایتالیا از فرود مخفیانه یک جت ایتالیایی در تهران خبر دادند
-       https://www.youtube.com/watch?v=fc8Zf7N3AA4
+    20. [2026-11-05 14:03:08]
+       هواپیمای فین‌ایر پس از تهدید بمب‌گذاری تغییر مسیر داد
+       https://www.youtube.com/shorts/eX8LveacFLs
 
-    21. [2026-11-05 09:15:36]
-       مرتضی کاظمیان: شادی جمهوری اسلامی از شکست ترامپ یک جشن کاذب است
-       https://www.youtube.com/watch?v=OAQwIPKLseI
+    21. [2026-11-05 13:50:18]
+       تهدیدهای بمب‌گذاری در اروپا پروازهای مسافربری را مختل کرد
+       https://www.youtube.com/watch?v=fblGyZrqLf4
 
-    22. [2026-11-05 09:13:06]
-       حسین آقایی: آتش‌بس با جمهوری اسلامی بزرگ‌ترین اشتباه راهبردی ترامپ بود
-       https://www.youtube.com/watch?v=WhbkEvij6KI
+    22. [2026-11-05 13:18:50]
+       یک سرباز ترکیه بر اثر تیراندازی از خاک ایران کشته شد
+       https://www.youtube.com/watch?v=aZHwQHZLeqs
 
-    23. [2026-11-05 09:10:36]
-       صداوسیما صحنه اعدام نمادین ترامپ را زنده پخش کرد
-       https://www.youtube.com/shorts/XbxtY_uJMGo
+    23. [2026-11-05 13:01:29]
+       اختصاصی ایران‌اینترنشنال؛ شناسایی شبکه عاملان قطعی اینترنت در ایران
+       https://www.youtube.com/watch?v=zjJ1aBIcTOw
 
-    24. [2026-11-05 08:45:31]
-       آسمان جزیره هرمز با رعد و برق‌های پی‌درپی روشن شد
-       https://www.youtube.com/shorts/aFLDAQCBEt4
+    24. [2026-11-05 12:43:32]
+       حمایت حزب بن‌گویر از نتانیاهو برای تشکیل دولت جدید اسرائیل
+       https://www.youtube.com/shorts/AsElegFO4QM
 
-    25. [2026-11-05 08:12:38]
-       آمریکا شرکت‌ها و افراد مرتبط با جمهوری اسلامی در هند و ترکیه را تحریم کرد
-       https://www.youtube.com/watch?v=KLJaEYmN-6Y
+    25. [2026-11-05 11:31:15]
+       تغییر در ساختار رهبری سه گروه شبه‌نظامی نزدیک به جمهوری اسلامی در عراق
+       https://www.youtube.com/watch?v=-hHkPyEVwaI
 
-    26. [2026-11-05 08:01:50]
-       علی شیرازی: اختلاف دموکرات‌ها و جمهوری‌خواهان بر سر روش مقابله با جمهوری اسلامی است
-       https://www.youtube.com/watch?v=fM6RZpon2mw
+    26. [2026-11-05 11:28:16]
+       رییس سازمان جغرافیایی نیروهای مسلح: اسرائیل می‌داند روزی نابود خواهد شد
+       https://www.youtube.com/shorts/eObjmQRX_9c
 
-    27. [2026-11-05 05:09:30]
-       اخبار بامدادی | پنج‌شنبه ۱۴ آبان
-       https://www.youtube.com/watch?v=7cDf845KBCw
+    27. [2026-11-05 11:17:27]
+       هشدار مدیران بیمارستان‌های خصوصی درباره بدهی بیمه‌ها و افزایش هزینه‌های درمان
+       https://www.youtube.com/watch?v=DpWAhFo4W9k
 
-    28. [2026-11-05 05:06:45]
-       تلاش چین برای نقش‌آفرینی در مناقشات خلیج فارس
-       https://www.youtube.com/watch?v=C38da4pRX90
+    28. [2026-11-05 11:00:40]
+       اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+       https://www.youtube.com/watch?v=4oxJbLC7h9I
 
-    29. [2026-11-05 04:54:01]
-       نوید محبی: ترامپ برای اقدام نظامی علیه جمهوری اسلامی نیازی به اجازه کنگره ندارد
-       https://www.youtube.com/watch?v=rFXc96_NnIs
+    29. [2026-11-05 10:58:29]
+       اعتراضات آموزشی در فرانسه پس از تعطیلات پاییزی از سر گرفته شد
+       https://www.youtube.com/watch?v=_-Z3tzbeHRc
 
-    30. [2026-11-05 04:38:33]
-       ترامپ: از تصمیمم برای جنگ با جمهوری اسلامی دفاع می‌کنم
-       https://www.youtube.com/shorts/4CQDLwGDo_k
+    30. [2026-11-05 10:55:21]
+       واکنش شهروندان ایرانی از پیروزی دموکرات‌ها و آینده سیاست ترامپ در قبال جمهوری اسلامی
+       https://www.youtube.com/watch?v=n1ffufRWGpA
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+       https://soundcloud.com/iranintl/gjnikn9acpd7
+
+    32. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۱۴ آبان
        https://soundcloud.com/iranintl/qorv8rjanuy6
 
-    32. [Unknown]
+    33. [Unknown]
        برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
        https://soundcloud.com/iranintl/rez6yp1x3hjm
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
        https://soundcloud.com/iranintl/oyh2f3c5jqqe
 
-    34. [Unknown]
+    35. [Unknown]
        ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
        https://soundcloud.com/iranintl/2czzsjwdb3pw
 
-    35. [Unknown]
+    36. [Unknown]
        چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
        https://soundcloud.com/iranintl/a9bmd0deg4zr
 
-    36. [Unknown]
+    37. [Unknown]
        تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
        https://soundcloud.com/iranintl/2bu6ueraewep
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۱۳ آبان
        https://soundcloud.com/iranintl/kh7slpp6dbvs
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار نیمروزی | چهارشنبه ۱۳ آبان
        https://soundcloud.com/iranintl/hl0y0iqua8l3
 
-    39. [Unknown]
+    40. [Unknown]
        برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
        https://soundcloud.com/iranintl/1vzdobn0mila
 
-    40. [Unknown]
+    41. [Unknown]
        تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
        https://soundcloud.com/iranintl/yldiywoirjbk
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/y7ckrjykxbaf
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/mwcodvx7ilvy
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/gsc0hn60zvyt
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/sczmlqlggj68
 
-    45. [Unknown]
+    46. [Unknown]
        برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
        https://soundcloud.com/iranintl/6usmeu3uwv2p
 
-    46. [Unknown]
+    47. [Unknown]
        سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
        https://soundcloud.com/iranintl/92m2oywksglr
 
-    47. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
        https://soundcloud.com/iranintl/bphe68smkhni
 
-    48. [Unknown]
+    49. [Unknown]
        چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
        https://soundcloud.com/iranintl/74bdkpjrg2db
 
-    49. [Unknown]
+    50. [Unknown]
        تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
        https://soundcloud.com/iranintl/vaxveu4mzkak
-
-    50. [Unknown]
-       اخبار عصرگاهی | دوشنبه ۱۱ آبان
-       https://soundcloud.com/iranintl/g7rrfcmhoj9d
 
 ----------------------------------------
 
