@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-05T15:01:03.246015+00:00
-Generated (Iran): 2026-11-05T18:31:03.246033+00:00
+Generated (UTC):  2026-11-05T19:00:55.012103+00:00
+Generated (Iran): 2026-11-05T22:30:55.012121+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-05 14:00:00]
-       اخبار ساعت شش عصر
+    1. [2026-11-05 18:30:27]
+       خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
+       https://www.youtube.com/watch?v=-M2B_u75GJ0
+
+    2. [2026-11-05 18:04:15]
+       کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
+       https://www.youtube.com/watch?v=riLycrknc_Y
+
+    3. [2026-11-05 17:03:09]
+       جام جهان‌نما
+       https://www.youtube.com/watch?v=y3O1otK21uk
+
+    4. [2026-11-05 16:38:30]
+       چشم به راه آب؛ «روزگاری هامون»
+       https://www.youtube.com/shorts/AxFkR23Rd-A
+
+    5. [2026-11-05 16:01:33]
+       درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
+       https://www.youtube.com/watch?v=5to6vXhT7TA
+
+    6. [2026-11-05 16:00:10]
+       رنگآهنگ: اجرای جی‌دال
+       https://www.youtube.com/watch?v=0COYXAQ-Zbo
+
+    7. [2026-11-05 16:00:08]
+       عارضه پوستی ویتیلایگو (پیسی) چیست؟
+       https://www.youtube.com/shorts/JkbDlRWER00
+
+    8. [2026-11-05 15:04:44]
+       پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
+       https://www.youtube.com/watch?v=ig4Y5kFPF-s
+
+    9. [2026-11-05 15:02:44]
+       اخبار ساعت شش عصر- پنج‌شنبه ۱۴ ابان- انتخابات آمریکا
        https://www.youtube.com/watch?v=a7HyPmSZubU
 
-    2. [2026-11-05 13:53:16]
+    10. [2026-11-05 13:53:16]
        بنر ترامپ و نتانیاهو درتهران به آتش کشیده شد
        https://www.youtube.com/shorts/ZTLy4DGQUy0
 
-    3. [2026-11-04 19:31:44]
+    11. [2026-11-04 19:31:44]
        ونس: علت شکست ما در انتخابات جنگ با ایران بود - ۶۰ دقیقه چهارشنبه ۱۳ آبان
        https://www.youtube.com/watch?v=PJkrgqHxfDs
 
-    4. [2026-11-04 18:31:09]
-       پیروزی دموکرات‌ها، در دو ماه آینده چه خواهدش ؟
+    12. [2026-11-04 18:31:09]
+       پیروزی دموکرات‌ها، در دو ماه آینده چه خواهد شد ؟
        https://www.youtube.com/watch?v=RPb4-cBI0TA
 
-    5. [2026-11-04 17:02:22]
+    13. [2026-11-04 17:02:22]
        بعد از باخت در انتخابات میان‌دوره‌ای؛ ترامپ با جنگ ایران چه می‌کند؟ جام جهان‌نما چهارشنبه ۱۳ آبان
        https://www.youtube.com/watch?v=nfprlyw7m-g
 
-    6. [2026-11-04 17:00:27]
+    14. [2026-11-04 17:00:27]
        پرگار پلاس: «پوست در بازی داشتن» در گفت‌و‌گوی داریوش کریمی با عبدالرضا احمدی
        https://www.youtube.com/watch?v=t20j91qyEcM
 
-    7. [2026-11-04 15:51:42]
+    15. [2026-11-04 15:51:42]
        فیلم کامل «روزگاری هامون» و ناگفته‌های آن در گفت‌وگوی اختصاصی با کاوه مدنی
        https://www.youtube.com/watch?v=9FpoFZaqR50
-
-    8. [2026-11-04 15:33:54]
-       ‌سخنان عبدالرحمن محمد سید، نخستین مسلمان منتخب سنای آمریکا
-       https://www.youtube.com/shorts/PkGNdIAoTOM
-
-    9. [2026-11-04 15:31:21]
-       سرخط خبرهای چهارشنبه ۱۳ آبان ۱۴۰۵
-       https://www.youtube.com/shorts/uh7mwXkegBs
-
-    10. [2026-11-04 15:00:42]
-       اخبار ساعت شش عصر- چهارشنبه ۱۳ آبان- پیروزی چشمگیر مخالفان ترامپ در انتخابات آمریکا
-       https://www.youtube.com/watch?v=ajTFSLtw_ss
-
-    11. [2026-11-04 10:21:09]
-       دموکرات ها با پیروزی تاریخی در پایگاه‌های جمهوری‌خواهان، اکثریت کنگره را در دست گرفتند.
-       https://www.youtube.com/shorts/HY4Xa56Iw_U
-
-    12. [2026-11-04 10:18:15]
-       فضانورد آمریکایی از فضا در انتخابات شرکت کرد
-       https://www.youtube.com/shorts/PTNe68oOVTw
-
-    13. [2026-11-03 19:31:29]
-       ۶۰ دقیقه سه‌شنبه ۱۲ آبان - رقابت بر سر کنترل کنگره آمریکا در سایه جنگ با ایران
-       https://www.youtube.com/watch?v=m9GUk3bcqY0
-
-    14. [2026-11-03 19:30:36]
-       کودکان ربوده شده در سوریه
-       https://www.youtube.com/watch?v=tY95uTTbUAA
-
-    15. [2026-11-03 18:29:01]
-       محسن میلانی: خرج جنگ ایران بر دوش رای‌دهندگان عادی آمریکایی افتاده -  گفتگوی ویژه انتخابات آمریکا
-       https://www.youtube.com/watch?v=BzjmVVThDHs
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-05 14:47:25]
+    16. [2026-11-05 18:22:07]
+       دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+       https://www.youtube.com/watch?v=zDrnqkvFzsQ
+
+    17. [2026-11-05 17:55:14]
+       سحر تحویلی: جمهوری اسلامی با کمک پیمانکاران چینی و داخلی تحریم‌های مخابراتی را دور می‌زند
+       https://www.youtube.com/watch?v=GLh4QJil1AU
+
+    18. [2026-11-05 17:53:34]
+       فرمانده نیروی زمینی سپاه با لباس شخصی از جزایر ایرانی در خلیج فارس بازدید کرد
+       https://www.youtube.com/shorts/7QHtHDLwnIM
+
+    19. [2026-11-05 17:07:34]
+       ترامپ: با وجود نارضایتی‌ها، هگست را در سمتش حفظ می‌کنم
+       https://www.youtube.com/watch?v=ewyxcjeyL_A
+
+    20. [2026-11-05 17:03:51]
+       روح‌الله رحیم‌پور: سفر رضایی به مسکو نشانه انزوای راهبردی مجتبی خامنه‌ای است
+       https://www.youtube.com/watch?v=pGWY3VXmHKY
+
+    21. [2026-11-05 16:55:45]
+       پخش نمایش اعدام ترامپ از صداوسیما پس از اعلام نتایج انتخابات آمریکا
+       https://www.youtube.com/shorts/U8fSn_s0DBQ
+
+    22. [2026-11-05 16:16:30]
+       تجمع سه‌روزه خانواده‌های ایرانی در کانادا در اعتراض به مشکلات اقامتی سربازان پیشین سپاه
+       https://www.youtube.com/watch?v=bspfAQwDUto
+
+    23. [2026-11-05 16:01:04]
+       مجتبی صابری به دلیل برگزاری جشن زادروز شاهزاده رضا پهلوی به زندان بهشهر منتقل شد
+       https://www.youtube.com/watch?v=dRrhbqc1E7c
+
+    24. [2026-11-05 15:58:06]
+       منشه امیر: آیزنکوت ممکن است ورود اسرائیل به جنگ با جمهوری اسلامی را به تعویق بیندازد
+       https://www.youtube.com/watch?v=843MzqGxm2o
+
+    25. [2026-11-05 15:40:23]
+       حضور شاهزاده رضا پهلوی در پارلمان فدرال بلژیک
+       https://www.youtube.com/watch?v=WQbPiv6go1A
+
+    26. [2026-11-05 15:26:26]
+       ادامه جمع‌بندی شواهد در محاکمه سه متهم به جاسوسی علیه خبرنگاران ایران‌اینترنشنال
+       https://www.youtube.com/watch?v=i1voz0IDwgk
+
+    27. [2026-11-05 15:23:07]
+       پوتین در کرملین با محسن رضایی دیدار کرد
+       https://www.youtube.com/shorts/obOEuGr4QuA
+
+    28. [2026-11-05 15:15:02]
+       اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+       https://www.youtube.com/watch?v=mxfxB4BloHw
+
+    29. [2026-11-05 15:14:26]
+       مخاطبان ایران‌اینترنشنال از گرانی و افت کیفیت نان و طولانی‌تر شدن صف‌ها گفتند
+       https://www.youtube.com/watch?v=S1P1FitJX3M
+
+    30. [2026-11-05 14:47:25]
        چرا آمریکایی‌ها به دموکرات‌ها رای دادند؟
        https://www.youtube.com/watch?v=_u4CJlhxuws
-
-    17. [2026-11-05 14:42:12]
-       عفو بین‌الملل ادامه رسیدگی به پرونده ثابتی را گامی در مسیر «عدالت» دانست
-       https://www.youtube.com/watch?v=gn1f_Svht3Q
-
-    18. [2026-11-05 14:37:37]
-       فرود هواپیماهای رایان‌ایر در بلغارستان پس از تهدیدهای بمب‌گذاری
-       https://www.youtube.com/shorts/UsyOB-FKsJk
-
-    19. [2026-11-05 14:12:57]
-       جلال ایجادی: دولت فرانسه باید برای پاسخ به مطالبات معترضان وارد مذاکره شود
-       https://www.youtube.com/watch?v=sd4LGeLM6w8
-
-    20. [2026-11-05 14:03:08]
-       هواپیمای فین‌ایر پس از تهدید بمب‌گذاری تغییر مسیر داد
-       https://www.youtube.com/shorts/eX8LveacFLs
-
-    21. [2026-11-05 13:50:18]
-       تهدیدهای بمب‌گذاری در اروپا پروازهای مسافربری را مختل کرد
-       https://www.youtube.com/watch?v=fblGyZrqLf4
-
-    22. [2026-11-05 13:18:50]
-       یک سرباز ترکیه بر اثر تیراندازی از خاک ایران کشته شد
-       https://www.youtube.com/watch?v=aZHwQHZLeqs
-
-    23. [2026-11-05 13:01:29]
-       اختصاصی ایران‌اینترنشنال؛ شناسایی شبکه عاملان قطعی اینترنت در ایران
-       https://www.youtube.com/watch?v=zjJ1aBIcTOw
-
-    24. [2026-11-05 12:43:32]
-       حمایت حزب بن‌گویر از نتانیاهو برای تشکیل دولت جدید اسرائیل
-       https://www.youtube.com/shorts/AsElegFO4QM
-
-    25. [2026-11-05 11:31:15]
-       تغییر در ساختار رهبری سه گروه شبه‌نظامی نزدیک به جمهوری اسلامی در عراق
-       https://www.youtube.com/watch?v=-hHkPyEVwaI
-
-    26. [2026-11-05 11:28:16]
-       رییس سازمان جغرافیایی نیروهای مسلح: اسرائیل می‌داند روزی نابود خواهد شد
-       https://www.youtube.com/shorts/eObjmQRX_9c
-
-    27. [2026-11-05 11:17:27]
-       هشدار مدیران بیمارستان‌های خصوصی درباره بدهی بیمه‌ها و افزایش هزینه‌های درمان
-       https://www.youtube.com/watch?v=DpWAhFo4W9k
-
-    28. [2026-11-05 11:00:40]
-       اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
-       https://www.youtube.com/watch?v=4oxJbLC7h9I
-
-    29. [2026-11-05 10:58:29]
-       اعتراضات آموزشی در فرانسه پس از تعطیلات پاییزی از سر گرفته شد
-       https://www.youtube.com/watch?v=_-Z3tzbeHRc
-
-    30. [2026-11-05 10:55:21]
-       واکنش شهروندان ایرانی از پیروزی دموکرات‌ها و آینده سیاست ترامپ در قبال جمهوری اسلامی
-       https://www.youtube.com/watch?v=n1ffufRWGpA
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+       https://soundcloud.com/iranintl/uzvbtsahss38
+
+    32. [Unknown]
+       اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+       https://soundcloud.com/iranintl/2mrffnjegvsj
+
+    33. [Unknown]
        اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
        https://soundcloud.com/iranintl/gjnikn9acpd7
 
-    32. [Unknown]
+    34. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۱۴ آبان
        https://soundcloud.com/iranintl/qorv8rjanuy6
 
-    33. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
        https://soundcloud.com/iranintl/rez6yp1x3hjm
 
-    34. [Unknown]
+    36. [Unknown]
        سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
        https://soundcloud.com/iranintl/oyh2f3c5jqqe
 
-    35. [Unknown]
+    37. [Unknown]
        ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
        https://soundcloud.com/iranintl/2czzsjwdb3pw
 
-    36. [Unknown]
+    38. [Unknown]
        چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
        https://soundcloud.com/iranintl/a9bmd0deg4zr
 
-    37. [Unknown]
+    39. [Unknown]
        تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
        https://soundcloud.com/iranintl/2bu6ueraewep
 
-    38. [Unknown]
+    40. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۱۳ آبان
        https://soundcloud.com/iranintl/kh7slpp6dbvs
 
-    39. [Unknown]
+    41. [Unknown]
        اخبار نیمروزی | چهارشنبه ۱۳ آبان
        https://soundcloud.com/iranintl/hl0y0iqua8l3
 
-    40. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
        https://soundcloud.com/iranintl/1vzdobn0mila
 
-    41. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
        https://soundcloud.com/iranintl/yldiywoirjbk
 
-    42. [Unknown]
+    44. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/y7ckrjykxbaf
 
-    43. [Unknown]
+    45. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/mwcodvx7ilvy
 
-    44. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/gsc0hn60zvyt
 
-    45. [Unknown]
+    47. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
        https://soundcloud.com/iranintl/sczmlqlggj68
 
-    46. [Unknown]
+    48. [Unknown]
        برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
        https://soundcloud.com/iranintl/6usmeu3uwv2p
 
-    47. [Unknown]
+    49. [Unknown]
        سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
        https://soundcloud.com/iranintl/92m2oywksglr
 
-    48. [Unknown]
+    50. [Unknown]
        ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
        https://soundcloud.com/iranintl/bphe68smkhni
-
-    49. [Unknown]
-       چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
-       https://soundcloud.com/iranintl/74bdkpjrg2db
-
-    50. [Unknown]
-       تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
-       https://soundcloud.com/iranintl/vaxveu4mzkak
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
+       https://soundcloud.com/bbcpersian/tdewbcufj69z
+
+    52. [Unknown]
        جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/apnprmidcamp
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ta3xowpwecqc
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/69ge1phs8lhw
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/h244yhcrje4j
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hreeuwmgp25m
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyb3fnfnowkn
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hgxnfvv0maji
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/aeto5nc5rx3v
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tftdka4eokwn
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/enkhnonj4san
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/lbyf89xgizov
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/jq2lgtbenddj
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/crbvwjfbcma6
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8ys75f0kbyvh
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/l8cbozddpo54
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
        https://soundcloud.com/bbcpersian/8mizwndjy06n
-
-    70. [Unknown]
-       جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
-       https://soundcloud.com/bbcpersian/oinrtb0mlb0d
 
 ----------------------------------------
 
