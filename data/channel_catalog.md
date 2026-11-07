@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-07T11:01:00.089899+00:00
-Generated (Iran): 2026-11-07T14:31:00.089913+00:00
+Generated (UTC):  2026-11-07T15:00:59.941438+00:00
+Generated (Iran): 2026-11-07T18:30:59.941454+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-07 10:50:09]
+    1. [2026-11-07 15:00:56]
+       اخبار ساعت شش عصر- شنبه۱۶ آبان- تنش میان ایران و آمریکا
+       https://www.youtube.com/watch?v=NahV7bO2r_A
+
+    2. [2026-11-07 14:24:53]
+       کشته‌شدن چندین نفر در حمله‌ای در یک بازار یمن
+       https://www.youtube.com/shorts/pYSxIfXp5rY
+
+    3. [2026-11-07 14:20:16]
+       سیلاب و طغیان رودخانه‌ها در غرب و شمال غربی ایران
+       https://www.youtube.com/shorts/0EuW0Q_q63U
+
+    4. [2026-11-07 12:05:00]
+       تجمع در فرانکفورت زیر سایه «تهدید‌های امنیتی»
+       https://www.youtube.com/shorts/KL1Yj4syCBc
+
+    5. [2026-11-07 10:50:09]
        خبرنگار بی‌بی‌سی میان درگیری دانش‌آموزان و پلیس فرانسه
        https://www.youtube.com/shorts/kpI5_uxl5HE
 
-    2. [2026-11-07 10:43:43]
+    6. [2026-11-07 10:43:43]
        فرزندان هلیا در جاجرم
        https://www.youtube.com/shorts/TFBypANAKbE
 
-    3. [2026-11-06 18:58:56]
+    7. [2026-11-06 18:58:56]
        لاشه یک نهنگ در ساحل غربی کیش
        https://www.youtube.com/shorts/7MceYBu9mO0
 
-    4. [2026-11-06 18:38:23]
+    8. [2026-11-06 18:38:23]
        هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
        https://www.youtube.com/shorts/21c18N3TI_Q
 
-    5. [2026-11-06 18:30:08]
+    9. [2026-11-06 18:30:08]
        فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
        https://www.youtube.com/watch?v=9FpoFZaqR50
 
-    6. [2026-11-06 17:02:37]
+    10. [2026-11-06 17:02:37]
        ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=S90cqYfdLxY
 
-    7. [2026-11-06 17:00:25]
+    11. [2026-11-06 17:00:25]
        کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
        https://www.youtube.com/watch?v=5wTZ06QSWOw
 
-    8. [2026-11-06 15:00:35]
+    12. [2026-11-06 15:00:35]
        اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
        https://www.youtube.com/watch?v=cIH9ZjyumGI
 
-    9. [2026-11-06 13:17:02]
+    13. [2026-11-06 13:17:02]
        دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
        https://www.youtube.com/shorts/v2jmwiwi3TM
 
-    10. [2026-11-06 12:59:59]
+    14. [2026-11-06 12:59:59]
        سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
        https://www.youtube.com/shorts/7WMZHJIBGG8
 
-    11. [2026-11-05 18:30:27]
+    15. [2026-11-05 18:30:27]
        خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
        https://www.youtube.com/watch?v=-M2B_u75GJ0
-
-    12. [2026-11-05 18:04:15]
-       کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-       https://www.youtube.com/watch?v=riLycrknc_Y
-
-    13. [2026-11-05 17:03:09]
-       جام جهان‌نما
-       https://www.youtube.com/watch?v=y3O1otK21uk
-
-    14. [2026-11-05 16:38:30]
-       چشم به راه آب؛ «روزگاری هامون»
-       https://www.youtube.com/shorts/AxFkR23Rd-A
-
-    15. [2026-11-05 16:01:33]
-       درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-       https://www.youtube.com/watch?v=5to6vXhT7TA
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-07 10:30:39]
+    16. [2026-11-07 14:35:10]
+       سخنرانی شاهزاده رضا پهلوی در گردهمایی بزرگ ایرانیان در فرانکفورت
+       https://www.youtube.com/watch?v=lSGIiBwCefA
+
+    17. [2026-11-07 14:02:06]
+       برزو ارجمند: ۹۹ درصد هنرمندانی که در ایران فعالیت می‌کنند مخالف جمهوری اسلامی هستند
+       https://www.youtube.com/shorts/kf2M3vApgJ8
+
+    18. [2026-11-07 13:47:48]
+       شاهزاده رضا پهلوی: با هم متحد باشید؛ نور همبستگی شما بر تاریکی جمهوری اسلامی غلبه خواهد کرد
+       https://www.youtube.com/shorts/P9iU9TSNiWY
+
+    19. [2026-11-07 13:34:26]
+       برپایی «دیوار جاوید‌نامان» در فرانکفورت و گفت‌وگو با سوشا مکانی
+       https://www.youtube.com/shorts/2NQG6h6-c1s
+
+    20. [2026-11-07 13:31:33]
+       تجمع بزرگ ایرانیان در فرانکفورت علیه جمهوری اسلامی
+       https://www.youtube.com/watch?v=pyaN4dos_NI
+
+    21. [2026-11-07 12:58:53]
+       سخنرانی شاهزاده رضا پهلوی در مراسم اهدای جایزه آزادی ۲۰۲۶ بنیاد فریدریش ناومان
+       https://www.youtube.com/watch?v=28QYcxy7Iwg
+
+    22. [2026-11-07 12:57:35]
+       ابراهیم حامدی «ابی»: زمان آن رسیده است که مردم ایران طعم آزادی را بچشند
+       https://www.youtube.com/shorts/FC1Vwp58lZM
+
+    23. [2026-11-07 12:47:41]
+       ایرج مصداقی: شاهزاده رضا پهلوی دست خود را به سوی همه ایرانیان دراز کرده است
+       https://www.youtube.com/shorts/8K_iZb3y2y0
+
+    24. [2026-11-07 12:27:53]
+       شاهزاده رضا پهلوی: دیکتاتوری‌ها یک‌باره به پایان می‌رسند؛ این روز برای ایران نزدیک است
+       https://www.youtube.com/shorts/lZBNlTOD0B4
+
+    25. [2026-11-07 12:11:14]
+       سخنرانی بیژن جیرسرایی در مراسم اهدای جایزه آزادی ۲۰۲۶ به شاهزاده رضا پهلوی
+       https://www.youtube.com/watch?v=NvtJTfQTNv4
+
+    26. [2026-11-07 11:07:37]
+       رییس کمیسیون امنیت و دفاع پارلمان اروپا: مردم ایران را فراموش نمی‌کنیم
+       https://www.youtube.com/watch?v=WdCwYEzCdt8
+
+    27. [2026-11-07 11:05:13]
+       اخبار نیمروزی | شنبه ۱۶ آبان
+       https://www.youtube.com/watch?v=cBO9oc9LTgY
+
+    28. [2026-11-07 10:30:39]
        محمدجواد اکبرین: در داخل جمهوری اسلامی، یک بخش علیه بخش دیگر صف‌آرایی کرده است
        https://www.youtube.com/watch?v=DtyDgKh0zj0
 
-    17. [2026-11-07 10:29:16]
+    29. [2026-11-07 10:29:16]
        توضیح بیژن جیرسرایی درباره اهدای جایزه آزادی به شاهزاده رضا پهلوی و پیام آن به جامعه جهانی
        https://www.youtube.com/watch?v=IWVSJIfSbQ4
 
-    18. [2026-11-07 10:28:09]
+    30. [2026-11-07 10:28:09]
        مذاکرات فنی میان ارمنستان، جمهوری آذربایجان و آمریکا برای اجرای مسیر ترانزیتی زنگزور
        https://www.youtube.com/watch?v=ZzE4MXMVMJw
-
-    19. [2026-11-07 10:22:08]
-       دانیال ایلخانی‌پور: دنیا جنایت‌های جمهوری اسلامی را فراموش نمی‌کند
-       https://www.youtube.com/watch?v=nChDyvKTrgA
-
-    20. [2026-11-07 10:20:59]
-       سیروس میرزایی: تجمع فرانکفورت می‌تواند نقطه عطفی برای پذیرش رهبری شاهزاده رضا پهلوی باشد
-       https://www.youtube.com/watch?v=JBrX9R9G7vg
-
-    21. [2026-11-07 10:16:09]
-       شرکت‌کنندگان تجمع فرانکفورت: برای آزادی ایران، کنار مردم ایران ایستاده‌ایم
-       https://www.youtube.com/shorts/hmlZ7rvd-CA
-
-    22. [2026-11-07 10:04:03]
-       خروش رودخانه‌ها در تهران در پی بارش شدید باران؛ هشدار قرمز برای چند استان
-       https://www.youtube.com/shorts/-T25e8PEGeg
-
-    23. [2026-11-07 09:58:41]
-       نرگس اسکندری-گرونبرگ: احزاب سیاسی صدای مردم ایران را بشنوند و در کنارشان بایستند
-       https://www.youtube.com/watch?v=frECWuOWP_E
-
-    24. [2026-11-07 09:37:07]
-       شرایط بحرانی در پی سیلاب و آب‌گرفتگی گسترده در ایلام
-       https://www.youtube.com/shorts/LRPdPa9hg_g
-
-    25. [2026-11-07 09:14:34]
-       جزییات اهدای جایزه آزادی بنیاد فریدریش ناومان به شاهزاده رضا پهلوی به نیابت از ملت ایران
-       https://www.youtube.com/watch?v=AEpBC4MkN6s
-
-    26. [2026-11-07 09:03:14]
-       تجمع هزاران ایرانی در فرانکفورت هم‌زمان با اهدای جایزه آزادی به ملت ایران
-       https://www.youtube.com/watch?v=oZe9KDuGXao
-
-    27. [2026-11-07 08:27:42]
-       همخوانی سرود «ای ایران» در تجمع ایرانیان حامی انقلاب ملی در بریزبن استرالیا
-       https://www.youtube.com/shorts/7h5NbIkwEK4
-
-    28. [2026-11-07 08:27:39]
-       گزارش کانال ۱۲ اسرائیل از ناکامی طرح عملیات علیه جمهوری اسلامی پیش از انتخابات
-       https://www.youtube.com/watch?v=DPCzEE9Smh8
-
-    29. [2026-11-07 07:47:37]
-       تجمع ایرانیان استرالیا در حمایت از انقلاب ملی و گرامی‌داشت یاد جان‌باختگان راه آزادی
-       https://www.youtube.com/watch?v=l4PDBLDlRsg
-
-    30. [2026-11-07 07:34:16]
-       روح‌الله رحیم‌پور: احتمال ازسرگیری جنگ در دو ماه آینده بیشتر از توافق است
-       https://www.youtube.com/watch?v=tqwOzXsiOrU
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | شنبه ۱۶ آبان
+       https://soundcloud.com/iranintl/jvto3gpfo09m
+
+    32. [Unknown]
        اخبار بامدادی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/irbqeofelkti
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/4bjemnp49c7j
 
-    33. [Unknown]
+    34. [Unknown]
        ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
        https://soundcloud.com/iranintl/wqofahnnju2w
 
-    34. [Unknown]
+    35. [Unknown]
        اخبار عصرگاهی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/236tpclgoxam
 
-    35. [Unknown]
+    36. [Unknown]
        اخبار نیم‌روزی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/vnsuqjo5klw0
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/rrbj59zbsn3g
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/nyuf2bka9z0r
 
-    38. [Unknown]
+    39. [Unknown]
        برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
        https://soundcloud.com/iranintl/s2ek7djz6ofl
 
-    39. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
        https://soundcloud.com/iranintl/jacospbre933
 
-    40. [Unknown]
+    41. [Unknown]
        دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
        https://soundcloud.com/iranintl/uzvbtsahss38
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | پنجشنبه ۱۴ آبان
        https://soundcloud.com/iranintl/2mrffnjegvsj
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
        https://soundcloud.com/iranintl/gjnikn9acpd7
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۱۴ آبان
        https://soundcloud.com/iranintl/qorv8rjanuy6
 
-    44. [Unknown]
+    45. [Unknown]
        برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
        https://soundcloud.com/iranintl/rez6yp1x3hjm
 
-    45. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
        https://soundcloud.com/iranintl/oyh2f3c5jqqe
 
-    46. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
        https://soundcloud.com/iranintl/2czzsjwdb3pw
 
-    47. [Unknown]
+    48. [Unknown]
        چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
        https://soundcloud.com/iranintl/a9bmd0deg4zr
 
-    48. [Unknown]
+    49. [Unknown]
        تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
        https://soundcloud.com/iranintl/2bu6ueraewep
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۱۳ آبان
        https://soundcloud.com/iranintl/kh7slpp6dbvs
-
-    50. [Unknown]
-       اخبار نیمروزی | چهارشنبه ۱۳ آبان
-       https://soundcloud.com/iranintl/hl0y0iqua8l3
 
 ----------------------------------------
 
