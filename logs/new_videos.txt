@@ -2,3 +2,4 @@
 2026-11-07T08:30:39.993190+00:00 | youtube | اخبار بامدادی | شنبه ۱۶ آبان | 4 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=AoZMnw-glDc
 2026-11-07T11:30:42.311525+00:00 | youtube | رییس کمیسیون امنیت و دفاع پارلمان اروپا: مردم ایران را فراموش نمی‌کنیم | 23 minutes ago | https://www.youtube.com/watch?v=WdCwYEzCdt8
 2026-11-07T12:30:43.098446+00:00 | soundcloud | اخبار نیمروزی | شنبه ۱۶ آبان | 0 minutes ago | https://soundcloud.com/iranintl/jvto3gpfo09m
+2026-11-07T15:15:34.213431+00:00 | youtube | اخبار ساعت شش عصر- شنبه۱۶ آبان- تنش میان ایران و آمریکا | 14 minutes ago | https://www.youtube.com/watch?v=NahV7bO2r_A
