@@ -4,388 +4,151 @@ Saved channels: 2 YouTube, 2 SoundCloud
 
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['اخبار ساعت شش']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
-   https://www.youtube.com/watch?v=9FpoFZaqR50
-   2026-11-06T18:30:08+00:00
-2. هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
-   https://www.youtube.com/shorts/21c18N3TI_Q
-   2026-11-06T18:38:23+00:00
-3. ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=S90cqYfdLxY
-   2026-11-06T17:02:37+00:00
-4. کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
-   https://www.youtube.com/watch?v=5wTZ06QSWOw
-   2026-11-06T17:00:25+00:00
-5. اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
-   https://www.youtube.com/watch?v=cIH9ZjyumGI
-   2026-11-06T15:00:35+00:00
-6. دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
-   https://www.youtube.com/shorts/v2jmwiwi3TM
-   2026-11-06T13:17:02+00:00
-7. سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
-   https://www.youtube.com/shorts/7WMZHJIBGG8
-   2026-11-06T12:59:59+00:00
-8. خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
-   https://www.youtube.com/watch?v=-M2B_u75GJ0
-   2026-11-05T18:30:27+00:00
-9. کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-   https://www.youtube.com/watch?v=riLycrknc_Y
-   2026-11-05T18:04:15+00:00
-10. جام جهان‌نما
-   https://www.youtube.com/watch?v=y3O1otK21uk
-   2026-11-05T17:03:09+00:00
-11. چشم به راه آب؛ «روزگاری هامون»
-   https://www.youtube.com/shorts/AxFkR23Rd-A
-   2026-11-05T16:38:30+00:00
-12. درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-   https://www.youtube.com/watch?v=5to6vXhT7TA
-   2026-11-05T16:01:33+00:00
-13. رنگآهنگ: اجرای جی‌دال
-   https://www.youtube.com/watch?v=0COYXAQ-Zbo
-   2026-11-05T16:00:10+00:00
-14. عارضه پوستی ویتیلایگو (پیسی) چیست؟
-   https://www.youtube.com/shorts/JkbDlRWER00
-   2026-11-05T16:00:08+00:00
-15. پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
-   https://www.youtube.com/watch?v=ig4Y5kFPF-s
-   2026-11-05T15:04:44+00:00
-Keyword matches:
-  [    ] فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
-  [    ] هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
-  [    ] ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
-  [    ] کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
-  [MATCH] اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
-  [    ] دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
-  [    ] سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
-  [    ] خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
-  [    ] کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-  [    ] جام جهان‌نما
-  [    ] چشم به راه آب؛ «روزگاری هامون»
-  [    ] درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-  [    ] رنگآهنگ: اجرای جی‌دال
-  [    ] عارضه پوستی ویتیلایگو (پیسی) چیست؟
-  [    ] پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+No titles
 
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['۶۰ دقیقه']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
-   https://www.youtube.com/watch?v=9FpoFZaqR50
-   2026-11-06T18:30:08+00:00
-2. هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
-   https://www.youtube.com/shorts/21c18N3TI_Q
-   2026-11-06T18:38:23+00:00
-3. ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=S90cqYfdLxY
-   2026-11-06T17:02:37+00:00
-4. کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
-   https://www.youtube.com/watch?v=5wTZ06QSWOw
-   2026-11-06T17:00:25+00:00
-5. اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
-   https://www.youtube.com/watch?v=cIH9ZjyumGI
-   2026-11-06T15:00:35+00:00
-6. دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
-   https://www.youtube.com/shorts/v2jmwiwi3TM
-   2026-11-06T13:17:02+00:00
-7. سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
-   https://www.youtube.com/shorts/7WMZHJIBGG8
-   2026-11-06T12:59:59+00:00
-8. خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
-   https://www.youtube.com/watch?v=-M2B_u75GJ0
-   2026-11-05T18:30:27+00:00
-9. کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-   https://www.youtube.com/watch?v=riLycrknc_Y
-   2026-11-05T18:04:15+00:00
-10. جام جهان‌نما
-   https://www.youtube.com/watch?v=y3O1otK21uk
-   2026-11-05T17:03:09+00:00
-11. چشم به راه آب؛ «روزگاری هامون»
-   https://www.youtube.com/shorts/AxFkR23Rd-A
-   2026-11-05T16:38:30+00:00
-12. درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-   https://www.youtube.com/watch?v=5to6vXhT7TA
-   2026-11-05T16:01:33+00:00
-13. رنگآهنگ: اجرای جی‌دال
-   https://www.youtube.com/watch?v=0COYXAQ-Zbo
-   2026-11-05T16:00:10+00:00
-14. عارضه پوستی ویتیلایگو (پیسی) چیست؟
-   https://www.youtube.com/shorts/JkbDlRWER00
-   2026-11-05T16:00:08+00:00
-15. پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
-   https://www.youtube.com/watch?v=ig4Y5kFPF-s
-   2026-11-05T15:04:44+00:00
-Keyword matches:
-  [    ] فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
-  [    ] هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
-  [    ] ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
-  [    ] کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
-  [    ] اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
-  [    ] دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
-  [    ] سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
-  [    ] خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
-  [    ] کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-  [    ] جام جهان‌نما
-  [    ] چشم به راه آب؛ «روزگاری هامون»
-  [    ] درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-  [    ] رنگآهنگ: اجرای جی‌دال
-  [    ] عارضه پوستی ویتیلایگو (پیسی) چیست؟
-  [    ] پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+No titles
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار بامدادی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-   https://www.youtube.com/watch?v=-1pXeafjb1E
-   2026-11-06T18:31:51+00:00
-2. ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-   https://www.youtube.com/shorts/QOz2K44xyCU
-   2026-11-06T17:43:51+00:00
-3. افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-   https://www.youtube.com/watch?v=t9VM5gJo54g
-   2026-11-06T17:06:03+00:00
-4. Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-   https://www.youtube.com/watch?v=tvjIpvXiYac
-   2026-11-06T17:00:38+00:00
-5. گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-   https://www.youtube.com/watch?v=eS9WXfKro3Y
-   2026-11-06T16:46:39+00:00
-6. کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-   https://www.youtube.com/watch?v=brdUFJ6XTNE
-   2026-11-06T16:03:10+00:00
-7. شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-   https://www.youtube.com/shorts/2VNAm7YyT3c
-   2026-11-06T15:43:47+00:00
-8. جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-   https://www.youtube.com/watch?v=z83dl0GsyHM
-   2026-11-06T15:27:21+00:00
-9. اخبار عصرگاهی | جمعه ۱۵ آبان
-   https://www.youtube.com/watch?v=XoUd8V1Nugs
-   2026-11-06T15:12:56+00:00
-10. محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-   https://www.youtube.com/watch?v=YhygR9mf7vM
-   2026-11-06T15:12:02+00:00
-11. درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-   https://www.youtube.com/shorts/9sls_bD6Cz4
-   2026-11-06T14:57:02+00:00
-12. معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-   https://www.youtube.com/watch?v=DhrbrP15JV8
-   2026-11-06T14:26:48+00:00
-13. محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-   https://www.youtube.com/watch?v=_ixsrjGOmos
-   2026-11-06T13:20:36+00:00
-14. موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-   https://www.youtube.com/watch?v=3jyOkJv_oZ0
-   2026-11-06T13:12:14+00:00
-15. گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
-   https://www.youtube.com/watch?v=ziBe9TYAXsE
-   2026-11-06T12:20:48+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-  [    ] ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-  [    ] افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-  [    ] Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-  [    ] گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-  [    ] کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-  [    ] شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-  [    ] جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-  [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
-  [    ] محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-  [    ] درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-  [    ] معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-  [    ] محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-  [    ] موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-  [    ] گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار شبانگاهی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-   https://www.youtube.com/watch?v=-1pXeafjb1E
-   2026-11-06T18:31:51+00:00
-2. ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-   https://www.youtube.com/shorts/QOz2K44xyCU
-   2026-11-06T17:43:51+00:00
-3. افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-   https://www.youtube.com/watch?v=t9VM5gJo54g
-   2026-11-06T17:06:03+00:00
-4. Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-   https://www.youtube.com/watch?v=tvjIpvXiYac
-   2026-11-06T17:00:38+00:00
-5. گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-   https://www.youtube.com/watch?v=eS9WXfKro3Y
-   2026-11-06T16:46:39+00:00
-6. کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-   https://www.youtube.com/watch?v=brdUFJ6XTNE
-   2026-11-06T16:03:10+00:00
-7. شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-   https://www.youtube.com/shorts/2VNAm7YyT3c
-   2026-11-06T15:43:47+00:00
-8. جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-   https://www.youtube.com/watch?v=z83dl0GsyHM
-   2026-11-06T15:27:21+00:00
-9. اخبار عصرگاهی | جمعه ۱۵ آبان
-   https://www.youtube.com/watch?v=XoUd8V1Nugs
-   2026-11-06T15:12:56+00:00
-10. محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-   https://www.youtube.com/watch?v=YhygR9mf7vM
-   2026-11-06T15:12:02+00:00
-11. درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-   https://www.youtube.com/shorts/9sls_bD6Cz4
-   2026-11-06T14:57:02+00:00
-12. معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-   https://www.youtube.com/watch?v=DhrbrP15JV8
-   2026-11-06T14:26:48+00:00
-13. محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-   https://www.youtube.com/watch?v=_ixsrjGOmos
-   2026-11-06T13:20:36+00:00
-14. موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-   https://www.youtube.com/watch?v=3jyOkJv_oZ0
-   2026-11-06T13:12:14+00:00
-15. گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
-   https://www.youtube.com/watch?v=ziBe9TYAXsE
-   2026-11-06T12:20:48+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-  [    ] ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-  [    ] افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-  [    ] Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-  [    ] گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-  [    ] کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-  [    ] شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-  [    ] جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-  [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
-  [    ] محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-  [    ] درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-  [    ] معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-  [    ] محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-  [    ] موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-  [    ] گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار بامدادی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۱۵ آبان
+1. اخبار بامدادی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/irbqeofelkti
+   Unknown
+2. اخبار شبانگاهی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/4bjemnp49c7j
+   Unknown
+3. ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
+   https://soundcloud.com/iranintl/wqofahnnju2w
+   Unknown
+4. اخبار عصرگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/236tpclgoxam
    Unknown
-2. اخبار نیم‌روزی | جمعه ۱۵ آبان
+5. اخبار نیم‌روزی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/vnsuqjo5klw0
    Unknown
-3. اخبار بامدادی | جمعه ۱۵ آبان
+6. اخبار بامدادی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/rrbj59zbsn3g
    Unknown
-4. اخبار شبانگاهی | جمعه ۱۵ آبان
+7. اخبار شبانگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/nyuf2bka9z0r
    Unknown
-5. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
+8. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
    https://soundcloud.com/iranintl/s2ek7djz6ofl
    Unknown
-6. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
+9. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
    https://soundcloud.com/iranintl/jacospbre933
    Unknown
-7. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+10. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
    https://soundcloud.com/iranintl/uzvbtsahss38
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+11. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/2mrffnjegvsj
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+12. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/gjnikn9acpd7
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
+13. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
    https://soundcloud.com/iranintl/qorv8rjanuy6
    Unknown
-11. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
+14. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
    https://soundcloud.com/iranintl/rez6yp1x3hjm
    Unknown
-12. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
+15. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
    https://soundcloud.com/iranintl/oyh2f3c5jqqe
    Unknown
-13. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
+16. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
    https://soundcloud.com/iranintl/2czzsjwdb3pw
    Unknown
-14. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+17. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
    https://soundcloud.com/iranintl/a9bmd0deg4zr
    Unknown
-15. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
+18. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
    https://soundcloud.com/iranintl/2bu6ueraewep
    Unknown
-16. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
+19. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/kh7slpp6dbvs
    Unknown
-17. اخبار نیمروزی | چهارشنبه ۱۳ آبان
+20. اخبار نیمروزی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/hl0y0iqua8l3
    Unknown
-18. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
+21. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
    https://soundcloud.com/iranintl/1vzdobn0mila
    Unknown
-19. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
+22. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
    https://soundcloud.com/iranintl/yldiywoirjbk
    Unknown
-20. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
+23. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/y7ckrjykxbaf
    Unknown
-21. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
+24. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/mwcodvx7ilvy
    Unknown
-22. اخبار بامدادی | سه‌شنبه ۱۲ آبان
+25. اخبار بامدادی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/gsc0hn60zvyt
    Unknown
-23. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
+26. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/sczmlqlggj68
    Unknown
-24. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
+27. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
    https://soundcloud.com/iranintl/6usmeu3uwv2p
    Unknown
-25. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
+28. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
    https://soundcloud.com/iranintl/92m2oywksglr
    Unknown
-26. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
+29. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
    https://soundcloud.com/iranintl/bphe68smkhni
    Unknown
-27. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
+30. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
    https://soundcloud.com/iranintl/74bdkpjrg2db
    Unknown
-28. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
+31. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
    https://soundcloud.com/iranintl/vaxveu4mzkak
    Unknown
-29. اخبار عصرگاهی | دوشنبه ۱۱ آبان
+32. اخبار عصرگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/g7rrfcmhoj9d
    Unknown
-30. اخبار نیمروزی | دوشنبه ۱۱ آبان
+33. اخبار نیمروزی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/npgoioxcljgf
    Unknown
-31. اخبار بامدادی | دوشنبه ۱۱ آبان
+34. اخبار بامدادی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/dd3luoakzr2u
    Unknown
-32. اخبار شبانگاهی | دوشنبه ۱۱ آبان
+35. اخبار شبانگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/lrefaudtnsbn
    Unknown
-33. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
+36. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
    https://soundcloud.com/iranintl/yyxdfqxwh2dm
    Unknown
-34. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
+37. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
    https://soundcloud.com/iranintl/qquqr06uhnzj
    Unknown
-35. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
+38. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
    https://soundcloud.com/iranintl/q9gttg2xionz
    Unknown
-36. اخبار عصرگاهی | یکشنبه ۱۰ آبان
+39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/fkzzqixekbif
    Unknown
-37. اخبار نیمروزی | یکشنبه ۱۰ آبان
+40. اخبار نیمروزی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/uk0d0ghljrah
    Unknown
-38. اخبار بامدادی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/8g7eq5gehwy0
-   Unknown
-39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/qmqwtntfmcdd
-   Unknown
-40. سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
-   https://soundcloud.com/iranintl/mx8dhrmposdb
-   Unknown
 Titles:
+  [MATCH] اخبار بامدادی | شنبه ۱۶ آبان
+  [    ] اخبار شبانگاهی | شنبه ۱۶ آبان
+  [    ] ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
   [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
   [    ] اخبار نیم‌روزی | جمعه ۱۵ آبان
   [MATCH] اخبار بامدادی | جمعه ۱۵ آبان
@@ -423,134 +186,134 @@ Titles:
   [    ] تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
   [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
   [    ] اخبار نیمروزی | یکشنبه ۱۰ آبان
-  [MATCH] اخبار بامدادی | یکشنبه ۱۰ آبان
-  [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
-  [    ] سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار نیمروزی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۱۵ آبان
+1. اخبار بامدادی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/irbqeofelkti
+   Unknown
+2. اخبار شبانگاهی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/4bjemnp49c7j
+   Unknown
+3. ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
+   https://soundcloud.com/iranintl/wqofahnnju2w
+   Unknown
+4. اخبار عصرگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/236tpclgoxam
    Unknown
-2. اخبار نیم‌روزی | جمعه ۱۵ آبان
+5. اخبار نیم‌روزی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/vnsuqjo5klw0
    Unknown
-3. اخبار بامدادی | جمعه ۱۵ آبان
+6. اخبار بامدادی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/rrbj59zbsn3g
    Unknown
-4. اخبار شبانگاهی | جمعه ۱۵ آبان
+7. اخبار شبانگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/nyuf2bka9z0r
    Unknown
-5. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
+8. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
    https://soundcloud.com/iranintl/s2ek7djz6ofl
    Unknown
-6. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
+9. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
    https://soundcloud.com/iranintl/jacospbre933
    Unknown
-7. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+10. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
    https://soundcloud.com/iranintl/uzvbtsahss38
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+11. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/2mrffnjegvsj
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+12. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/gjnikn9acpd7
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
+13. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
    https://soundcloud.com/iranintl/qorv8rjanuy6
    Unknown
-11. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
+14. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
    https://soundcloud.com/iranintl/rez6yp1x3hjm
    Unknown
-12. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
+15. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
    https://soundcloud.com/iranintl/oyh2f3c5jqqe
    Unknown
-13. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
+16. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
    https://soundcloud.com/iranintl/2czzsjwdb3pw
    Unknown
-14. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+17. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
    https://soundcloud.com/iranintl/a9bmd0deg4zr
    Unknown
-15. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
+18. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
    https://soundcloud.com/iranintl/2bu6ueraewep
    Unknown
-16. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
+19. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/kh7slpp6dbvs
    Unknown
-17. اخبار نیمروزی | چهارشنبه ۱۳ آبان
+20. اخبار نیمروزی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/hl0y0iqua8l3
    Unknown
-18. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
+21. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
    https://soundcloud.com/iranintl/1vzdobn0mila
    Unknown
-19. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
+22. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
    https://soundcloud.com/iranintl/yldiywoirjbk
    Unknown
-20. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
+23. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/y7ckrjykxbaf
    Unknown
-21. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
+24. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/mwcodvx7ilvy
    Unknown
-22. اخبار بامدادی | سه‌شنبه ۱۲ آبان
+25. اخبار بامدادی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/gsc0hn60zvyt
    Unknown
-23. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
+26. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/sczmlqlggj68
    Unknown
-24. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
+27. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
    https://soundcloud.com/iranintl/6usmeu3uwv2p
    Unknown
-25. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
+28. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
    https://soundcloud.com/iranintl/92m2oywksglr
    Unknown
-26. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
+29. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
    https://soundcloud.com/iranintl/bphe68smkhni
    Unknown
-27. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
+30. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
    https://soundcloud.com/iranintl/74bdkpjrg2db
    Unknown
-28. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
+31. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
    https://soundcloud.com/iranintl/vaxveu4mzkak
    Unknown
-29. اخبار عصرگاهی | دوشنبه ۱۱ آبان
+32. اخبار عصرگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/g7rrfcmhoj9d
    Unknown
-30. اخبار نیمروزی | دوشنبه ۱۱ آبان
+33. اخبار نیمروزی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/npgoioxcljgf
    Unknown
-31. اخبار بامدادی | دوشنبه ۱۱ آبان
+34. اخبار بامدادی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/dd3luoakzr2u
    Unknown
-32. اخبار شبانگاهی | دوشنبه ۱۱ آبان
+35. اخبار شبانگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/lrefaudtnsbn
    Unknown
-33. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
+36. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
    https://soundcloud.com/iranintl/yyxdfqxwh2dm
    Unknown
-34. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
+37. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
    https://soundcloud.com/iranintl/qquqr06uhnzj
    Unknown
-35. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
+38. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
    https://soundcloud.com/iranintl/q9gttg2xionz
    Unknown
-36. اخبار عصرگاهی | یکشنبه ۱۰ آبان
+39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/fkzzqixekbif
    Unknown
-37. اخبار نیمروزی | یکشنبه ۱۰ آبان
+40. اخبار نیمروزی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/uk0d0ghljrah
    Unknown
-38. اخبار بامدادی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/8g7eq5gehwy0
-   Unknown
-39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/qmqwtntfmcdd
-   Unknown
-40. سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
-   https://soundcloud.com/iranintl/mx8dhrmposdb
-   Unknown
 Titles:
+  [    ] اخبار بامدادی | شنبه ۱۶ آبان
+  [    ] اخبار شبانگاهی | شنبه ۱۶ آبان
+  [    ] ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
   [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
   [    ] اخبار نیم‌روزی | جمعه ۱۵ آبان
   [    ] اخبار بامدادی | جمعه ۱۵ آبان
@@ -588,134 +351,134 @@ Titles:
   [    ] تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
   [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
   [MATCH] اخبار نیمروزی | یکشنبه ۱۰ آبان
-  [    ] اخبار بامدادی | یکشنبه ۱۰ آبان
-  [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
-  [    ] سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار شبانگاهی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۱۵ آبان
+1. اخبار بامدادی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/irbqeofelkti
+   Unknown
+2. اخبار شبانگاهی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/4bjemnp49c7j
+   Unknown
+3. ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
+   https://soundcloud.com/iranintl/wqofahnnju2w
+   Unknown
+4. اخبار عصرگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/236tpclgoxam
    Unknown
-2. اخبار نیم‌روزی | جمعه ۱۵ آبان
+5. اخبار نیم‌روزی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/vnsuqjo5klw0
    Unknown
-3. اخبار بامدادی | جمعه ۱۵ آبان
+6. اخبار بامدادی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/rrbj59zbsn3g
    Unknown
-4. اخبار شبانگاهی | جمعه ۱۵ آبان
+7. اخبار شبانگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/nyuf2bka9z0r
    Unknown
-5. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
+8. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
    https://soundcloud.com/iranintl/s2ek7djz6ofl
    Unknown
-6. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
+9. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
    https://soundcloud.com/iranintl/jacospbre933
    Unknown
-7. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+10. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
    https://soundcloud.com/iranintl/uzvbtsahss38
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+11. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/2mrffnjegvsj
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+12. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/gjnikn9acpd7
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
+13. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
    https://soundcloud.com/iranintl/qorv8rjanuy6
    Unknown
-11. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
+14. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
    https://soundcloud.com/iranintl/rez6yp1x3hjm
    Unknown
-12. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
+15. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
    https://soundcloud.com/iranintl/oyh2f3c5jqqe
    Unknown
-13. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
+16. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
    https://soundcloud.com/iranintl/2czzsjwdb3pw
    Unknown
-14. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+17. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
    https://soundcloud.com/iranintl/a9bmd0deg4zr
    Unknown
-15. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
+18. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
    https://soundcloud.com/iranintl/2bu6ueraewep
    Unknown
-16. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
+19. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/kh7slpp6dbvs
    Unknown
-17. اخبار نیمروزی | چهارشنبه ۱۳ آبان
+20. اخبار نیمروزی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/hl0y0iqua8l3
    Unknown
-18. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
+21. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
    https://soundcloud.com/iranintl/1vzdobn0mila
    Unknown
-19. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
+22. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
    https://soundcloud.com/iranintl/yldiywoirjbk
    Unknown
-20. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
+23. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/y7ckrjykxbaf
    Unknown
-21. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
+24. اخبار نیم‌روزی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/mwcodvx7ilvy
    Unknown
-22. اخبار بامدادی | سه‌شنبه ۱۲ آبان
+25. اخبار بامدادی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/gsc0hn60zvyt
    Unknown
-23. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
+26. اخبار شبانگاهی | سه‌شنبه ۱۲ آبان
    https://soundcloud.com/iranintl/sczmlqlggj68
    Unknown
-24. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
+27. برنامه با کامبیز حسینی | بازگشت «برنامه» به صحنه؛ نگران چی هستید؟
    https://soundcloud.com/iranintl/6usmeu3uwv2p
    Unknown
-25. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
+28. سیاست با مراد ویسی: حمله از کجا آغاز خواهد شد؟
    https://soundcloud.com/iranintl/92m2oywksglr
    Unknown
-26. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
+29. ۲۴ با فرداد فرحزاد: تهدید ترامپ به وارد کردن ضربات سنگین به جمهوری اسلامی
    https://soundcloud.com/iranintl/bphe68smkhni
    Unknown
-27. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
+30. چشم‌انداز: سناریوها و اهداف اصلی آمریکا و اسرائیل در حمله به ایران
    https://soundcloud.com/iranintl/74bdkpjrg2db
    Unknown
-28. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
+31. تیتراول با نیوشا صارمی: فشار نتانیاهو به ترامپ برای از سرگیری حملات به ایران
    https://soundcloud.com/iranintl/vaxveu4mzkak
    Unknown
-29. اخبار عصرگاهی | دوشنبه ۱۱ آبان
+32. اخبار عصرگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/g7rrfcmhoj9d
    Unknown
-30. اخبار نیمروزی | دوشنبه ۱۱ آبان
+33. اخبار نیمروزی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/npgoioxcljgf
    Unknown
-31. اخبار بامدادی | دوشنبه ۱۱ آبان
+34. اخبار بامدادی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/dd3luoakzr2u
    Unknown
-32. اخبار شبانگاهی | دوشنبه ۱۱ آبان
+35. اخبار شبانگاهی | دوشنبه ۱۱ آبان
    https://soundcloud.com/iranintl/lrefaudtnsbn
    Unknown
-33. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
+36. سیاست با مراد ویسی: ترامپ جدید از چهارشنبه
    https://soundcloud.com/iranintl/yyxdfqxwh2dm
    Unknown
-34. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
+37. چشم‌انداز: ایران در آستانه بزرگ‌ترین فاجعه اقتصادی بعد از قحطی بزرگ
    https://soundcloud.com/iranintl/qquqr06uhnzj
    Unknown
-35. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
+38. تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
    https://soundcloud.com/iranintl/q9gttg2xionz
    Unknown
-36. اخبار عصرگاهی | یکشنبه ۱۰ آبان
+39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/fkzzqixekbif
    Unknown
-37. اخبار نیمروزی | یکشنبه ۱۰ آبان
+40. اخبار نیمروزی | یکشنبه ۱۰ آبان
    https://soundcloud.com/iranintl/uk0d0ghljrah
    Unknown
-38. اخبار بامدادی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/8g7eq5gehwy0
-   Unknown
-39. اخبار عصرگاهی | یکشنبه ۱۰ آبان
-   https://soundcloud.com/iranintl/qmqwtntfmcdd
-   Unknown
-40. سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
-   https://soundcloud.com/iranintl/mx8dhrmposdb
-   Unknown
 Titles:
+  [    ] اخبار بامدادی | شنبه ۱۶ آبان
+  [MATCH] اخبار شبانگاهی | شنبه ۱۶ آبان
+  [    ] ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
   [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
   [    ] اخبار نیم‌روزی | جمعه ۱۵ آبان
   [    ] اخبار بامدادی | جمعه ۱۵ آبان
@@ -753,134 +516,132 @@ Titles:
   [    ] تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران
   [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
   [    ] اخبار نیمروزی | یکشنبه ۱۰ آبان
-  [    ] اخبار بامدادی | یکشنبه ۱۰ آبان
-  [    ] اخبار عصرگاهی | یکشنبه ۱۰ آبان
-  [    ] سیاست با مراد ویسی: ۱۰ نشانه نزدیک شدن جنگ
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/bbcpersian, keywords=['جام جهان\u200cنما']
 SoundCloud: https://soundcloud.com/bbcpersian
 Found 80 tracks
-1. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
+1. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
+   https://soundcloud.com/bbcpersian/aftpn1o6mz2j
+   Unknown
+2. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tdewbcufj69z
    Unknown
-2. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
+3. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/apnprmidcamp
    Unknown
-3. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
+4. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
    Unknown
-4. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
+5. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ta3xowpwecqc
    Unknown
-5. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
+6. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/69ge1phs8lhw
    Unknown
-6. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
+7. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/h244yhcrje4j
    Unknown
-7. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
+8. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hreeuwmgp25m
    Unknown
-8. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
+9. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/eyb3fnfnowkn
    Unknown
-9. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
+10. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hgxnfvv0maji
    Unknown
-10. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
+11. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aeto5nc5rx3v
    Unknown
-11. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
+12. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tftdka4eokwn
    Unknown
-12. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
+13. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/enkhnonj4san
    Unknown
-13. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
+14. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/lbyf89xgizov
    Unknown
-14. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
+15. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/jq2lgtbenddj
    Unknown
-15. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
+16. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
    Unknown
-16. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
+17. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/crbvwjfbcma6
    Unknown
-17. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
+18. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/8ys75f0kbyvh
    Unknown
-18. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
+19. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/l8cbozddpo54
    Unknown
-19. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
+20. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
    Unknown
-20. جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
+21. جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/8mizwndjy06n
    Unknown
-21. جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
+22. جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/oinrtb0mlb0d
    Unknown
-22. جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
+23. جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/kp6t5z60wmwp
    Unknown
-23. جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
+24. جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/3leaz3mmtrle
    Unknown
-24. جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
+25. جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/mgujxdjzq4zk
    Unknown
-25. جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
+26. جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/eibj7xtmt6mn
    Unknown
-26. جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
+27. جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/wwkpzfaiwruj
    Unknown
-27. جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
+28. جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/rndpj72hvy9y
    Unknown
-28. جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
+29. جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/swmt3gl9dmgh
    Unknown
-29. جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
+30. جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/vdxllmratlqu
    Unknown
-30. جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
+31. جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/6hxjyonsexu0
    Unknown
-31. جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
+32. جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/r9w1jubcdswh
    Unknown
-32. جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
+33. جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/d1dqyvdknspf
    Unknown
-33. جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
+34. جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/eyznhsmcixdq
    Unknown
-34. جام جهان‌نما ۳ اکتبر ۲۰۲۶ / ۱۱ مهر ۱۴۰۵
+35. جام جهان‌نما ۳ اکتبر ۲۰۲۶ / ۱۱ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/otqjbsvv6kav
    Unknown
-35. جام جهان‌نما ۲ اکتبر ۲۰۲۶ / ۱۰ مهر ۱۴۰۵
+36. جام جهان‌نما ۲ اکتبر ۲۰۲۶ / ۱۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/jfm0nnwsqz5f
    Unknown
-36. جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
+37. جام جهان‌نما ۱ اکتبر ۲۰۲۶ / ۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/nsoqpyrtc5rc
    Unknown
-37. جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
+38. جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/afb8purmaqkd
    Unknown
-38. جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
+39. جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/p9pc60cebnwx
    Unknown
-39. جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
+40. جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/qsghtn33ecp9
    Unknown
-40. جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
-   https://soundcloud.com/bbcpersian/cvkxev1f2x7d
-   Unknown
 Titles:
+  [MATCH] جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
@@ -920,291 +681,140 @@ Titles:
   [MATCH] جام جهان‌نما ۳۰ سپتامبر ۲۰۲۶ / ۸ مهر ۱۴۰۵
   [MATCH] جام جهان‌نما ۲۹ سپتامبر ۲۰۲۶ / ۷ مهر ۱۴۰۵
   [MATCH] جام جهان‌نما ۲۸ سپتامبر ۲۰۲۶ / ۶ مهر ۱۴۰۵
-  [MATCH] جام جهان‌نما ۲۷ سپتامبر ۲۰۲۶ / ۵ مهر ۱۴۰۵
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['نیم']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-   https://www.youtube.com/watch?v=-1pXeafjb1E
-   2026-11-06T18:31:51+00:00
-2. ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-   https://www.youtube.com/shorts/QOz2K44xyCU
-   2026-11-06T17:43:51+00:00
-3. افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-   https://www.youtube.com/watch?v=t9VM5gJo54g
-   2026-11-06T17:06:03+00:00
-4. Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-   https://www.youtube.com/watch?v=tvjIpvXiYac
-   2026-11-06T17:00:38+00:00
-5. گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-   https://www.youtube.com/watch?v=eS9WXfKro3Y
-   2026-11-06T16:46:39+00:00
-6. کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-   https://www.youtube.com/watch?v=brdUFJ6XTNE
-   2026-11-06T16:03:10+00:00
-7. شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-   https://www.youtube.com/shorts/2VNAm7YyT3c
-   2026-11-06T15:43:47+00:00
-8. جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-   https://www.youtube.com/watch?v=z83dl0GsyHM
-   2026-11-06T15:27:21+00:00
-9. اخبار عصرگاهی | جمعه ۱۵ آبان
-   https://www.youtube.com/watch?v=XoUd8V1Nugs
-   2026-11-06T15:12:56+00:00
-10. محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-   https://www.youtube.com/watch?v=YhygR9mf7vM
-   2026-11-06T15:12:02+00:00
-11. درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-   https://www.youtube.com/shorts/9sls_bD6Cz4
-   2026-11-06T14:57:02+00:00
-12. معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-   https://www.youtube.com/watch?v=DhrbrP15JV8
-   2026-11-06T14:26:48+00:00
-13. محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-   https://www.youtube.com/watch?v=_ixsrjGOmos
-   2026-11-06T13:20:36+00:00
-14. موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-   https://www.youtube.com/watch?v=3jyOkJv_oZ0
-   2026-11-06T13:12:14+00:00
-15. گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
-   https://www.youtube.com/watch?v=ziBe9TYAXsE
-   2026-11-06T12:20:48+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-  [    ] ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-  [    ] افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-  [    ] Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-  [    ] گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-  [    ] کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-  [    ] شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-  [    ] جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-  [    ] اخبار عصرگاهی | جمعه ۱۵ آبان
-  [    ] محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-  [    ] درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-  [    ] معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-  [    ] محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-  [    ] موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-  [    ] گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 Building channel_catalog.md
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل «روزگاری هامون» و ناگفته‌های کاوه مدنی از یک فاجعه زیست‌محیطی
-   https://www.youtube.com/watch?v=9FpoFZaqR50
-   2026-11-06T18:30:08+00:00
-2. هوشواره در دست هکرها: آیا هوش مصنوعی امنیت سایبری جهان را به خطر انداخته است؟
-   https://www.youtube.com/shorts/21c18N3TI_Q
-   2026-11-06T18:38:23+00:00
-3. ترامپ: اگر مجبور شوم تمام ایران را نابود می‌کنم؛ جام جهان‌نما جمعه ۱۵ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=S90cqYfdLxY
-   2026-11-06T17:02:37+00:00
-4. کلیک؛ اگر کابل‌های اینترنتی تنگه هرمز قطع شوند
-   https://www.youtube.com/watch?v=5wTZ06QSWOw
-   2026-11-06T17:00:25+00:00
-5. اخبار ساعت شش عصر- جمعه ۱۵ آبان: برخورد دوکشتی با مین در تنگه هرمز
-   https://www.youtube.com/watch?v=cIH9ZjyumGI
-   2026-11-06T15:00:35+00:00
-6. دیدار محسن رضایی با ولادیمیر پوتین، در مسکو
-   https://www.youtube.com/shorts/v2jmwiwi3TM
-   2026-11-06T13:17:02+00:00
-7. سپاه می‌گوید، فرمانده نیروی زمینی‌اش از جزایر خلیج فارس بازدید کرده
-   https://www.youtube.com/shorts/7WMZHJIBGG8
-   2026-11-06T12:59:59+00:00
-8. خبرنگاران: آیا واشنگتن خود را برای ازسرگیری حملات به ایران آماده می‌کند؟
-   https://www.youtube.com/watch?v=-M2B_u75GJ0
-   2026-11-05T18:30:27+00:00
-9. کنگره تحت حمایت دموکرات‌ها با ایران چه خواهد کرد؟ صفحه ۲
-   https://www.youtube.com/watch?v=riLycrknc_Y
-   2026-11-05T18:04:15+00:00
-10. جام جهان‌نما
-   https://www.youtube.com/watch?v=y3O1otK21uk
-   2026-11-05T17:03:09+00:00
-11. چشم به راه آب؛ «روزگاری هامون»
-   https://www.youtube.com/shorts/AxFkR23Rd-A
-   2026-11-05T16:38:30+00:00
-12. درباره تحرکات نظامی آمریکا در منطقه چه می‌دانیم؟
-   https://www.youtube.com/watch?v=5to6vXhT7TA
-   2026-11-05T16:01:33+00:00
-13. رنگآهنگ: اجرای جی‌دال
-   https://www.youtube.com/watch?v=0COYXAQ-Zbo
-   2026-11-05T16:00:10+00:00
-14. عارضه پوستی ویتیلایگو (پیسی) چیست؟
-   https://www.youtube.com/shorts/JkbDlRWER00
-   2026-11-05T16:00:08+00:00
-15. پادکست انتخابات آمریکا: «موج آبی» انتخابات آمریکا جنگ ایران را به کدام سو می برد؟
-   https://www.youtube.com/watch?v=ig4Y5kFPF-s
-   2026-11-05T15:04:44+00:00
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
-   https://www.youtube.com/watch?v=-1pXeafjb1E
-   2026-11-06T18:31:51+00:00
-2. ساختمان مرکز صلح نوبل در اسلو با آثار نوری هنرمندان اروپایی روشن شد
-   https://www.youtube.com/shorts/QOz2K44xyCU
-   2026-11-06T17:43:51+00:00
-3. افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
-   https://www.youtube.com/watch?v=t9VM5gJo54g
-   2026-11-06T17:06:03+00:00
-4. Iran's regime celebrates Trump's defeat. Is Tehran making a fatal mistake? | Eye for Iran | EP 128 |
-   https://www.youtube.com/watch?v=tvjIpvXiYac
-   2026-11-06T17:00:38+00:00
-5. گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
-   https://www.youtube.com/watch?v=eS9WXfKro3Y
-   2026-11-06T16:46:39+00:00
-6. کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
-   https://www.youtube.com/watch?v=brdUFJ6XTNE
-   2026-11-06T16:03:10+00:00
-7. شبکه تلویزیونی «آر‌تی‌ای» ایرلند پس از تهدید بمب‌گذاری تخلیه شد
-   https://www.youtube.com/shorts/2VNAm7YyT3c
-   2026-11-06T15:43:47+00:00
-8. جمهوری اسلامی با سرمایه آینده ایران چه کرده؟
-   https://www.youtube.com/watch?v=z83dl0GsyHM
-   2026-11-06T15:27:21+00:00
-9. اخبار عصرگاهی | جمعه ۱۵ آبان
-   https://www.youtube.com/watch?v=XoUd8V1Nugs
-   2026-11-06T15:12:56+00:00
-10. محمد قائدی: رفتار جمهوری اسلامی می‌تواند به حمله دوباره آمریکا منجر شود
-   https://www.youtube.com/watch?v=YhygR9mf7vM
-   2026-11-06T15:12:02+00:00
-11. درگیری نیروهای حوثی با نیروهای دولت یمن در نزدیکی باب‌المندب
-   https://www.youtube.com/shorts/9sls_bD6Cz4
-   2026-11-06T14:57:02+00:00
-12. معصومه طاهرخانی: دولت به‌تدریج کل پروژه کالابرگ را منتفی می‌کند
-   https://www.youtube.com/watch?v=DhrbrP15JV8
-   2026-11-06T14:26:48+00:00
-13. محاکمه شهروند یونانی متهم به جاسوسی از خبرنگار ایران‌اینترنشنال در لندن
-   https://www.youtube.com/watch?v=_ixsrjGOmos
-   2026-11-06T13:20:36+00:00
-14. موج تازه تهدیدهای بمب‌گذاری، پروازها در اروپا را مختل کرد
-   https://www.youtube.com/watch?v=3jyOkJv_oZ0
-   2026-11-06T13:12:14+00:00
-15. گزارش کانون نویسندگان ایران از تشدید سانسور و پایمال شدن حقوق مولفان
-   https://www.youtube.com/watch?v=ziBe9TYAXsE
-   2026-11-06T12:20:48+00:00
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۱۵ آبان
+1. اخبار بامدادی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/irbqeofelkti
+   Unknown
+2. اخبار شبانگاهی | شنبه ۱۶ آبان
+   https://soundcloud.com/iranintl/4bjemnp49c7j
+   Unknown
+3. ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
+   https://soundcloud.com/iranintl/wqofahnnju2w
+   Unknown
+4. اخبار عصرگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/236tpclgoxam
    Unknown
-2. اخبار نیم‌روزی | جمعه ۱۵ آبان
+5. اخبار نیم‌روزی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/vnsuqjo5klw0
    Unknown
-3. اخبار بامدادی | جمعه ۱۵ آبان
+6. اخبار بامدادی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/rrbj59zbsn3g
    Unknown
-4. اخبار شبانگاهی | جمعه ۱۵ آبان
+7. اخبار شبانگاهی | جمعه ۱۵ آبان
    https://soundcloud.com/iranintl/nyuf2bka9z0r
    Unknown
-5. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
+8. برنامه با کامبیز حسینی | پیام سیاسی نتیجهٔ انتخابات آمریکا در تریبون آزاد «برنامه»
    https://soundcloud.com/iranintl/s2ek7djz6ofl
    Unknown
-6. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
+9. ۲۴ با فرداد فرحزاد: احتمال حمله گسترده آمریکا به جمهوری اسلامی
    https://soundcloud.com/iranintl/jacospbre933
    Unknown
-7. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
+10. دومینو: ترامپ در دوراهی ادامه محاصره یا بازگشت به جنگ
    https://soundcloud.com/iranintl/uzvbtsahss38
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
+11. اخبار عصرگاهی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/2mrffnjegvsj
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
+12. اخبار نیم‌روزی | پنجشنبه ۱۴ آبان
    https://soundcloud.com/iranintl/gjnikn9acpd7
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
+13. اخبار بامدادی | پنج‌شنبه ۱۴ آبان
    https://soundcloud.com/iranintl/qorv8rjanuy6
    Unknown
-11. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
+14. برنامه با کامبیز حسینی | ترامپ در ۶۰ روز آینده به جمهوری اسلامی حمله می‌کند؟
    https://soundcloud.com/iranintl/rez6yp1x3hjm
    Unknown
-12. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
+15. سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
    https://soundcloud.com/iranintl/oyh2f3c5jqqe
    Unknown
-13. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
+16. ۲۴ با فرداد فرحزاد: تاثیر شکست جمهوری‌خواهان بر جنگ
    https://soundcloud.com/iranintl/2czzsjwdb3pw
    Unknown
-14. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+17. چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
    https://soundcloud.com/iranintl/a9bmd0deg4zr
    Unknown
-15. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
+18. تیتراول با نیوشا صارمی: زلزله سیاسی در آمریکا؛ سه نشانه کلیدی برای پیش‌بینی حمله دوباره به ایران
    https://soundcloud.com/iranintl/2bu6ueraewep
    Unknown
-16. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
+19. اخبار عصرگاهی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/kh7slpp6dbvs
    Unknown
-17. اخبار نیمروزی | چهارشنبه ۱۳ آبان
+20. اخبار نیمروزی | چهارشنبه ۱۳ آبان
    https://soundcloud.com/iranintl/hl0y0iqua8l3
-   Unknown
-18. برنامه با کامبیز حسینی | چگونه سرنوشت ایرانیان به صندوق رأی دیگران گره خورد؟
-   https://soundcloud.com/iranintl/1vzdobn0mila
-   Unknown
-19. تیتراول با نیوشا صارمی: پوشش ویژه انتخابات آمریکا؛ نبرد سرنوشت‌ساز بر سر کنگره و آینده قدرت  ترامپ
-   https://soundcloud.com/iranintl/yldiywoirjbk
-   Unknown
-20. اخبار عصرگاهی | سه‌شنبه ۱۲ آبان
-   https://soundcloud.com/iranintl/y7ckrjykxbaf
    Unknown
 SoundCloud: https://soundcloud.com/bbcpersian
 Found 80 tracks
-1. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
+1. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
+   https://soundcloud.com/bbcpersian/aftpn1o6mz2j
+   Unknown
+2. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tdewbcufj69z
    Unknown
-2. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
+3. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/apnprmidcamp
    Unknown
-3. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
+4. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
    Unknown
-4. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
+5. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ta3xowpwecqc
    Unknown
-5. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
+6. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/69ge1phs8lhw
    Unknown
-6. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
+7. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/h244yhcrje4j
    Unknown
-7. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
+8. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hreeuwmgp25m
    Unknown
-8. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
+9. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/eyb3fnfnowkn
    Unknown
-9. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
+10. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hgxnfvv0maji
    Unknown
-10. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
+11. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aeto5nc5rx3v
    Unknown
-11. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
+12. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tftdka4eokwn
    Unknown
-12. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
+13. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/enkhnonj4san
    Unknown
-13. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
+14. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/lbyf89xgizov
    Unknown
-14. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
+15. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/jq2lgtbenddj
    Unknown
-15. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
+16. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
    Unknown
-16. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
+17. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/crbvwjfbcma6
    Unknown
-17. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
+18. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/8ys75f0kbyvh
    Unknown
-18. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
+19. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/l8cbozddpo54
    Unknown
-19. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
+20. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
    Unknown
-20. جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
-   https://soundcloud.com/bbcpersian/8mizwndjy06n
-   Unknown
 Saved: data/channel_catalog.md
-Saved: data/catalog_index.json (70 items)
+Saved: data/catalog_index.json (40 items)
 ✅ Catalog Issue updated: #4 → https://github.com/alipoorkaramali/youtube-news-watcher/issues/4
