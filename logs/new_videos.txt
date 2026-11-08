@@ -2,3 +2,4 @@
 2026-11-08T08:30:39.797352+00:00 | youtube | اخبار بامدادی  | یکشنبه ۱۷ آبان | 4 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=-DkvicZZKKc
 2026-11-08T11:30:47.182683+00:00 | soundcloud | اخبار نیمروزی | یکشنبه ۱۷ آبان | 0 minutes ago | https://soundcloud.com/iranintl/wh7pv8oc8s0u
 2026-11-08T11:30:47.604906+00:00 | youtube | اخبار نیمروزی | یکشنبه ۱۷ آبان | 38 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=s-2Jet2CkP4
+2026-11-08T15:15:30.736600+00:00 | youtube | اخبار ساعت شش عصر یکشنبه ۱۷ آبان؛ حمله آمریکا به یک کشتی تجاری در تنگه هرمز | 15 minutes ago | https://www.youtube.com/watch?v=LE15jqTe9pc
