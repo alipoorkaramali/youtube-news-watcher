@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-09T11:01:02.018556+00:00
-Generated (Iran): 2026-11-09T14:31:02.018572+00:00
+Generated (UTC):  2026-11-09T15:01:02.262360+00:00
+Generated (Iran): 2026-11-09T18:31:02.262375+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-09 10:38:41]
+    1. [2026-11-09 14:00:00]
+       اخبار ساعت شش عصر دوشنبه ۱۸ آبان - ادامه میانجیگری قطر بین ایران و آمریکا
+       https://www.youtube.com/watch?v=RF0n9_fd0WU
+
+    2. [2026-11-09 14:54:41]
+       روبیو: خواسته‌های ایران مضحک است؛ بقایی: طرح ۲ روزه ایران منطقی‌ترین راه است
+       https://www.youtube.com/shorts/kT_O6LB7Pkw
+
+    3. [2026-11-09 13:46:34]
+       فرود اضطراری یک هواپیمای کوچک در جاده‌ای شلوغ در آمریکا
+       https://www.youtube.com/shorts/YcuA-LiboJQ
+
+    4. [2026-11-09 13:14:33]
+       یک کشته در سقوط هلی‌کوپتر آتش‌نشانی در اندونزی (هشدار: حاوی تصاویر دلخراش است)
+       https://www.youtube.com/shorts/ioPmd_c71Nc
+
+    5. [2026-11-09 10:38:41]
        مشترک خبرنامه بی‌بی‌سی فارسی شوید
        https://www.youtube.com/shorts/NzqIWoYBqAE
 
-    2. [2026-11-09 10:18:42]
+    6. [2026-11-09 10:18:42]
        بارندگی‌ها در ایران؛ ۱۸ مجروح در واژگونی اتوبوس تیم بسکتبال سحر
        https://www.youtube.com/shorts/23UtkQaoI54
 
-    3. [2026-11-09 10:13:41]
+    7. [2026-11-09 10:13:41]
        رد ورود فاضلاب به دریاچه مهارلو در استان فارس
        https://www.youtube.com/shorts/VlzA147Te1E
 
-    4. [2026-11-08 19:31:10]
+    8. [2026-11-08 19:31:10]
        آیا آیزنکوت ناچار به ائتلاف با نتانیاهو است؟ - ۶۰ دقیقه یکشنبه ۱۷ آبان
        https://www.youtube.com/watch?v=pj-54uip3qM
 
-    5. [2026-11-08 18:45:04]
+    9. [2026-11-08 18:45:04]
        برخورد مرگبار دو قطار در جنوب قاهره
        https://www.youtube.com/shorts/WiZbjI_oGT0
 
-    6. [2026-11-08 17:02:25]
+    10. [2026-11-08 17:02:25]
        ادامه کشمکش ایران و آمریکا؛ جام جهان‌نما یک‌شنبه ۱۷ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=CHzwWF-Yj0E
 
-    7. [2026-11-08 17:00:02]
+    11. [2026-11-08 17:00:02]
        به‌روز؛ درختان و برف، آرایشگر دست‌قیچی و مبلمان کاغذی
        https://www.youtube.com/watch?v=HmrSVPd2OMc
 
-    8. [2026-11-08 16:03:54]
+    12. [2026-11-08 16:03:54]
        استقبال علی‌اف از اردوغان در فضولی
        https://www.youtube.com/shorts/dgwAXHSvps8
 
-    9. [2026-11-08 15:00:16]
+    13. [2026-11-08 15:00:16]
        اخبار ساعت شش عصر یکشنبه ۱۷ آبان؛ حمله آمریکا به یک کشتی تجاری در تنگه هرمز
        https://www.youtube.com/watch?v=LE15jqTe9pc
 
-    10. [2026-11-08 14:47:26]
+    14. [2026-11-08 14:47:26]
        سرخط خبرها یکشنبه ۱۷ آبان
        https://www.youtube.com/shorts/gx93LlRcxwM
 
-    11. [2026-11-08 14:41:51]
+    15. [2026-11-08 14:41:51]
        آب‌گرفتگی در چادرهای غزه
        https://www.youtube.com/shorts/FSQXS65JEPc
-
-    12. [2026-11-08 14:11:46]
-       گرفتگاری‌های آبگرفتگی و شادی از بارش‌ها در ایران
-       https://www.youtube.com/shorts/2SekCXeYBGU
-
-    13. [2026-11-08 13:24:12]
-       پیشنهاد ترامپ به رئیس یواف‌سی برای سمت سخنگوی کاخ سفید
-       https://www.youtube.com/shorts/zl4qK37Bc9Y
-
-    14. [2026-11-07 19:51:54]
-       «جایزه آزادی» بنیاد فریدریش نائومان برای مردم ایران؛ گفت‌وگو با بهنام امینی، فعال سیاسی پادشاهی‌خواه
-       https://www.youtube.com/watch?v=AkirgT3kRJc
-
-    15. [2026-11-07 19:32:30]
-       دروازه آهنین؛ کارگروه ویژه‌ آمریکا برای کامل کردن حلقه محاصره ایران - ۶۰ دقیقه شنبه ۱۶ آبان
-       https://www.youtube.com/watch?v=29GJwnFbejs
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-09 10:52:30]
+    16. [2026-11-09 14:44:38]
+       گرامیداشت یاد جاویدنامان انقلاب ملی؛ خانواده جان‌باختگان بر مزار عزیزانشان گرد هم آمدند
+       https://www.youtube.com/watch?v=IpLiNU8KV80
+
+    17. [2026-11-09 14:38:12]
+       وزیر خارجه عراق از توافق با آمریکا برای صدور نفت از تنگه هرمز خبر داد
+       https://www.youtube.com/shorts/Tmhhos-lXjs
+
+    18. [2026-11-09 14:38:04]
+       کاسه چه‌کنم دولت برای زمستان سرد
+       https://www.youtube.com/watch?v=iUvlaN97cUY
+
+    19. [2026-11-09 14:36:02]
+       ۱۷۶ روز انفرادی و فشار برای اعتراف اجباری از امیرحسین موسوی، فعال مجازی محکوم به اعدام
+       https://www.youtube.com/watch?v=fDLg1Jewo4I
+
+    20. [2026-11-09 14:07:09]
+       شهرام خلدی: پایان جنگ اوکراین برای اروپا بر جنگ جمهوری اسلامی و آمریکا اولویت دارد
+       https://www.youtube.com/watch?v=ZhFmrG6BJT8
+
+    21. [2026-11-09 13:46:30]
+       جاویدنام محمدپارسا امینی؛ از شکنجه در خیزش زن، زندگی، آزادی تا کشته شدن در اعتراضات دی‌ماه
+       https://www.youtube.com/watch?v=O3Rvu6rhGyg
+
+    22. [2026-11-09 13:37:41]
+       نشست بین‌المللی «زنان، آزادی و امنیت» در پارلمان فدرال آلمان
+       https://www.youtube.com/watch?v=ClAOasdRcMU
+
+    23. [2026-11-09 12:50:12]
+       نشست وزیران خارجه گروه هفت در پاریس
+       https://www.youtube.com/watch?v=ODwtF-X9lkI
+
+    24. [2026-11-09 12:01:37]
+       گزارش آسوشیتدپرس از تصمیم سوریه برای پیوستن به پیمان مکه
+       https://www.youtube.com/watch?v=uc5VGcEZo6o
+
+    25. [2026-11-09 11:51:57]
+       نمایشگاه «میراث در برابر ویرانی» در پاریس؛ روایت سرنوشت مجسمه‌های غول‌پیکر بودای بامیان
+       https://www.youtube.com/watch?v=VMbPO08tIvU
+
+    26. [2026-11-09 11:38:21]
+       کاپ ۳۱؛ اجلاس نجات زمین با ردپای کربنی سنگین
+       https://www.youtube.com/shorts/59XzyRUYLnY
+
+    27. [2026-11-09 11:15:27]
+       اعتراض رانندگان به بلاتکلیفی و بسته شدن مرزهای پاکستان
+       https://www.youtube.com/watch?v=RRjmGFz1BTQ
+
+    28. [2026-11-09 11:13:40]
+       مروری بر روزنامه‌های ایران دوشنبه ۱۸ آبان، با مجتبی هاشمی
+       https://www.youtube.com/watch?v=2itF8BXtWvs
+
+    29. [2026-11-09 11:01:52]
+       علی‌حسین قاضی‌زاده: آمریکا هم‌زمان با تشدید محاصره، گزینه نظامی را حفظ کرده است
+       https://www.youtube.com/watch?v=_HGPfkRNh6Y
+
+    30. [2026-11-09 10:52:30]
        اخبار نیمروزی | دوشنبه ۱۸ آبان
        https://www.youtube.com/watch?v=FIlnvq-RDUA
-
-    17. [2026-11-09 10:40:24]
-       یک ساختمان اداری آرامکو در پی حمله حوثی‌ها آسیب دید
-       https://www.youtube.com/shorts/2hYaS9exFcE
-
-    18. [2026-11-09 10:06:38]
-       آغاز مهلت ۲۸روزه گادی آیزنکوت برای تشکیل دولت؛ اختلاف احزاب اسرائیل بر سر ائتلاف
-       https://www.youtube.com/watch?v=Q04z0ky03iA
-
-    19. [2026-11-09 10:04:16]
-       هشدار‌ها درباره خطر اعدام و صدور احکام سنگین برای چند فوتبالیست بازداشت‌شده
-       https://www.youtube.com/watch?v=2X8BzpvPMX8
-
-    20. [2026-11-09 10:00:29]
-       مخاطبان ایران‌اینترنشنال از گرانی و کمبود دارو و حذف پوشش بیمه‌ای برخی داروها گفتند
-       https://www.youtube.com/watch?v=GYZND8Bf7W0
-
-    21. [2026-11-09 09:56:05]
-       نیما دادگستر: ترامپ نارضایتی از جنگ را پذیرفت، اما از تصمیم حمله به ایران دفاع کرد
-       https://www.youtube.com/watch?v=rvdPD59i5yg
-
-    22. [2026-11-09 09:22:09]
-       حسین آقایی: حملات جنوب ایران می‌تواند مقدمه عملیات گسترده‌تر هوایی و زمینی باشد
-       https://www.youtube.com/watch?v=C_qeh9lnK_Q
-
-    23. [2026-11-09 09:04:59]
-       مرتضی کاظمیان: جمهوری اسلامی دچار توهم دستیابی به توافق «برد–برد» است
-       https://www.youtube.com/watch?v=FGn6aguypV0
-
-    24. [2026-11-09 08:35:48]
-       بقایی: طرح «دروازه آهنین» تلاشی برای جبران شکست آمریکا است
-       https://www.youtube.com/shorts/Yifiw8jEmDw
-
-    25. [2026-11-09 07:40:52]
-       سی‌ویکمین کنفرانس اقلیمی سازمان ملل در آنتالیا برگزار می‌شود
-       https://www.youtube.com/watch?v=3DEbd43fuHg
-
-    26. [2026-11-09 07:24:16]
-       اکبرین: از نگاه رسانه‌های منطقه، پیشرفت مذاکرات به واقع‌بینانه شدن خواسته‌ها بستگی دارد
-       https://www.youtube.com/watch?v=7cGOqdkOd1U
-
-    27. [2026-11-09 06:58:54]
-       مارکو روبیو: دستیابی جمهوری اسلامی به سلاح هسته‌ای برای کل جهان خطرناک است
-       https://www.youtube.com/shorts/Rshh2OYbGwE
-
-    28. [2026-11-09 06:37:00]
-       حمایت روسیه و چین از جنگ ایران با وجود ادعای بی‌طرفی
-       https://www.youtube.com/watch?v=fP4k9Jf0WGA
-
-    29. [2026-11-09 06:26:30]
-       محمد قائدی: جمهوری اسلامی پس از انتخابات آمریکا هم از خواسته‌هایش عقب‌نشینی نکرده است
-       https://www.youtube.com/watch?v=tK38m8YV6dw
-
-    30. [2026-11-09 06:03:41]
-       آرش آرامش: جمهوری اسلامی از برنامه هسته‌ای نظامی و فعالیت‌های مخرب منطقه‌ای دست نمی‌کشد
-       https://www.youtube.com/watch?v=ZNmoixxcLlE
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | دوشنبه ۱۸ آبان
+       https://soundcloud.com/iranintl/d3pgakycndqz
+
+    32. [Unknown]
        اخبار بامدادی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/kw2uzux4jeec
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/jkduoed0xhtm
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
        https://soundcloud.com/iranintl/1oqqgirbewby
 
-    34. [Unknown]
+    35. [Unknown]
        چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
        https://soundcloud.com/iranintl/5fabjfoccnjf
 
-    35. [Unknown]
+    36. [Unknown]
        تیتراول با نیوشا صارمی: از تنگه هرمز تا ریاض، دور تازه حملات در خاورمیانه
        https://soundcloud.com/iranintl/e8a5ts1wngw9
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/u4xk8xunrjuh
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/wh7pv8oc8s0u
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی  | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/vszneaqpvwgd
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/wwzxwp0hxkji
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: حماسه فرانکفورت؛ شاهزاده :اتحاد برای سرنگونی
        https://soundcloud.com/iranintl/bqgbsiztugkk
 
-    41. [Unknown]
+    42. [Unknown]
        چشم‌انداز: افزایش نفوذ پوتین در ایران بعد از مرگ خامنه‌ای
        https://soundcloud.com/iranintl/vqa0y9etjcsu
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار عصرگاهی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/b6j4gtifgjis
 
-    43. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: اهدای جایزه آزادی به شاهزاده رضا پهلوی؛ تجمع هزاران ایرانی در فرانکفورت
        https://soundcloud.com/iranintl/nidg9ttsc5wb
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/jvto3gpfo09m
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/irbqeofelkti
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار شبانگاهی | شنبه ۱۶ آبان
        https://soundcloud.com/iranintl/4bjemnp49c7j
 
-    47. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد: تهدید امنیتی علیه شاهزاده رضا پهلوی در آلمان
        https://soundcloud.com/iranintl/wqofahnnju2w
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار عصرگاهی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/236tpclgoxam
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار نیم‌روزی | جمعه ۱۵ آبان
        https://soundcloud.com/iranintl/vnsuqjo5klw0
-
-    50. [Unknown]
-       اخبار بامدادی | جمعه ۱۵ آبان
-       https://soundcloud.com/iranintl/rrbj59zbsn3g
 
 ----------------------------------------
 
