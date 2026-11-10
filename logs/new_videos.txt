@@ -4,3 +4,4 @@
 2026-11-10T12:30:46.319868+00:00 | soundcloud | اخبار نیمروزی | سه‌شنبه ۱۹ آبان | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/rr9ijb4nunxu
 2026-11-10T15:15:35.590618+00:00 | youtube | اخبار ساعت شش عصر - سه شنبه ۱۹ آبان - ارزیابی مثبت ترامپ از روند توافق با تهران | 14 minutes ago | https://www.youtube.com/watch?v=tHMVGkyK_IU
 2026-11-10T15:30:45.424600+00:00 | soundcloud | اخبار شبانگاهی | سه‌شنبه ۱۹ آبان | 0 minutes ago | https://soundcloud.com/iranintl/thln12pgq1wx
+2026-11-10T19:30:43.772116+00:00 | youtube | روبیو: فشار اقتصادی موثر است نیاز به حمله نظامی علیه ایران نیست - ۶۰ دقیقه سه‌شنبه ۱۹ آبان | 1 hours ago | https://www.youtube.com/watch?v=WtyCgSkVnIY
