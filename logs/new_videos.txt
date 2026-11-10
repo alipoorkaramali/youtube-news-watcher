@@ -3,3 +3,4 @@
 2026-11-10T11:30:48.067006+00:00 | youtube | اخبار نیمروزی | سه‌شنبه ۱۹ آبان | 19 minutes ago | https://www.youtube.com/watch?v=QDts99h3vpw
 2026-11-10T12:30:46.319868+00:00 | soundcloud | اخبار نیمروزی | سه‌شنبه ۱۹ آبان | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/rr9ijb4nunxu
 2026-11-10T15:15:35.590618+00:00 | youtube | اخبار ساعت شش عصر - سه شنبه ۱۹ آبان - ارزیابی مثبت ترامپ از روند توافق با تهران | 14 minutes ago | https://www.youtube.com/watch?v=tHMVGkyK_IU
+2026-11-10T15:30:45.424600+00:00 | soundcloud | اخبار شبانگاهی | سه‌شنبه ۱۹ آبان | 0 minutes ago | https://soundcloud.com/iranintl/thln12pgq1wx
