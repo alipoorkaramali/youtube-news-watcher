@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-10T15:01:01.220041+00:00
-Generated (Iran): 2026-11-10T18:31:01.220056+00:00
+Generated (UTC):  2026-11-10T19:01:03.918811+00:00
+Generated (Iran): 2026-11-10T22:31:03.918830+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-10 15:00:57]
-       اخبار ساعت شش عصر
+    1. [2026-11-10 18:00:06]
+       روبیو: فشار اقتصادی موثر است نیاز به حمله نظامی علیه ایران نیست - ۶۰ دقیقه سه‌شنبه ۱۹ آبان
+       https://www.youtube.com/watch?v=WtyCgSkVnIY
+
+    2. [2026-11-10 18:03:22]
+       محاکمه مقام پیشین ساواک؛ بعد از نیم قرن
+       https://www.youtube.com/watch?v=xpXYDBJHxNg
+
+    3. [2026-11-10 17:15:31]
+       آندره‌آ گیسلی: از نظر چین ایران نباید شکست بخورد - گفت‌وگوی ویژه
+       https://www.youtube.com/watch?v=c0CdVnin4xg
+
+    4. [2026-11-10 17:02:55]
+       سخنگوی دولت ایران: قطع گاز در تهران محتمل است؛ جام جهان‌نما سه شنبه ۱۹ آبان ۱۴۰۵
+       https://www.youtube.com/watch?v=QT3PPNyuS2k
+
+    5. [2026-11-10 15:36:00]
+       وزارت تعاون، کار و رفاه اجتماعی تغییرات میزان اعتبار کالابرگ را برای خانوارهای ایرانی اعلام کرد.
+       https://www.youtube.com/shorts/NlTQdnfqF5E
+
+    6. [2026-11-10 15:13:20]
+       سرخط خبرها، سه‌شنبه ۱۹ آبان ۱۴۰۵
+       https://www.youtube.com/shorts/qJe3jHXnvwo
+
+    7. [2026-11-10 15:00:57]
+       اخبار ساعت شش عصر - سه شنبه ۱۹ آبان - ارزیابی مثبت ترامپ از روند توافق با تهران
        https://www.youtube.com/watch?v=tHMVGkyK_IU
 
-    2. [2026-11-10 09:24:57]
+    8. [2026-11-10 15:00:21]
+       مستند «جنگجویان خارجی پوتین» روایتهایی بر پایه داستان‌های شخصی چند رزمنده خارجی در جنگ با اوکراین
+       https://www.youtube.com/watch?v=i0cgfx9piHc
+
+    9. [2026-11-10 09:24:57]
        برف پائیزی در ایران، از خلخال تا سد لار
        https://www.youtube.com/shorts/W5zdrqDtqEg
 
-    3. [2026-11-10 09:22:09]
+    10. [2026-11-10 09:22:09]
        انفجار در یک کارخانه فولاد در نزدیکی ازمیر ترکیه، دست‌کم ۱۶ نفر کشته شدند.
        https://www.youtube.com/shorts/000aLGVVNrQ
 
-    4. [2026-11-09 19:31:10]
+    11. [2026-11-09 19:31:10]
        ۶۰ دقیقه دوشنبه ۱۸ آبان- وزیر خارجه قطر در کاخ سفید، نخست‌وزیر عراق در تهران
        https://www.youtube.com/watch?v=OY2FWHaK-yI
 
-    5. [2026-11-09 18:52:38]
+    12. [2026-11-09 18:52:38]
        درخشش برف از خلخال تا سد لار
        https://www.youtube.com/shorts/mmzNl_eAt70
 
-    6. [2026-11-09 17:02:53]
+    13. [2026-11-09 17:02:53]
        فرانسه، سپاه را به حمله سایبری به یخچال فروشگاه‌ها متهم کرد؛ جام جهان‌نما دوشنبه ۱۸ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=zxaw20OsiKA
 
-    7. [2026-11-09 15:55:35]
+    14. [2026-11-09 15:55:35]
        سرخط خبرها، دوشنبه ۱۸ آبان ۱۴۰۵
        https://www.youtube.com/shorts/kr1LtiGxc-U
 
-    8. [2026-11-09 15:03:55]
+    15. [2026-11-09 15:03:55]
        کلیک؛ تهدید کابل‌های اینترنتی در تنگه هرمز
        https://www.youtube.com/shorts/3b0mqVPOEVY
-
-    9. [2026-11-09 15:01:28]
-       اخبار ساعت شش عصر دوشنبه ۱۸ آبان؛ ادامه میانجیگری قطر بین ایران و آمریکا
-       https://www.youtube.com/watch?v=RF0n9_fd0WU
-
-    10. [2026-11-09 14:54:41]
-       روبیو: خواسته‌های ایران مضحک است؛ بقایی: طرح ۲ روزه ایران منطقی‌ترین راه است
-       https://www.youtube.com/shorts/kT_O6LB7Pkw
-
-    11. [2026-11-09 13:46:34]
-       فرود اضطراری یک هواپیمای کوچک در جاده‌ای شلوغ در آمریکا
-       https://www.youtube.com/shorts/YcuA-LiboJQ
-
-    12. [2026-11-09 13:14:33]
-       یک کشته در سقوط هلی‌کوپتر آتش‌نشانی در اندونزی (هشدار: حاوی تصاویر دلخراش است)
-       https://www.youtube.com/shorts/ioPmd_c71Nc
-
-    13. [2026-11-09 10:38:41]
-       مشترک خبرنامه بی‌بی‌سی فارسی شوید
-       https://www.youtube.com/shorts/NzqIWoYBqAE
-
-    14. [2026-11-09 10:18:42]
-       بارندگی‌ها در ایران؛ ۱۸ مجروح در واژگونی اتوبوس تیم بسکتبال سحر
-       https://www.youtube.com/shorts/23UtkQaoI54
-
-    15. [2026-11-09 10:13:41]
-       رد ورود فاضلاب به دریاچه مهارلو در استان فارس
-       https://www.youtube.com/shorts/VlzA147Te1E
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-10 14:59:07]
+    16. [2026-11-10 18:42:35]
+       تشدید تنش‌ها در تنگه هرمز؛ حملات آمریکا به قشم و حمله سپاه به عمان
+       https://www.youtube.com/shorts/EPpWnpFtxNU
+
+    17. [2026-11-10 18:31:58]
+       لغو دقیقه نودی پرواز تیم ملی ایران به عراق با فشار واشینگتن
+       https://www.youtube.com/shorts/vaxdfvLSl8M
+
+    18. [2026-11-10 18:04:23]
+       جنگ؛ امنیت انرژی و بازگشت به سوخت‌های فسیلی
+       https://www.youtube.com/shorts/uw1Je-qXqJ8
+
+    19. [2026-11-10 17:36:10]
+       تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
+       https://www.youtube.com/watch?v=Ikk2gRaDWKw
+
+    20. [2026-11-10 16:41:28]
+       تدارک‌رسانی با هلیکوپتر به ناو هواپیمابر جرج واشینگتن در دریا
+       https://www.youtube.com/shorts/CXojMwdoBQw
+
+    21. [2026-11-10 16:39:23]
+       اقتصاد و بازار: واکنش‌ها به کارزار دروازه آهنین؛ رکوردشکنی تورم مهر ماه
+       https://www.youtube.com/watch?v=Zk-NHAM6d-c
+
+    22. [2026-11-10 16:29:50]
+       چرتکه: شاغلان و بیکاران؛ هر دو محروم از غذا و درمان
+       https://www.youtube.com/shorts/alE6q8qPVPk
+
+    23. [2026-11-10 16:04:49]
+       وزیر راه اسرائیل خطاب به مردم ایران: ناامید نشوید و تغییر را پیگیری کنید
+       https://www.youtube.com/watch?v=R9Ne2Gni-JE
+
+    24. [2026-11-10 15:58:19]
+       هگست: جمهوری اسلامی جنگ با آمریکا را ۴۷ سال پیش آغاز کرد
+       https://www.youtube.com/watch?v=ajhiHckxjd0
+
+    25. [2026-11-10 15:54:15]
+       نازنین شریفیان: آیزنکوت خواهان سرنگونی جمهوری اسلامی است و جایی برای توافق با آن نمی‌بیند
+       https://www.youtube.com/watch?v=yBnJ2HPOqcc
+
+    26. [2026-11-10 15:51:40]
+       سه متهم ایرانی به جاسوسی از خبرنگاران ایران‌اینترنشنال در انتظار حکم دادگاه
+       https://www.youtube.com/watch?v=BYLRWKtRdQk
+
+    27. [2026-11-10 15:38:02]
+       گزارش روز با مجتبا پورمحسن: درخواست نتانیاهو از ترامپ برای آغاز جنگ با ایران
+       https://www.youtube.com/watch?v=bfJ3W3WLhtI
+
+    28. [2026-11-10 15:23:39]
+       اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
+       https://www.youtube.com/watch?v=61cGhwMmgUs
+
+    29. [2026-11-10 15:04:38]
+       واکنش شهروندان به اظهارات سخنگوی دولت درباره قطع گاز
+       https://www.youtube.com/watch?v=UCbch7FeFJo
+
+    30. [2026-11-10 14:59:07]
        تاکید وزیر خارجه آمریکا بر تشدید فشار اقتصادی بر ایران
        https://www.youtube.com/watch?v=avpoj0KC_Ds
-
-    17. [2026-11-10 14:58:29]
-       دفاع پیت هگست از عملکرد خود در جنگ با جمهوری اسلامی، یک روز پس از ارائه طرح استیضاح او
-       https://www.youtube.com/watch?v=DbVCc9YnnLA
-
-    18. [2026-11-10 14:52:32]
-       پیت هگست: جمهوری اسلامی آغازگر جنگ با آمریکا بود
-       https://www.youtube.com/watch?v=D-nCPH1_mCk
-
-    19. [2026-11-10 14:48:40]
-       آغاز به کار پارلمان اسرائیل؛ تلاش‌ها برای تشکیل دولت ادامه دارد
-       https://www.youtube.com/watch?v=hSISohTggNA
-
-    20. [2026-11-10 14:42:45]
-       مارکو روبیو: ایران می‌خواهد مسئله لبنان یکی از شروط آتش‌بس باشد
-       https://www.youtube.com/shorts/Xn3WK6UF_l8
-
-    21. [2026-11-10 14:17:14]
-       مرتضی کاظمیان: معرفی تحریم‌ها به‌عنوان علت مشکلات معیشتی «فریبکاری و دروغ بزرگ» است
-       https://www.youtube.com/watch?v=1R-6ccD67bc
-
-    22. [2026-11-10 14:14:31]
-       پیت هگست: بر فعالیت‌های هسته‌ای ایران نظارت کامل داریم و محاصره دریایی ادامه دارد
-       https://www.youtube.com/shorts/4M7WxyuoCIg
-
-    23. [2026-11-10 14:12:57]
-       روبیو: مردم ایران هزینه رفتارهای رهبرانشان را می‌پردازند
-       https://www.youtube.com/shorts/IbjMMtmxCHk
-
-    24. [2026-11-10 13:53:09]
-       پیت هگست: برای نابودی توان رژیم‌های تروریستی عذرخواهی نمی‌کنیم
-       https://www.youtube.com/shorts/_fSOv4SXag0
-
-    25. [2026-11-10 12:54:04]
-       فرانسه سپاه پاسداران را به حمله سایبری به یخچال‌های فروشگاه‌ها متهم کرد
-       https://www.youtube.com/shorts/xCAzh1lMNsc
-
-    26. [2026-11-10 11:44:54]
-       رسانه‌ها در ایران تصاویری با عنوان «شهر جدید موشکی سپاه پاسداران» منتشر کردند
-       https://www.youtube.com/shorts/mhObE8_CQMI
-
-    27. [2026-11-10 11:39:24]
-       عراق مجوز پرواز مستقیم تیم ملی فوتبال ایران به بصره را لغو کرد
-       https://www.youtube.com/watch?v=zFLTIDVCgVE
-
-    28. [2026-11-10 11:36:24]
-       تعلیق فرزین دبیری به دلیل خودداری از ایستادن هنگام پخش سرود جمهوری اسلامی
-       https://www.youtube.com/watch?v=LtlTjcaJyYs
-
-    29. [2026-11-10 11:22:26]
-       مروری بر روزنامه‌های ایران سه‌شنبه ۱۹ آبان، با مجتبی هاشمی
-       https://www.youtube.com/watch?v=B4oP-9VsLwA
-
-    30. [2026-11-10 11:11:18]
-       اخبار نیمروزی | سه‌شنبه ۱۹ آبان
-       https://www.youtube.com/watch?v=QDts99h3vpw
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
+       https://soundcloud.com/iranintl/5yfv3kcxqf2y
+
+    32. [Unknown]
+       اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
+       https://soundcloud.com/iranintl/jrmfukogztee
+
+    33. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/rr9ijb4nunxu
 
-    32. [Unknown]
+    34. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/vhdns9d1lues
 
-    33. [Unknown]
+    35. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/thln12pgq1wx
 
-    34. [Unknown]
+    36. [Unknown]
        سیاست با مراد ویسی: گوادلوپ چینی؟
        https://soundcloud.com/iranintl/vflwpq2ycljs
 
-    35. [Unknown]
+    37. [Unknown]
        برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
        https://soundcloud.com/iranintl/rlbobp9voax9
 
-    36. [Unknown]
+    38. [Unknown]
        ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
        https://soundcloud.com/iranintl/wyqqezy5lokh
 
-    37. [Unknown]
+    39. [Unknown]
        چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
        https://soundcloud.com/iranintl/cikobrnff5vs
 
-    38. [Unknown]
+    40. [Unknown]
        تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
        https://soundcloud.com/iranintl/ljlxrdx5ez6o
 
-    39. [Unknown]
+    41. [Unknown]
        اخبار عصرگاهی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/6avw0vcoypre
 
-    40. [Unknown]
+    42. [Unknown]
        اخبار نیمروزی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/d3pgakycndqz
 
-    41. [Unknown]
+    43. [Unknown]
        اخبار بامدادی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/kw2uzux4jeec
 
-    42. [Unknown]
+    44. [Unknown]
        اخبار شبانگاهی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/jkduoed0xhtm
 
-    43. [Unknown]
+    45. [Unknown]
        سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
        https://soundcloud.com/iranintl/1oqqgirbewby
 
-    44. [Unknown]
+    46. [Unknown]
        چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
        https://soundcloud.com/iranintl/5fabjfoccnjf
 
-    45. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: از تنگه هرمز تا ریاض، دور تازه حملات در خاورمیانه
        https://soundcloud.com/iranintl/e8a5ts1wngw9
 
-    46. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/u4xk8xunrjuh
 
-    47. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/wh7pv8oc8s0u
 
-    48. [Unknown]
+    50. [Unknown]
        اخبار بامدادی  | یکشنبه ۱۷ آبان
        https://soundcloud.com/iranintl/vszneaqpvwgd
-
-    49. [Unknown]
-       اخبار شبانگاهی | یکشنبه ۱۷ آبان
-       https://soundcloud.com/iranintl/wwzxwp0hxkji
-
-    50. [Unknown]
-       سیاست با مراد ویسی: حماسه فرانکفورت؛ شاهزاده :اتحاد برای سرنگونی
-       https://soundcloud.com/iranintl/bqgbsiztugkk
 
 ----------------------------------------
 
