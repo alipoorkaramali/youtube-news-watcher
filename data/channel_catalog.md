@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-11T11:00:59.347534+00:00
-Generated (Iran): 2026-11-11T14:30:59.347552+00:00
+Generated (UTC):  2026-11-11T15:01:10.391663+00:00
+Generated (Iran): 2026-11-11T18:31:10.391679+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-11 09:23:00]
+    1. [2026-11-11 15:00:18]
+       اخبار ساعت شش عصر- چهارشنبه ۲۰ آبان- اعلام جرم دادگستری آمریکا علیه سه نفر از عوامل حکومت ایران
+       https://www.youtube.com/watch?v=p6XoUpg68n0
+
+    2. [2026-11-11 13:09:49]
+       آب‌گرفتگی شدید محوطه دانشگاه پیام نور باغملک در شمال‌شرق استان خوزستان
+       https://www.youtube.com/shorts/zfaHsDgH66s
+
+    3. [2026-11-11 09:23:00]
        واکنش فردوسی‌پور و دبیری به انتقادها
        https://www.youtube.com/shorts/bjN0BL5YLC8
 
-    2. [2026-11-10 20:49:30]
+    4. [2026-11-10 20:49:30]
        کلیک؛ ماجرای هک سوپرمارکت‌ها که فرانسه گفته کار ایران بوده
        https://www.youtube.com/shorts/r2eGcSaZgjQ
 
-    3. [2026-11-10 19:31:33]
+    5. [2026-11-10 19:31:33]
        ۶۰ دقیقه سه‌شنبه ۱۹ آبان - روبیو: فشار اقتصادی موثر است نیاز به حمله نظامی علیه ایران نیست
        https://www.youtube.com/watch?v=WtyCgSkVnIY
 
-    4. [2026-11-10 18:03:22]
+    6. [2026-11-10 18:03:22]
        محاکمه مقام پیشین ساواک؛ بعد از نیم قرن
        https://www.youtube.com/watch?v=xpXYDBJHxNg
 
-    5. [2026-11-10 17:15:31]
+    7. [2026-11-10 17:15:31]
        آندره‌آ گیسلی: از نظر چین ایران نباید شکست بخورد - گفت‌وگوی ویژه
        https://www.youtube.com/watch?v=c0CdVnin4xg
 
-    6. [2026-11-10 17:02:55]
+    8. [2026-11-10 17:02:55]
        سخنگوی دولت ایران: قطع گاز در تهران محتمل است؛ جام جهان‌نما سه شنبه ۱۹ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=QT3PPNyuS2k
 
-    7. [2026-11-10 15:36:00]
+    9. [2026-11-10 15:36:00]
        وزارت تعاون، کار و رفاه اجتماعی تغییرات میزان اعتبار کالابرگ را برای خانوارهای ایرانی اعلام کرد.
        https://www.youtube.com/shorts/NlTQdnfqF5E
 
-    8. [2026-11-10 15:13:20]
+    10. [2026-11-10 15:13:20]
        سرخط خبرها، سه‌شنبه ۱۹ آبان ۱۴۰۵
        https://www.youtube.com/shorts/qJe3jHXnvwo
 
-    9. [2026-11-10 15:00:57]
+    11. [2026-11-10 15:00:57]
        اخبار ساعت شش عصر - سه شنبه ۱۹ آبان - ارزیابی مثبت ترامپ از روند توافق با تهران
        https://www.youtube.com/watch?v=tHMVGkyK_IU
 
-    10. [2026-11-10 15:00:21]
+    12. [2026-11-10 15:00:21]
        مستند «جنگجویان خارجی پوتین» روایتهایی بر پایه داستان‌های شخصی چند رزمنده خارجی در جنگ با اوکراین
        https://www.youtube.com/watch?v=i0cgfx9piHc
 
-    11. [2026-11-10 09:24:57]
+    13. [2026-11-10 09:24:57]
        برف پائیزی در ایران، از خلخال تا سد لار
        https://www.youtube.com/shorts/W5zdrqDtqEg
 
-    12. [2026-11-10 09:22:09]
+    14. [2026-11-10 09:22:09]
        انفجار در یک کارخانه فولاد در نزدیکی ازمیر ترکیه، دست‌کم ۱۶ نفر کشته شدند.
        https://www.youtube.com/shorts/000aLGVVNrQ
 
-    13. [2026-11-09 19:31:10]
+    15. [2026-11-09 19:31:10]
        ۶۰ دقیقه دوشنبه ۱۸ آبان- وزیر خارجه قطر در کاخ سفید، نخست‌وزیر عراق در تهران
        https://www.youtube.com/watch?v=OY2FWHaK-yI
-
-    14. [2026-11-09 18:52:38]
-       درخشش برف از خلخال تا سد لار
-       https://www.youtube.com/shorts/mmzNl_eAt70
-
-    15. [2026-11-09 17:02:53]
-       فرانسه، سپاه را به حمله سایبری به یخچال فروشگاه‌ها متهم کرد؛ جام جهان‌نما دوشنبه ۱۸ آبان ۱۴۰۵
-       https://www.youtube.com/watch?v=zxaw20OsiKA
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-11 10:18:45]
+    16. [2026-11-11 14:33:19]
+       طرفداران فلسطین در دوبلین به جو بایدن شیر پرتاب کردند
+       https://www.youtube.com/shorts/GEDsJQIa7b4
+
+    17. [2026-11-11 14:25:45]
+       فشار امنیتی بر خانواده جاویدنام بهار شاه‌مهری برای معرفی او به‌عنوان شهید
+       https://www.youtube.com/watch?v=NvHMdtTbcSI
+
+    18. [2026-11-11 13:51:59]
+       حسین آقایی: بیانیه گروه هفت متناسب با تهدیدهای جمهوری اسلامی علیه اروپا نیست
+       https://www.youtube.com/watch?v=TlKH_ilLASI
+
+    19. [2026-11-11 13:19:27]
+       روبیو: درباره آینده لبنان با ایران مذاکره نمی‌کنیم
+       https://www.youtube.com/watch?v=sADJ1kcoYic
+
+    20. [2026-11-11 13:14:16]
+       روایت مخاطبان ایران‌اینترنشنال از افزایش مشکلات خرید با کالابرگ
+       https://www.youtube.com/watch?v=IJmgmVpocYI
+
+    21. [2026-11-11 13:04:20]
+       پنج نکته درباره نشست اقلیمی کاپ ۳۱
+       https://www.youtube.com/shorts/gkOO514A2fs
+
+    22. [2026-11-11 11:56:01]
+       پرونده سه متهم به جاسوسی برای سپاه علیه خبرنگاران ایران‌اینترنشنال در مرحله نهایی
+       https://www.youtube.com/watch?v=BQ4ulYzeBqg
+
+    23. [2026-11-11 11:21:24]
+       عطا حسینیان: جمهوری اسلامی بنزین را پله‌پله به ۷۰ هزار تومان می‌رساند
+       https://www.youtube.com/watch?v=5CKCAfqvqvs
+
+    24. [2026-11-11 11:14:42]
+       اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+       https://www.youtube.com/watch?v=q161DIKLWcI
+
+    25. [2026-11-11 11:14:12]
+       آغاز رزمایش پنج‌روزه ناتو برای شکار زیردریایی‌ها در دریای بالتیک
+       https://www.youtube.com/watch?v=6iQh0qp9pMQ
+
+    26. [2026-11-11 11:12:48]
+       حضور مسعود پزشکیان در اجلاس کاپ ۳۱ با محوریت مقابله با تغییرات اقلیمی
+       https://www.youtube.com/watch?v=F8eFFuzqmA4
+
+    27. [2026-11-11 10:18:45]
        اکثریت صندلی‌های دانشگاه‌های برتر در اختیار فارغ‌التحصیلان مدارس غیردولتی
        https://www.youtube.com/watch?v=vasiNDlCuqY
 
-    17. [2026-11-11 10:06:44]
+    28. [2026-11-11 10:06:44]
        دود از جزیره دیدامار عمان در تنگه هرمز به هوا برخاست
        https://www.youtube.com/shorts/Q-GF3ijRaKk
 
-    18. [2026-11-11 10:05:06]
+    29. [2026-11-11 10:05:06]
        افزایش نگرانی‌های امنیتی ایتالیا از خطر حمله‌های سایبری
        https://www.youtube.com/watch?v=ZXBVOpcX3hI
 
-    19. [2026-11-11 09:59:41]
+    30. [2026-11-11 09:59:41]
        گزارش رسانه‌های آلمان از ارتباط متهمان پرونده فیرفورد با حملات به مراکز یهودی در اروپا
        https://www.youtube.com/watch?v=4Svd7kd7bl8
-
-    20. [2026-11-11 09:56:18]
-       علی‌حسین قاضی‌زاده: محاصره اقتصادی توان جمهوری اسلامی برای هزینه‌های سرکوب را کاهش می‌دهد
-       https://www.youtube.com/watch?v=2wEZoXetpYI
-
-    21. [2026-11-11 09:36:21]
-       حسین آقایی: اروپا باید تهدید موشکی جمهوری اسلامی را جدی بگیرد
-       https://www.youtube.com/watch?v=uzJpKSKXheU
-
-    22. [2026-11-11 09:36:15]
-       مرتضی کاظمیان: بقای جمهوری اسلامی به بهای کوچک شدن سفره مردم تمام می‌شود
-       https://www.youtube.com/watch?v=7iZy6R9gLHE
-
-    23. [2026-11-11 09:20:01]
-       گزارش وزارت دادگستری آمریکا از نقش سپاه و کتائب حزب‌الله در طراحی حمله به پایگاه فیرفورد
-       https://www.youtube.com/watch?v=jCIdFVy1PN4
-
-    24. [2026-11-11 09:18:21]
-       پیام‌های اعتراضی شهروندان به رونمایی سپاه از شهر موشکی در بحبوحه بحران معیشتی
-       https://www.youtube.com/watch?v=ns2p1bQTcwA
-
-    25. [2026-11-11 08:57:09]
-       پزشکیان برای شرکت در اجلاس کاپ ۳۱ وارد آنتالیا شد
-       https://www.youtube.com/shorts/NOWfHCpakjc
-
-    26. [2026-11-11 08:23:52]
-       نتانیاهو: تهران برای احیای هسته‌ای تلاش می‌کند
-       https://www.youtube.com/watch?v=U8rLAzpjTnk
-
-    27. [2026-11-11 08:21:09]
-       برگزاری اجلاس اقلیمی کاپ ۳۱ در آنتالیا با محوریت چالش‌های زیست‌محیطی
-       https://www.youtube.com/watch?v=7plNDejnUmo
-
-    28. [2026-11-11 08:19:09]
-       گسترش ماموریت دریایی کره جنوبی در نزدیک تنگه هرمز
-       https://www.youtube.com/watch?v=husyUZJd_go
-
-    29. [2026-11-11 08:11:16]
-       حسین علیزاده: اقدامات سایبری جمهوری اسلامی بخشی از راهبرد تلافی‌جویانه آن است
-       https://www.youtube.com/watch?v=mpc2W8ZqOh8
-
-    30. [2026-11-11 08:09:45]
-       محمدجواد اکبرین: اختلاف بر سر تعهدات و ترتیب اجرای توافق، مانع اصلی مذاکرات است
-       https://www.youtube.com/watch?v=SdSsFlyJArQ
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+       https://soundcloud.com/iranintl/onmem9p0zd84
+
+    32. [Unknown]
        اخبار بامدادی |چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/6c77aocqcxab
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/qdvazj3xvd4y
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
        https://soundcloud.com/iranintl/kqq3acfte4vj
 
-    34. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
        https://soundcloud.com/iranintl/whismclg1iug
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
        https://soundcloud.com/iranintl/eumzoag44sea
 
-    36. [Unknown]
+    37. [Unknown]
        چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
        https://soundcloud.com/iranintl/3vhqpzbzh0kn
 
-    37. [Unknown]
+    38. [Unknown]
        تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
        https://soundcloud.com/iranintl/5yfv3kcxqf2y
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/jrmfukogztee
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/rr9ijb4nunxu
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/vhdns9d1lues
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/thln12pgq1wx
 
-    42. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: گوادلوپ چینی؟
        https://soundcloud.com/iranintl/vflwpq2ycljs
 
-    43. [Unknown]
+    44. [Unknown]
        برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
        https://soundcloud.com/iranintl/rlbobp9voax9
 
-    44. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
        https://soundcloud.com/iranintl/wyqqezy5lokh
 
-    45. [Unknown]
+    46. [Unknown]
        چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
        https://soundcloud.com/iranintl/cikobrnff5vs
 
-    46. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
        https://soundcloud.com/iranintl/ljlxrdx5ez6o
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/6avw0vcoypre
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/d3pgakycndqz
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | دوشنبه ۱۸ آبان
        https://soundcloud.com/iranintl/kw2uzux4jeec
-
-    50. [Unknown]
-       اخبار شبانگاهی | دوشنبه ۱۸ آبان
-       https://soundcloud.com/iranintl/jkduoed0xhtm
 
 ----------------------------------------
 
