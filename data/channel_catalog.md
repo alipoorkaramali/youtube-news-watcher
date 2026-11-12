@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-12T11:01:05.326654+00:00
-Generated (Iran): 2026-11-12T14:31:05.326672+00:00
+Generated (UTC):  2026-11-12T15:00:57.216298+00:00
+Generated (Iran): 2026-11-12T18:30:57.216312+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-11 19:31:52]
+    1. [2026-11-12 14:00:00]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=AbAhR3LiilE
+
+    2. [2026-11-12 14:45:07]
+       آب و رنج‌های ایرانی‌اش؛ «کارون»
+       https://www.youtube.com/shorts/a4B3imF8muQ
+
+    3. [2026-11-12 14:01:05]
+       فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
+       https://www.youtube.com/watch?v=Ur4pR3Iy0Mo
+
+    4. [2026-11-11 19:31:52]
        گسترش «تهدید ایران» در خاک اروپا - ۶۰ دقیقه چهارشنبه ۱۹ آبان
        https://www.youtube.com/watch?v=bCrxoov5cQE
 
-    2. [2026-11-11 17:32:12]
+    5. [2026-11-11 17:32:12]
        نجات یک پاراگلایدر سوار پس از سه ساعت گیر کردن روی سیم برق فشار قوی
        https://www.youtube.com/shorts/JCwWx7unwC4
 
-    3. [2026-11-11 17:02:17]
+    6. [2026-11-11 17:02:17]
        جام جهان‌نما چهارشنبه ۲۰ آبان- آیا ایران به دنبال تغییر عمق راهبردی‌اش به اروپاست؟
        https://www.youtube.com/watch?v=aB_Z5Yq6HVg
 
-    4. [2026-11-11 17:00:15]
+    7. [2026-11-11 17:00:15]
        پرگار پلاس: ضعف‌های امنیتی اسرائیل در گفت‌وگوی داریوش کریمی با نوید توبیان
        https://www.youtube.com/watch?v=G5r9GVX6Kjc
 
-    5. [2026-11-11 16:28:13]
+    8. [2026-11-11 16:28:13]
        مردی یک ساختمان دولتی در چین را با بیل مکانیکی تخریب کرد
        https://www.youtube.com/shorts/H_FgeXx04so
 
-    6. [2026-11-11 16:25:39]
+    9. [2026-11-11 16:25:39]
        لحظه انفجار باتری یک دوچرخه برقی و شروع آتش‌سوزی
        https://www.youtube.com/shorts/GzFJfCTC9wg
 
-    7. [2026-11-11 15:06:39]
+    10. [2026-11-11 15:06:39]
        اعماق سیاه دارک وب - مستند، قسمت سوم
        https://www.youtube.com/watch?v=sR1LFl8iJZk
 
-    8. [2026-11-11 15:03:06]
+    11. [2026-11-11 15:03:06]
        اعماق سیاه دارک وب - مستند، قسمت دوم
        https://www.youtube.com/watch?v=LuUZzuyoR0A
 
-    9. [2026-11-11 15:00:18]
+    12. [2026-11-11 15:00:18]
        اخبار ساعت شش عصر- چهارشنبه ۲۰ آبان- اعلام جرم دادگستری آمریکا علیه سه نفر از عوامل حکومت ایران
        https://www.youtube.com/watch?v=p6XoUpg68n0
 
-    10. [2026-11-11 15:00:16]
+    13. [2026-11-11 15:00:16]
        اعماق سیاه دارک وب - مستند قسمت اول
        https://www.youtube.com/watch?v=xaHoRy9PqmA
 
-    11. [2026-11-11 13:09:49]
+    14. [2026-11-11 13:09:49]
        آب‌گرفتگی شدید محوطه دانشگاه پیام نور باغملک در شمال‌شرق استان خوزستان
        https://www.youtube.com/shorts/zfaHsDgH66s
 
-    12. [2026-11-11 09:23:00]
+    15. [2026-11-11 09:23:00]
        واکنش فردوسی‌پور و دبیری به انتقادها
        https://www.youtube.com/shorts/bjN0BL5YLC8
-
-    13. [2026-11-10 20:49:30]
-       کلیک؛ ماجرای هک سوپرمارکت‌ها که فرانسه گفته کار ایران بوده
-       https://www.youtube.com/shorts/r2eGcSaZgjQ
-
-    14. [2026-11-10 19:31:33]
-       ۶۰ دقیقه سه‌شنبه ۱۹ آبان - روبیو: فشار اقتصادی موثر است نیاز به حمله نظامی علیه ایران نیست
-       https://www.youtube.com/watch?v=WtyCgSkVnIY
-
-    15. [2026-11-10 18:03:22]
-       محاکمه مقام پیشین ساواک؛ بعد از نیم قرن
-       https://www.youtube.com/watch?v=xpXYDBJHxNg
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-12 10:43:23]
+    16. [2026-11-12 14:13:14]
+       چرتکه: فرسایش معیشت خانوارها و افزایش خطر بیکاری در ایران
+       https://www.youtube.com/shorts/TT-ydhaa3Lo
+
+    17. [2026-11-12 14:11:24]
+       واکنش کاربران رسانه‌های اجتماعی به اظهارات مقام‌های جمهوری اسلامی درباره تاب‌آوری مردم
+       https://www.youtube.com/watch?v=MqEwuYJ7agM
+
+    18. [2026-11-12 13:32:05]
+       محکومیت دو ایرانی در بریتانیا به همکاری با جمهوری اسلامی علیه ایران‌اینترنشنال
+       https://www.youtube.com/shorts/ZcNGzGdgRIk
+
+    19. [2026-11-12 13:30:07]
+       دیدار پوتین با ویتکاف و کوشنر پس از مذاکرات صلح ابوظبی
+       https://www.youtube.com/shorts/N-LZZajXMyA
+
+    20. [2026-11-12 13:22:26]
+       افزایش فشار بر خانواده‌های دادخواه در آستانه سالگرد کشتار دی‌ماه
+       https://www.youtube.com/watch?v=ftfqF6mZH7c
+
+    21. [2026-11-12 11:56:00]
+       محکومیت دو متهم پرونده طراحی حمله به خبرنگاران ایران‌اینترنشنال در لندن
+       https://www.youtube.com/watch?v=K4CiRn8W1d8
+
+    22. [2026-11-12 11:42:01]
+       طائب: ترامپ از پوتین خواست تا میانجی واشینگتن و تهران بشود
+       https://www.youtube.com/shorts/QKFUzhsNyEw
+
+    23. [2026-11-12 11:21:15]
+       اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+       https://www.youtube.com/watch?v=qJNx6Pu5Sy0
+
+    24. [2026-11-12 11:19:24]
+       آغاز تحقیقات عراق درباره قاچاق نفت از مسیر ایران به افغانستان
+       https://www.youtube.com/watch?v=8wMykf605TQ
+
+    25. [2026-11-12 11:01:46]
+       فرانسه به‌دنبال تشدید تحریم‌های جمهوری اسلامی پس از حمله سایبری
+       https://www.youtube.com/watch?v=ygSaC8QzChM
+
+    26. [2026-11-12 10:43:23]
        دست‌کم دو کشته و ۱۷ مجروح در پی ریزش ساختمان در بروکلین
        https://www.youtube.com/shorts/dD5A9s_0GAA
 
-    17. [2026-11-12 10:26:46]
+    27. [2026-11-12 10:26:46]
        واکنش آرژانتین به تروریستی اعلام شدن نیروی دریایی و هوایی این کشور از سوی جمهوری اسلامی
        https://www.youtube.com/watch?v=CmEVoKHxuu0
 
-    18. [2026-11-12 10:25:36]
+    28. [2026-11-12 10:25:36]
        آخرین روز نشست اقلیمی کاپ ۳۱ در آنتالیا با تمرکز بر اجرای تعهدات زیست‌محیطی
        https://www.youtube.com/watch?v=ivR622_E3AE
 
-    19. [2026-11-12 10:17:33]
+    29. [2026-11-12 10:17:33]
        ادامه تحقیقات درباره تهدیدهای بمب‌گذاری در بیش از شش هزار مدرسه ایتالیا
        https://www.youtube.com/watch?v=P5mSC8xMukc
 
-    20. [2026-11-12 09:11:26]
+    30. [2026-11-12 09:11:26]
        گزارش شهروندان از کمبود و آلودگی آرد و تعطیلی نانوایی‌ها در شهرهای مختلف
        https://www.youtube.com/watch?v=E3GBOeuatIA
-
-    21. [2026-11-12 09:06:38]
-       بحران‌های داخلی محیط زیست ایران در سخنرانی اقلیمی پزشکیان جایی نداشت
-       https://www.youtube.com/shorts/SxIrHtXssOw
-
-    22. [2026-11-12 09:05:20]
-       بیانیه گروه هفت در محکومیت اقدامات جمهوری اسلامی
-       https://www.youtube.com/watch?v=O1Uzm-0upMw
-
-    23. [2026-11-12 09:04:14]
-       مرتضی کاظمیان: رجزخوانی مقامات جمهوری اسلامی، منافع ملی ایران را قربانی می‌کند
-       https://www.youtube.com/watch?v=jjFEhZ5tKGU
-
-    24. [2026-11-12 07:49:12]
-       حمله اسرائیل به بیمارستان ناصر در خان‌یونس با هدف قرار دادن فرمانده ارشد حماس
-       https://www.youtube.com/watch?v=mNqDDW6Zp_c
-
-    25. [2026-11-12 07:08:49]
-       آمادگی پاکستان برای اعزام نیرو به عربستان در چارچوب پیمان دفاعی مکه
-       https://www.youtube.com/watch?v=fJhGOL62eUM
-
-    26. [2026-11-12 07:02:56]
-       روح‌الله رحیم‌پور: دیدار احتمالی ونس با محسن رضایی برای اعلام مطالبات حداکثری آمریکا است
-       https://www.youtube.com/watch?v=yaHEQD880jY
-
-    27. [2026-11-12 06:48:53]
-       وزارت خزانه‌داری آمریکا: تهدیدهای جمهوری اسلامی مانع فشار اقتصادی بر تهران نمی‌شود
-       https://www.youtube.com/watch?v=OkGqbxMw_vA
-
-    28. [2026-11-12 05:07:30]
-       اخبار بامدادی | پنج‌شنبه ۲۱ آبان
-       https://www.youtube.com/watch?v=4CbZQj8A77A
-
-    29. [2026-11-12 05:05:07]
-       احتمال برکناری مدیرعامل انویدیا پس از افشای روابط خارج از ازدواج
-       https://www.youtube.com/watch?v=JYiqSbOVwmQ
-
-    30. [2026-11-12 05:02:06]
-       افزایش وابستگی جمهوری اسلامی به چین در سایه تحریم‌ها
-       https://www.youtube.com/watch?v=yY4b0vhH1dE
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+       https://soundcloud.com/iranintl/o6qtre3hknup
+
+    32. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۲۱ آبان
        https://soundcloud.com/iranintl/69nrtbucyja9
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
        https://soundcloud.com/iranintl/n5mmleyaagiu
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
        https://soundcloud.com/iranintl/g7e5u3adbnvg
 
-    34. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
        https://soundcloud.com/iranintl/pifhyhptvtnu
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
        https://soundcloud.com/iranintl/tmstanyhe9zu
 
-    36. [Unknown]
+    37. [Unknown]
        چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
        https://soundcloud.com/iranintl/z3cuasyfzky8
 
-    37. [Unknown]
+    38. [Unknown]
        تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
        https://soundcloud.com/iranintl/wlscsglszr1b
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/xqk0rgpkkgex
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/onmem9p0zd84
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار بامدادی |چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/6c77aocqcxab
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/qdvazj3xvd4y
 
-    42. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
        https://soundcloud.com/iranintl/kqq3acfte4vj
 
-    43. [Unknown]
+    44. [Unknown]
        برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
        https://soundcloud.com/iranintl/whismclg1iug
 
-    44. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
        https://soundcloud.com/iranintl/eumzoag44sea
 
-    45. [Unknown]
+    46. [Unknown]
        چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
        https://soundcloud.com/iranintl/3vhqpzbzh0kn
 
-    46. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
        https://soundcloud.com/iranintl/5yfv3kcxqf2y
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/jrmfukogztee
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/rr9ijb4nunxu
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | سه‌شنبه ۱۹ آبان
        https://soundcloud.com/iranintl/vhdns9d1lues
-
-    50. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
-       https://soundcloud.com/iranintl/thln12pgq1wx
 
 ----------------------------------------
 
