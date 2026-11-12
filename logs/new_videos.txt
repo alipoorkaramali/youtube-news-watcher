@@ -2,3 +2,4 @@
 2026-11-12T06:30:43.829280+00:00 | soundcloud | اخبار بامدادی | پنج‌شنبه ۲۱ آبان | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/69nrtbucyja9
 2026-11-12T12:30:45.405198+00:00 | youtube | اخبار نیم‌روزی | پنجشنبه ۲۱ آبان | 1 hours ago | https://www.youtube.com/watch?v=qJNx6Pu5Sy0
 2026-11-12T15:15:37.797794+00:00 | youtube | اخبار ساعت شش عصر | 14 minutes ago | https://www.youtube.com/watch?v=AbAhR3LiilE
+2026-11-12T15:30:47.622550+00:00 | soundcloud | اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان | 0 minutes ago | https://soundcloud.com/iranintl/n5mmleyaagiu
