@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-13T11:01:12.668177+00:00
-Generated (Iran): 2026-11-13T14:31:12.668195+00:00
+Generated (UTC):  2026-11-13T15:01:07.757245+00:00
+Generated (Iran): 2026-11-13T18:31:07.757264+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-12 18:30:02]
+    1. [2026-11-13 15:00:20]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=q1e41uwU_bE
+
+    2. [2026-11-12 18:30:02]
        تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
        https://www.youtube.com/watch?v=vASLgie_ZhU
 
-    2. [2026-11-12 18:03:28]
+    3. [2026-11-12 18:03:28]
        نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
        https://www.youtube.com/watch?v=X3NlICyuGGc
 
-    3. [2026-11-12 17:02:48]
+    4. [2026-11-12 17:02:48]
        جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
        https://www.youtube.com/watch?v=rGIR_9aoDu8
 
-    4. [2026-11-12 16:19:44]
+    5. [2026-11-12 16:19:44]
        از خانه تا آسمان: زنان پهپادران هند
        https://www.youtube.com/shorts/m6RVKrusySo
 
-    5. [2026-11-12 16:00:29]
+    6. [2026-11-12 16:00:29]
        رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
        https://www.youtube.com/watch?v=rgKUm5j0y9g
 
-    6. [2026-11-12 15:46:09]
+    7. [2026-11-12 15:46:09]
        طائب: سفر رضایی به مسکو به درخواست ترامپ بود
        https://www.youtube.com/shorts/Z73oLe-cWfE
 
-    7. [2026-11-12 15:44:59]
+    8. [2026-11-12 15:44:59]
        پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
        https://www.youtube.com/watch?v=XaL3RbLccac
 
-    8. [2026-11-12 15:00:58]
+    9. [2026-11-12 15:00:58]
        اخبار ساعت شش عصر- پنج‌شنبه ۳۱ آبان- ترامپ: به توافق نیاز نداریم
        https://www.youtube.com/watch?v=AbAhR3LiilE
 
-    9. [2026-11-12 14:45:07]
+    10. [2026-11-12 14:45:07]
        آب و رنج‌های ایرانی‌اش؛ «کارون»
        https://www.youtube.com/shorts/a4B3imF8muQ
 
-    10. [2026-11-12 14:01:05]
+    11. [2026-11-12 14:01:05]
        فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
        https://www.youtube.com/watch?v=Ur4pR3Iy0Mo
 
-    11. [2026-11-11 19:31:52]
+    12. [2026-11-11 19:31:52]
        گسترش «تهدید ایران» در خاک اروپا - ۶۰ دقیقه چهارشنبه ۱۹ آبان
        https://www.youtube.com/watch?v=bCrxoov5cQE
 
-    12. [2026-11-11 17:32:12]
+    13. [2026-11-11 17:32:12]
        نجات یک پاراگلایدر سوار پس از سه ساعت گیر کردن روی سیم برق فشار قوی
        https://www.youtube.com/shorts/JCwWx7unwC4
 
-    13. [2026-11-11 17:02:17]
+    14. [2026-11-11 17:02:17]
        جام جهان‌نما چهارشنبه ۲۰ آبان- آیا ایران به دنبال تغییر عمق راهبردی‌اش به اروپاست؟
        https://www.youtube.com/watch?v=aB_Z5Yq6HVg
 
-    14. [2026-11-11 17:00:15]
+    15. [2026-11-11 17:00:15]
        پرگار پلاس: ضعف‌های امنیتی اسرائیل در گفت‌وگوی داریوش کریمی با نوید توبیان
        https://www.youtube.com/watch?v=G5r9GVX6Kjc
-
-    15. [2026-11-11 16:28:13]
-       مردی یک ساختمان دولتی در چین را با بیل مکانیکی تخریب کرد
-       https://www.youtube.com/shorts/H_FgeXx04so
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-13 10:56:44]
+    16. [2026-11-13 14:29:53]
+       آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
+       https://www.youtube.com/watch?v=d61Mvsm2Kiw
+
+    17. [2026-11-13 13:34:13]
+       نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
+       https://www.youtube.com/watch?v=y1HAYHkU940
+
+    18. [2026-11-13 13:21:41]
+       عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
+       https://www.youtube.com/watch?v=Q0NxYEHTTio
+
+    19. [2026-11-13 13:20:39]
+       تشدید فشارهای امنیتی و قضایی بر دانشجویان و دانش‌آموزان در ایران
+       https://www.youtube.com/watch?v=7NN6RydKD6g
+
+    20. [2026-11-13 12:16:34]
+       قالیباف: ادامه جنگ منطقه را ناامن‌تر خواهد کرد
+       https://www.youtube.com/shorts/PL3F74HlmyY
+
+    21. [2026-11-13 12:05:29]
+       واکنش‌ها به محکومیت عوامل طرح حمله به خبرنگاران ایران‌اینترنشنال
+       https://www.youtube.com/watch?v=39DWRHLbS-Q
+
+    22. [2026-11-13 12:03:15]
+       قالیباف: تنگه هرمز به وضعیت پیش از جنگ بازنمی‌گردد
+       https://www.youtube.com/shorts/lNKHegZyzjw
+
+    23. [2026-11-13 11:48:51]
+       نقش دفتر امام جمعه قروه در سرکوب معترضان و شلیک به مردم
+       https://www.youtube.com/watch?v=mCgFox6wYRA
+
+    24. [2026-11-13 11:16:25]
+       احتمال گرانی دوباره بنزین آزاد
+       https://www.youtube.com/watch?v=7wtP9j6_-p8
+
+    25. [2026-11-13 11:15:50]
+       احتمال نقش جمهوری اسلامی در حملات سایبری به سامانه‌های سرمایشی فرانسه و بلژیک
+       https://www.youtube.com/watch?v=7KWw9eN6V3c
+
+    26. [2026-11-13 10:56:44]
        علی حسین قاضی‌زاده: ترامپ برای پایان تهدیدهای جمهوری اسلامی راهی جز ساقط کردن حکومت ندارد
        https://www.youtube.com/watch?v=nNE6rorc3XQ
 
-    17. [2026-11-13 10:54:16]
+    27. [2026-11-13 10:54:16]
        اخبار نیم‌روزی | جمعه ۲۲ آبان
        https://www.youtube.com/watch?v=jr_w2_DzVTA
 
-    18. [2026-11-13 10:40:06]
-       قالیباف: تنگه هرمز به وضعیت پیش از جنگ بازنمی‌گردد
-       https://www.youtube.com/shorts/26LEetr-P6o
-
-    19. [2026-11-13 10:17:56]
+    28. [2026-11-13 10:17:56]
        منشه امیر: فرماندهان ارتش اسرائیل با حمله یک‌جانبه به ایران موافق نیستند
        https://www.youtube.com/watch?v=05Jry4bsVU8
 
-    20. [2026-11-13 09:56:30]
+    29. [2026-11-13 09:56:30]
        افزایش نگرانی آژانس درباره تاسیسات زیرزمینی غنی‌سازی اورانیوم در اصفهان
        https://www.youtube.com/watch?v=AI_0IAdN0qQ
 
-    21. [2026-11-13 09:45:36]
+    30. [2026-11-13 09:45:36]
        آلودگی هوای تهران از فراز قله توچال
        https://www.youtube.com/shorts/unKvMCovDCo
-
-    22. [2026-11-13 09:30:00]
-       اختلال جهانی در سامانه‌های مایکروسافت و قطع دسترسی میلیون‌ها کاربر
-       https://www.youtube.com/watch?v=X3zJyw59YKA
-
-    23. [2026-11-13 09:18:17]
-       روایت مخاطبان ایران‌اینترنشنال از پرداخت نشدن حقوق و بیمه بیکاری
-       https://www.youtube.com/watch?v=yl-rD6muZk8
-
-    24. [2026-11-13 09:14:16]
-       حسین علیزاده: پرونده جمهوری اسلامی برای ترامپ به مسئله‌ای حیثیتی تبدیل شده است
-       https://www.youtube.com/watch?v=Z_i3zNcTg1I
-
-    25. [2026-11-13 09:03:20]
-       انفجار و آتش‌سوزی کشتی حامل گاز مایع در شرق تنگه هرمز
-       https://www.youtube.com/shorts/bvkwfrGMf0g
-
-    26. [2026-11-13 08:27:43]
-       از حال رفتن یکی از اعضای گارد تشریفات هنگام ورود رییس‌جمهور اسلواکی به پاریس
-       https://www.youtube.com/shorts/RD_DK2TIdRs
-
-    27. [2026-11-13 08:06:07]
-       نشست امنیتی و دیپلماتیک نتانیاهو و آیزنکوت، رقیب سیاسی‌اش، در اورشلیم
-       https://www.youtube.com/watch?v=YTrptQLpdyI
-
-    28. [2026-11-13 07:24:44]
-       ایمان آقایاری: جمهوری اسلامی برای حفظ سلطه خود با جامعه مقابله می‌کند
-       https://www.youtube.com/watch?v=NLT1ytJGh_U
-
-    29. [2026-11-13 07:21:50]
-       محمدجواد اکبرین: فصل بازدارندگی جمهوری اسلامی گذشته و دوران فروپاشی آغاز شده است
-       https://www.youtube.com/watch?v=YJAgF_nFsaE
-
-    30. [2026-11-13 05:05:03]
-       امید معماریان: جمهوری اسلامی می‌خواهد مرزهای سرکوب را به خارج از ایران گسترش دهد
-       https://www.youtube.com/watch?v=vKDd8pyDuS0
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | جمعه ۲۲ آبان
+       https://soundcloud.com/iranintl/fxf9rrxxffdi
+
+    32. [Unknown]
        اخبار بامدادی | جمعه ۲۲ آبان
        https://soundcloud.com/iranintl/rxhtlmnsm9n8
 
-    32. [Unknown]
+    33. [Unknown]
        برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
        https://soundcloud.com/iranintl/mgtwlwc0fivb
 
-    33. [Unknown]
+    34. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
        https://soundcloud.com/iranintl/k0f5prgtlkb5
 
-    34. [Unknown]
+    35. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
        https://soundcloud.com/iranintl/fzzgc7at5gjq
 
-    35. [Unknown]
+    36. [Unknown]
        دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
        https://soundcloud.com/iranintl/nmxddrxy0spx
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | پنجشنبه ۲۱ آبان
        https://soundcloud.com/iranintl/b918q7uffcf9
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
        https://soundcloud.com/iranintl/o6qtre3hknup
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۲۱ آبان
        https://soundcloud.com/iranintl/69nrtbucyja9
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
        https://soundcloud.com/iranintl/n5mmleyaagiu
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
        https://soundcloud.com/iranintl/g7e5u3adbnvg
 
-    41. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
        https://soundcloud.com/iranintl/pifhyhptvtnu
 
-    42. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
        https://soundcloud.com/iranintl/tmstanyhe9zu
 
-    43. [Unknown]
+    44. [Unknown]
        چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
        https://soundcloud.com/iranintl/z3cuasyfzky8
 
-    44. [Unknown]
+    45. [Unknown]
        تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
        https://soundcloud.com/iranintl/wlscsglszr1b
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/xqk0rgpkkgex
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/onmem9p0zd84
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار بامدادی |چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/6c77aocqcxab
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۰ آبان
        https://soundcloud.com/iranintl/qdvazj3xvd4y
 
-    49. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
        https://soundcloud.com/iranintl/kqq3acfte4vj
-
-    50. [Unknown]
-       برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
-       https://soundcloud.com/iranintl/whismclg1iug
 
 ----------------------------------------
 
