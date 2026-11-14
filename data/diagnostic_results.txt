@@ -4,388 +4,150 @@ Saved channels: 2 YouTube, 2 SoundCloud
 
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['اخبار ساعت شش']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-   https://www.youtube.com/watch?v=Ur4pR3Iy0Mo
-   2026-11-13T18:30:10+00:00
-2. دو گارد ریاست جمهوری فرانسه در مراسم استقبال از حال رفتنتد.
-   https://www.youtube.com/shorts/6L96bGcA5S8
-   2026-11-13T17:30:17+00:00
-3. تبادل آتش ایران و آمریکا در دو سوی خلیج فارس؛ جام جهان‌نما جمعه ۲۲ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=piZVf2bjRhk
-   2026-11-13T17:02:40+00:00
-4. کلیک؛ راز توزیع به‌موقع قسمت جدید جی‌تی‌ای
-   https://www.youtube.com/watch?v=74kNfDMKk5k
-   2026-11-13T17:00:12+00:00
-5. پیدا شدن نوجوان ۱۷ ساله استرالیایی بعد از شش روز
-   https://www.youtube.com/shorts/foxrl2o_EZA
-   2026-11-13T16:54:23+00:00
-6. فرماندار دموکرات کالیفرنیا: کشته شدن دانش‌آموزان مدرسه میناب «مایه شرمساری» است
-   https://www.youtube.com/shorts/axPF5WPxfO0
-   2026-11-13T16:24:50+00:00
-7. اخبار ساعت شش عصر- جمعه ۲۲ آبان: تبادل آتش بین ایران و آمریکا در خلیج فارس
-   https://www.youtube.com/watch?v=q1e41uwU_bE
-   2026-11-13T15:00:20+00:00
-8. تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
-   https://www.youtube.com/watch?v=vASLgie_ZhU
-   2026-11-12T18:30:02+00:00
-9. نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
-   https://www.youtube.com/watch?v=X3NlICyuGGc
-   2026-11-12T18:03:28+00:00
-10. جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
-   https://www.youtube.com/watch?v=rGIR_9aoDu8
-   2026-11-12T17:02:48+00:00
-11. از خانه تا آسمان: زنان پهپادران هند
-   https://www.youtube.com/shorts/m6RVKrusySo
-   2026-11-12T16:19:44+00:00
-12. رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
-   https://www.youtube.com/watch?v=rgKUm5j0y9g
-   2026-11-12T16:00:29+00:00
-13. طائب: سفر رضایی به مسکو به درخواست ترامپ بود
-   https://www.youtube.com/shorts/Z73oLe-cWfE
-   2026-11-12T15:46:09+00:00
-14. پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
-   https://www.youtube.com/watch?v=XaL3RbLccac
-   2026-11-12T15:44:59+00:00
-15. اخبار ساعت شش عصر- پنج‌شنبه ۲۱ آبان- ترامپ: به توافق نیاز نداریم
-   https://www.youtube.com/watch?v=AbAhR3LiilE
-   2026-11-12T15:00:58+00:00
-Keyword matches:
-  [    ] فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-  [    ] دو گارد ریاست جمهوری فرانسه در مراسم استقبال از حال رفتنتد.
-  [    ] تبادل آتش ایران و آمریکا در دو سوی خلیج فارس؛ جام جهان‌نما جمعه ۲۲ آبان ۱۴۰۵
-  [    ] کلیک؛ راز توزیع به‌موقع قسمت جدید جی‌تی‌ای
-  [    ] پیدا شدن نوجوان ۱۷ ساله استرالیایی بعد از شش روز
-  [    ] فرماندار دموکرات کالیفرنیا: کشته شدن دانش‌آموزان مدرسه میناب «مایه شرمساری» است
-  [MATCH] اخبار ساعت شش عصر- جمعه ۲۲ آبان: تبادل آتش بین ایران و آمریکا در خلیج فارس
-  [    ] تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
-  [    ] نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
-  [    ] جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
-  [    ] از خانه تا آسمان: زنان پهپادران هند
-  [    ] رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
-  [    ] طائب: سفر رضایی به مسکو به درخواست ترامپ بود
-  [    ] پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
-  [MATCH] اخبار ساعت شش عصر- پنج‌شنبه ۲۱ آبان- ترامپ: به توافق نیاز نداریم
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+No titles
 
 Item: platform=youtube, id=UCHZk9MrT3DGWmVqdsj5y0EA, keywords=['۶۰ دقیقه']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-   https://www.youtube.com/watch?v=Ur4pR3Iy0Mo
-   2026-11-13T18:30:10+00:00
-2. دو گارد ریاست جمهوری فرانسه در مراسم استقبال از حال رفتنتد.
-   https://www.youtube.com/shorts/6L96bGcA5S8
-   2026-11-13T17:30:17+00:00
-3. تبادل آتش ایران و آمریکا در دو سوی خلیج فارس؛ جام جهان‌نما جمعه ۲۲ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=piZVf2bjRhk
-   2026-11-13T17:02:40+00:00
-4. کلیک؛ راز توزیع به‌موقع قسمت جدید جی‌تی‌ای
-   https://www.youtube.com/watch?v=74kNfDMKk5k
-   2026-11-13T17:00:12+00:00
-5. پیدا شدن نوجوان ۱۷ ساله استرالیایی بعد از شش روز
-   https://www.youtube.com/shorts/foxrl2o_EZA
-   2026-11-13T16:54:23+00:00
-6. فرماندار دموکرات کالیفرنیا: کشته شدن دانش‌آموزان مدرسه میناب «مایه شرمساری» است
-   https://www.youtube.com/shorts/axPF5WPxfO0
-   2026-11-13T16:24:50+00:00
-7. اخبار ساعت شش عصر- جمعه ۲۲ آبان: تبادل آتش بین ایران و آمریکا در خلیج فارس
-   https://www.youtube.com/watch?v=q1e41uwU_bE
-   2026-11-13T15:00:20+00:00
-8. تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
-   https://www.youtube.com/watch?v=vASLgie_ZhU
-   2026-11-12T18:30:02+00:00
-9. نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
-   https://www.youtube.com/watch?v=X3NlICyuGGc
-   2026-11-12T18:03:28+00:00
-10. جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
-   https://www.youtube.com/watch?v=rGIR_9aoDu8
-   2026-11-12T17:02:48+00:00
-11. از خانه تا آسمان: زنان پهپادران هند
-   https://www.youtube.com/shorts/m6RVKrusySo
-   2026-11-12T16:19:44+00:00
-12. رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
-   https://www.youtube.com/watch?v=rgKUm5j0y9g
-   2026-11-12T16:00:29+00:00
-13. طائب: سفر رضایی به مسکو به درخواست ترامپ بود
-   https://www.youtube.com/shorts/Z73oLe-cWfE
-   2026-11-12T15:46:09+00:00
-14. پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
-   https://www.youtube.com/watch?v=XaL3RbLccac
-   2026-11-12T15:44:59+00:00
-15. اخبار ساعت شش عصر- پنج‌شنبه ۲۱ آبان- ترامپ: به توافق نیاز نداریم
-   https://www.youtube.com/watch?v=AbAhR3LiilE
-   2026-11-12T15:00:58+00:00
-Keyword matches:
-  [    ] فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-  [    ] دو گارد ریاست جمهوری فرانسه در مراسم استقبال از حال رفتنتد.
-  [    ] تبادل آتش ایران و آمریکا در دو سوی خلیج فارس؛ جام جهان‌نما جمعه ۲۲ آبان ۱۴۰۵
-  [    ] کلیک؛ راز توزیع به‌موقع قسمت جدید جی‌تی‌ای
-  [    ] پیدا شدن نوجوان ۱۷ ساله استرالیایی بعد از شش روز
-  [    ] فرماندار دموکرات کالیفرنیا: کشته شدن دانش‌آموزان مدرسه میناب «مایه شرمساری» است
-  [    ] اخبار ساعت شش عصر- جمعه ۲۲ آبان: تبادل آتش بین ایران و آمریکا در خلیج فارس
-  [    ] تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
-  [    ] نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
-  [    ] جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
-  [    ] از خانه تا آسمان: زنان پهپادران هند
-  [    ] رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
-  [    ] طائب: سفر رضایی به مسکو به درخواست ترامپ بود
-  [    ] پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
-  [    ] اخبار ساعت شش عصر- پنج‌شنبه ۲۱ آبان- ترامپ: به توافق نیاز نداریم
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
+No titles
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار بامدادی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-   https://www.youtube.com/watch?v=WYtcpbENEcg
-   2026-11-13T18:42:08+00:00
-2. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/shorts/IlUwzUu5v4g
-   2026-11-13T18:37:39+00:00
-3. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/watch?v=kUp-Ssg8UXk
-   2026-11-13T18:34:12+00:00
-4. کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-   https://www.youtube.com/watch?v=lSlu_YrRPAI
-   2026-11-13T17:32:25+00:00
-5. اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-   https://www.youtube.com/watch?v=0ScAMCHqQnQ
-   2026-11-13T17:24:08+00:00
-6. Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-   https://www.youtube.com/watch?v=mOnpVF_aSmk
-   2026-11-13T17:15:33+00:00
-7. ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-   https://www.youtube.com/watch?v=VY8OGrTA9sw
-   2026-11-13T16:22:11+00:00
-8. طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-   https://www.youtube.com/watch?v=NJNTLRJjL6c
-   2026-11-13T16:13:10+00:00
-9. نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-   https://www.youtube.com/watch?v=A_qPYlZMTWU
-   2026-11-13T16:05:42+00:00
-10. جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-   https://www.youtube.com/shorts/3_H-SyQFBCA
-   2026-11-13T16:05:25+00:00
-11. محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-   https://www.youtube.com/shorts/js2X5Vz1oac
-   2026-11-13T15:04:53+00:00
-12. اخبار عصرگاهی | جمعه ۲۲ آبان
-   https://www.youtube.com/watch?v=tlXQq9Q535E
-   2026-11-13T15:00:34+00:00
-13. آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-   https://www.youtube.com/watch?v=d61Mvsm2Kiw
-   2026-11-13T14:29:53+00:00
-14. نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-   https://www.youtube.com/watch?v=y1HAYHkU940
-   2026-11-13T13:34:13+00:00
-15. عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
-   https://www.youtube.com/watch?v=Q0NxYEHTTio
-   2026-11-13T13:21:41+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-  [    ] اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-  [    ] Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-  [    ] ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-  [    ] طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-  [    ] نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-  [    ] جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-  [    ] محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-  [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
-  [    ] آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-  [    ] نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-  [    ] عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['اخبار شبانگاهی']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-   https://www.youtube.com/watch?v=WYtcpbENEcg
-   2026-11-13T18:42:08+00:00
-2. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/shorts/IlUwzUu5v4g
-   2026-11-13T18:37:39+00:00
-3. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/watch?v=kUp-Ssg8UXk
-   2026-11-13T18:34:12+00:00
-4. کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-   https://www.youtube.com/watch?v=lSlu_YrRPAI
-   2026-11-13T17:32:25+00:00
-5. اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-   https://www.youtube.com/watch?v=0ScAMCHqQnQ
-   2026-11-13T17:24:08+00:00
-6. Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-   https://www.youtube.com/watch?v=mOnpVF_aSmk
-   2026-11-13T17:15:33+00:00
-7. ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-   https://www.youtube.com/watch?v=VY8OGrTA9sw
-   2026-11-13T16:22:11+00:00
-8. طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-   https://www.youtube.com/watch?v=NJNTLRJjL6c
-   2026-11-13T16:13:10+00:00
-9. نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-   https://www.youtube.com/watch?v=A_qPYlZMTWU
-   2026-11-13T16:05:42+00:00
-10. جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-   https://www.youtube.com/shorts/3_H-SyQFBCA
-   2026-11-13T16:05:25+00:00
-11. محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-   https://www.youtube.com/shorts/js2X5Vz1oac
-   2026-11-13T15:04:53+00:00
-12. اخبار عصرگاهی | جمعه ۲۲ آبان
-   https://www.youtube.com/watch?v=tlXQq9Q535E
-   2026-11-13T15:00:34+00:00
-13. آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-   https://www.youtube.com/watch?v=d61Mvsm2Kiw
-   2026-11-13T14:29:53+00:00
-14. نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-   https://www.youtube.com/watch?v=y1HAYHkU940
-   2026-11-13T13:34:13+00:00
-15. عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
-   https://www.youtube.com/watch?v=Q0NxYEHTTio
-   2026-11-13T13:21:41+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-  [    ] اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-  [    ] Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-  [    ] ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-  [    ] طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-  [    ] نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-  [    ] جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-  [    ] محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-  [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
-  [    ] آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-  [    ] نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-  [    ] عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار بامدادی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۲۲ آبان
+1. اخبار شبانگاهی | شنبه ۲۳ آبان
+   https://soundcloud.com/iranintl/lplmrb0cfyzj
+   Unknown
+2. ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
+   https://soundcloud.com/iranintl/h0it92uv5oqt
+   Unknown
+3. اخبار عصرگاهی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/3g9moxgicxyy
    Unknown
-2. اخبار نیم‌روزی | جمعه ۲۲ آبان
+4. اخبار نیم‌روزی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/fxf9rrxxffdi
    Unknown
-3. اخبار بامدادی | جمعه ۲۲ آبان
+5. اخبار بامدادی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/rxhtlmnsm9n8
    Unknown
-4. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
+6. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
    https://soundcloud.com/iranintl/mgtwlwc0fivb
    Unknown
-5. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+7. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/k0f5prgtlkb5
    Unknown
-6. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+8. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/fzzgc7at5gjq
    Unknown
-7. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
+9. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
    https://soundcloud.com/iranintl/nmxddrxy0spx
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
+10. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/b918q7uffcf9
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+11. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/o6qtre3hknup
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
+12. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/69nrtbucyja9
    Unknown
-11. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
+13. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/n5mmleyaagiu
    Unknown
-12. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
+14. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
    https://soundcloud.com/iranintl/g7e5u3adbnvg
    Unknown
-13. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
+15. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
    https://soundcloud.com/iranintl/pifhyhptvtnu
    Unknown
-14. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
+16. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
    https://soundcloud.com/iranintl/tmstanyhe9zu
    Unknown
-15. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
+17. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
    https://soundcloud.com/iranintl/z3cuasyfzky8
    Unknown
-16. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
+18. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
    https://soundcloud.com/iranintl/wlscsglszr1b
    Unknown
-17. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
+19. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/xqk0rgpkkgex
    Unknown
-18. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+20. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/onmem9p0zd84
    Unknown
-19. اخبار بامدادی |چهارشنبه ۲۰ آبان
+21. اخبار بامدادی |چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/6c77aocqcxab
    Unknown
-20. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
+22. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/qdvazj3xvd4y
    Unknown
-21. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
+23. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
    https://soundcloud.com/iranintl/kqq3acfte4vj
    Unknown
-22. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
+24. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
    https://soundcloud.com/iranintl/whismclg1iug
    Unknown
-23. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
+25. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
    https://soundcloud.com/iranintl/eumzoag44sea
    Unknown
-24. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
+26. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
    https://soundcloud.com/iranintl/3vhqpzbzh0kn
    Unknown
-25. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
+27. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
    https://soundcloud.com/iranintl/5yfv3kcxqf2y
    Unknown
-26. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
+28. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/jrmfukogztee
    Unknown
-27. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
+29. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/rr9ijb4nunxu
    Unknown
-28. اخبار بامدادی | سه‌شنبه ۱۹ آبان
+30. اخبار بامدادی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/vhdns9d1lues
    Unknown
-29. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
+31. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/thln12pgq1wx
    Unknown
-30. سیاست با مراد ویسی: گوادلوپ چینی؟
+32. سیاست با مراد ویسی: گوادلوپ چینی؟
    https://soundcloud.com/iranintl/vflwpq2ycljs
    Unknown
-31. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
+33. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
    https://soundcloud.com/iranintl/rlbobp9voax9
    Unknown
-32. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
+34. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
    https://soundcloud.com/iranintl/wyqqezy5lokh
    Unknown
-33. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
+35. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
    https://soundcloud.com/iranintl/cikobrnff5vs
    Unknown
-34. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
+36. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
    https://soundcloud.com/iranintl/ljlxrdx5ez6o
    Unknown
-35. اخبار عصرگاهی | دوشنبه ۱۸ آبان
+37. اخبار عصرگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/6avw0vcoypre
    Unknown
-36. اخبار نیمروزی | دوشنبه ۱۸ آبان
+38. اخبار نیمروزی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/d3pgakycndqz
    Unknown
-37. اخبار بامدادی | دوشنبه ۱۸ آبان
+39. اخبار بامدادی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/kw2uzux4jeec
    Unknown
-38. اخبار شبانگاهی | دوشنبه ۱۸ آبان
+40. اخبار شبانگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/jkduoed0xhtm
    Unknown
-39. سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-   https://soundcloud.com/iranintl/1oqqgirbewby
-   Unknown
-40. چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-   https://soundcloud.com/iranintl/5fabjfoccnjf
-   Unknown
 Titles:
+  [    ] اخبار شبانگاهی | شنبه ۲۳ آبان
+  [    ] ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
   [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
   [    ] اخبار نیم‌روزی | جمعه ۲۲ آبان
   [MATCH] اخبار بامدادی | جمعه ۲۲ آبان
@@ -424,133 +186,133 @@ Titles:
   [    ] اخبار نیمروزی | دوشنبه ۱۸ آبان
   [MATCH] اخبار بامدادی | دوشنبه ۱۸ آبان
   [    ] اخبار شبانگاهی | دوشنبه ۱۸ آبان
-  [    ] سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-  [    ] چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار نیمروزی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۲۲ آبان
+1. اخبار شبانگاهی | شنبه ۲۳ آبان
+   https://soundcloud.com/iranintl/lplmrb0cfyzj
+   Unknown
+2. ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
+   https://soundcloud.com/iranintl/h0it92uv5oqt
+   Unknown
+3. اخبار عصرگاهی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/3g9moxgicxyy
    Unknown
-2. اخبار نیم‌روزی | جمعه ۲۲ آبان
+4. اخبار نیم‌روزی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/fxf9rrxxffdi
    Unknown
-3. اخبار بامدادی | جمعه ۲۲ آبان
+5. اخبار بامدادی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/rxhtlmnsm9n8
    Unknown
-4. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
+6. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
    https://soundcloud.com/iranintl/mgtwlwc0fivb
    Unknown
-5. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+7. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/k0f5prgtlkb5
    Unknown
-6. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+8. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/fzzgc7at5gjq
    Unknown
-7. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
+9. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
    https://soundcloud.com/iranintl/nmxddrxy0spx
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
+10. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/b918q7uffcf9
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+11. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/o6qtre3hknup
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
+12. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/69nrtbucyja9
    Unknown
-11. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
+13. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/n5mmleyaagiu
    Unknown
-12. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
+14. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
    https://soundcloud.com/iranintl/g7e5u3adbnvg
    Unknown
-13. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
+15. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
    https://soundcloud.com/iranintl/pifhyhptvtnu
    Unknown
-14. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
+16. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
    https://soundcloud.com/iranintl/tmstanyhe9zu
    Unknown
-15. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
+17. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
    https://soundcloud.com/iranintl/z3cuasyfzky8
    Unknown
-16. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
+18. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
    https://soundcloud.com/iranintl/wlscsglszr1b
    Unknown
-17. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
+19. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/xqk0rgpkkgex
    Unknown
-18. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+20. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/onmem9p0zd84
    Unknown
-19. اخبار بامدادی |چهارشنبه ۲۰ آبان
+21. اخبار بامدادی |چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/6c77aocqcxab
    Unknown
-20. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
+22. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/qdvazj3xvd4y
    Unknown
-21. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
+23. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
    https://soundcloud.com/iranintl/kqq3acfte4vj
    Unknown
-22. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
+24. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
    https://soundcloud.com/iranintl/whismclg1iug
    Unknown
-23. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
+25. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
    https://soundcloud.com/iranintl/eumzoag44sea
    Unknown
-24. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
+26. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
    https://soundcloud.com/iranintl/3vhqpzbzh0kn
    Unknown
-25. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
+27. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
    https://soundcloud.com/iranintl/5yfv3kcxqf2y
    Unknown
-26. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
+28. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/jrmfukogztee
    Unknown
-27. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
+29. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/rr9ijb4nunxu
    Unknown
-28. اخبار بامدادی | سه‌شنبه ۱۹ آبان
+30. اخبار بامدادی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/vhdns9d1lues
    Unknown
-29. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
+31. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/thln12pgq1wx
    Unknown
-30. سیاست با مراد ویسی: گوادلوپ چینی؟
+32. سیاست با مراد ویسی: گوادلوپ چینی؟
    https://soundcloud.com/iranintl/vflwpq2ycljs
    Unknown
-31. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
+33. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
    https://soundcloud.com/iranintl/rlbobp9voax9
    Unknown
-32. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
+34. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
    https://soundcloud.com/iranintl/wyqqezy5lokh
    Unknown
-33. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
+35. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
    https://soundcloud.com/iranintl/cikobrnff5vs
    Unknown
-34. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
+36. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
    https://soundcloud.com/iranintl/ljlxrdx5ez6o
    Unknown
-35. اخبار عصرگاهی | دوشنبه ۱۸ آبان
+37. اخبار عصرگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/6avw0vcoypre
    Unknown
-36. اخبار نیمروزی | دوشنبه ۱۸ آبان
+38. اخبار نیمروزی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/d3pgakycndqz
    Unknown
-37. اخبار بامدادی | دوشنبه ۱۸ آبان
+39. اخبار بامدادی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/kw2uzux4jeec
    Unknown
-38. اخبار شبانگاهی | دوشنبه ۱۸ آبان
+40. اخبار شبانگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/jkduoed0xhtm
    Unknown
-39. سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-   https://soundcloud.com/iranintl/1oqqgirbewby
-   Unknown
-40. چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-   https://soundcloud.com/iranintl/5fabjfoccnjf
-   Unknown
 Titles:
+  [    ] اخبار شبانگاهی | شنبه ۲۳ آبان
+  [    ] ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
   [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
   [    ] اخبار نیم‌روزی | جمعه ۲۲ آبان
   [    ] اخبار بامدادی | جمعه ۲۲ آبان
@@ -589,133 +351,133 @@ Titles:
   [MATCH] اخبار نیمروزی | دوشنبه ۱۸ آبان
   [    ] اخبار بامدادی | دوشنبه ۱۸ آبان
   [    ] اخبار شبانگاهی | دوشنبه ۱۸ آبان
-  [    ] سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-  [    ] چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/iranintl, keywords=['اخبار شبانگاهی']
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۲۲ آبان
+1. اخبار شبانگاهی | شنبه ۲۳ آبان
+   https://soundcloud.com/iranintl/lplmrb0cfyzj
+   Unknown
+2. ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
+   https://soundcloud.com/iranintl/h0it92uv5oqt
+   Unknown
+3. اخبار عصرگاهی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/3g9moxgicxyy
    Unknown
-2. اخبار نیم‌روزی | جمعه ۲۲ آبان
+4. اخبار نیم‌روزی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/fxf9rrxxffdi
    Unknown
-3. اخبار بامدادی | جمعه ۲۲ آبان
+5. اخبار بامدادی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/rxhtlmnsm9n8
    Unknown
-4. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
+6. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
    https://soundcloud.com/iranintl/mgtwlwc0fivb
    Unknown
-5. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+7. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/k0f5prgtlkb5
    Unknown
-6. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+8. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/fzzgc7at5gjq
    Unknown
-7. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
+9. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
    https://soundcloud.com/iranintl/nmxddrxy0spx
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
+10. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/b918q7uffcf9
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+11. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/o6qtre3hknup
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
+12. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/69nrtbucyja9
    Unknown
-11. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
+13. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/n5mmleyaagiu
    Unknown
-12. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
+14. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
    https://soundcloud.com/iranintl/g7e5u3adbnvg
    Unknown
-13. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
+15. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
    https://soundcloud.com/iranintl/pifhyhptvtnu
    Unknown
-14. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
+16. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
    https://soundcloud.com/iranintl/tmstanyhe9zu
    Unknown
-15. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
+17. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
    https://soundcloud.com/iranintl/z3cuasyfzky8
    Unknown
-16. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
+18. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
    https://soundcloud.com/iranintl/wlscsglszr1b
    Unknown
-17. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
+19. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/xqk0rgpkkgex
    Unknown
-18. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+20. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/onmem9p0zd84
    Unknown
-19. اخبار بامدادی |چهارشنبه ۲۰ آبان
+21. اخبار بامدادی |چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/6c77aocqcxab
    Unknown
-20. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
+22. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/qdvazj3xvd4y
    Unknown
-21. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
+23. سیاست با مراد ویسی: جنگ یا توافق؟ تصمیم ترامپ چیست؟
    https://soundcloud.com/iranintl/kqq3acfte4vj
    Unknown
-22. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
+24. برنامه با کامبیز حسینی | آیا جنگ برای شما تمام شده؟
    https://soundcloud.com/iranintl/whismclg1iug
    Unknown
-23. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
+25. ۲۴ با فرداد فرحزاد: روبیو: آماده حملات ویرانگر علیه جمهوری اسلامی هستیم
    https://soundcloud.com/iranintl/eumzoag44sea
    Unknown
-24. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
+26. چشم‌انداز: اهداف پشت پرده سپاه از حمله نظامی سایبری به فرانسه
    https://soundcloud.com/iranintl/3vhqpzbzh0kn
    Unknown
-25. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
+27. تیتراول با نیوشا صارمی: حملات پیاپی آمریکا به مواضع سپاه در قشم و حمله ایران به خاک عمان
    https://soundcloud.com/iranintl/5yfv3kcxqf2y
    Unknown
-26. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
+28. اخبار عصرگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/jrmfukogztee
    Unknown
-27. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
+29. اخبار نیمروزی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/rr9ijb4nunxu
    Unknown
-28. اخبار بامدادی | سه‌شنبه ۱۹ آبان
+30. اخبار بامدادی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/vhdns9d1lues
    Unknown
-29. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
+31. اخبار شبانگاهی | سه‌شنبه ۱۹ آبان
    https://soundcloud.com/iranintl/thln12pgq1wx
    Unknown
-30. سیاست با مراد ویسی: گوادلوپ چینی؟
+32. سیاست با مراد ویسی: گوادلوپ چینی؟
    https://soundcloud.com/iranintl/vflwpq2ycljs
    Unknown
-31. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
+33. برنامه با کامبیز حسینی | چه چیزهایی از سبد خرید مردم حذف شده؟
    https://soundcloud.com/iranintl/rlbobp9voax9
    Unknown
-32. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
+34. ۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
    https://soundcloud.com/iranintl/wyqqezy5lokh
    Unknown
-33. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
+35. چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
    https://soundcloud.com/iranintl/cikobrnff5vs
    Unknown
-34. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
+36. تیتراول با نیوشا صارمی: از دیدار ترامپ و نخست‌وزیر قطر تا ورود چین،روسیه و ترکیه برای جلوگیری از جنگ
    https://soundcloud.com/iranintl/ljlxrdx5ez6o
    Unknown
-35. اخبار عصرگاهی | دوشنبه ۱۸ آبان
+37. اخبار عصرگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/6avw0vcoypre
    Unknown
-36. اخبار نیمروزی | دوشنبه ۱۸ آبان
+38. اخبار نیمروزی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/d3pgakycndqz
    Unknown
-37. اخبار بامدادی | دوشنبه ۱۸ آبان
+39. اخبار بامدادی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/kw2uzux4jeec
    Unknown
-38. اخبار شبانگاهی | دوشنبه ۱۸ آبان
+40. اخبار شبانگاهی | دوشنبه ۱۸ آبان
    https://soundcloud.com/iranintl/jkduoed0xhtm
    Unknown
-39. سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-   https://soundcloud.com/iranintl/1oqqgirbewby
-   Unknown
-40. چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-   https://soundcloud.com/iranintl/5fabjfoccnjf
-   Unknown
 Titles:
+  [MATCH] اخبار شبانگاهی | شنبه ۲۳ آبان
+  [    ] ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
   [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
   [    ] اخبار نیم‌روزی | جمعه ۲۲ آبان
   [    ] اخبار بامدادی | جمعه ۲۲ آبان
@@ -754,133 +516,132 @@ Titles:
   [    ] اخبار نیمروزی | دوشنبه ۱۸ آبان
   [    ] اخبار بامدادی | دوشنبه ۱۸ آبان
   [MATCH] اخبار شبانگاهی | دوشنبه ۱۸ آبان
-  [    ] سیاست با مراد ویسی: ناو هواپیمابر روزولت وارد تنگه مالاکا شد، حمله با سه ناو هواپیمابر؟
-  [    ] چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
 
 Item: platform=soundcloud_playlist, id=https://soundcloud.com/bbcpersian, keywords=['جام جهان\u200cنما']
 SoundCloud: https://soundcloud.com/bbcpersian
 Found 80 tracks
-1. جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
+1. جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
+   https://soundcloud.com/bbcpersian/51nd6rwat9ls
+   Unknown
+2. جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/kr48oiad4ovj
    Unknown
-2. جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
+3. جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/39rga0glqgld
    Unknown
-3. جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
+4. جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/vg0slahxxaod
    Unknown
-4. جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
+5. جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ux2jhrv9jwdx
    Unknown
-5. جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
+6. جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/bswk71jgjx3e
    Unknown
-6. جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
+7. جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/mkrkfphnzb0u
    Unknown
-7. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
+8. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aftpn1o6mz2j
    Unknown
-8. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
+9. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tdewbcufj69z
    Unknown
-9. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
+10. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/apnprmidcamp
    Unknown
-10. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
+11. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
    Unknown
-11. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
+12. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ta3xowpwecqc
    Unknown
-12. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
+13. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/69ge1phs8lhw
    Unknown
-13. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
+14. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/h244yhcrje4j
    Unknown
-14. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
+15. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hreeuwmgp25m
    Unknown
-15. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
+16. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/eyb3fnfnowkn
    Unknown
-16. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
+17. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hgxnfvv0maji
    Unknown
-17. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
+18. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aeto5nc5rx3v
    Unknown
-18. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
+19. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tftdka4eokwn
    Unknown
-19. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
+20. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/enkhnonj4san
    Unknown
-20. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
+21. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/lbyf89xgizov
    Unknown
-21. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
+22. جام جهان‌نما ۲۳ اکتبر ۲۰۲۶ / ۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/jq2lgtbenddj
    Unknown
-22. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
+23. جام جهان‌نما ۲۲ اکتبر ۲۰۲۶ / ۳۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/dl7v3kaxdhcq
    Unknown
-23. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
+24. جام جهان‌نما ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/crbvwjfbcma6
    Unknown
-24. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
+25. جام جهان‌نما ۲۰ اکتبر ۲۰۲۶ / ۲۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/8ys75f0kbyvh
    Unknown
-25. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
+26. جام جهان‌نما ۱۹ اکتبر ۲۰۲۶ / ۲۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/l8cbozddpo54
    Unknown
-26. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
+27. جام جهان‌نما ۱۸ اکتبر ۲۰۲۶ / ۲۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/6nqd6rhsdgnw
    Unknown
-27. جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
+28. جام جهان‌نما ۱۷ اکتبر ۲۰۲۶ / ۲۵ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/8mizwndjy06n
    Unknown
-28. جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
+29. جام جهان‌نما ۱۶ اکتبر ۲۰۲۶ / ۲۴ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/oinrtb0mlb0d
    Unknown
-29. جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
+30. جام جهان‌نما ۱۵ اکتبر ۲۰۲۶ / ۲۳ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/kp6t5z60wmwp
    Unknown
-30. جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
+31. جام جهان‌نما ۱۴ اکتبر ۲۰۲۶ /  ۲۲ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/3leaz3mmtrle
    Unknown
-31. جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
+32. جام جهان‌نما ۱۳ اکتبر ۲۰۲۶ / ۲۱ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/mgujxdjzq4zk
    Unknown
-32. جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
+33. جام جهان‌نما ۱۲ اکتبر ۲۰۲۶ / ۲۰ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/eibj7xtmt6mn
    Unknown
-33. جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
+34. جام جهان‌نما ۱۱ اکتبر ۲۰۲۶ / ۱۹ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/wwkpzfaiwruj
    Unknown
-34. جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
+35. جام جهان‌نما ۱۰ اکتبر ۲۰۲۶ / ۱۸ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/rndpj72hvy9y
    Unknown
-35. جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
+36. جام جهان‌نما ۹ اکتبر ۲۰۲۶ / ۱۷ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/swmt3gl9dmgh
    Unknown
-36. جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
+37. جام جهان‌نما ۸ اکتبر ۲۰۲۶ / ۱۶ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/vdxllmratlqu
    Unknown
-37. جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
+38. جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/6hxjyonsexu0
    Unknown
-38. جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
+39. جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/r9w1jubcdswh
    Unknown
-39. جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
+40. جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
    https://soundcloud.com/bbcpersian/d1dqyvdknspf
    Unknown
-40. جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
-   https://soundcloud.com/bbcpersian/eyznhsmcixdq
-   Unknown
 Titles:
+  [MATCH] جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
   [MATCH] جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
@@ -920,291 +681,140 @@ Titles:
   [MATCH] جام جهان‌نما ۷ اکتبر ۲۰۲۶ / ۱۵ مهر ۱۴۰۵
   [MATCH] جام جهان‌نما ۶ اکتبر ۲۰۲۶ / ۱۴ مهر ۱۴۰۵
   [MATCH] جام جهان‌نما ۵ اکتبر ۲۰۲۶ / ۱۳ مهر ۱۴۰۵
-  [MATCH] جام جهان‌نما ۴ اکتبر ۲۰۲۶ / ۱۲ مهر ۱۴۰۵
 
 Item: platform=youtube, id=UCat6bC0Wrqq9Bcq7EkH_yQw, keywords=['نیم']
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-   https://www.youtube.com/watch?v=WYtcpbENEcg
-   2026-11-13T18:42:08+00:00
-2. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/shorts/IlUwzUu5v4g
-   2026-11-13T18:37:39+00:00
-3. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/watch?v=kUp-Ssg8UXk
-   2026-11-13T18:34:12+00:00
-4. کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-   https://www.youtube.com/watch?v=lSlu_YrRPAI
-   2026-11-13T17:32:25+00:00
-5. اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-   https://www.youtube.com/watch?v=0ScAMCHqQnQ
-   2026-11-13T17:24:08+00:00
-6. Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-   https://www.youtube.com/watch?v=mOnpVF_aSmk
-   2026-11-13T17:15:33+00:00
-7. ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-   https://www.youtube.com/watch?v=VY8OGrTA9sw
-   2026-11-13T16:22:11+00:00
-8. طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-   https://www.youtube.com/watch?v=NJNTLRJjL6c
-   2026-11-13T16:13:10+00:00
-9. نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-   https://www.youtube.com/watch?v=A_qPYlZMTWU
-   2026-11-13T16:05:42+00:00
-10. جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-   https://www.youtube.com/shorts/3_H-SyQFBCA
-   2026-11-13T16:05:25+00:00
-11. محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-   https://www.youtube.com/shorts/js2X5Vz1oac
-   2026-11-13T15:04:53+00:00
-12. اخبار عصرگاهی | جمعه ۲۲ آبان
-   https://www.youtube.com/watch?v=tlXQq9Q535E
-   2026-11-13T15:00:34+00:00
-13. آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-   https://www.youtube.com/watch?v=d61Mvsm2Kiw
-   2026-11-13T14:29:53+00:00
-14. نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-   https://www.youtube.com/watch?v=y1HAYHkU940
-   2026-11-13T13:34:13+00:00
-15. عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
-   https://www.youtube.com/watch?v=Q0NxYEHTTio
-   2026-11-13T13:21:41+00:00
-Keyword matches:
-  [    ] حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-  [    ] کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-  [    ] اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-  [    ] Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-  [    ] ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-  [    ] طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-  [    ] نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-  [    ] جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-  [    ] محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-  [    ] اخبار عصرگاهی | جمعه ۲۲ آبان
-  [    ] آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-  [    ] نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-  [    ] عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
+No titles
 Building channel_catalog.md
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
-Found 15 videos in feed
-1. فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-   https://www.youtube.com/watch?v=Ur4pR3Iy0Mo
-   2026-11-13T18:30:10+00:00
-2. دو گارد ریاست جمهوری فرانسه در مراسم استقبال از حال رفتنتد.
-   https://www.youtube.com/shorts/6L96bGcA5S8
-   2026-11-13T17:30:17+00:00
-3. تبادل آتش ایران و آمریکا در دو سوی خلیج فارس؛ جام جهان‌نما جمعه ۲۲ آبان ۱۴۰۵
-   https://www.youtube.com/watch?v=piZVf2bjRhk
-   2026-11-13T17:02:40+00:00
-4. کلیک؛ راز توزیع به‌موقع قسمت جدید جی‌تی‌ای
-   https://www.youtube.com/watch?v=74kNfDMKk5k
-   2026-11-13T17:00:12+00:00
-5. پیدا شدن نوجوان ۱۷ ساله استرالیایی بعد از شش روز
-   https://www.youtube.com/shorts/foxrl2o_EZA
-   2026-11-13T16:54:23+00:00
-6. فرماندار دموکرات کالیفرنیا: کشته شدن دانش‌آموزان مدرسه میناب «مایه شرمساری» است
-   https://www.youtube.com/shorts/axPF5WPxfO0
-   2026-11-13T16:24:50+00:00
-7. اخبار ساعت شش عصر- جمعه ۲۲ آبان: تبادل آتش بین ایران و آمریکا در خلیج فارس
-   https://www.youtube.com/watch?v=q1e41uwU_bE
-   2026-11-13T15:00:20+00:00
-8. تهدیدهای تازه ایران علیه اروپا و آمریکا، کارگروه دروازه آهنین و بیشتر: خبرنگاران
-   https://www.youtube.com/watch?v=vASLgie_ZhU
-   2026-11-12T18:30:02+00:00
-9. نگرانی تازه آمریکا از برنامه هسته‌ای ایران چیست؟ صفحه ۲
-   https://www.youtube.com/watch?v=X3NlICyuGGc
-   2026-11-12T18:03:28+00:00
-10. جام جهان‌نما پنجشنبه ۲۱  آبان ۱۴۰۵؛ دادگاه لندن دو جاسوس ایرانی را مجرم شناخت
-   https://www.youtube.com/watch?v=rGIR_9aoDu8
-   2026-11-12T17:02:48+00:00
-11. از خانه تا آسمان: زنان پهپادران هند
-   https://www.youtube.com/shorts/m6RVKrusySo
-   2026-11-12T16:19:44+00:00
-12. رنگآهنگ: گفت‌وگو با سارا امینی، درباره احمد ظاهر و «پروانه» از پالت
-   https://www.youtube.com/watch?v=rgKUm5j0y9g
-   2026-11-12T16:00:29+00:00
-13. طائب: سفر رضایی به مسکو به درخواست ترامپ بود
-   https://www.youtube.com/shorts/Z73oLe-cWfE
-   2026-11-12T15:46:09+00:00
-14. پسری نوجوان که هر دو پایش را از دست داده، اما عشقش به فوتبال را نه
-   https://www.youtube.com/watch?v=XaL3RbLccac
-   2026-11-12T15:44:59+00:00
-15. اخبار ساعت شش عصر- پنج‌شنبه ۲۱ آبان- ترامپ: به توافق نیاز نداریم
-   https://www.youtube.com/watch?v=AbAhR3LiilE
-   2026-11-12T15:00:58+00:00
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHZk9MrT3DGWmVqdsj5y0EA
 Youtube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
-Found 15 videos in feed
-1. حرف آخر با پوریا زراعتی - ترامپ به بی‌بی: آماده‌ی جنگ باش
-   https://www.youtube.com/watch?v=WYtcpbENEcg
-   2026-11-13T18:42:08+00:00
-2. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/shorts/IlUwzUu5v4g
-   2026-11-13T18:37:39+00:00
-3. گفت‌وگوی ویژه با شهلا شفیق، نویسنده و جامعه‌شناس
-   https://www.youtube.com/watch?v=kUp-Ssg8UXk
-   2026-11-13T18:34:12+00:00
-4. کانون نویسندگان ایران: پنج روزنامه‌نگار و شاعر آبادانی بار دیگر محاکمه شدند
-   https://www.youtube.com/watch?v=lSlu_YrRPAI
-   2026-11-13T17:32:25+00:00
-5. اسکات بسنت: تهدیدهای جمهوری اسلامی نشانه موفقیت فشار اقتصادی آمریکاست
-   https://www.youtube.com/watch?v=0ScAMCHqQnQ
-   2026-11-13T17:24:08+00:00
-6. Rezaei is suddenly Tehran’s man to watch. Or is he? | Eye for Iran | EP 129 |
-   https://www.youtube.com/watch?v=mOnpVF_aSmk
-   2026-11-13T17:15:33+00:00
-7. ادامه تحقیقات درباره پنج عضو حزب‌الله بازداشت‌شده در شمال لبنان
-   https://www.youtube.com/watch?v=VY8OGrTA9sw
-   2026-11-13T16:22:11+00:00
-8. طرح اضطراری محافظه‌کاران کانادا برای اخراج فوری مقام‌های جمهوری اسلامی
-   https://www.youtube.com/watch?v=NJNTLRJjL6c
-   2026-11-13T16:13:10+00:00
-9. نشست شورای امنیت به درخواست بحرین درباره تنش‌های خلیج فارس و امنیت کشتیرانی
-   https://www.youtube.com/watch?v=A_qPYlZMTWU
-   2026-11-13T16:05:42+00:00
-10. جی‌تی‌ای ۶ روی بدنه خودروهای اسپرت در اهواز
-   https://www.youtube.com/shorts/3_H-SyQFBCA
-   2026-11-13T16:05:25+00:00
-11. محکومیت دو ایرانی به اتهام جاسوسی علیه خبرنگاران ایران‌اینترنشنال در رسانه‌های بین‌المللی
-   https://www.youtube.com/shorts/js2X5Vz1oac
-   2026-11-13T15:04:53+00:00
-12. اخبار عصرگاهی | جمعه ۲۲ آبان
-   https://www.youtube.com/watch?v=tlXQq9Q535E
-   2026-11-13T15:00:34+00:00
-13. آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
-   https://www.youtube.com/watch?v=d61Mvsm2Kiw
-   2026-11-13T14:29:53+00:00
-14. نقش حسین یزدان‌خواه در صدور حکم اعدام برای دست‌کم ۱۳ معترض
-   https://www.youtube.com/watch?v=y1HAYHkU940
-   2026-11-13T13:34:13+00:00
-15. عطا حسینیان: هزینه گرانی سوخت صنایع و نیروگاه‌ها به خانوارها منتقل می‌شود
-   https://www.youtube.com/watch?v=Q0NxYEHTTio
-   2026-11-13T13:21:41+00:00
+YouTube error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCat6bC0Wrqq9Bcq7EkH_yQw
 SoundCloud: https://soundcloud.com/iranintl
 Found 80 tracks
-1. اخبار عصرگاهی | جمعه ۲۲ آبان
+1. اخبار شبانگاهی | شنبه ۲۳ آبان
+   https://soundcloud.com/iranintl/lplmrb0cfyzj
+   Unknown
+2. ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
+   https://soundcloud.com/iranintl/h0it92uv5oqt
+   Unknown
+3. اخبار عصرگاهی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/3g9moxgicxyy
    Unknown
-2. اخبار نیم‌روزی | جمعه ۲۲ آبان
+4. اخبار نیم‌روزی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/fxf9rrxxffdi
    Unknown
-3. اخبار بامدادی | جمعه ۲۲ آبان
+5. اخبار بامدادی | جمعه ۲۲ آبان
    https://soundcloud.com/iranintl/rxhtlmnsm9n8
    Unknown
-4. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
+6. برنامه با کامبیز حسینی | اینجا، یک ایران صدای شما را می‌شنود
    https://soundcloud.com/iranintl/mgtwlwc0fivb
    Unknown
-5. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+7. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/k0f5prgtlkb5
    Unknown
-6. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
+8. ۲۴ با فرداد فرحزاد: ترامپ، ونس را از مذاکرات با ایران کنار گذاشت
    https://soundcloud.com/iranintl/fzzgc7at5gjq
    Unknown
-7. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
+9. دومینو: پایان ماموریت جی‌دی ونس در مذاکرات هسته‌ای با تهران
    https://soundcloud.com/iranintl/nmxddrxy0spx
    Unknown
-8. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
+10. اخبار عصرگاهی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/b918q7uffcf9
    Unknown
-9. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
+11. اخبار نیم‌روزی | پنجشنبه ۲۱ آبان
    https://soundcloud.com/iranintl/o6qtre3hknup
    Unknown
-10. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
+12. اخبار بامدادی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/69nrtbucyja9
    Unknown
-11. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
+13. اخبار شبانگاهی | پنج‌شنبه ۲۱ آبان
    https://soundcloud.com/iranintl/n5mmleyaagiu
    Unknown
-12. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
+14. سیاست با مراد ویسی: جنگ قدرت رضایی و قالیباف؛ سردار علیه سردار
    https://soundcloud.com/iranintl/g7e5u3adbnvg
    Unknown
-13. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
+15. برنامه با کامبیز حسینی | چگونه برای زمستان سخت ایران آماده شویم؟
    https://soundcloud.com/iranintl/pifhyhptvtnu
    Unknown
-14. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
+16. ۲۴ با فرداد فرحزاد: هشدار حمله به اروپا از سوی جمهوری اسلامی
    https://soundcloud.com/iranintl/tmstanyhe9zu
    Unknown
-15. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
+17. چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
    https://soundcloud.com/iranintl/z3cuasyfzky8
    Unknown
-16. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
+18. تیتر اول با نیوشا صارمی:مجوز مجتبی خامنه‌ای برای عملیات فرامرزی سپاه؛آمریکا و اسرائیل آماده رویارویی
    https://soundcloud.com/iranintl/wlscsglszr1b
    Unknown
-17. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
+19. اخبار عصرگاهی  | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/xqk0rgpkkgex
    Unknown
-18. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
+20. اخبار نیم‌روزی | چهارشنبه ۲۰ آبان
    https://soundcloud.com/iranintl/onmem9p0zd84
-   Unknown
-19. اخبار بامدادی |چهارشنبه ۲۰ آبان
-   https://soundcloud.com/iranintl/6c77aocqcxab
-   Unknown
-20. اخبار شبانگاهی | چهارشنبه ۲۰ آبان
-   https://soundcloud.com/iranintl/qdvazj3xvd4y
    Unknown
 SoundCloud: https://soundcloud.com/bbcpersian
 Found 80 tracks
-1. جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
+1. جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
+   https://soundcloud.com/bbcpersian/51nd6rwat9ls
+   Unknown
+2. جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/kr48oiad4ovj
    Unknown
-2. جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
+3. جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/39rga0glqgld
    Unknown
-3. جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
+4. جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/vg0slahxxaod
    Unknown
-4. جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
+5. جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ux2jhrv9jwdx
    Unknown
-5. جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
+6. جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/bswk71jgjx3e
    Unknown
-6. جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
+7. جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/mkrkfphnzb0u
    Unknown
-7. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
+8. جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aftpn1o6mz2j
    Unknown
-8. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
+9. جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tdewbcufj69z
    Unknown
-9. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
+10. جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/apnprmidcamp
    Unknown
-10. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
+11. جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
    Unknown
-11. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
+12. جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/ta3xowpwecqc
    Unknown
-12. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
+13. جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/69ge1phs8lhw
    Unknown
-13. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
+14. جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/h244yhcrje4j
    Unknown
-14. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
+15. جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hreeuwmgp25m
    Unknown
-15. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
+16. جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/eyb3fnfnowkn
    Unknown
-16. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
+17. جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/hgxnfvv0maji
    Unknown
-17. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
+18. جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/aeto5nc5rx3v
    Unknown
-18. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
+19. جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/tftdka4eokwn
    Unknown
-19. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
+20. جام جهان‌نما ۲۵ اکتبر ۲۰۲۶ / ۳ آبان ۱۴۰۵
    https://soundcloud.com/bbcpersian/enkhnonj4san
    Unknown
-20. جام جهان‌نما ۲۴ اکتبر ۲۰۲۶ / ۲ آبان ۱۴۰۵
-   https://soundcloud.com/bbcpersian/lbyf89xgizov
-   Unknown
 Saved: data/channel_catalog.md
-Saved: data/catalog_index.json (70 items)
+Saved: data/catalog_index.json (40 items)
 ✅ Catalog Issue updated: #4 → https://github.com/alipoorkaramali/youtube-news-watcher/issues/4
