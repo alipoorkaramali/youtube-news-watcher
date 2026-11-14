@@ -2,3 +2,4 @@
 2026-11-14T08:30:38.850560+00:00 | youtube | اخبار بامدادی | شنبه ۲۳ آبان | 3 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=ixT4BHs8FrE
 2026-11-14T11:30:41.192965+00:00 | youtube | اخبار نیمروزی | شنبه ۲۳ آبان | 6 minutes ago | https://www.youtube.com/watch?v=iQhClqdspJc
 2026-11-14T12:30:46.416514+00:00 | soundcloud | اخبار نیمروزی | شنبه ۲۳ آبان | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/pccfsrxqjwwz
+2026-11-14T15:15:32.444412+00:00 | youtube | اخبار ساعت شش عصر-۲۳ آبان ۱۴۰۵- اختلال سراسری پروازها در آمریکا | 15 minutes ago | https://www.youtube.com/watch?v=BAJZzsDhRHI
