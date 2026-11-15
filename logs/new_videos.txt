@@ -4,3 +4,4 @@
 2026-11-15T11:30:49.566527+00:00 | youtube | اخبار نیمروزی | یکشنبه ۲۴ آبان | 29 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=PtQfCKLJ0YA
 2026-11-15T15:15:34.973276+00:00 | youtube | تاکید قالیباف بر بی‌دوام بودن نه جنگ نه صلح؛ اخبار ساعت شش عصر یکشنبه ۲۴ آبان ۱۴۰۵ | 15 minutes ago | https://www.youtube.com/watch?v=3bwcfC2NbGM
 2026-11-15T15:30:44.282514+00:00 | soundcloud | اخبار شبانگاهی | یکشنبه ۲۴ آبان | 0 minutes ago | https://soundcloud.com/iranintl/kghy31djjjl0
+2026-11-15T17:30:43.944356+00:00 | soundcloud | جام جهان‌نما ۱۵ نوامبر ۲۰۲۶ / ۲۴ آبان ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/p5mqvbvkhif0
