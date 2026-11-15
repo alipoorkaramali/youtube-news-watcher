@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-15T15:01:02.995129+00:00
-Generated (Iran): 2026-11-15T18:31:02.995148+00:00
+Generated (UTC):  2026-11-15T19:01:02.430567+00:00
+Generated (Iran): 2026-11-15T22:31:02.430582+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-15 15:00:27]
+    1. [2026-11-15 18:00:00]
+       موساد: ایران قصد جان ترامپ را کرده است - ۶۰ دقیقه یکشنبه ۲۴ آبان
+       https://www.youtube.com/watch?v=q9xhb1ubYXA
+
+    2. [2026-11-15 17:02:19]
+       آیا حملات منطقه‌ای آخرین اهرم فشار ایران است؟ جام جهان‌نما یکشنبه ۲۴ آبان ۱۴۰۵
+       https://www.youtube.com/watch?v=s9oYr9ofy8E
+
+    3. [2026-11-15 17:00:19]
+       به‌روز؛ ناگهان به زندان گفتم خانه و سفری در دنیای طعم‌ها
+       https://www.youtube.com/watch?v=7B6_W9EbK98
+
+    4. [2026-11-15 15:02:17]
+       سرخط خبرها یکشنبه ۲۴ آبان ۱۴۰۵
+       https://www.youtube.com/shorts/rbALhJd3jkU
+
+    5. [2026-11-15 15:00:27]
        تاکید قالیباف بر بی‌دوام بودن نه جنگ نه صلح؛ اخبار ساعت شش عصر یکشنبه ۲۴ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=3bwcfC2NbGM
 
-    2. [2026-11-14 19:31:15]
+    6. [2026-11-15 14:59:55]
+       کاهش کارت‌های اضطراری جایگاه در ۱۱ استان
+       https://www.youtube.com/shorts/O4K73_gCqw4
+
+    7. [2026-11-15 14:50:26]
+       کشته شدن دست‌کم ۱۲ نفر درپی واژگونی اتوبوس در ایلام
+       https://www.youtube.com/shorts/IaBoHCKTEz4
+
+    8. [2026-11-14 19:31:15]
        تنش فرساینده در تنگه هرمز؛ کشورهای عرب خلیج فارس غرامت کامل می‌خواهند - ۶۰ دقیقه شنبه ۲۳ آبان
        https://www.youtube.com/watch?v=sDdhuyKxPUY
 
-    3. [2026-11-14 17:17:00]
+    9. [2026-11-14 17:17:00]
        پیدا شدن جمجه در استادیوم هائیتی که دست تبهکاران بود
        https://www.youtube.com/shorts/7uzXc415pcc
 
-    4. [2026-11-14 17:02:43]
+    10. [2026-11-14 17:02:43]
        ایران به کشورهای عرب خلیج فارس غرامت می‌پردازد؟ جام جهان‌نما شنبه ۲۳ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=cT8faZlsHik
 
-    5. [2026-11-14 16:32:28]
+    11. [2026-11-14 16:32:28]
        صف‌های طولانی بنزین در ایران
        https://www.youtube.com/shorts/izY071Fotaw
 
-    6. [2026-11-14 16:30:07]
+    12. [2026-11-14 16:30:07]
        تولید پفک در شرایط غیربهداشتی
        https://www.youtube.com/shorts/_-h6XaksIKw
 
-    7. [2026-11-14 15:00:39]
+    13. [2026-11-14 15:00:39]
        پرگار: شکاف در چپ جهانی بر سر جنگ
        https://www.youtube.com/watch?v=_521BsEpiS8
 
-    8. [2026-11-14 15:00:20]
+    14. [2026-11-14 15:00:20]
        اخبار ساعت شش عصر-۲۳ آبان ۱۴۰۵- اختلال سراسری پروازها در آمریکا
        https://www.youtube.com/watch?v=BAJZzsDhRHI
 
-    9. [2026-11-14 13:30:33]
+    15. [2026-11-14 13:30:33]
        محکومیت مردی که به مرکز اسلامی لندن کوکتل مولوتف پرتاب کرد
        https://www.youtube.com/shorts/jGq1RCjpnuM
-
-    10. [2026-11-14 12:44:24]
-       شکست عملیات مهار بوستر موشک استارشیپ
-       https://www.youtube.com/shorts/dLBM1Lxzcxg
-
-    11. [2026-11-14 12:02:54]
-       خشکی درختان سرخه‌حصار
-       https://www.youtube.com/shorts/iVHtG5wie4s
-
-    12. [2026-11-14 09:26:36]
-       واژگون شدن کشتی مسافربری با یک نفتکش در آمریکا
-       https://www.youtube.com/shorts/u25jNuaZJww
-
-    13. [2026-11-14 09:09:07]
-       امضای توافق دفاعی مشترک ترکیه و قطر
-       https://www.youtube.com/shorts/aauvx_yacv4
-
-    14. [2026-11-13 20:11:58]
-       فیلم کامل«کارون»؛ به همراه گفتگو با کاوه مدنی
-       https://www.youtube.com/watch?v=lGq7z2Rp8SU
-
-    15. [2026-11-13 19:54:04]
-       هشتاد سالگی احمد ظاهر؛ میراثی که همچنان شنیده می‌شود
-       https://www.youtube.com/watch?v=2ne-xwferIY
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-15 14:36:49]
+    16. [2026-11-15 18:32:44]
+       نخستین گام مجتبی خامنه‌ای برای قبضه وزارت اطلاعات
+       https://www.youtube.com/shorts/lx4a7Fkw87g
+
+    17. [2026-11-15 17:40:21]
+       تیتراول با نیوشا صارمی: هشدار موساد درباره طرح تهران برای ترور ترامپ؛آماده‌باش امنیتی آمریکا و اروپا
+       https://www.youtube.com/watch?v=nZsJ_NK-gos
+
+    18. [2026-11-15 16:33:38]
+       اقتصاد و بازار: اعتراض‌ها به تشدید بحران تامین سوخت؛ آغاز قطعی گاز در ایران
+       https://www.youtube.com/watch?v=lab1Kaz4wNA
+
+    19. [2026-11-15 16:32:58]
+       امید شمس: جمهوری اسلامی از نشست‌های یهودستیزانه در بریتانیا برای جذب عوامل اطلاعاتی استفاده می‌کند
+       https://www.youtube.com/watch?v=fjx672ued0U
+
+    20. [2026-11-15 16:06:05]
+       تشدید حملات روسیه و اوکراین هم‌زمان با ادامه مذاکرات صلح
+       https://www.youtube.com/watch?v=UfW78Wa_saU
+
+    21. [2026-11-15 15:06:53]
+       شاخص آلودگی هوا در تهران به ۱۴۹ رسید
+       https://www.youtube.com/shorts/zlpp7WBb9aM
+
+    22. [2026-11-15 15:01:50]
+       حمله ماموران نیروی انتظامی به اهالی محله ملاشیه اهواز برای جمع‌آوری برق غیرمجاز
+       https://www.youtube.com/watch?v=G6G0D-jpsLw
+
+    23. [2026-11-15 14:36:49]
        اخبار عصرگاهی | یکشنبه ۲۴ آبان
        https://www.youtube.com/watch?v=UEbXOjDYaN0
 
-    17. [2026-11-15 14:04:01]
+    24. [2026-11-15 14:04:01]
        گزارش وای‌نت درباره حملات مستقیم سپاه پاسداران به نفتکش‌ها در تنگه هرمز
        https://www.youtube.com/watch?v=jGMlg9YfqHs
 
-    18. [2026-11-15 13:55:17]
+    25. [2026-11-15 13:55:17]
        وزیر خارجه فیلیپین: حملات جمهوری اسلامی بر تمام کشورهای آسه‌آن تاثیر گذاشته است
        https://www.youtube.com/watch?v=6UWYApBBLGM
 
-    19. [2026-11-15 13:21:30]
+    26. [2026-11-15 13:21:30]
        گزارش نیویورک تایمز درباره افزایش هشدارهای امنیتی در اروپا
        https://www.youtube.com/watch?v=Wya_8dTX2dc
 
-    20. [2026-11-15 13:19:43]
+    27. [2026-11-15 13:19:43]
        محمدجواد لاریجانی: باید محدودیت‌های جغرافیایی را کنار بگذاریم
        https://www.youtube.com/shorts/OH0icp0_sq8
 
-    21. [2026-11-15 13:18:23]
+    28. [2026-11-15 13:18:23]
        تداوم بحران سوخت و نگرانی از افزایش هزینه حمل‌ونقل در ایران
        https://www.youtube.com/watch?v=nZdfPvAIgCI
 
-    22. [2026-11-15 13:14:43]
+    29. [2026-11-15 13:14:43]
        بحران معیشتی در ایران؛ افزایش فروش موی زنان برای تامین هزینه‌های زندگی
        https://www.youtube.com/watch?v=RUYN_4d_0IU
 
-    23. [2026-11-15 12:31:22]
+    30. [2026-11-15 12:31:22]
        برخورد هواپیمای باری با هواپیمای مسافربری در فرودگاه میامی
        https://www.youtube.com/shorts/Ya-S_mtlXVQ
-
-    24. [2026-11-15 12:24:59]
-       بحرین از رهگیری و انهدام پهپادهای جمهوری اسلامی خبر داد
-       https://www.youtube.com/watch?v=J4U9J41XY0U
-
-    25. [2026-11-15 12:04:19]
-       مروری بر روزنامه‌های ایران یکشنبه ۲۴ آبان، با مجتبی هاشمی
-       https://www.youtube.com/watch?v=pd0trWKdlis
-
-    26. [2026-11-15 11:37:07]
-       معترضان به دفتر نماینده بروجرد گِل پرتاب کردند
-       https://www.youtube.com/shorts/uvl26UHvFwE
-
-    27. [2026-11-15 11:16:27]
-       گفت‌وگوی ویژه با عباس میلانی، نویسنده و مورخ
-       https://www.youtube.com/watch?v=oDZ8GKeTF2s
-
-    28. [2026-11-15 11:00:51]
-       اخبار نیمروزی | یکشنبه ۲۴ آبان
-       https://www.youtube.com/watch?v=PtQfCKLJ0YA
-
-    29. [2026-11-15 10:51:39]
-       نیما منصفی: سپاه پاسداران از حملات مستقیم برای افزایش فشار بر آمریکا استفاده می‌کند
-       https://www.youtube.com/watch?v=DPT0DNGFBH0
-
-    30. [2026-11-15 10:14:43]
-       حسین آقایی: تهدید موشکی جمهوری اسلامی علیه اروپا جدی است
-       https://www.youtube.com/watch?v=nnDgoX0Osqc
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۱۵ نوامبر ۲۰۲۶ / ۲۴ آبان ۱۴۰۵
+       https://soundcloud.com/bbcpersian/p5mqvbvkhif0
+
+    52. [Unknown]
        جام جهان‌نما ۱۴ نوامبر ۲۰۲۶ / ۲۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vujsixj53sok
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/51nd6rwat9ls
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/kr48oiad4ovj
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/39rga0glqgld
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vg0slahxxaod
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ux2jhrv9jwdx
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/bswk71jgjx3e
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/mkrkfphnzb0u
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/aftpn1o6mz2j
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tdewbcufj69z
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/apnprmidcamp
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ta3xowpwecqc
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/69ge1phs8lhw
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/h244yhcrje4j
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hreeuwmgp25m
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/eyb3fnfnowkn
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۲۸ اکتبر ۲۰۲۶ / ۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hgxnfvv0maji
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۲۷ اکتبر ۲۰۲۶ / ۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/aeto5nc5rx3v
-
-    70. [Unknown]
-       جام جهان‌نما ۲۶ اکتبر ۲۰۲۶ / ۴ آبان ۱۴۰۵
-       https://soundcloud.com/bbcpersian/tftdka4eokwn
 
 ----------------------------------------
 
