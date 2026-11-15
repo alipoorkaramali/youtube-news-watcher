@@ -1,2 +1,4 @@
 2026-11-15T05:30:45.473528+00:00 | soundcloud | اخبار بامدادی | یکشنبه ۲۴ آبان | 0 minutes ago | https://soundcloud.com/iranintl/kzoratzv7nwt
 2026-11-15T08:30:42.057819+00:00 | youtube | اخبار بامدادی | یکشنبه ۲۴ آبان | 4 hours ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=VbcmbeZGUvY
+2026-11-15T11:30:48.914040+00:00 | soundcloud | اخبار نیمروزی | یکشنبه ۲۴ آبان | 0 minutes ago | https://soundcloud.com/iranintl/pcq7jfogabur
+2026-11-15T11:30:49.566527+00:00 | youtube | اخبار نیمروزی | یکشنبه ۲۴ آبان | 29 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=PtQfCKLJ0YA
