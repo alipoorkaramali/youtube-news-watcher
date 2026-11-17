@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-16T19:01:05.409931+00:00
-Generated (Iran): 2026-11-16T22:31:05.409947+00:00
+Generated (UTC):  2026-11-17T07:01:00.395212+00:00
+Generated (Iran): 2026-11-17T10:31:00.395227+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-16 18:00:00]
+    1. [2026-11-16 19:31:06]
        حضور همزمان سه ناو هواپیمابر آمریکا در خاورمیانه - ۶۰ دقیقه دوشنبه ۲۵ آبان
        https://www.youtube.com/watch?v=8Y2vl20URbA
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-16 18:39:31]
-       جنگ یا ادامه محاصره؟ برنامه دونالد ترامپ برای ایران چیست؟
-       https://www.youtube.com/watch?v=YS75ARDtZBU
+    16. [2026-11-17 04:58:41]
+       اخبار بامدادی | سه‌شنبه ۲۶ آبان
+       https://www.youtube.com/watch?v=DpQ62YWTvnY
 
-    17. [2026-11-16 18:24:57]
-       تسخیر خیابان ایرانشهر تهران به دست حامیان حکومت
-       https://www.youtube.com/shorts/quFuovWTKQM
+    17. [2026-11-17 04:54:48]
+       اعتصاب غذای مهسا نوری، از بازداشت‌شدگان انقلاب ملی ایرانیان، در زندان اوین
+       https://www.youtube.com/watch?v=Qny_piXj5ik
 
-    18. [2026-11-16 18:10:15]
-       موضوع ایران در دستور کار نشست تاریخی ترامپ، پوتین و شی
-       https://www.youtube.com/shorts/UphnYbyBIaA
+    18. [2026-11-17 04:50:35]
+       نخست‌وزیر بریتانیا: دستیابی جمهوری اسلامی به سلاح هسته‌ای و کشتار مردم ایران غیرقابل قبول است
+       https://www.youtube.com/shorts/JHb25NDqnAI
 
-    19. [2026-11-16 17:37:33]
-       تیتراول با نیوشا صارمی:تکمیل آرایش جنگی آمریکا در منطقه؛ترامپ در راه چین،جمهوری اسلامی موضوع معامله؟
-       https://www.youtube.com/watch?v=WC0FG_U7Pps
+    19. [2026-11-17 04:50:03]
+       شهرام خلدی: تصمیم‌گیرندگان جمهوری اسلامی مانع اصلی دستیابی به توافق‌ با آمریکا هستند
+       https://www.youtube.com/watch?v=QU8h2BxrbbE
 
-    20. [2026-11-16 16:56:20]
-       اقتصاد و بازار: تاکید بسنت بر فروپاشی سریع اقتصاد ایران؛ شکست حکمرانی انرژی
-       https://www.youtube.com/watch?v=cwz2wmSrJiM
+    20. [2026-11-17 04:44:59]
+       حسین قاضیان: فقر تدریجی آینده را از چشم جامعه ایران گرفته است
+       https://www.youtube.com/watch?v=ayo5H6hf4Ec
 
-    21. [2026-11-16 16:27:45]
-       ارتش اسرائیل اعلام کرد محموله تسلیحاتی در مسیر حزب‌الله را هدف قرار داده است
-       https://www.youtube.com/watch?v=Se_gDGqcMDg
+    21. [2026-11-17 04:44:17]
+       ترامپ: درباره جنگ اوکراین، خلع سلاح هسته‌ای و ایران با شی و پوتین گفت‌وگو می‌کنم
+       https://www.youtube.com/watch?v=-QZl-dRaLNk
 
-    22. [2026-11-16 16:21:22]
-       نخستین دیدار سه‌جانبه دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین در شنژن
-       https://www.youtube.com/watch?v=om2jxb9ywYc
+    22. [2026-11-17 04:41:54]
+       ترامپ سفر آسیایی خود را با حضور در نشست سران کواد آغاز می‌کند
+       https://www.youtube.com/watch?v=-2SY9lWvJvM
 
-    23. [2026-11-16 16:20:44]
-       وزیر خارجه فرانسه: پاریس به دلیل حمایت از مردم ایران هدف سپاه قرار گرفته است
-       https://www.youtube.com/shorts/JKeK5Hu-clc
+    23. [2026-11-17 04:40:49]
+       فرزین ندیمی: تهدید جمهوری اسلامی به حمله با بمب کثیف در آمریکا، با موانع اجرایی روبه‌روست
+       https://www.youtube.com/watch?v=fwh6lnfqIPU
 
-    24. [2026-11-16 16:20:40]
-       اخبار عصرگاهی | دوشنبه ۲۵ آبان
-       https://www.youtube.com/watch?v=yALbljwllkg
+    24. [2026-11-17 04:22:32]
+       سی‌ان‌ان: جمهوری اسلامی برای حمله شیمیایی به پایتخت آمریکا برنامه‌ریزی می‌کند
+       https://www.youtube.com/watch?v=QA0dV2I_bzs
 
-    25. [2026-11-16 16:11:07]
-       دیدار عباس عراقچی با وزیر دارایی طالبان در تهران
-       https://www.youtube.com/watch?v=-2Xw0gKM76w
+    25. [2026-11-16 22:54:42]
+       اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
+       https://www.youtube.com/watch?v=D1cFsbv5NjE
 
-    26. [2026-11-16 16:08:52]
-       عقب‌نشینی نیروهای مسلح جنوب یمن از باب‌المندب
-       https://www.youtube.com/watch?v=g0VfIbvKd5w
+    26. [2026-11-16 22:45:55]
+       ترکیه سامانه‌ای برای مختل کردن هم‌زمان ده‌ها پهپاد در چند ثانیه ساخته است
+       https://www.youtube.com/watch?v=d-cohUKLh4M
 
-    27. [2026-11-16 15:58:45]
-       ارتش اسرائیل از کشته‌شدن سه عضو حماس در حمله به بیمارستان ناصر خبر داد
-       https://www.youtube.com/watch?v=OIIU415WYYI
+    27. [2026-11-16 22:23:34]
+       لیلا مروتی: پاریس اکنون اقدامات تهران را تهدیدی مستقیم علیه امنیت داخلی خود می‌داند
+       https://www.youtube.com/watch?v=73STYkAfLgY
 
-    28. [2026-11-16 15:31:47]
-       گزارش روز با مجتبا پورمحسن: جلسه کابینه اسرائیل برای جنگ؛ ناو ‌هواپیمابر سوم رسید
-       https://www.youtube.com/watch?v=piSKS67N7Wg
+    28. [2026-11-16 22:20:04]
+       گفت‌وگوی ترامپ با رهبران چین و روسیه درباره جمهوری اسلامی
+       https://www.youtube.com/watch?v=wLstgtw1pZA
 
-    29. [2026-11-16 15:10:37]
-       کارگر شهرداری شوش هنگام کار با بالابر سقوط کرد
-       https://www.youtube.com/watch?v=p0NoPGNRbMU
+    29. [2026-11-16 22:08:35]
+       مردم ایران مصمم در سرنگونی جمهوری اسلامی
+       https://www.youtube.com/shorts/cqxywPZUFCk
 
-    30. [2026-11-16 14:46:58]
-       بحران دیابت در ایران
-       https://www.youtube.com/watch?v=OBM7vvorJdE
+    30. [2026-11-16 22:04:49]
+       سیاست با مراد ویسی: تصمیم ترامپ
+       https://www.youtube.com/watch?v=R7P2MxEJA0E
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | سه‌شنبه ۲۶ آبان
+       https://soundcloud.com/iranintl/nn5ve2mokd4j
+
+    32. [Unknown]
+       برنامه با کامبیز حسینی | مسئلهٔ اصلی مردم امروز چیست؟
+       https://soundcloud.com/iranintl/0jud6agdicob
+
+    33. [Unknown]
+       اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
+       https://soundcloud.com/iranintl/jsf5imlxirz4
+
+    34. [Unknown]
+       سیاست با مراد ویسی: تصمیم ترامپ
+       https://soundcloud.com/iranintl/ew9wovdomifh
+
+    35. [Unknown]
+       چشم‌انداز: جنگ یا ادامه محاصره؛ برنامه ترامپ برای این چیست؟!
+       https://soundcloud.com/iranintl/etcwosam9can
+
+    36. [Unknown]
+       ۲۴ با فرداد فرحزاد: بزرگترین آرایش نظامی آمریکا در خلیج‌فارس بعد از جنگ عراق
+       https://soundcloud.com/iranintl/h7mja4zkspep
+
+    37. [Unknown]
        تیتراول با نیوشا صارمی: ترامپ در راه نشست بی‌سابقه با شی و پوتین؛ معامله بر سر جمهوری اسلامی؟
        https://soundcloud.com/iranintl/ni6ef1dpxo8m
 
-    32. [Unknown]
+    38. [Unknown]
        اخبار عصرگاهی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/fbbunq4qpgkv
 
-    33. [Unknown]
+    39. [Unknown]
        اخبار نیم‌روزی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/4h3vamfxchbr
 
-    34. [Unknown]
+    40. [Unknown]
        اخبار بامدادی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/upyikcrnscb3
 
-    35. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: تجمع ناوهای هواپیمابر آمریکا در منطقه
        https://soundcloud.com/iranintl/lbpc7dfm6mq4
 
-    36. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی: هشدار موساد درباره طرح تهران برای ترور ترامپ؛آماده‌باش امنیتی آمریکا و اروپا
        https://soundcloud.com/iranintl/szfiwmoa4is0
 
-    37. [Unknown]
+    43. [Unknown]
        چشم‌انداز: نخستین گام مجتبی خامنه‌ای برای قبضه وزارت اطلاعات
        https://soundcloud.com/iranintl/s2l7fphawmz7
 
-    38. [Unknown]
+    44. [Unknown]
        اخبار عصرگاهی | یکشنبه ۲۴ آبان
        https://soundcloud.com/iranintl/x4vk7icdofyf
 
-    39. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | یکشنبه ۲۴ آبان
        https://soundcloud.com/iranintl/pcq7jfogabur
 
-    40. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | یکشنبه ۲۴ آبان
        https://soundcloud.com/iranintl/kzoratzv7nwt
 
-    41. [Unknown]
+    47. [Unknown]
        اخبار شبانگاهی | یکشنبه ۲۴ آبان
        https://soundcloud.com/iranintl/kghy31djjjl0
 
-    42. [Unknown]
+    48. [Unknown]
        سیاست با مراد ویسی: میراث ترامپ؛ سرنگونی جمهوری اسلامی؟
        https://soundcloud.com/iranintl/m72x4oy3mj8y
 
-    43. [Unknown]
+    49. [Unknown]
        چشم‌انداز: دستور ترامپ برای توقف مذاکرات با ایران و پاسخ سپاه
        https://soundcloud.com/iranintl/jnmiaailx8cv
 
-    44. [Unknown]
+    50. [Unknown]
        تیتراول با نیوشا صارمی: احتمال حمله یک‌جانبه اسراییل به ایران،فشار نتانیاهو به ترامپ برای جنگ دوباره
        https://soundcloud.com/iranintl/kfymd7adaugq
-
-    45. [Unknown]
-       اخبار عصرگاهی | شنبه ۲۳ آبان
-       https://soundcloud.com/iranintl/3utvwjl1yv5f
-
-    46. [Unknown]
-       اخبار نیمروزی | شنبه ۲۳ آبان
-       https://soundcloud.com/iranintl/pccfsrxqjwwz
-
-    47. [Unknown]
-       اخبار بامدادی | شنبه ۲۳ آبان
-       https://soundcloud.com/iranintl/eay0affo2upa
-
-    48. [Unknown]
-       اخبار شبانگاهی | شنبه ۲۳ آبان
-       https://soundcloud.com/iranintl/lplmrb0cfyzj
-
-    49. [Unknown]
-       ۲۴ با فرداد فرحزاد: سفر رئیس موساد به آمریکا
-       https://soundcloud.com/iranintl/h0it92uv5oqt
-
-    50. [Unknown]
-       اخبار عصرگاهی | جمعه ۲۲ آبان
-       https://soundcloud.com/iranintl/3g9moxgicxyy
 
 ----------------------------------------
 
