@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-18T11:01:04.339313+00:00
-Generated (Iran): 2026-11-18T14:31:04.339331+00:00
+Generated (UTC):  2026-11-18T15:01:09.639760+00:00
+Generated (Iran): 2026-11-18T18:31:09.639781+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-17 19:34:25]
+    1. [2026-11-18 14:00:00]
+       اخبار ساعت شش عصر- چهارشنبه ۲۷ آبان - تنش ایران و آمریکا
+       https://www.youtube.com/watch?v=cj1kwWjQ25E
+
+    2. [2026-11-18 13:33:48]
+       گراز سرگردان در محوطه بیمارستان شهید لواسانی تهرانپارس
+       https://www.youtube.com/shorts/tJo_131E10M
+
+    3. [2026-11-17 19:34:25]
        واژگونی اتوبوس در ایلام؛ تجمع اعتراضی در آبدانان - ۶۰ دقیقه سه‌شنبه ۲۶ ابان
        https://www.youtube.com/watch?v=cYVoscyqIok
 
-    2. [2026-11-17 18:10:31]
+    4. [2026-11-17 18:10:31]
        انتشار ویدیویی از ربوده شدن سه دانش‌آموز در ایرانشهر
        https://www.youtube.com/shorts/OVDAME-SvaE
 
-    3. [2026-11-17 18:03:47]
+    5. [2026-11-17 18:03:47]
        راه سوم ترامپ آیا به نتیجه خواهد رسید؟ صفحه ۲
        https://www.youtube.com/watch?v=9v8GC76s0U8
 
-    4. [2026-11-17 16:00:17]
+    6. [2026-11-17 16:00:17]
        راجر گوالب: در دوران ترامپ دنیا جای بهتری شده است - گفت‌وگوی ویژه
        https://www.youtube.com/watch?v=AKoiVvBAjNw
 
-    5. [2026-11-17 16:00:00]
+    7. [2026-11-17 16:00:00]
        جام جهان‌نما
        https://www.youtube.com/watch?v=P7fHn1y9atM
 
-    6. [2026-11-17 15:40:22]
+    8. [2026-11-17 15:40:22]
        بازداشت پدر و مدیر مدرسه سوگند صیادی پس از مراسم خاکسپاری او
        https://www.youtube.com/shorts/wZADHzRa5_Q
 
-    7. [2026-11-17 15:38:44]
+    9. [2026-11-17 15:38:44]
        اعتراض در آبدانان، دو روز پس از تصادف مرگبار اتوبوس
        https://www.youtube.com/shorts/LhznJrQLFk0
 
-    8. [2026-11-17 15:04:32]
+    10. [2026-11-17 15:04:32]
        اخبار ساعت شش عصر سه‌شنبه ۲۶ آبان
        https://www.youtube.com/watch?v=sHlsz4MGTF4
 
-    9. [2026-11-17 14:01:08]
+    11. [2026-11-17 14:01:08]
        پاسخ سازنده دستگاه تولید پفک به انتقاد از «تولید غیربهداشتی»
        https://www.youtube.com/shorts/22A17TBvL-w
 
-    10. [2026-11-17 08:00:15]
+    12. [2026-11-17 08:00:15]
        زنان موتورسوار در عربستان سعودی
        https://www.youtube.com/shorts/fgSc7fdCK2k
 
-    11. [2026-11-16 19:31:06]
+    13. [2026-11-16 19:31:06]
        حضور همزمان سه ناو هواپیمابر آمریکا در خاورمیانه - ۶۰ دقیقه دوشنبه ۲۵ آبان
        https://www.youtube.com/watch?v=8Y2vl20URbA
 
-    12. [2026-11-16 17:10:30]
+    14. [2026-11-16 17:10:30]
        ورود روزولت، سومین ناو هواپیمابر آمریکا به خاورمیانه؛ جام جهان‌نما دوشنبه ۲۵ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=AloqdTvbb10
 
-    13. [2026-11-16 15:57:09]
+    15. [2026-11-16 15:57:09]
        زهره لاجوردی، نماینده مجلس: مسئله موتورسواری زنان در اولویت نیست
        https://www.youtube.com/shorts/C1bLT320baU
-
-    14. [2026-11-16 15:49:56]
-       گرانی و کمبود سوخت در ایران، تجمع در رفسنجان، صف طولانی در ایرانشهر
-       https://www.youtube.com/shorts/BGl4z481Xig
-
-    15. [2026-11-16 15:40:09]
-       سرخط خبرها، دوشنبه، ۲۵ آبان ۱۴۰۵
-       https://www.youtube.com/shorts/6qYY-pTxoCU
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-18 10:54:18]
-       تاکید فرانسه و گزارشگر ویژه سازمان ملل بر پاسخ‌گویی جمهوری اسلامی درباره سرکوب معترضان
-       https://www.youtube.com/watch?v=5rWgmLTpnNc
+    16. [2026-11-18 14:49:08]
+       دیدار فرماندهان ارشد نظامی اسرائیل و آمریکا با محوریت احتمال ازسرگیری جنگ با جمهوری اسلامی
+       https://www.youtube.com/watch?v=4VOHuy4IvDo
 
-    17. [2026-11-18 10:43:47]
-       صبا آلاله: مدرسه در برابر تهدید جانی دانش‌آموزان مسئولیت حمایتی دارد
-       https://www.youtube.com/watch?v=wUQuWjIArnM
+    17. [2026-11-18 14:32:14]
+       خواهر جاویدنام سجاد اصغری پس از ماه‌ها سوگ برادرش، دچار سکته شد و درگذشت
+       https://www.youtube.com/watch?v=hEbEbCNAGBI
 
-    18. [2026-11-18 10:43:03]
-       مای ساتو: هیچ راه قانونی برای ابراز مخالفت در ایران باقی نمانده است
-       https://www.youtube.com/shorts/nnCdGHu9KT8
+    18. [2026-11-18 14:27:39]
+       آسیه امینی: همراهی چهره‌های ادبی جهان صدای زندانیان سیاسی ایران را رساتر می‌کند
+       https://www.youtube.com/watch?v=U2o6rsU6OzQ
 
-    19. [2026-11-18 10:09:38]
-       وزیر خارجه فرانسه: نمی‌گذاریم جنایات جمهوری اسلامی بدون پاسخ باقی بماند
-       https://www.youtube.com/shorts/I2b3PhLGGbY
+    19. [2026-11-18 14:17:41]
+       واکنش گسترده کاربران شبکه‌های اجتماعی به اعتراضات آبدانان و حمایت از معترضان
+       https://www.youtube.com/watch?v=FFl_5LQDFUw
 
-    20. [2026-11-18 09:50:09]
-       شی و پوتین بر گسترش همکاری‌های روسیه و چین تاکید کردند
-       https://www.youtube.com/shorts/I926rh_qOx4
+    20. [2026-11-18 14:02:22]
+       ترامپ، پوتین و شی جین‌پینگ در اجلاس اپک در یک قاب
+       https://www.youtube.com/shorts/D3WqSAo-gMo
 
-    21. [2026-11-18 09:34:00]
-       محمدجواد اکبرین: جمهوری اسلامی تصور می‌کند می‌تواند بدون پیامد به کشورهای منطقه حمله کند
-       https://www.youtube.com/watch?v=BkG57lYeEGI
+    21. [2026-11-18 13:58:20]
+       کاهش تسلیحات هسته‌ای و جنگ ایران از محورهای پیشنهادی ترامپ برای نشست شنژن
+       https://www.youtube.com/watch?v=Kwdi-rf0Ins
 
-    22. [2026-11-18 09:30:15]
-       روایت مخاطبان ایران‌اینترنشنال از ادامه فضای امنیتی در آبدانان
-       https://www.youtube.com/watch?v=A9_EKrt73g4
+    22. [2026-11-18 13:26:22]
+       تیم ملی فوتبال ایران با تساوی برابر عراق قهرمان تورنمنت بصره شد
+       https://www.youtube.com/watch?v=Lf8ChiwvWFA
 
-    23. [2026-11-18 09:29:01]
-       شی جین‌پینگ در نشست اپک خواستار گسترش تجارت آزاد و همکاری در هوش مصنوعی شد
-       https://www.youtube.com/watch?v=JeOm1kxRrsY
+    23. [2026-11-18 13:24:51]
+       مرتضی کاظمیان: پزشکیان به‌جای پاسخگویی درباره بحران بیکاری، آمریکا را متهم می‌کند
+       https://www.youtube.com/watch?v=8HqdJ-MohQE
 
-    24. [2026-11-18 08:11:09]
-       نشست مشترک مجازی شاهزاده رضا پهلوی و رییس‌جمهوری اسرائیل درباره آینده ایران
-       https://www.youtube.com/watch?v=28LMwMv5FmM
+    24. [2026-11-18 12:47:01]
+       آغاز نشست شورای حکام آژانس با محوریت برنامه هسته‌ای و ذخایر اورانیوم ایران
+       https://www.youtube.com/watch?v=Uj-iFMfQxH0
 
-    25. [2026-11-18 08:09:46]
-       علی شیرازی: مطالبات مردم از دی‌ماه ۱۴۰۴ تا به امروز همچنان پابرجاست
-       https://www.youtube.com/watch?v=fFXWizR5dsY
+    25. [2026-11-18 12:27:45]
+       آتش‌سوزی در دو پالایشگاه نفت روسیه پس از حمله پهپادی اوکراین
+       https://www.youtube.com/shorts/JJnT2y2gZVI
 
-    26. [2026-11-18 07:56:48]
-       روح‌الله رحیم‌پور: حمله تروریستی جمهوری اسلامی به آمریکا می‌تواند به اقدام نظامی منجر شود
-       https://www.youtube.com/watch?v=6tlJER0utZk
+    26. [2026-11-18 12:10:42]
+       پیام اخوان: باید در سازمان ملل سازوکاری برای رسیدگی به جنایات جمهوری اسلامی ایجاد شود
+       https://www.youtube.com/shorts/VLmGirFz5DQ
 
-    27. [2026-11-18 07:52:53]
-       پلیس سوئد: رهبر باند قاچاق مواد مخدر این کشور احتمالا در ایران است
-       https://www.youtube.com/watch?v=AYUeMMpxKmM
+    27. [2026-11-18 11:59:35]
+       گروسی در پاسخ به ایران‌اینترنشنال: توان بازرسی از تاسیسات هسته‌ای ایران را نداریم
+       https://www.youtube.com/shorts/g2zzaJuEtxU
 
-    28. [2026-11-18 05:05:31]
-       اخبار بامدادی | چهارشنبه ۲۷ آبان
-       https://www.youtube.com/watch?v=Yb1jDA6Z8jc
+    28. [2026-11-18 11:46:55]
+       روبیو: افشاکنندگان گزارش حمله احتمالی جمهوری اسلامی به واشینگتن «دروغگو و مجرم» هستند
+       https://www.youtube.com/shorts/wcKTwIAkddE
 
-    29. [2026-11-18 05:00:50]
-       پایان سفر پاپ لئو چهاردهم به آمریکای جنوبی و بازگشت او به رم
-       https://www.youtube.com/watch?v=4kH5BiH906w
+    29. [2026-11-18 11:46:48]
+       مروری بر روزنامه‌های ایران چهارشنبه ۲۷ آبان، با مجتبی هاشمی
+       https://www.youtube.com/watch?v=fjwCuNP4GH4
 
-    30. [2026-11-18 04:56:03]
-       صادق بیگدلی: بدون توقف برنامه هسته‌ای، توافقی میان تهران و واشینگتن شکل نمی‌گیرد
-       https://www.youtube.com/watch?v=PHoWIkpd4Fk
+    30. [2026-11-18 11:34:22]
+       اعلام همبستگی شهروندان شهرهای مختلف ایران با معترضان آبدانان
+       https://www.youtube.com/watch?v=xmmVP-J8zC0
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | چهارشنبه ۲۷ آبان
+       https://soundcloud.com/iranintl/rbk3bzhzqowk
+
+    32. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/4vprgwo7cmw1
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/8bf0epjq69sb
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی
        https://soundcloud.com/iranintl/c188pvjr8vhe
 
-    34. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | مسئول سالم برگشتن کارگر به خانه کیست؟
        https://soundcloud.com/iranintl/bthvjt2syvjm
 
-    35. [Unknown]
+    36. [Unknown]
        ۲۴ با فرداد فرحزاد: هشدار ترامپ به تهران؛ هرگونه حمله به آمریکا بهای سنگین دارد
        https://soundcloud.com/iranintl/vja6yqocfor6
 
-    36. [Unknown]
+    37. [Unknown]
        چشم‌انداز: تعیین تکلیف حکومت ایران در دیدار بی‌سابقه رهبران آمریکا، چین روسیه
        https://soundcloud.com/iranintl/dfohirwcjqj6
 
-    37. [Unknown]
+    38. [Unknown]
        تیتراول با نیوشا صارمی: هشدار تند ترامپ درباره «بمب کثیف» تهران در واشنگتن؛ بازگشت آبدانان به خیابان
        https://soundcloud.com/iranintl/cqpvnpnoqfdv
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/f9lm0czg9xaf
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/7hcrkfubomec
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/nn5ve2mokd4j
 
-    41. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | مسئلهٔ اصلی مردم امروز چیست؟
        https://soundcloud.com/iranintl/0jud6agdicob
 
-    42. [Unknown]
+    43. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/jsf5imlxirz4
 
-    43. [Unknown]
+    44. [Unknown]
        سیاست با مراد ویسی: تصمیم ترامپ
        https://soundcloud.com/iranintl/ew9wovdomifh
 
-    44. [Unknown]
+    45. [Unknown]
        چشم‌انداز: جنگ یا ادامه محاصره؛ برنامه ترامپ برای این چیست؟!
        https://soundcloud.com/iranintl/etcwosam9can
 
-    45. [Unknown]
+    46. [Unknown]
        ۲۴ با فرداد فرحزاد: بزرگترین آرایش نظامی آمریکا در خلیج‌فارس بعد از جنگ عراق
        https://soundcloud.com/iranintl/h7mja4zkspep
 
-    46. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: ترامپ در راه نشست بی‌سابقه با شی و پوتین؛ معامله بر سر جمهوری اسلامی؟
        https://soundcloud.com/iranintl/ni6ef1dpxo8m
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/fbbunq4qpgkv
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیم‌روزی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/4h3vamfxchbr
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/upyikcrnscb3
-
-    50. [Unknown]
-       سیاست با مراد ویسی: تجمع ناوهای هواپیمابر آمریکا در منطقه
-       https://soundcloud.com/iranintl/lbpc7dfm6mq4
 
 ----------------------------------------
 
