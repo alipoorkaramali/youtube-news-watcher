@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-17T19:01:11.586243+00:00
-Generated (Iran): 2026-11-17T22:31:11.586261+00:00
+Generated (UTC):  2026-11-18T07:01:04.211157+00:00
+Generated (Iran): 2026-11-18T10:31:04.211175+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,7 +34,7 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-17 18:00:00]
+    1. [2026-11-17 19:34:25]
        واژگونی اتوبوس در ایلام؛ تجمع اعتراضی در آبدانان - ۶۰ دقیقه سه‌شنبه ۲۶ ابان
        https://www.youtube.com/watch?v=cYVoscyqIok
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-17 18:25:51]
-       هشدار تند ترامپ به تهران درباره طرح حمله با «بمب کثیف» به واشینگتن
-       https://www.youtube.com/shorts/UwJq5o34zFk
+    16. [2026-11-18 05:05:31]
+       اخبار بامدادی | چهارشنبه ۲۷ آبان
+       https://www.youtube.com/watch?v=Yb1jDA6Z8jc
 
-    17. [2026-11-17 18:15:40]
-       بازگشت مردم آبدانان به خیابان با شعارهای اعتراضی دی ماه
-       https://www.youtube.com/shorts/Lzw4ooTkKVY
+    17. [2026-11-18 05:00:50]
+       پایان سفر پاپ لئو چهاردهم به آمریکای جنوبی و بازگشت او به رم
+       https://www.youtube.com/watch?v=4kH5BiH906w
 
-    18. [2026-11-17 17:35:15]
-       تیتراول با نیوشا صارمی: هشدار تند ترامپ درباره «بمب کثیف» تهران در واشنگتن؛ بازگشت آبدانان به خیابان
-       https://www.youtube.com/watch?v=aOMPwOop-Oo
+    18. [2026-11-18 04:56:03]
+       صادق بیگدلی: بدون توقف برنامه هسته‌ای، توافقی میان تهران و واشینگتن شکل نمی‌گیرد
+       https://www.youtube.com/watch?v=PHoWIkpd4Fk
 
-    19. [2026-11-17 17:21:11]
-       دیدار وزیر خارجه جمهوری اسلامی با سلطان عمان در مسقط
-       https://www.youtube.com/shorts/_OcEqSB4fho
+    19. [2026-11-18 04:49:43]
+       شهرام خلدی: به آستانه اجماع بین‌المللی برای تعیین تکلیف جمهوری اسلامی نزدیک می‌شویم
+       https://www.youtube.com/watch?v=fLMD-XB1kVk
 
-    20. [2026-11-17 17:06:40]
-       آتش‌سوزی گسترده در یک نفتکش در آب‌های عمان
-       https://www.youtube.com/shorts/7SBqbN4edtU
+    20. [2026-11-18 04:46:58]
+       توافق کانادا و چین برای لغو تعرفه‌های گمرکی بر محصولات غذایی و دریایی
+       https://www.youtube.com/watch?v=3lZm8I_zDuc
 
-    21. [2026-11-17 16:14:07]
-       واکنش‌ها به گزارش سی‌ان‌ان از احتمال حمله شیمیایی جمهوری اسلامی در واشینگتن
-       https://www.youtube.com/watch?v=v05P1xy8k5k
+    21. [2026-11-18 04:43:16]
+       محکومیت شهروند پاکستانی مرتبط با سپاه به ۲۷ سال زندان با اتهام طراحی ترور ترامپ
+       https://www.youtube.com/watch?v=gWMuwOo3yuQ
 
-    22. [2026-11-17 16:05:44]
-       حمله آمریکا به سامانه پدافند هوایی جمهوری اسلامی در جزیره قشم
-       https://www.youtube.com/shorts/zCIXM-hQcpQ
+    22. [2026-11-18 04:40:58]
+       آغاز نشست مدیران ارشد اپک در چین با محوریت هوش مصنوعی و همکاری اقتصادی
+       https://www.youtube.com/watch?v=sIGVrGcS-I4
 
-    23. [2026-11-17 15:55:50]
-       ترامپ: اگر تهدیدی از سوی ایران باشد، بهایی می‌پردازند که هیچ کشوری نپرداخته
-       https://www.youtube.com/shorts/QGOotKoFdUE
+    23. [2026-11-18 04:39:31]
+       کامیار بهرنگ: حافظه جمعی معترضان در ایران زنده است
+       https://www.youtube.com/watch?v=QQS9t2iiMvw
 
-    24. [2026-11-17 15:19:21]
-       اعتراضات در آبدانان پس از سانحه مرگبار اتوبوس؛ معترضان علیه جمهوری اسلامی شعار دادند
-       https://www.youtube.com/watch?v=dqQ_A37Bj3g
+    24. [2026-11-18 04:31:14]
+       دستور نخست‌وزیر عراق برای مقابله با قاچاق سوخت
+       https://www.youtube.com/watch?v=HgOgrJFncK0
 
-    25. [2026-11-17 15:15:16]
-       اخبار عصرگاهی | سه‌شنبه ۲۶ آبان
-       https://www.youtube.com/watch?v=Ns7gbXLq_sE
+    25. [2026-11-18 04:29:54]
+       صدور حکم اعدام برای سه بازداشت‌شده اعتراضات دی‌ماه ۱۴۰۴
+       https://www.youtube.com/watch?v=rOf_tY3GUGc
 
-    26. [2026-11-17 14:50:01]
-       چرا جمهوری اسلامی نان مردم را سهمیه‌بندی می‌کند؟
-       https://www.youtube.com/watch?v=Zf6U2GOfAdQ
+    26. [2026-11-18 04:24:06]
+       اعتراض گسترده در آبدانان پس از جان‌باختن ۱۳ کارگر صنعت نفت
+       https://www.youtube.com/watch?v=vqpWKv2SWBw
 
-    27. [2026-11-17 14:19:29]
-       نخست‌وزیر بریتانیا: برگزیت بیش از سود، به اقتصاد کشور زیان زده است
-       https://www.youtube.com/watch?v=T3X86YeZSFE
+    27. [2026-11-17 23:37:21]
+       واگذاری مدیریت یک شبکه تلویزیونی منتقد دولت ترکیه به سرپرست دولتی
+       https://www.youtube.com/watch?v=8ECR20xd34Q
 
-    28. [2026-11-17 14:13:43]
-       اظهارات معاون پیشین قرارگاه خاتم‌الانبیا درباره ابعاد نفوذ اطلاعاتی اسرائیل در ایران
-       https://www.youtube.com/watch?v=G2V7FKjR7eM
+    28. [2026-11-17 23:32:18]
+       رقیه رضایی: اعتراضات آبدانان را باید در بستر سال‌ها محرومیت بررسی کرد
+       https://www.youtube.com/watch?v=US8crC0AZJI
 
-    29. [2026-11-17 14:00:00]
-       آرایش جنگی جدید همزمان با سفر ترامپ به آسیا
-       https://www.youtube.com/watch?v=n4JO_6QJqzY
+    29. [2026-11-17 23:31:56]
+       پوتین برای شرکت در نشست سران اپک وارد شنژن چین شد
+       https://www.youtube.com/shorts/cZiR4nn_k18
 
-    30. [2026-11-17 13:29:04]
-       گفت‌وگوی ترامپ درباره ایران در دیدار با رهبران روسیه و چین
-       https://www.youtube.com/watch?v=tFXDltfJl9E
+    30. [2026-11-17 23:22:06]
+       فروغ کنعانی: شعارهای حمایت از شاهزاده رضا پهلوی در آبدانان، محاسبات حکومت را برهم زد
+       https://www.youtube.com/watch?v=Fquorkm3kB0
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | چهارشنبه ۲۷ آبان
+       https://soundcloud.com/iranintl/4vprgwo7cmw1
+
+    32. [Unknown]
+       اخبار شبانگاهی | چهارشنبه ۲۷ آبان
+       https://soundcloud.com/iranintl/8bf0epjq69sb
+
+    33. [Unknown]
+       سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی
+       https://soundcloud.com/iranintl/c188pvjr8vhe
+
+    34. [Unknown]
+       برنامه با کامبیز حسینی | مسئول سالم برگشتن کارگر به خانه کیست؟
+       https://soundcloud.com/iranintl/bthvjt2syvjm
+
+    35. [Unknown]
+       ۲۴ با فرداد فرحزاد: هشدار ترامپ به تهران؛ هرگونه حمله به آمریکا بهای سنگین دارد
+       https://soundcloud.com/iranintl/vja6yqocfor6
+
+    36. [Unknown]
+       چشم‌انداز: تعیین تکلیف حکومت ایران در دیدار بی‌سابقه رهبران آمریکا، چین روسیه
+       https://soundcloud.com/iranintl/dfohirwcjqj6
+
+    37. [Unknown]
        تیتراول با نیوشا صارمی: هشدار تند ترامپ درباره «بمب کثیف» تهران در واشنگتن؛ بازگشت آبدانان به خیابان
        https://soundcloud.com/iranintl/cqpvnpnoqfdv
 
-    32. [Unknown]
+    38. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/f9lm0czg9xaf
 
-    33. [Unknown]
+    39. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/7hcrkfubomec
 
-    34. [Unknown]
+    40. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/nn5ve2mokd4j
 
-    35. [Unknown]
+    41. [Unknown]
        برنامه با کامبیز حسینی | مسئلهٔ اصلی مردم امروز چیست؟
        https://soundcloud.com/iranintl/0jud6agdicob
 
-    36. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/jsf5imlxirz4
 
-    37. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: تصمیم ترامپ
        https://soundcloud.com/iranintl/ew9wovdomifh
 
-    38. [Unknown]
+    44. [Unknown]
        چشم‌انداز: جنگ یا ادامه محاصره؛ برنامه ترامپ برای این چیست؟!
        https://soundcloud.com/iranintl/etcwosam9can
 
-    39. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد: بزرگترین آرایش نظامی آمریکا در خلیج‌فارس بعد از جنگ عراق
        https://soundcloud.com/iranintl/h7mja4zkspep
 
-    40. [Unknown]
+    46. [Unknown]
        تیتراول با نیوشا صارمی: ترامپ در راه نشست بی‌سابقه با شی و پوتین؛ معامله بر سر جمهوری اسلامی؟
        https://soundcloud.com/iranintl/ni6ef1dpxo8m
 
-    41. [Unknown]
+    47. [Unknown]
        اخبار عصرگاهی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/fbbunq4qpgkv
 
-    42. [Unknown]
+    48. [Unknown]
        اخبار نیم‌روزی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/4h3vamfxchbr
 
-    43. [Unknown]
+    49. [Unknown]
        اخبار بامدادی | دوشنبه ۲۵ آبان
        https://soundcloud.com/iranintl/upyikcrnscb3
 
-    44. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: تجمع ناوهای هواپیمابر آمریکا در منطقه
        https://soundcloud.com/iranintl/lbpc7dfm6mq4
-
-    45. [Unknown]
-       تیتراول با نیوشا صارمی: هشدار موساد درباره طرح تهران برای ترور ترامپ؛آماده‌باش امنیتی آمریکا و اروپا
-       https://soundcloud.com/iranintl/szfiwmoa4is0
-
-    46. [Unknown]
-       چشم‌انداز: نخستین گام مجتبی خامنه‌ای برای قبضه وزارت اطلاعات
-       https://soundcloud.com/iranintl/s2l7fphawmz7
-
-    47. [Unknown]
-       اخبار عصرگاهی | یکشنبه ۲۴ آبان
-       https://soundcloud.com/iranintl/x4vk7icdofyf
-
-    48. [Unknown]
-       اخبار نیمروزی | یکشنبه ۲۴ آبان
-       https://soundcloud.com/iranintl/pcq7jfogabur
-
-    49. [Unknown]
-       اخبار بامدادی | یکشنبه ۲۴ آبان
-       https://soundcloud.com/iranintl/kzoratzv7nwt
-
-    50. [Unknown]
-       اخبار شبانگاهی | یکشنبه ۲۴ آبان
-       https://soundcloud.com/iranintl/kghy31djjjl0
 
 ----------------------------------------
 
