@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-18T19:01:01.509382+00:00
-Generated (Iran): 2026-11-18T22:31:01.509405+00:00
+Generated (UTC):  2026-11-19T07:01:03.489698+00:00
+Generated (Iran): 2026-11-19T10:31:03.489716+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-18 18:00:00]
+    1. [2026-11-18 19:32:14]
        دیدار ترامپ، پوتین، شی؛ جهان به کدام سو خواهد رفت؟ - ۶۰ دقیقه چهارشنبه ۲۷ آبان
        https://www.youtube.com/watch?v=ael49ze3Mxs
 
-    2. [2026-11-18 18:44:09]
+    2. [2026-11-18 19:30:22]
+       گوگوش و پینک مارتینی با «ساحل و دریا» از آلبوم جدیدشان رونمایی کردند
+       https://www.youtube.com/watch?v=yGgUCdaZCOQ
+
+    3. [2026-11-18 18:44:09]
        مهاجرت میلیون‌ها خرچنگ
        https://www.youtube.com/shorts/j9ZSYjyEhSA
 
-    3. [2026-11-18 18:43:37]
+    4. [2026-11-18 18:43:37]
        در ۲۶ آبان ۱۴۰۵ در آبدانان چه گذشت؟
        https://www.youtube.com/shorts/tUzYvO1ZGCc
 
-    4. [2026-11-18 18:10:21]
+    5. [2026-11-18 18:10:21]
        بدل نتانیاهو در تهران
        https://www.youtube.com/shorts/9btD558lgSA
 
-    5. [2026-11-18 17:39:16]
+    6. [2026-11-18 17:39:16]
        زنی رکورد اسکیت «لیمبو» را شکست
        https://www.youtube.com/shorts/N3SANR8Zl-w
 
-    6. [2026-11-18 17:02:38]
+    7. [2026-11-18 17:02:38]
        جام جهان‌نما- سهیمه بندی نان در ایران با چراغ خاموش؟
        https://www.youtube.com/watch?v=c1SBIL7Jb3Q
 
-    7. [2026-11-18 15:01:52]
+    8. [2026-11-18 15:01:52]
        استقلال بی‌سابقه رئیس‌جمهور چین از ترامپ در فرودگاه
        https://www.youtube.com/shorts/lvIGAinxqho
 
-    8. [2026-11-18 15:00:41]
+    9. [2026-11-18 15:00:41]
        اخبار ساعت شش عصر- چهارشنبه ۲۷ آبان - تنش ایران و آمریکا
        https://www.youtube.com/watch?v=cj1kwWjQ25E
 
-    9. [2026-11-18 15:00:01]
+    10. [2026-11-18 15:00:01]
        پرگار پلاس: چپ جهانی، ضد امپریالیست؟ ضد استبداد؟ یا هر دو؟
        https://www.youtube.com/watch?v=HMEd2LrOdm4
 
-    10. [2026-11-18 14:52:27]
+    11. [2026-11-18 14:52:27]
        پاسخ فرمانده کل ارتش ایران درباره حمله احتمالی آمریکا
        https://www.youtube.com/shorts/rv2144relVw
 
-    11. [2026-11-18 13:33:48]
+    12. [2026-11-18 13:33:48]
        گراز سرگردان در محوطه بیمارستان شهید لواسانی تهرانپارس
        https://www.youtube.com/shorts/tJo_131E10M
 
-    12. [2026-11-17 19:34:25]
+    13. [2026-11-17 19:34:25]
        واژگونی اتوبوس در ایلام؛ تجمع اعتراضی در آبدانان - ۶۰ دقیقه سه‌شنبه ۲۶ ابان
        https://www.youtube.com/watch?v=cYVoscyqIok
 
-    13. [2026-11-17 18:10:31]
+    14. [2026-11-17 18:10:31]
        انتشار ویدیویی از ربوده شدن سه دانش‌آموز در ایرانشهر
        https://www.youtube.com/shorts/OVDAME-SvaE
 
-    14. [2026-11-17 18:03:47]
+    15. [2026-11-17 18:03:47]
        راه سوم ترامپ آیا به نتیجه خواهد رسید؟ صفحه ۲
        https://www.youtube.com/watch?v=9v8GC76s0U8
-
-    15. [2026-11-17 16:00:17]
-       راجر گوالب: در دوران ترامپ دنیا جای بهتری شده است - گفت‌وگوی ویژه
-       https://www.youtube.com/watch?v=AKoiVvBAjNw
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-18 18:57:09]
-       پیام تکان‌دهنده اعتراضات آبدانان به حکومت ایران
-       https://www.youtube.com/watch?v=s_IVFkoNCL8
+    16. [2026-11-19 04:52:21]
+       اخبار بامدادی | پنج‌شنبه ۲۸ آبان
+       https://www.youtube.com/watch?v=xSNJ05l4DUo
 
-    17. [2026-11-18 18:39:59]
-       ارتش اسرائیل از انهدام یک تونل حزب‌الله در جنوب لبنان که برای حمله استفاده می‌شد خبر داد
-       https://www.youtube.com/watch?v=njAN3WnWQ5U
+    17. [2026-11-19 04:46:45]
+       دیدار دوباره ترامپ و شی جین‌پینگ در نشست رهبران جهان
+       https://www.youtube.com/watch?v=Z3LRqvkmMmE
 
-    18. [2026-11-18 17:42:28]
-       شی با جام شراب در حضور ترامپ و پوتین سخنرانی ضیافت اپک را آغاز کرد
-       https://www.youtube.com/shorts/DIhzHLCZOI4
+    18. [2026-11-19 04:45:31]
+       تشدید تنش میان تهران و واشینگتن با ادامه مذاکرات و تهدیدهای منطقه‌ای
+       https://www.youtube.com/watch?v=uZfcgVtnC44
 
-    19. [2026-11-18 17:37:17]
-       تیتراول با نیوشا صارمی: رایزنی نظامی آمریکا و اسرائیل درباره جنگ ایران در آستانه نشست تاریخی چین
-       https://www.youtube.com/watch?v=le_AiOFE3v0
+    19. [2026-11-19 04:40:20]
+       افزایش ابتلا به دیابت نوع یک در کودکان خردسال
+       https://www.youtube.com/watch?v=pEw4jSkzu7Y
 
-    20. [2026-11-18 17:06:00]
-       تشدید تنش نظامی میان آمریکا و جمهوری اسلامی هم‌زمان با سفر ترامپ به چین
-       https://www.youtube.com/watch?v=HRq7kM8rY0c
+    20. [2026-11-19 04:38:12]
+       محمد قائدی: حزب‌الله برای تامین مالی از شبکه‌های طلا، پول نقد و رمزارز استفاده می‌کند
+       https://www.youtube.com/watch?v=MtYlMA5KkPw
 
-    21. [2026-11-18 16:50:23]
-       اعتراض دانش‌آموزان یکی از هنرستان‌های نظرآباد به تفتیش بدنی و بازرسی وسایل شخصی
-       https://www.youtube.com/watch?v=SFebol5Udtg
+    21. [2026-11-19 04:35:55]
+       تصویب قطعنامه محکومیت سرکوب اعتراضات دی‌ماه ۱۴۰۴ در کمیته سوم سازمان ملل
+       https://www.youtube.com/watch?v=B-mx5QlhkPs
 
-    22. [2026-11-18 16:42:44]
-       عضو هیات روسیه در چین حمل «کیف هسته‌ای» را در برابر دوربین تایید کرد
-       https://www.youtube.com/shorts/3HFSyCMuO90
+    22. [2026-11-19 04:34:11]
+       انتشار بازی جی‌تی‌ای ۶، زندگی روزمره را تحت تاثیر قرار داد
+       https://www.youtube.com/watch?v=FN8DIqEYGfQ
 
-    23. [2026-11-18 16:27:02]
-       مهتاب قلی‌زاده: گرانی لاستیک و روغن موتور هزینه نگهداری خودرو را بالا برده است
-       https://www.youtube.com/watch?v=F7a16c83cuU
+    23. [2026-11-18 23:56:05]
+       دیدار رییس ستاد ارتش اسرائیل با فرمانده سنتکام و رییس موساد درباره تقویت هماهنگی‌ها در تل‌آویو
+       https://www.youtube.com/shorts/2kn7lsV8D10
 
-    24. [2026-11-18 16:10:22]
-       گزارش روز با مجتبا پورمحسن: تعیین تکلیف جنگ سوم با ایران در چین
-       https://www.youtube.com/watch?v=rc4aP76rPwQ
+    24. [2026-11-18 23:24:50]
+       تشدید محاصره دریایی جمهوری اسلامی با ممنوعیت انتقال کشتی‌به‌کشتی نفت
+       https://www.youtube.com/watch?v=7lwUUHufDoo
 
-    25. [2026-11-18 16:09:55]
-       شایان سمیعی: چین و روسیه منافع ملی خود را بر روابط با تهران مقدم می‌دانند
-       https://www.youtube.com/watch?v=t7qrCzYRTDc
+    25. [2026-11-18 23:20:56]
+       اخبار شبانگاهی | پنج‌شنبه ۲۸ آبان
+       https://www.youtube.com/watch?v=ZllUnpCY-2A
 
-    26. [2026-11-18 16:07:41]
-       محمد رواندی: با وجود محدودیت‌ها، به ساخت فیلم ادامه می‌دهیم
-       https://www.youtube.com/watch?v=_lSK5tqHPSU
+    26. [2026-11-18 23:14:48]
+       شهرام خلدی: احتمال دستیابی آمریکا، روسیه و چین به توافقی مشترک درباره ایران اندک است
+       https://www.youtube.com/watch?v=DSh7GL0ZPWc
 
-    27. [2026-11-18 15:32:33]
-       اخبار عصرگاهی | چهارشنبه ۲۷ آبان
-       https://www.youtube.com/watch?v=TwJBn81prh0
+    27. [2026-11-18 23:09:40]
+       دادگاه متهم به حمله با خودرو به معترضان ایرانی در تورنتو بار دیگر به تعویق افتاد
+       https://www.youtube.com/shorts/QFut4A4C8BI
 
-    28. [2026-11-18 15:22:55]
-       فیلم زیرزمینی «پایان خوش» در غیاب سازندگان ممنوع‌الخروجش در تالین به نمایش درآمد
-       https://www.youtube.com/watch?v=CQ4TadSUnvs
+    28. [2026-11-18 23:02:01]
+       سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
+       https://www.youtube.com/watch?v=w7slaS9sh9M
 
-    29. [2026-11-18 15:17:34]
-       مدیرکل آژانس بین‌المللی انرژی اتمی: بازرسان آژانس فقط به نیروگاه بوشهر دسترسی دارند
-       https://www.youtube.com/shorts/5o1DUXpdv88
+    29. [2026-11-18 22:51:47]
+       هشدار مقام‌های آمریکا درباره حملات سایبری جمهوری اسلامی به زیرساخت‌های این کشور
+       https://www.youtube.com/watch?v=n58j3LdnBAk
 
-    30. [2026-11-18 14:49:08]
-       دیدار فرماندهان ارشد نظامی اسرائیل و آمریکا با محوریت احتمال ازسرگیری جنگ با جمهوری اسلامی
-       https://www.youtube.com/watch?v=4VOHuy4IvDo
+    30. [2026-11-18 22:50:51]
+       فرمانده کل ارتش: پاسخ جمهوری اسلامی به حمله دشمن کوبنده‌تر خواهد بود
+       https://www.youtube.com/shorts/QEDAFyah14I
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | پنج‌شنبه ۲۸ آبان
+       https://soundcloud.com/iranintl/ramihokc1shi
+
+    32. [Unknown]
+       اخبار شبانگاهی | پنج‌شنبه ۲۸ آبان
+       https://soundcloud.com/iranintl/ktlnnfp7qprb
+
+    33. [Unknown]
+       سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
+       https://soundcloud.com/iranintl/besfh8dowruu
+
+    34. [Unknown]
+       برنامه با کامبیز حسینی | مرگ سوگند صیادی؛ روایت‌ها از خشونت پدر و مسئولیت مدرسه
+       https://soundcloud.com/iranintl/zttdjjiotgoa
+
+    35. [Unknown]
+       ۲۴ با فرداد فرحزاد: دیدار فرماندهان ارشد نظامی آمریکا و اسرائیل در مورد جنگ با جمهوری اسلامی
+       https://soundcloud.com/iranintl/zuvnsxc5lin3
+
+    36. [Unknown]
+       چشم‌انداز: پیام تکان‌دهنده اعتراضات آبدانان به حکومت ایران
+       https://soundcloud.com/iranintl/kkpr5aoxgugk
+
+    37. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/sny5kyxaxdj2
 
-    32. [Unknown]
+    38. [Unknown]
        تیتراول با نیوشا صارمی: رایزنی نظامی آمریکا و اسرائیل درباره جنگ ایران در آستانه نشست تاریخی چین
        https://soundcloud.com/iranintl/okfotsrydeia
 
-    33. [Unknown]
+    39. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/rbk3bzhzqowk
 
-    34. [Unknown]
+    40. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/4vprgwo7cmw1
 
-    35. [Unknown]
+    41. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/8bf0epjq69sb
 
-    36. [Unknown]
+    42. [Unknown]
        سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی
        https://soundcloud.com/iranintl/c188pvjr8vhe
 
-    37. [Unknown]
+    43. [Unknown]
        برنامه با کامبیز حسینی | مسئول سالم برگشتن کارگر به خانه کیست؟
        https://soundcloud.com/iranintl/bthvjt2syvjm
 
-    38. [Unknown]
+    44. [Unknown]
        ۲۴ با فرداد فرحزاد: هشدار ترامپ به تهران؛ هرگونه حمله به آمریکا بهای سنگین دارد
        https://soundcloud.com/iranintl/vja6yqocfor6
 
-    39. [Unknown]
+    45. [Unknown]
        چشم‌انداز: تعیین تکلیف حکومت ایران در دیدار بی‌سابقه رهبران آمریکا، چین روسیه
        https://soundcloud.com/iranintl/dfohirwcjqj6
 
-    40. [Unknown]
+    46. [Unknown]
        تیتراول با نیوشا صارمی: هشدار تند ترامپ درباره «بمب کثیف» تهران در واشنگتن؛ بازگشت آبدانان به خیابان
        https://soundcloud.com/iranintl/cqpvnpnoqfdv
 
-    41. [Unknown]
+    47. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/f9lm0czg9xaf
 
-    42. [Unknown]
+    48. [Unknown]
        اخبار نیم‌روزی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/7hcrkfubomec
 
-    43. [Unknown]
+    49. [Unknown]
        اخبار بامدادی | سه‌شنبه ۲۶ آبان
        https://soundcloud.com/iranintl/nn5ve2mokd4j
 
-    44. [Unknown]
+    50. [Unknown]
        برنامه با کامبیز حسینی | مسئلهٔ اصلی مردم امروز چیست؟
        https://soundcloud.com/iranintl/0jud6agdicob
-
-    45. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۲۶ آبان
-       https://soundcloud.com/iranintl/jsf5imlxirz4
-
-    46. [Unknown]
-       سیاست با مراد ویسی: تصمیم ترامپ
-       https://soundcloud.com/iranintl/ew9wovdomifh
-
-    47. [Unknown]
-       چشم‌انداز: جنگ یا ادامه محاصره؛ برنامه ترامپ برای این چیست؟!
-       https://soundcloud.com/iranintl/etcwosam9can
-
-    48. [Unknown]
-       ۲۴ با فرداد فرحزاد: بزرگترین آرایش نظامی آمریکا در خلیج‌فارس بعد از جنگ عراق
-       https://soundcloud.com/iranintl/h7mja4zkspep
-
-    49. [Unknown]
-       تیتراول با نیوشا صارمی: ترامپ در راه نشست بی‌سابقه با شی و پوتین؛ معامله بر سر جمهوری اسلامی؟
-       https://soundcloud.com/iranintl/ni6ef1dpxo8m
-
-    50. [Unknown]
-       اخبار عصرگاهی | دوشنبه ۲۵ آبان
-       https://soundcloud.com/iranintl/fbbunq4qpgkv
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۱۸ نوامبر ۲۰۲۶ / ۲۷ آبان ۱۴۰۵
+       https://soundcloud.com/bbcpersian/beeog0oylhb0
+
+    52. [Unknown]
        جام جهان‌نما ۱۷ نوامبر ۲۰۲۶ / ۲۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/9dl6aqcahllf
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۱۶ نوامبر ۲۰۲۶ / ۲۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tatp9ydcl45u
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۱۵ نوامبر ۲۰۲۶ / ۲۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/p5mqvbvkhif0
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۱۴ نوامبر ۲۰۲۶ / ۲۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vujsixj53sok
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/51nd6rwat9ls
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/kr48oiad4ovj
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/39rga0glqgld
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vg0slahxxaod
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ux2jhrv9jwdx
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/bswk71jgjx3e
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/mkrkfphnzb0u
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/aftpn1o6mz2j
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۵ نوامبر ۲۰۲۶ / ۱۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tdewbcufj69z
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۴ نوامبر ۲۰۲۶ / ۱۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/apnprmidcamp
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۳ نوامبر ۲۰۲۶ / ۱۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/n4wzqzyt3l4a
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۲ نوامبر ۲۰۲۶ / ۱۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ta3xowpwecqc
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۱ نوامبر ۲۰۲۶ / ۱۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/69ge1phs8lhw
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۳۱ اکتبر ۲۰۲۶ / ۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/h244yhcrje4j
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۳۰ اکتبر ۲۰۲۶ / ۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hreeuwmgp25m
-
-    70. [Unknown]
-       جام جهان‌نما ۲۹ اکتبر ۲۰۲۶ / ۷ آبان ۱۴۰۵
-       https://soundcloud.com/bbcpersian/eyb3fnfnowkn
 
 ----------------------------------------
 
