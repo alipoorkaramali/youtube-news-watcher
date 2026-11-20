@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-20T11:01:02.447210+00:00
-Generated (Iran): 2026-11-20T14:31:02.447228+00:00
+Generated (UTC):  2026-11-20T15:01:03.395619+00:00
+Generated (Iran): 2026-11-20T18:31:03.395636+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-20 09:48:26]
+    1. [2026-11-20 15:00:18]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=g1JxNa11wOc
+
+    2. [2026-11-20 14:37:29]
+       پاشیدن خاکستر روی  کمیسر بهداشت و رفاه حیوانات اتحادیه اروپا
+       https://www.youtube.com/shorts/KswVw5M7L8w
+
+    3. [2026-11-20 13:16:04]
+       نجات یک پلنگ از چاهی به عمق ۱۲ متر در هند
+       https://www.youtube.com/shorts/pBj8OJGjCYg
+
+    4. [2026-11-20 13:13:40]
+       دادگاهی دو مرد بریتانیایی متهم به همکاری با یک سرویس اطلاعاتی خارجی
+       https://www.youtube.com/shorts/itd8jsJwI7s
+
+    5. [2026-11-20 09:48:26]
        رقص ربات‌ها برای خبرنگاران در شنژن چین همزمان با جلاس سازمان همکاری‌های اقتصادی آسیا-پاسفیک
        https://www.youtube.com/shorts/0d2Z4T05m0U
 
-    2. [2026-11-19 19:36:39]
-       جام جهان‌نما
+    6. [2026-11-19 19:36:39]
+       جام جهان‌نما؛ نشست تاریخی رهبران آمریکا، چین و روسیه و فشار نتانیاهو به ترامپ برای حمله به ایران
        https://www.youtube.com/watch?v=1DXwMnGXgJI
 
-    3. [2026-11-19 19:30:24]
+    7. [2026-11-19 19:30:24]
        زندگی و پرونده مجید آدینه، موتورسواری زنان، آلبوم مشترک گوگوش با یک گروه آمریکایی، و بیشتر:خبرنگاران
        https://www.youtube.com/watch?v=WtEU2vMqKhg
 
-    4. [2026-11-19 18:05:23]
+    8. [2026-11-19 18:05:23]
        نشست قدرت‌های بزرگ برای ایران چه معنا دارد؟ صفحه ۲
        https://www.youtube.com/watch?v=OQzjHa2Wx5w
 
-    5. [2026-11-19 16:30:34]
+    9. [2026-11-19 16:30:34]
        رنگآهنگ: کنسرت تجدید دیدار گروه اکسیوم آف چویس
        https://www.youtube.com/watch?v=CNg7v72In4Y
 
-    6. [2026-11-19 15:00:52]
+    10. [2026-11-19 15:00:52]
        اخبار ساعت شش عصر- پنج‌شنبه ۲۸ آبان- نشست تاریخی شنژن
        https://www.youtube.com/watch?v=0eYOk_4NzrM
 
-    7. [2026-11-19 14:12:02]
+    11. [2026-11-19 14:12:02]
        عودلاجان یا اودلاجان؟
        https://www.youtube.com/shorts/6ANPjZpWyM8
 
-    8. [2026-11-19 11:07:23]
+    12. [2026-11-19 11:07:23]
        شی جین‌پینگ، دونالد ترامپ و ولادیمیر پوتین در یک قاب
        https://www.youtube.com/shorts/ANpwxzOCohE
 
-    9. [2026-11-18 19:32:14]
+    13. [2026-11-18 19:32:14]
        دیدار ترامپ، پوتین، شی؛ جهان به کدام سو خواهد رفت؟ - ۶۰ دقیقه چهارشنبه ۲۷ آبان
        https://www.youtube.com/watch?v=ael49ze3Mxs
 
-    10. [2026-11-18 19:30:22]
+    14. [2026-11-18 19:30:22]
        گوگوش و پینک مارتینی با «ساحل و دریا» از آلبوم جدیدشان رونمایی کردند
        https://www.youtube.com/watch?v=yGgUCdaZCOQ
 
-    11. [2026-11-18 18:44:09]
+    15. [2026-11-18 18:44:09]
        مهاجرت میلیون‌ها خرچنگ
        https://www.youtube.com/shorts/j9ZSYjyEhSA
-
-    12. [2026-11-18 18:43:37]
-       در ۲۶ آبان ۱۴۰۵ در آبدانان چه گذشت؟
-       https://www.youtube.com/shorts/tUzYvO1ZGCc
-
-    13. [2026-11-18 18:10:21]
-       بدل نتانیاهو در تهران
-       https://www.youtube.com/shorts/9btD558lgSA
-
-    14. [2026-11-18 17:39:16]
-       زنی رکورد اسکیت «لیمبو» را شکست
-       https://www.youtube.com/shorts/N3SANR8Zl-w
-
-    15. [2026-11-18 17:02:38]
-       جام جهان‌نما- سهیمه بندی نان در ایران با چراغ خاموش؟
-       https://www.youtube.com/watch?v=c1SBIL7Jb3Q
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-20 10:24:55]
+    16. [2026-11-20 14:27:05]
+       سوئد محدودیت بررسی درخواست‌های پناهندگی ایرانیان را لغو کرد
+       https://www.youtube.com/watch?v=IbKurFi-IVI
+
+    17. [2026-11-20 14:19:46]
+       محمدجواد اکبرین: بازداشت و محاکمه اعضای حزب‌الله نشانه‌ تغییر موازنه قدرت در لبنان است
+       https://www.youtube.com/watch?v=gkNhONVPl2M
+
+    18. [2026-11-20 13:39:43]
+       بغداد هم‌زمان با گزارش‌ها از عقب‌نشینی کتائب حزب‌الله، در جرف‌الصخر قرارگاه ایجاد می‌کند
+       https://www.youtube.com/watch?v=E6_GBwOn4WI
+
+    19. [2026-11-20 13:36:05]
+       یک نفتکش ایرانی در نزدیکی تنگه هرمز آماده حرکت است
+       https://www.youtube.com/shorts/l6lNRTqm7tk
+
+    20. [2026-11-20 13:24:23]
+       اسرائیل محل پیشین تولید و ذخیره موشک‌های حزب‌الله در شرق لبنان را بمباران کرد
+       https://www.youtube.com/watch?v=tHwEUWxcKgk
+
+    21. [2026-11-20 13:10:20]
+       همایون فلک‌شاهی: چین برای نفت ایران با آمریکا وارد تقابل نمی‌شود
+       https://www.youtube.com/watch?v=g0TG-oyHBr8
+
+    22. [2026-11-20 12:24:33]
+       پولیتیکو: بریتانیا و اتحادیه اروپا در آستانه توافق بر سر کار و تحصیل جوانان‌اند
+       https://www.youtube.com/watch?v=VHgWWokrKjo
+
+    23. [2026-11-20 12:24:00]
+       فعال سیاسی اصلاح‌طلب: موساد پشت تلاش‌ها برای عزل پزشکیان است
+       https://www.youtube.com/shorts/QxNu2kBrWQQ
+
+    24. [2026-11-20 12:11:09]
+       محاکمه دو مرد بریتانیایی در پرونده عملیات منتسب به جمهوری اسلامی در پایگاه فیرفورد
+       https://www.youtube.com/watch?v=2RpIJ9W95Zo
+
+    25. [2026-11-20 11:34:03]
+       صف طولانی کامیون‌ها در زابل برای دریافت گازوییل
+       https://www.youtube.com/shorts/AEYOXwXTFnU
+
+    26. [2026-11-20 11:20:52]
+       نقش رئیس دادگستری قم در محکومیت و مصادره اموال معترضان انقلاب ملی ایرانیان
+       https://www.youtube.com/watch?v=PI_9pzjEszk
+
+    27. [2026-11-20 11:14:47]
+       حسین آقایی: بریتانیا در برابر جمهوری اسلامی و روسیه به سمت بازدارندگی تهاجمی می‌رود
+       https://www.youtube.com/watch?v=0iRi69usGsw
+
+    28. [2026-11-20 10:51:51]
+       اخبار نیم‌روزی | جمعه ۲۹ آبان
+       https://www.youtube.com/watch?v=NvwtYtvF0Jo
+
+    29. [2026-11-20 10:24:55]
        تلاش اروپا برای بازگشت به مسیر مذاکره با روسیه درباره اوکراین
        https://www.youtube.com/watch?v=3LOGXMVdmzI
 
-    17. [2026-11-20 10:22:45]
+    30. [2026-11-20 10:22:45]
        علی حسین قاضی‌زاده: جمهوری اسلامی برای شکستن محاصره به تقابل تازه با آمریکا تن می‌دهد
        https://www.youtube.com/watch?v=m98DyVDs1vg
-
-    18. [2026-11-20 10:12:43]
-       عقب‌نشینی کتائب حزب‌الله از جرف‌الصخر پس از توافق با دولت عراق
-       https://www.youtube.com/watch?v=Px0vwPyGUjk
-
-    19. [2026-11-20 10:10:20]
-       ورود نیروهای پلیس فدرال عراق به جرف‌الصخر
-       https://www.youtube.com/shorts/a6YJXKUfsqA
-
-    20. [2026-11-20 10:03:27]
-       پایان نشست شورای حکام با ادامه ابهام درباره ذخایر اورانیوم جمهوری اسلامی
-       https://www.youtube.com/watch?v=RORYoVirRB0
-
-    21. [2026-11-20 09:27:48]
-       اصابت موشک منتسب به حوثی‌ها به بلندترین آسمان‌خراش ریاض
-       https://www.youtube.com/shorts/UhyOom3IecA
-
-    22. [2026-11-20 09:27:03]
-       محمدجواد اکبرین: دولت‌های منطقه به دنبال حذف نیروهای نیابتی جمهوری اسلامی هستند
-       https://www.youtube.com/watch?v=Z0EdGCdfB8M
-
-    23. [2026-11-20 09:20:57]
-       واکنش شهروندان به اظهارات پزشکیان درباره صرفه‌جویی و ازدواج
-       https://www.youtube.com/watch?v=6NFdrUyBxz4
-
-    24. [2026-11-20 09:20:46]
-       حسین آقایی: راهبرد جمهوری اسلامی در منطقه تهاجمی‌تر شده است
-       https://www.youtube.com/watch?v=i4fETJmlA2Y
-
-    25. [2026-11-20 09:09:19]
-       دود در نزدیکی سواحل عمان پس از هدف قرار گرفتن یک نفتکش
-       https://www.youtube.com/shorts/awATyrnx-2E
-
-    26. [2026-11-20 08:02:03]
-       فرزین کرباسی: خلع سلاح گروه‌های نیابتی جمهوری اسلامی در عراق کار آسانی نیست
-       https://www.youtube.com/watch?v=q-3z3ljb9TU
-
-    27. [2026-11-20 07:55:15]
-       سفیر اسرائیل در آمریکا: در صورت تصمیم دوباره ترامپ برای حمله به ایران، وارد عملیات می‌شویم
-       https://www.youtube.com/watch?v=MjUmM6g-Uus
-
-    28. [2026-11-20 07:32:43]
-       حسین علیزاده: ترامپ میان فشار اقتصادی و حمله به جمهوری اسلامی مردد است
-       https://www.youtube.com/watch?v=zoZVFQQ2LH8
-
-    29. [2026-11-20 05:03:45]
-       اخبار بامدادی | جمعه ۲۹ آبان
-       https://www.youtube.com/watch?v=FVaE-b46Zrc
-
-    30. [2026-11-20 04:57:56]
-       اتحادیه اروپا: آژانس نمی‌تواند صلح‌آمیز بودن مواد هسته‌ای ایران را تایید کند
-       https://www.youtube.com/watch?v=tu1N_yC4s6s
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | جمعه ۲۹ آبان
+       https://soundcloud.com/iranintl/lomqjcsx6ebk
+
+    32. [Unknown]
        اخبار بامدادی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/0abbhsht0hwe
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/2jmsyq0msl2x
 
-    33. [Unknown]
+    34. [Unknown]
        برنامه با کامبیز حسینی | تریبون آزاد: از محبوبیت ابی سود می‌برید؛ اما از حقش دفاع می‌کنید؟
        https://soundcloud.com/iranintl/yva4gvqgswwr
 
-    34. [Unknown]
+    35. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ در پی حمله گسترده به جمهوری اسلامی
        https://soundcloud.com/iranintl/ilih7h4efsnv
 
-    35. [Unknown]
+    36. [Unknown]
        دومینو: بازگشت مردم آبدانان به خیابان
        https://soundcloud.com/iranintl/m0tmhq6fgkic
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/wjmqsjargvgw
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/33tqzkg40wq3
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/ramihokc1shi
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/ktlnnfp7qprb
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
        https://soundcloud.com/iranintl/besfh8dowruu
 
-    41. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | مرگ سوگند صیادی؛ روایت‌ها از خشونت پدر و مسئولیت مدرسه
        https://soundcloud.com/iranintl/zttdjjiotgoa
 
-    42. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: دیدار فرماندهان ارشد نظامی آمریکا و اسرائیل در مورد جنگ با جمهوری اسلامی
        https://soundcloud.com/iranintl/zuvnsxc5lin3
 
-    43. [Unknown]
+    44. [Unknown]
        چشم‌انداز: پیام تکان‌دهنده اعتراضات آبدانان به حکومت ایران
        https://soundcloud.com/iranintl/kkpr5aoxgugk
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/sny5kyxaxdj2
 
-    45. [Unknown]
+    46. [Unknown]
        تیتراول با نیوشا صارمی: رایزنی نظامی آمریکا و اسرائیل درباره جنگ ایران در آستانه نشست تاریخی چین
        https://soundcloud.com/iranintl/okfotsrydeia
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار نیم‌روزی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/rbk3bzhzqowk
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/4vprgwo7cmw1
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/8bf0epjq69sb
 
-    49. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی
        https://soundcloud.com/iranintl/c188pvjr8vhe
-
-    50. [Unknown]
-       برنامه با کامبیز حسینی | مسئول سالم برگشتن کارگر به خانه کیست؟
-       https://soundcloud.com/iranintl/bthvjt2syvjm
 
 ----------------------------------------
 
