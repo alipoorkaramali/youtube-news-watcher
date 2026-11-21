@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-20T19:01:06.611611+00:00
-Generated (Iran): 2026-11-20T22:31:06.611632+00:00
+Generated (UTC):  2026-11-21T07:01:01.155107+00:00
+Generated (Iran): 2026-11-21T10:31:01.155127+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-20 18:33:39]
-       حرف آخر با پوریا زراعتی - ترورهای گسترده در ۲۴ ساعت اول عملیات
-       https://www.youtube.com/watch?v=ihCgSHfx1ho
+    16. [2026-11-21 05:30:56]
+       عرفان قانعی‌فرد: نفوذ به بانک اطلاعاتی اف‌بی‌آی یک شوک راهبردی برای آمریکاست
+       https://www.youtube.com/watch?v=RBaHLplgdt4
 
-    17. [2026-11-20 17:44:07]
-       Erin Molan on how Tehran’s hackers targeted her | Eye for Iran | EP 130 |
-       https://www.youtube.com/watch?v=X29cOwFvcuI
+    17. [2026-11-21 05:12:21]
+       اخبار بامدادی | شنبه ۳۰ آبان
+       https://www.youtube.com/watch?v=T1c90uoc_cI
 
-    18. [2026-11-20 17:18:51]
-       از مسکن اجتماعی تا حیدر حیدر؛ اولویت شهردار تهران چیست؟
-       https://www.youtube.com/watch?v=r7g-m0dyAe8
+    18. [2026-11-21 04:51:32]
+       علی معموری: حوثی‌ها در جنگ فرسایشی با عربستان دست بالاتری دارند
+       https://www.youtube.com/watch?v=3L3TK4QNuy8
 
-    19. [2026-11-20 17:15:57]
-       تصویر دوربین‌های مداربسته از لحظه سقوط اشیای ناشناس در نزدیکی مرز لهستان و اوکراین
-       https://www.youtube.com/shorts/EkJuSZZzkLY
+    19. [2026-11-21 04:48:51]
+       عرضه تاریخی آنتروپیک در سایه نگرانی از شکل‌گیری حباب هوش مصنوعی
+       https://www.youtube.com/watch?v=7SubuJMY_B4
 
-    20. [2026-11-20 15:59:59]
-       آسیه امینی: برای کاهش زن‌کشی در ایران نمی‌توان به نهادهای حکومتی امید بست
-       https://www.youtube.com/watch?v=7aaUJUP56OA
+    20. [2026-11-21 04:39:29]
+       سیامک آرام: تداوم وضعیت نه جنگ و نه صلح، شکاف‌های درون حکومت را تشدید می‌کند
+       https://www.youtube.com/watch?v=qh5nvd3cQuM
 
-    21. [2026-11-20 15:45:19]
-       به صدا درآمدن آژیر خطر در جنوب شرقی لهستان
-       https://www.youtube.com/shorts/u40VIam2cAA
+    21. [2026-11-21 04:37:28]
+       احتمال حمله جمهوری اسلامی به واشینگتن با بمب کثیف
+       https://www.youtube.com/watch?v=xrRrmJJ8GcM
 
-    22. [2026-11-20 15:37:34]
-       گسترش روابط تجاری و دفاعی کانادا و ژاپن هم‌زمان با نشست شنژن
-       https://www.youtube.com/watch?v=c9uz1jrH5bE
+    22. [2026-11-21 04:35:12]
+       نیکولاس گیلانی: جمهوری اسلامی درآمد نفتی را با شبکه بانکداری سایه به کالا تبدیل می‌کند
+       https://www.youtube.com/watch?v=t7KhZK5VubE
 
-    23. [2026-11-20 15:35:48]
-       داستان شبی که حمله به چهار پل، ارتباط نوار جنوبی کشور را قطع کرد
-       https://www.youtube.com/shorts/Gb8NlJcMoCg
+    23. [2026-11-21 04:32:22]
+       تاکید چین در نشست اپک بر پیوند میراث فرهنگی و توسعه منطقه‌ای
+       https://www.youtube.com/watch?v=JYy21MeuiOE
 
-    24. [2026-11-20 15:17:47]
-       اخبار عصرگاهی | جمعه ۲۹ آبان
-       https://www.youtube.com/watch?v=EGBtKQ986Ik
+    24. [2026-11-21 04:31:28]
+       ترامپ: تهران خواهان توافق است اما توافق مورد نظر ما را نمی‌پذیرد
+       https://www.youtube.com/watch?v=9ePRXwLwOM8
 
-    25. [2026-11-20 15:00:05]
-       فرزین ندیمی: انتقال تجهیزات آمریکا به اسرائیل می‌تواند آمادگی نظامی آمریکا را افزایش دهد
-       https://www.youtube.com/watch?v=6BpX_FQwYbE
+    25. [2026-11-20 23:01:35]
+       ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
+       https://www.youtube.com/watch?v=j91U_zQuosc
 
-    26. [2026-11-20 14:27:05]
-       سوئد محدودیت بررسی درخواست‌های پناهندگی ایرانیان را لغو کرد
-       https://www.youtube.com/watch?v=IbKurFi-IVI
+    26. [2026-11-20 23:00:42]
+       ترامپ: اجازه نمی‌دهیم جمهوری اسلامی بمب کثیف بسازد
+       https://www.youtube.com/shorts/fZ6Go4G45p4
 
-    27. [2026-11-20 14:19:46]
-       محمدجواد اکبرین: بازداشت و محاکمه اعضای حزب‌الله نشانه‌ تغییر موازنه قدرت در لبنان است
-       https://www.youtube.com/watch?v=gkNhONVPl2M
+    27. [2026-11-20 22:57:30]
+       اخبار شبانگاهی | شنبه ۳۰ آبان
+       https://www.youtube.com/watch?v=IeFpfOiLkO0
 
-    28. [2026-11-20 13:39:43]
-       بغداد هم‌زمان با گزارش‌ها از عقب‌نشینی کتائب حزب‌الله، در جرف‌الصخر قرارگاه ایجاد می‌کند
-       https://www.youtube.com/watch?v=E6_GBwOn4WI
+    28. [2026-11-20 22:01:06]
+       شهرام خلدی: خرید زمان به سود آمریکا بوده و جمهوری اسلامی از نظر اقتصادی شکننده‌تر شده است
+       https://www.youtube.com/watch?v=7BUna-xcTs0
 
-    29. [2026-11-20 13:36:05]
-       یک نفتکش ایرانی در نزدیکی تنگه هرمز آماده حرکت است
-       https://www.youtube.com/shorts/l6lNRTqm7tk
+    29. [2026-11-20 21:58:39]
+       آکسیوس: فرستادگان ترامپ با مقام‌های قطر برای ازسرگیری مذاکرات تهران و واشینگتن دیدار کردند
+       https://www.youtube.com/watch?v=iuQzVofVK98
 
-    30. [2026-11-20 13:24:23]
-       اسرائیل محل پیشین تولید و ذخیره موشک‌های حزب‌الله در شرق لبنان را بمباران کرد
-       https://www.youtube.com/watch?v=tHwEUWxcKgk
+    30. [2026-11-20 21:14:59]
+       هت‌تریک؛ بعد از ۲۲ سال، یک ایرانی مرد سال فوتبال آسیا شد
+       https://www.youtube.com/watch?v=XqEfLg9A_j4
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | شنبه ۳۰ آبان
+       https://soundcloud.com/iranintl/uhvltqhke6zf
+
+    32. [Unknown]
+       اخبار شبانگاهی | شنبه ۳۰ آبان
+       https://soundcloud.com/iranintl/lsmkqkdsgmm4
+
+    33. [Unknown]
+       ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
+       https://soundcloud.com/iranintl/suwcqap0eoac
+
+    34. [Unknown]
+       ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
+       https://soundcloud.com/iranintl/npqcseylaky2
+
+    35. [Unknown]
        اخبار عصرگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/8g5hpsoe0tql
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار نیم‌روزی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/lomqjcsx6ebk
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار بامدادی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/0abbhsht0hwe
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار شبانگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/2jmsyq0msl2x
 
-    35. [Unknown]
+    39. [Unknown]
        برنامه با کامبیز حسینی | تریبون آزاد: از محبوبیت ابی سود می‌برید؛ اما از حقش دفاع می‌کنید؟
        https://soundcloud.com/iranintl/yva4gvqgswwr
 
-    36. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ در پی حمله گسترده به جمهوری اسلامی
        https://soundcloud.com/iranintl/ilih7h4efsnv
 
-    37. [Unknown]
+    41. [Unknown]
        دومینو: بازگشت مردم آبدانان به خیابان
        https://soundcloud.com/iranintl/m0tmhq6fgkic
 
-    38. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/wjmqsjargvgw
 
-    39. [Unknown]
+    43. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/33tqzkg40wq3
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/ramihokc1shi
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/ktlnnfp7qprb
 
-    42. [Unknown]
+    46. [Unknown]
        سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
        https://soundcloud.com/iranintl/besfh8dowruu
 
-    43. [Unknown]
+    47. [Unknown]
        برنامه با کامبیز حسینی | مرگ سوگند صیادی؛ روایت‌ها از خشونت پدر و مسئولیت مدرسه
        https://soundcloud.com/iranintl/zttdjjiotgoa
 
-    44. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد: دیدار فرماندهان ارشد نظامی آمریکا و اسرائیل در مورد جنگ با جمهوری اسلامی
        https://soundcloud.com/iranintl/zuvnsxc5lin3
 
-    45. [Unknown]
+    49. [Unknown]
        چشم‌انداز: پیام تکان‌دهنده اعتراضات آبدانان به حکومت ایران
        https://soundcloud.com/iranintl/kkpr5aoxgugk
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۲۷ آبان
        https://soundcloud.com/iranintl/sny5kyxaxdj2
-
-    47. [Unknown]
-       تیتراول با نیوشا صارمی: رایزنی نظامی آمریکا و اسرائیل درباره جنگ ایران در آستانه نشست تاریخی چین
-       https://soundcloud.com/iranintl/okfotsrydeia
-
-    48. [Unknown]
-       اخبار نیم‌روزی | چهارشنبه ۲۷ آبان
-       https://soundcloud.com/iranintl/rbk3bzhzqowk
-
-    49. [Unknown]
-       اخبار بامدادی | چهارشنبه ۲۷ آبان
-       https://soundcloud.com/iranintl/4vprgwo7cmw1
-
-    50. [Unknown]
-       اخبار شبانگاهی | چهارشنبه ۲۷ آبان
-       https://soundcloud.com/iranintl/8bf0epjq69sb
 
 ----------------------------------------
 
