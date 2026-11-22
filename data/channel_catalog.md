@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-21T19:00:58.136027+00:00
-Generated (Iran): 2026-11-21T22:30:58.136046+00:00
+Generated (UTC):  2026-11-22T07:01:00.209571+00:00
+Generated (Iran): 2026-11-22T10:31:00.209590+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,8 +34,8 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-21 18:00:00]
-       قتل تکان‌‍دهنده یک زن در ایران؛ ریشه زن‌کشی در کجاست؟ - ۶۰ دقیقه شنبه ۳۰ آبان
+    1. [2026-11-21 19:30:54]
+       روایت یک جنایت؛ ادامه زن کشی در ایران - ۶۰ دقیقه شنبه ۳۰ آبان
        https://www.youtube.com/watch?v=cT0-nDuG7tc
 
     2. [2026-11-21 17:02:34]
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-21 18:11:53]
-       موسس دانشگاه ادیان: آمریکا صد‌بار ایران را با بی-۵۲ بمباران کند هیچ اتفاقی نمی‌افتد
-       https://www.youtube.com/shorts/ruWRoZN5tg4
+    16. [2026-11-22 05:06:04]
+       تهران در محاصره خشکسالی و نوسان‌های شدید اقلیمی
+       https://www.youtube.com/watch?v=JUTefhf_G34
 
-    17. [2026-11-21 17:39:38]
-       تیتراول با نیوشا صارمی: افزایش آمادگی آمریکا و اسرائیل برای حمله به ایران؛ قدرت‌نمایی موشکی سپاه
-       https://www.youtube.com/watch?v=Qmv3eCJJ65c
+    17. [2026-11-22 04:59:10]
+       راهپیمایی ایرانیان معترض به جمهوری اسلامی در سرمای استکهلم
+       https://www.youtube.com/watch?v=iJ8s-DFbbEI
 
-    18. [2026-11-21 16:28:25]
-       اقتصاد و بازار: کاهش شدید درآمدهای دلاری و ریالی جمهوری اسلامی؛ واکنش‌ها به جیره‌بندی نان
-       https://www.youtube.com/watch?v=AkSxQvrOoo0
+    18. [2026-11-22 04:57:04]
+       اخبار بامدادی | یکشنبه ۱ آذر
+       https://www.youtube.com/watch?v=mNi5mitYSXg
 
-    19. [2026-11-21 16:12:18]
-       هجوم معترضان هندی به دفتر شرکت «متا»
-       https://www.youtube.com/shorts/KXwOD6MpV_o
+    19. [2026-11-22 04:56:36]
+       امید شکری: جنگ اخیر به عامل تشدید بحران انرژی جمهوری اسلامی تبدیل شد
+       https://www.youtube.com/watch?v=d7-MGWohrVs
 
-    20. [2026-11-21 15:50:36]
-       آغاز تحقیقات اف‌بی‌آی درباره نفوذ هکرها به مرکز ملی اطلاعات جرایم آمریکا
-       https://www.youtube.com/watch?v=PNt4TzNZhTA
+    20. [2026-11-22 04:51:47]
+       انتقال دو زندانی پرونده اکباتان به سلول انفرادی و افزایش نگرانی‌ها درباره اجرای حکم اعدام
+       https://www.youtube.com/watch?v=mTh8J_g-vbY
 
-    21. [2026-11-21 15:32:31]
-       گزارش روز با مجتبا پورمحسن: آمریکا و اسرائیل در حال بررسی حمله سریع به ایران
-       https://www.youtube.com/watch?v=7Ht-lKnMDsE
+    21. [2026-11-22 04:47:04]
+       فرزین ندیمی: تهران با افزایش تدریجی تنش به دنبال بازدارندگی در برابر آمریکاست
+       https://www.youtube.com/watch?v=g7SiO86UjP8
 
-    22. [2026-11-21 15:16:08]
-       شهرام خلدی: محاصره دریایی توان جمهوری اسلامی را برای فروش نفت محدود کرده است
-       https://www.youtube.com/watch?v=x5Buek9bxxc
+    22. [2026-11-22 04:35:36]
+       نوید محبی: فشار اقتصادی می‌تواند تهران را به سمت رویارویی نظامی سوق دهد
+       https://www.youtube.com/watch?v=HiIYqXfsDog
 
-    23. [2026-11-21 15:06:21]
-       اخبار عصرگاهی | شنبه ۳۰ آبان
-       https://www.youtube.com/watch?v=3H0Zzrrc06w
+    23. [2026-11-22 04:29:50]
+       محمد قائدی: حزب‌الله همچنان کارت چانه‌زنی تهران در مذاکرات است
+       https://www.youtube.com/watch?v=Su1yvJjAGeE
 
-    24. [2026-11-21 14:51:48]
-       سیلاب گسترده در چندین منطقه فرانسه
-       https://www.youtube.com/shorts/CenvgeyXORA
+    24. [2026-11-22 04:24:49]
+       حرکت نفتکش جمهوری اسلامی به سمت تنگه هرمز در تلاش برای شکستن محاصره دریایی
+       https://www.youtube.com/watch?v=iqVziMioC4o
 
-    25. [2026-11-21 14:48:25]
-       احمد علوی: اظهارات پزشکیان درباره بحران انرژی با واقعیت‌های جامعه مغایرت دارد
-       https://www.youtube.com/watch?v=88mW3eaUK38
+    25. [2026-11-22 00:21:23]
+       عملیات گسترده در مکزیک برای بازداشت یکی از سران کارتل‌های مواد مخدر
+       https://www.youtube.com/shorts/dXqU-_GO9vY
 
-    26. [2026-11-21 14:37:10]
-       معمای شنژن؛ آیا پوتین و شی کارت ایران را واگذار می‌کنند؟
-       https://www.youtube.com/watch?v=JITRKOKUC2A
+    26. [2026-11-21 23:38:53]
+       حمله پهپادی جمهوری اسلامی به بحرین
+       https://www.youtube.com/shorts/9cekzii23XA
 
-    27. [2026-11-21 13:35:33]
-       ادامه تجمع‌های اعتراضی ایرانیان استکهلم علیه جمهوری اسلامی و در حمایت از شاهزاده رضا پهلوی
-       https://www.youtube.com/watch?v=WNOHLt6Z4jE
+    27. [2026-11-21 23:31:25]
+       اخبار شبانگاهی | یک‌شنبه ۱ آذر
+       https://www.youtube.com/watch?v=Glj4EVbQxNo
 
-    28. [2026-11-21 13:17:37]
-       بازدید وحیدی از شهر موشکی سپاه برای نخستین‌بار
-       https://www.youtube.com/shorts/lfZM0_xbLCM
+    28. [2026-11-21 23:20:08]
+       اعتصاب سراسری کامیون‌داران و رانندگان
+       https://www.youtube.com/shorts/ciwxkr9C78E
 
-    29. [2026-11-21 13:15:17]
-       گفت‌وگوی ویژه با سرور کسمایی، نویسنده ایرانی‌ـ‌فرانسوی، درباره میراث «زن، زندگی، آزادی»
-       https://www.youtube.com/watch?v=_ABjGdxpvNw
+    29. [2026-11-21 23:10:56]
+       از بادبزن تا کاپشن؛ راه‌ حل‌های عوامانه یک رئیس‌جمهور
+       https://www.youtube.com/shorts/y5BWgcqyRak
 
-    30. [2026-11-21 12:19:00]
-       علی مطهری: این «ناهنجاری‌ها» ادامه پیدا کند، به مینی‌ژوپ می‌رسیم
-       https://www.youtube.com/shorts/qEvo_xTZD_A
+    30. [2026-11-21 22:52:35]
+       پاکستانیزه شدن ایران
+       https://www.youtube.com/shorts/aieOvotkRd4
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | یکشنبه ۱ آذر
+       https://soundcloud.com/iranintl/dw8hz001gsh3
+
+    32. [Unknown]
+       اخبار شبانگاهی | یک‌شنبه ۱ آذر
+       https://soundcloud.com/iranintl/yyphkaejpopy
+
+    33. [Unknown]
+       سیاست با مراد ویسی: پاکستانیزه شدن ایران
+       https://soundcloud.com/iranintl/ihaxcecyp8hl
+
+    34. [Unknown]
+       چشم‌انداز: از عملیات والفجر تا مضحکه عملیات فریدون سپاه
+       https://soundcloud.com/iranintl/iue9yrn2sdng
+
+    35. [Unknown]
        تیتراول با نیوشا صارمی: افزایش آمادگی آمریکا و اسرائیل برای حمله به ایران؛ قدرت‌نمایی موشکی سپاه
        https://soundcloud.com/iranintl/b5oowube3vgy
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/ba5f10bvkcpn
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/qlja6xihginj
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/uhvltqhke6zf
 
-    35. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/lsmkqkdsgmm4
 
-    36. [Unknown]
+    40. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/suwcqap0eoac
 
-    37. [Unknown]
+    41. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/npqcseylaky2
 
-    38. [Unknown]
+    42. [Unknown]
        اخبار عصرگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/8g5hpsoe0tql
 
-    39. [Unknown]
+    43. [Unknown]
        اخبار نیم‌روزی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/lomqjcsx6ebk
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار بامدادی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/0abbhsht0hwe
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار شبانگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/2jmsyq0msl2x
 
-    42. [Unknown]
+    46. [Unknown]
        برنامه با کامبیز حسینی | تریبون آزاد: از محبوبیت ابی سود می‌برید؛ اما از حقش دفاع می‌کنید؟
        https://soundcloud.com/iranintl/yva4gvqgswwr
 
-    43. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: ترامپ در پی حمله گسترده به جمهوری اسلامی
        https://soundcloud.com/iranintl/ilih7h4efsnv
 
-    44. [Unknown]
+    48. [Unknown]
        دومینو: بازگشت مردم آبدانان به خیابان
        https://soundcloud.com/iranintl/m0tmhq6fgkic
 
-    45. [Unknown]
+    49. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/wjmqsjargvgw
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار نیم‌روزی | پنج‌شنبه ۲۸ آبان
        https://soundcloud.com/iranintl/33tqzkg40wq3
-
-    47. [Unknown]
-       اخبار بامدادی | پنج‌شنبه ۲۸ آبان
-       https://soundcloud.com/iranintl/ramihokc1shi
-
-    48. [Unknown]
-       اخبار شبانگاهی | پنج‌شنبه ۲۸ آبان
-       https://soundcloud.com/iranintl/ktlnnfp7qprb
-
-    49. [Unknown]
-       سیاست با مراد ویسی: کارت ایران روی میز ترامپ، پوتین و شی
-       https://soundcloud.com/iranintl/besfh8dowruu
-
-    50. [Unknown]
-       برنامه با کامبیز حسینی | مرگ سوگند صیادی؛ روایت‌ها از خشونت پدر و مسئولیت مدرسه
-       https://soundcloud.com/iranintl/zttdjjiotgoa
 
 ----------------------------------------
 
