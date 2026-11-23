@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-22T19:00:57.095328+00:00
-Generated (Iran): 2026-11-22T22:30:57.095344+00:00
+Generated (UTC):  2026-11-23T07:00:59.199864+00:00
+Generated (Iran): 2026-11-23T10:30:59.199883+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-22 18:00:00]
+    1. [2026-11-22 19:31:12]
        جدول‌بندی خاموشی‌ها در ایران؛ آغاز قطعی دو ساعته برق - ۶۰ دقیقه یکشنبه ۱ آذر
        https://www.youtube.com/watch?v=Z-EnXTccN3g
 
-    2. [2026-11-22 17:52:37]
+    2. [2026-11-22 19:25:41]
+       شناگر استقامت در تنگه هرمز: جنگ را پایان دهید و آلودگی‌ها را پاک کنید
+       https://www.youtube.com/shorts/2z17Wb2UOI4
+
+    3. [2026-11-22 17:52:37]
        بازگشت خاموشی‌ها به ایران؛ جام جهان‌نما یکشنبه ۱ آذر ۱۴۰۵
        https://www.youtube.com/watch?v=RWqcM_G9Dyw
 
-    3. [2026-11-22 17:14:02]
+    4. [2026-11-22 17:14:02]
        به‌روز؛ بزم طعم‌های آشنا، تن‌پوش‌هایی با نقوش ایرانی، بدن زن در گریز از چارچوب
        https://www.youtube.com/watch?v=_EeLZ6_b0H0
 
-    4. [2026-11-22 17:10:21]
+    5. [2026-11-22 17:10:21]
        ماجرای «سهمیه‌بندی» نان
        https://www.youtube.com/shorts/ZdvbNKrDi3E
 
-    5. [2026-11-22 16:59:28]
+    6. [2026-11-22 16:59:28]
        گزارش‌ها از آغاز دوباره قطع برق در ایران
        https://www.youtube.com/shorts/iSStHCXl_nY
 
-    6. [2026-11-22 16:50:57]
+    7. [2026-11-22 16:50:57]
        اعتراض گروهی از دانش‌آموزان در کرمانشاه در پی کشته شدن سوگند صیادی
        https://www.youtube.com/shorts/TifQ1cB5PCQ
 
-    7. [2026-11-22 16:00:03]
+    8. [2026-11-22 16:00:03]
        ضربدر هوشواره؛ پادکست جدید درباره هوش مصنوعی
        https://www.youtube.com/watch?v=UWtFUPYK6vs
 
-    8. [2026-11-22 15:00:37]
+    9. [2026-11-22 15:00:37]
        روع خاموشی‌های برنامه‌ریزی شده در ایران: اخبار ساعت شش عصر یکشنبه ۱ آذر
        https://www.youtube.com/watch?v=QgzIchudTC8
 
-    9. [2026-11-22 14:09:06]
+    10. [2026-11-22 14:09:06]
        سرخط خبرهای یکشنبه ۱ آذر ۱۴۰۵
        https://www.youtube.com/shorts/z4nqoKBJfis
 
-    10. [2026-11-22 12:47:48]
+    11. [2026-11-22 12:47:48]
        «ساحل و دریا» از گوگوش و گروه آمریکایی «پینک مارتینی»
        https://www.youtube.com/shorts/N3Hahz0hxy0
 
-    11. [2026-11-22 12:42:49]
+    12. [2026-11-22 12:42:49]
        خواستگاری نماینده مجلس استرالیا در نطق تودیع
        https://www.youtube.com/shorts/FMK37dbbExU
 
-    12. [2026-11-21 19:30:54]
+    13. [2026-11-21 19:30:54]
        روایت یک جنایت؛ ادامه زن کشی در ایران - ۶۰ دقیقه شنبه ۳۰ آبان
        https://www.youtube.com/watch?v=cT0-nDuG7tc
 
-    13. [2026-11-21 17:02:34]
+    14. [2026-11-21 17:02:34]
        برنامه رادیویی جام جهان‌نما، شنبه ۳۰ آبان ۱۴۰۵
        https://www.youtube.com/watch?v=acpDHCD9QVU
 
-    14. [2026-11-21 15:31:43]
+    15. [2026-11-21 15:31:43]
        بهترین‌های فوتبال آسیا در سال ۲۰۲۶:علیرضا بیرانوند و مرضیه جعفری
        https://www.youtube.com/shorts/YvUbG9j8Wx8
-
-    15. [2026-11-21 15:00:42]
-       اخبار ساعت شش عصر- شنبه ۳۰ آبان: تاکید امریکا بر موفقیت فشار اقتصادی بر ایران
-       https://www.youtube.com/watch?v=heo0nYQrySk
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-22 18:17:14]
-       سازمان بسیج از احداث پایگاه‌ آموزشی «جان‌فدایان» در کنار تخت جمشید خبر داد
-       https://www.youtube.com/shorts/O9bC6WuIn4c
+    16. [2026-11-23 06:26:21]
+       ای‌بی‌سی استرالیا: رقصندگان باله در ایران فعالیت خود را مخفیانه ادامه می‌دهند
+       https://www.youtube.com/watch?v=pKnyfqCGLsQ
 
-    17. [2026-11-22 17:36:20]
-       تیتراول با نیوشا صارمی: موج تازه اعتصاب کامیون‌داران در ایران؛ ادامه اعتراض‌ها وشعارنویسی‌‌ ضدحکومتی
-       https://www.youtube.com/watch?v=5C4SBZUltSg
+    17. [2026-11-23 06:08:00]
+       حسین قاضیان: جمهوری اسلامی ممنوعیت الکل را بر حفاظت از جان شهروندان ترجیح می‌دهد
+       https://www.youtube.com/watch?v=UOa_1VHdYBU
 
-    18. [2026-11-22 16:42:26]
-       اقتصاد و بازار: آغاز زمستان سخت انرژی ایران در آذرماه؛ شروع اعتصاب کامیون‌داران
-       https://www.youtube.com/watch?v=etiLuuBGXK0
+    18. [2026-11-23 05:51:03]
+       محمد قائدی: انفجار کشتی روسی در بنغازی، اعتبار نظامی مسکو در آفریقا را تضعیف می‌کند
+       https://www.youtube.com/watch?v=4_Bh0eded-E
 
-    19. [2026-11-22 16:07:05]
-       سقوط پرتابه‌های روسی در لهستان؛ ناتو بر دفاع از تمامیت ارضی این کشور تاکید کرد
-       https://www.youtube.com/watch?v=xHK_cmrdEFQ
+    19. [2026-11-23 05:37:33]
+       علی دادپی: خانواده‌های ایرانی ناچار به انتخاب میان کالاهای ضروری مثل شیر و تخم‌مرغ می‌شوند
+       https://www.youtube.com/watch?v=gVdcI15gCrg
 
-    20. [2026-11-22 14:56:03]
-       اخبار عصرگاهی | یکشنبه ۱ آذر
-       https://www.youtube.com/watch?v=JZPlJEuUCho
+    20. [2026-11-23 05:26:39]
+       اخبار بامدادی | دوشنبه ۲ آذر
+       https://www.youtube.com/watch?v=94R69WoS6eU
 
-    21. [2026-11-22 14:49:24]
-       ارتش اسرائیل: زمان تصمیم‌گیری ترامپ درباره اقدام علیه ایران نزدیک است
-       https://www.youtube.com/watch?v=YFgfr2gvBNs
+    21. [2026-11-23 05:12:01]
+       شکوه میرزادگی: جانفدایان حکومت، جانفدای ایران و میراث تاریخی آن نیستند
+       https://www.youtube.com/watch?v=Qx8n1u4xFe8
 
-    22. [2026-11-22 14:43:46]
-       چرتکه: گرانی به اسم صرفه‌جویی | نتایج کمپین بنزین
-       https://www.youtube.com/watch?v=6mngqEjWJWA
+    22. [2026-11-23 04:56:53]
+       پگاه بنی‌هاشمی: احکام اعدام پرونده اکباتان نشان‌دهنده نبود استقلال دستگاه قضایی است
+       https://www.youtube.com/watch?v=BBIh7ADf_-o
 
-    23. [2026-11-22 14:07:42]
-       تجمع دانش‌آموزان در کرمانشاه در واکنش به مرگ سوگند صیادی
-       https://www.youtube.com/watch?v=fYj_gKgPnk8
+    23. [2026-11-23 04:44:38]
+       رضا عرب: جمهوری اسلامی ممکن است به‌جای غافلگیر شدن، خود زمینه آغاز جنگ بعدی را فراهم کند
+       https://www.youtube.com/watch?v=2pfmI2Gksbc
 
-    24. [2026-11-22 14:01:39]
-       آب یک رودخانه در ترکیه ناگهان سرخ شد
-       https://www.youtube.com/shorts/VqA1p050ris
+    24. [2026-11-23 04:17:20]
+       امیر گیتی: ترامپ همزمان با حمایت از معترضان ایران، فشار بر جمهوری اسلامی را ادامه می‌دهد
+       https://www.youtube.com/watch?v=fxPWFUE-hwI
 
-    25. [2026-11-22 13:48:18]
-       اجلاس اقلیمی سازمان ملل به دلیل نرسیدن به توافق، رکورد طولانی‌ترین نشست را شکست
-       https://www.youtube.com/shorts/8rZUvEvHQLo
+    25. [2026-11-23 00:08:00]
+       اخبار شبانگاهی | دوشنبه ۲ آذر
+       https://www.youtube.com/watch?v=NPsT_dFfzUs
 
-    26. [2026-11-22 13:22:33]
-       درخواست زلنسکی از آمریکا برای انتقال موشک‌های رهگیر پاتریوت به اوکراین
-       https://www.youtube.com/watch?v=M-cK3AVUZpE
+    26. [2026-11-23 00:00:00]
+       مقام فدراسیون طیور: مصرف گوشت مرغ نسبت به مدت مشابه بیش از ۲۵ درصد کاهش یافته است
+       https://www.youtube.com/shorts/2miXocG0Dd4
 
-    27. [2026-11-22 13:18:55]
-       ابتلای سالانه ۱۴۲ هزار ایرانی به انواع سرطان
-       https://www.youtube.com/watch?v=XBk1sBP29Qk
+    27. [2026-11-22 23:25:46]
+       تجمع ایرانیان در لس‌آنجلس در حمایت از معترضان آبدانان
+       https://www.youtube.com/watch?v=RoIY_tmWwzQ
 
-    28. [2026-11-22 12:50:13]
-       اخبار نیمروزی | یکشنبه ۱ آذر
-       https://www.youtube.com/watch?v=8ErjnhWqTjE
+    28. [2026-11-22 22:56:54]
+       ترامپ برای توافق با جمهوری اسلامی ضرب‌الاجل تعیین کرد و تهدید به حمله دوباره کرد
+       https://www.youtube.com/watch?v=w6HkooLxBMg
 
-    29. [2026-11-22 12:38:14]
-       انفجار شدید خط لوله گاز در ایالت آلاباما
-       https://www.youtube.com/shorts/5U96CkuE05w
+    29. [2026-11-22 22:41:24]
+       ایران؛ جامعه‌ای با خاصیت اشتعال بسیار بالا
+       https://www.youtube.com/shorts/iqXzgR1pBXc
 
-    30. [2026-11-22 11:57:56]
-       مطهری: نباید اجازه داد کافه‌ها به شهر نو تبدیل شوند
-       https://www.youtube.com/shorts/kf1wwrlUgCw
+    30. [2026-11-22 22:35:54]
+       چرا اعتصاب رانندگان و کامیون‌داران مهم است؟
+       https://www.youtube.com/shorts/vCm8wGDHcUM
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | دوشنبه ۲ آذر
+       https://soundcloud.com/iranintl/e2fdvifd7pjg
+
+    32. [Unknown]
+       اخبار شبانگاهی | دوشنبه ۲ آذر
+       https://soundcloud.com/iranintl/jqfylvill32b
+
+    33. [Unknown]
+       سیاست با مراد ویسی: ترامپ: حمله پس از سال نو
+       https://soundcloud.com/iranintl/ksdzir5wyctg
+
+    34. [Unknown]
+       چشم‌انداز: اعتصاب رانندگان کامیون؛ اقتصاد ایران در سراشیب فروپاشی؟!
+       https://soundcloud.com/iranintl/khswth3zjju4
+
+    35. [Unknown]
        تیتراول با نیوشا صارمی: موج تازه اعتصاب کامیون‌داران در ایران؛ ادامه اعتراض‌ها وشعارنویسی‌‌ ضدحکومتی
        https://soundcloud.com/iranintl/b39zp8ykks5s
 
-    32. [Unknown]
+    36. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/7ygjql0fz9zc
 
-    33. [Unknown]
+    37. [Unknown]
        اخبار نیمروزی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/a7ymxzgsvg1h
 
-    34. [Unknown]
+    38. [Unknown]
        اخبار بامدادی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/dw8hz001gsh3
 
-    35. [Unknown]
+    39. [Unknown]
        اخبار شبانگاهی | یک‌شنبه ۱ آذر
        https://soundcloud.com/iranintl/yyphkaejpopy
 
-    36. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: پاکستانیزه شدن ایران
        https://soundcloud.com/iranintl/ihaxcecyp8hl
 
-    37. [Unknown]
+    41. [Unknown]
        چشم‌انداز: از عملیات والفجر تا مضحکه عملیات فریدون سپاه
        https://soundcloud.com/iranintl/iue9yrn2sdng
 
-    38. [Unknown]
+    42. [Unknown]
        تیتراول با نیوشا صارمی: افزایش آمادگی آمریکا و اسرائیل برای حمله به ایران؛ قدرت‌نمایی موشکی سپاه
        https://soundcloud.com/iranintl/b5oowube3vgy
 
-    39. [Unknown]
+    43. [Unknown]
        اخبار عصرگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/ba5f10bvkcpn
 
-    40. [Unknown]
+    44. [Unknown]
        اخبار نیمروزی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/qlja6xihginj
 
-    41. [Unknown]
+    45. [Unknown]
        اخبار بامدادی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/uhvltqhke6zf
 
-    42. [Unknown]
+    46. [Unknown]
        اخبار شبانگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/lsmkqkdsgmm4
 
-    43. [Unknown]
+    47. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/suwcqap0eoac
 
-    44. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/npqcseylaky2
 
-    45. [Unknown]
+    49. [Unknown]
        اخبار عصرگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/8g5hpsoe0tql
 
-    46. [Unknown]
+    50. [Unknown]
        اخبار نیم‌روزی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/lomqjcsx6ebk
-
-    47. [Unknown]
-       اخبار بامدادی | جمعه ۲۹ آبان
-       https://soundcloud.com/iranintl/0abbhsht0hwe
-
-    48. [Unknown]
-       اخبار شبانگاهی | جمعه ۲۹ آبان
-       https://soundcloud.com/iranintl/2jmsyq0msl2x
-
-    49. [Unknown]
-       برنامه با کامبیز حسینی | تریبون آزاد: از محبوبیت ابی سود می‌برید؛ اما از حقش دفاع می‌کنید؟
-       https://soundcloud.com/iranintl/yva4gvqgswwr
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد: ترامپ در پی حمله گسترده به جمهوری اسلامی
-       https://soundcloud.com/iranintl/ilih7h4efsnv
 
 ----------------------------------------
 
