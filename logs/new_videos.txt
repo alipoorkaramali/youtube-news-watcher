@@ -4,3 +4,4 @@
 2026-11-23T11:30:43.400118+00:00 | youtube | اخبار نیمروزی | دوشنبه ۲ آذر | 39 minutes ago | SKIP_DEDUP(soundcloud) | https://www.youtube.com/watch?v=SPYk_sYkEjw
 2026-11-23T15:15:33.464260+00:00 | youtube | اخبار ساعت شش عصر | 15 minutes ago | https://www.youtube.com/watch?v=k-yPK3cdA3U
 2026-11-23T15:30:46.729440+00:00 | soundcloud | اخبار شبانگاهی | دوشنبه ۲ آذر | 0 minutes ago | https://soundcloud.com/iranintl/jqfylvill32b
+2026-11-23T18:30:47.148369+00:00 | soundcloud | جام جهان‌نما ۲۳ نوامبر ۲۰۲۶ / ۲ آذر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/l7thf8nlpmzj
