@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-23T11:01:02.016526+00:00
-Generated (Iran): 2026-11-23T14:31:02.016544+00:00
+Generated (UTC):  2026-11-23T15:01:03.407744+00:00
+Generated (Iran): 2026-11-23T18:31:03.407764+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-22 19:31:12]
+    1. [2026-11-23 15:00:32]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=k-yPK3cdA3U
+
+    2. [2026-11-23 11:42:22]
+       انفجار کشتی روسیه در بندر بنغازی؛ مقامات دولت شرق لیبی: احتمالا بر اثر حمله پهپادی بوده است
+       https://www.youtube.com/shorts/y5jM1-vY6to
+
+    3. [2026-11-23 11:41:13]
+       «ال چاپو ایسیدرو»، سرکرده کارتل مواد مخدر مکزیک بازداشت شد
+       https://www.youtube.com/shorts/-wsFdeRreEM
+
+    4. [2026-11-22 19:31:12]
        جدول‌بندی خاموشی‌ها در ایران؛ آغاز قطعی دو ساعته برق - ۶۰ دقیقه یکشنبه ۱ آذر
        https://www.youtube.com/watch?v=Z-EnXTccN3g
 
-    2. [2026-11-22 19:25:41]
+    5. [2026-11-22 19:25:41]
        شناگر استقامت در تنگه هرمز: جنگ را پایان دهید و آلودگی‌ها را پاک کنید
        https://www.youtube.com/shorts/2z17Wb2UOI4
 
-    3. [2026-11-22 17:52:37]
+    6. [2026-11-22 17:52:37]
        بازگشت خاموشی‌ها به ایران؛ جام جهان‌نما یکشنبه ۱ آذر ۱۴۰۵
        https://www.youtube.com/watch?v=RWqcM_G9Dyw
 
-    4. [2026-11-22 17:14:02]
+    7. [2026-11-22 17:14:02]
        به‌روز؛ بزم طعم‌های آشنا، تن‌پوش‌هایی با نقوش ایرانی، بدن زن در گریز از چارچوب
        https://www.youtube.com/watch?v=_EeLZ6_b0H0
 
-    5. [2026-11-22 17:10:21]
+    8. [2026-11-22 17:10:21]
        ماجرای «سهمیه‌بندی» نان
        https://www.youtube.com/shorts/ZdvbNKrDi3E
 
-    6. [2026-11-22 16:59:28]
+    9. [2026-11-22 16:59:28]
        گزارش‌ها از آغاز دوباره قطع برق در ایران
        https://www.youtube.com/shorts/iSStHCXl_nY
 
-    7. [2026-11-22 16:50:57]
+    10. [2026-11-22 16:50:57]
        اعتراض گروهی از دانش‌آموزان در کرمانشاه در پی کشته شدن سوگند صیادی
        https://www.youtube.com/shorts/TifQ1cB5PCQ
 
-    8. [2026-11-22 16:00:03]
+    11. [2026-11-22 16:00:03]
        ضربدر هوشواره؛ پادکست جدید درباره هوش مصنوعی
        https://www.youtube.com/watch?v=UWtFUPYK6vs
 
-    9. [2026-11-22 15:00:37]
+    12. [2026-11-22 15:00:37]
        روع خاموشی‌های برنامه‌ریزی شده در ایران: اخبار ساعت شش عصر یکشنبه ۱ آذر
        https://www.youtube.com/watch?v=QgzIchudTC8
 
-    10. [2026-11-22 14:09:06]
+    13. [2026-11-22 14:09:06]
        سرخط خبرهای یکشنبه ۱ آذر ۱۴۰۵
        https://www.youtube.com/shorts/z4nqoKBJfis
 
-    11. [2026-11-22 12:47:48]
+    14. [2026-11-22 12:47:48]
        «ساحل و دریا» از گوگوش و گروه آمریکایی «پینک مارتینی»
        https://www.youtube.com/shorts/N3Hahz0hxy0
 
-    12. [2026-11-22 12:42:49]
+    15. [2026-11-22 12:42:49]
        خواستگاری نماینده مجلس استرالیا در نطق تودیع
        https://www.youtube.com/shorts/FMK37dbbExU
-
-    13. [2026-11-21 19:30:54]
-       روایت یک جنایت؛ ادامه زن کشی در ایران - ۶۰ دقیقه شنبه ۳۰ آبان
-       https://www.youtube.com/watch?v=cT0-nDuG7tc
-
-    14. [2026-11-21 17:02:34]
-       برنامه رادیویی جام جهان‌نما، شنبه ۳۰ آبان ۱۴۰۵
-       https://www.youtube.com/watch?v=acpDHCD9QVU
-
-    15. [2026-11-21 15:31:43]
-       بهترین‌های فوتبال آسیا در سال ۲۰۲۶:علیرضا بیرانوند و مرضیه جعفری
-       https://www.youtube.com/shorts/YvUbG9j8Wx8
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-23 10:29:43]
+    16. [2026-11-23 14:23:55]
+       غلامرضا نیکخواه، بازیگر باسابقه سینما و تلویزیون، درگذشت
+       https://www.youtube.com/watch?v=-RaA1i9eZo0
+
+    17. [2026-11-23 14:19:32]
+       اجرای حکم ۷۴ ضربه شلاق پرستو احمدی و چهار نفر از عوامل کنسرت او
+       https://www.youtube.com/watch?v=2u4FMooF0EQ
+
+    18. [2026-11-23 13:57:34]
+       تهدید به بمب‌گذاری در مدارس آلمان؛ شماری از مدارس تخلیه شدند
+       https://www.youtube.com/watch?v=VFSxRkwQg08
+
+    19. [2026-11-23 13:32:09]
+       فشار بر خانواده‌های دادخواه؛ از پاک کردن شعر یادبود تا تخریب سنگ مزار جاویدنامان
+       https://www.youtube.com/watch?v=CDGKuUPMoqA
+
+    20. [2026-11-23 12:27:37]
+       تهدید یهودیان در آستانه جشن باستانی حنوکا از سوی رسانه رسمی مجتبی خامنه‌ای
+       https://www.youtube.com/watch?v=slw79QYcrW8
+
+    21. [2026-11-23 12:24:22]
+       توقیف صدها کیلوگرم مواد منفجره از سوی ارتش لبنان
+       https://www.youtube.com/watch?v=NBwhRkLksbg
+
+    22. [2026-11-23 11:47:44]
+       بقایی از احضار کاردار قطر به‌دلیل بیانیه مشترک دوحه و برلین خبر داد
+       https://www.youtube.com/shorts/56SsJebxOk8
+
+    23. [2026-11-23 11:45:12]
+       برگزاری محدود مراسم سالگرد قتل داریوش و پروانه فروهر زیر سایه‌ تهدیدهای امنیتی
+       https://www.youtube.com/watch?v=4v273hTS_jY
+
+    24. [2026-11-23 11:40:07]
+       تصاویر جدید از حمله پهپادهای اوکراینی به ناو روسی در لیبی
+       https://www.youtube.com/shorts/GOwY6tcgT2k
+
+    25. [2026-11-23 11:28:07]
+       خودداری رانندگان کامیون از بارگیری کالا در بیش از ۱۰ شهر ایران
+       https://www.youtube.com/watch?v=cKPzZXkmaTA
+
+    26. [2026-11-23 11:02:30]
+       پزشکیان: کسانی که می‌گویند «بخور بخور» بوده، باید زندگی ساده مقام‌ها را ببینند
+       https://www.youtube.com/shorts/a4-eqvBM0Cs
+
+    27. [2026-11-23 10:58:41]
+       مروری بر روزنامه‌های ایران دوشنبه ۲ آذر، با مجتبی هاشمی
+       https://www.youtube.com/watch?v=E5ty2WLT9so
+
+    28. [2026-11-23 10:54:09]
+       واکنش جمهوری اسلامی به بیانیه قطر و آلمان درباره حملات موشکی و امنیت تنگه هرمز
+       https://www.youtube.com/watch?v=Bcqa9flV-V8
+
+    29. [2026-11-23 10:50:44]
+       اخبار نیمروزی | دوشنبه ۲ آذر
+       https://www.youtube.com/watch?v=SPYk_sYkEjw
+
+    30. [2026-11-23 10:29:43]
        کارزار «یک میلیون صدا» برای حمایت از زنان افغانستان؛ اسپانیا میزبان نشست دو روزه زنان شد
        https://www.youtube.com/watch?v=AFBKsBVg7BU
-
-    17. [2026-11-23 10:24:25]
-       اعتصاب کامیون‌داران در اعتراض به افزایش هزینه‌ها و ناکافی بودن کرایه حمل بار
-       https://www.youtube.com/watch?v=Yxd09CkibhY
-
-    18. [2026-11-23 10:19:21]
-       علی حسین قاضی‌زاده: حکومت توان سرکوب خود را اغراق‌آمیز نشان می‌دهد تا مردم را مرعوب کند
-       https://www.youtube.com/watch?v=vsDnDgEHjM4
-
-    19. [2026-11-23 10:18:36]
-       رییس کمیسیون امنیت ملی مجلس: ما محاصره‌پذیر نیستیم
-       https://www.youtube.com/shorts/z_gIURZFdEo
-
-    20. [2026-11-23 08:47:09]
-       رسانه‌های اسرائیل: ارتش درباره پیامد حمله یک‌جانبه به جمهوری اسلامی به نتانیاهو هشدار داد
-       https://www.youtube.com/watch?v=CTJt77rjays
-
-    21. [2026-11-23 08:37:14]
-       رییس هلال‌احمر: حاضر بودیم در زمان آتش‌سوزی کالیفرنیا به آمریکا کمک کنیم
-       https://www.youtube.com/shorts/I9GdX8dCArk
-
-    22. [2026-11-23 08:09:31]
-       حمایت ایرانیان ساکن کلگری از اعتراضات آبدانان و درخواست توقف احکام اعدام پرونده اکباتان
-       https://www.youtube.com/watch?v=2K-QQV8hidc
-
-    23. [2026-11-23 07:30:10]
-       طولانی‌ترین کنفرانس اقلیمی تاریخ بدون دستیابی به توافق سیاسی جامع پایان یافت
-       https://www.youtube.com/watch?v=TLffjYVoeaE
-
-    24. [2026-11-23 07:21:31]
-       حسین علیزاده: کریدور ترامپ توازن ژئوپولیتیک قفقاز را به زیان تهران و مسکو تغییر می‌دهد
-       https://www.youtube.com/watch?v=LKcgiJrojeA
-
-    25. [2026-11-23 06:26:21]
-       ای‌بی‌سی استرالیا: رقصندگان باله در ایران فعالیت خود را مخفیانه ادامه می‌دهند
-       https://www.youtube.com/watch?v=pKnyfqCGLsQ
-
-    26. [2026-11-23 06:08:00]
-       حسین قاضیان: جمهوری اسلامی ممنوعیت الکل را بر حفاظت از جان شهروندان ترجیح می‌دهد
-       https://www.youtube.com/watch?v=UOa_1VHdYBU
-
-    27. [2026-11-23 05:51:03]
-       محمد قائدی: انفجار کشتی روسی در بنغازی، اعتبار نظامی مسکو در آفریقا را تضعیف می‌کند
-       https://www.youtube.com/watch?v=4_Bh0eded-E
-
-    28. [2026-11-23 05:37:33]
-       علی دادپی: خانواده‌های ایرانی ناچار به انتخاب میان کالاهای ضروری مثل شیر و تخم‌مرغ می‌شوند
-       https://www.youtube.com/watch?v=gVdcI15gCrg
-
-    29. [2026-11-23 05:26:39]
-       اخبار بامدادی | دوشنبه ۲ آذر
-       https://www.youtube.com/watch?v=94R69WoS6eU
-
-    30. [2026-11-23 05:12:01]
-       شکوه میرزادگی: جانفدایان حکومت، جانفدای ایران و میراث تاریخی آن نیستند
-       https://www.youtube.com/watch?v=Qx8n1u4xFe8
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیمروزی | دوشنبه ۲ آذر
+       https://soundcloud.com/iranintl/ikxqisruhuq9
+
+    32. [Unknown]
        اخبار بامدادی | دوشنبه ۲ آذر
        https://soundcloud.com/iranintl/e2fdvifd7pjg
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | دوشنبه ۲ آذر
        https://soundcloud.com/iranintl/jqfylvill32b
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: ترامپ: حمله پس از سال نو
        https://soundcloud.com/iranintl/ksdzir5wyctg
 
-    34. [Unknown]
+    35. [Unknown]
        چشم‌انداز: اعتصاب رانندگان کامیون؛ اقتصاد ایران در سراشیب فروپاشی؟!
        https://soundcloud.com/iranintl/khswth3zjju4
 
-    35. [Unknown]
+    36. [Unknown]
        تیتراول با نیوشا صارمی: موج تازه اعتصاب کامیون‌داران در ایران؛ ادامه اعتراض‌ها وشعارنویسی‌‌ ضدحکومتی
        https://soundcloud.com/iranintl/b39zp8ykks5s
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/7ygjql0fz9zc
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/a7ymxzgsvg1h
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | یکشنبه ۱ آذر
        https://soundcloud.com/iranintl/dw8hz001gsh3
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | یک‌شنبه ۱ آذر
        https://soundcloud.com/iranintl/yyphkaejpopy
 
-    40. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: پاکستانیزه شدن ایران
        https://soundcloud.com/iranintl/ihaxcecyp8hl
 
-    41. [Unknown]
+    42. [Unknown]
        چشم‌انداز: از عملیات والفجر تا مضحکه عملیات فریدون سپاه
        https://soundcloud.com/iranintl/iue9yrn2sdng
 
-    42. [Unknown]
+    43. [Unknown]
        تیتراول با نیوشا صارمی: افزایش آمادگی آمریکا و اسرائیل برای حمله به ایران؛ قدرت‌نمایی موشکی سپاه
        https://soundcloud.com/iranintl/b5oowube3vgy
 
-    43. [Unknown]
+    44. [Unknown]
        اخبار عصرگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/ba5f10bvkcpn
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار نیمروزی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/qlja6xihginj
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار بامدادی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/uhvltqhke6zf
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار شبانگاهی | شنبه ۳۰ آبان
        https://soundcloud.com/iranintl/lsmkqkdsgmm4
 
-    47. [Unknown]
+    48. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/suwcqap0eoac
 
-    48. [Unknown]
+    49. [Unknown]
        ۲۴ با فرداد فرحزاد: انتقال گسترده تسلیحات نظامی آمریکا به اسرائیل
        https://soundcloud.com/iranintl/npqcseylaky2
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار عصرگاهی | جمعه ۲۹ آبان
        https://soundcloud.com/iranintl/8g5hpsoe0tql
-
-    50. [Unknown]
-       اخبار نیم‌روزی | جمعه ۲۹ آبان
-       https://soundcloud.com/iranintl/lomqjcsx6ebk
 
 ----------------------------------------
 
