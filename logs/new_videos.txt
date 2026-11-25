@@ -2,3 +2,4 @@
 2026-11-25T05:30:44.279421+00:00 | soundcloud | اخبار بامدادی | چهارشنبه ۴ آذر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/c9ag40inbtdu
 2026-11-25T11:30:51.456317+00:00 | youtube | اخبار نیمروزی | چهارشنبه ۴ آذر | 9 minutes ago | https://www.youtube.com/watch?v=b_nkweWAR1g
 2026-11-25T12:30:43.226408+00:00 | soundcloud | اخبار نیمروزی | چهارشنبه ۴ آذر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/z6aoi463fb9m
+2026-11-25T15:15:33.324409+00:00 | youtube | اخبار ساعت شش عصر-۴ آذر ۱۴۰۵- پرونده اکباتان در اعتراضات زن٬ زندگی٬ آزادی | 15 minutes ago | https://www.youtube.com/watch?v=M0i5wtpIWo8
