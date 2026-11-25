@@ -4,3 +4,4 @@
 2026-11-25T12:30:43.226408+00:00 | soundcloud | اخبار نیمروزی | چهارشنبه ۴ آذر | 0 minutes ago | SKIP_DEDUP(youtube) | https://soundcloud.com/iranintl/z6aoi463fb9m
 2026-11-25T15:15:33.324409+00:00 | youtube | اخبار ساعت شش عصر-۴ آذر ۱۴۰۵- پرونده اکباتان در اعتراضات زن٬ زندگی٬ آزادی | 15 minutes ago | https://www.youtube.com/watch?v=M0i5wtpIWo8
 2026-11-25T15:30:43.130642+00:00 | soundcloud | اخبار شبانگاهی | چهارشنبه ۴ آذر | 0 minutes ago | https://soundcloud.com/iranintl/l6g7fbr4s9uj
+2026-11-25T18:30:49.493740+00:00 | soundcloud | جام جهان‌نما ۲۵ نوامبر ۲۰۲۶ / ۴ آذر ۱۴۰۵ | 0 minutes ago | https://soundcloud.com/bbcpersian/wo6uyq1did0b
