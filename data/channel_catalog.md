@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-26T15:01:05.883078+00:00
-Generated (Iran): 2026-11-26T18:31:05.883098+00:00
+Generated (UTC):  2026-11-26T19:01:00.130808+00:00
+Generated (Iran): 2026-11-26T22:31:00.130825+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-26 15:00:36]
-       اخبار ساعت شش عصر
+    1. [2026-11-26 18:30:01]
+       نقش خلا قانونی ناشی از ممنوعیت مشروب‌های الکلی؛ ادامه زن‌کشی در ایران و بیشتر: خبرنگاران
+       https://www.youtube.com/watch?v=l_Vajz4Z-uo
+
+    2. [2026-11-26 18:03:00]
+       اثرات جنگ ایران بر جنگ اوکراین - صفحه ۲
+       https://www.youtube.com/watch?v=V8GpZfpoZUc
+
+    3. [2026-11-26 17:42:26]
+       جام جهان‌نما
+       https://www.youtube.com/watch?v=Gddgp1dH11M
+
+    4. [2026-11-26 16:00:37]
+       رنگآهنگ: گفت‌وگو با اِما، آلبوم مشترک گوگوش و پینک مارتینی، و «کنسرت فرضی» پرستو احمدی
+       https://www.youtube.com/watch?v=_sCCLpoL3z8
+
+    5. [2026-11-26 15:00:36]
+       اخبار ساعت شش عصر- پنج‌شنبه  ۵ آذر-اعزام نیرو از بغداد به کردستان عراق
        https://www.youtube.com/watch?v=1wwSG8eqkxo
 
-    2. [2026-11-26 14:41:00]
+    6. [2026-11-26 14:41:00]
        احیای کمجان؛ وقتی حواصیل‌ها برمی‌گردند
        https://www.youtube.com/shorts/5cctzYe9jOg
 
-    3. [2026-11-26 12:41:25]
+    7. [2026-11-26 12:41:25]
        سپاه: شناورهایی که قاچاق سوخت می‌کنند، هدف می‌گیریم
        https://www.youtube.com/shorts/Ow73aq5JiNo
 
-    4. [2026-11-26 11:08:32]
+    8. [2026-11-26 11:08:32]
        رحیم استرلینگ برای رانندگی خطرناک به یک سال حبس تعلیقی محکوم شد
        https://www.youtube.com/shorts/Pbwu2TM0a9Q
 
-    5. [2026-11-25 19:31:01]
+    9. [2026-11-25 19:31:01]
        دلار نزدیک ۳۰۰ هزار تومان؛ ادامه کارزار ترامپ برای انزوای اقتصادی ایران -  ۶۰ دقیقه چهارشنبه ۴ آذر
        https://www.youtube.com/watch?v=vm5PHT6q1Q8
 
-    6. [2026-11-25 19:18:26]
+    10. [2026-11-25 19:18:26]
        بسنت: جمهوری اسلامی یک قطره نفت هم برای فروش ندارد - گفتگو با مشاور پیشین اقتصادی ترامپ
        https://www.youtube.com/watch?v=uJeK_25ZqDE
 
-    7. [2026-11-25 19:12:58]
+    11. [2026-11-25 19:12:58]
        رژه کرامپوس‌های نیمه‌دیو در آستانه کریسمس
        https://www.youtube.com/shorts/_rTAQ9o-SEY
 
-    8. [2026-11-25 17:14:32]
+    12. [2026-11-25 17:14:32]
        جام جهان‌نما- دلار پرواز کرد؛مسافران مترو تهران بازرسی شدند- ۴ أذر ۱۴۰۵
        https://www.youtube.com/watch?v=_M93x1Qbczg
 
-    9. [2026-11-25 17:00:26]
+    13. [2026-11-25 17:00:26]
        پرگار پلاس: چین و آمریکا در جدال بر سر قدرت نرم
        https://www.youtube.com/watch?v=lz5rVCWo2vQ
 
-    10. [2026-11-25 16:08:49]
+    14. [2026-11-25 16:08:49]
        نخستین زن متأهل و نخستین مادری که «دختر شایسته جهان» شد
        https://www.youtube.com/shorts/txIfSmWiMgY
 
-    11. [2026-11-25 15:53:49]
+    15. [2026-11-25 15:53:49]
        سفرنخستین فرد پاکستانی  به فضا
        https://www.youtube.com/shorts/4TLgWb6IJJU
-
-    12. [2026-11-25 15:35:50]
-       اعتراض همایون شجریان و سهراب پورناظری به  ممنوعیت تک‌خوانی زنان
-       https://www.youtube.com/shorts/w7NWbU75JuA
-
-    13. [2026-11-25 15:00:17]
-       اخبار ساعت شش عصر-۴ آذر ۱۴۰۵- پرونده اکباتان در اعتراضات زن٬ زندگی٬ آزادی
-       https://www.youtube.com/watch?v=M0i5wtpIWo8
-
-    14. [2026-11-25 11:00:38]
-       مراسم تشییع غلامرضا نیکخواه
-       https://www.youtube.com/shorts/hLvmWabnr-A
-
-    15. [2026-11-25 09:43:59]
-       الکل سمی را چطور تشخیص دهیم؟
-       https://www.youtube.com/shorts/t92-iK_GgQw
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-26 14:54:57]
+    16. [2026-11-26 18:16:06]
+       پژوهشگر ارشد بنیاد کارنگی: چین از نگرانی برای امنیت خودش با تغییر رژیم در ایران مخالف است
+       https://www.youtube.com/shorts/d_tCD1LTgYA
+
+    17. [2026-11-26 18:13:37]
+       گفت‌وگوی ویژه با تونگ ژائو، پژوهشگر ارشد بنیاد کارنگی برای صلح بین‌المللی
+       https://www.youtube.com/watch?v=MHTKltqp0kI
+
+    18. [2026-11-26 17:24:19]
+       تصویر دوربین‌های مداربسته از حمله با چاقو به مسافران قطاری در بریتانیا
+       https://www.youtube.com/shorts/o4zAoac47mc
+
+    19. [2026-11-26 16:53:26]
+       حمله پهپادی جمهوری اسلامی به کویت دو کشته بر جای گذاشت
+       https://www.youtube.com/watch?v=CootLkm_hJ0
+
+    20. [2026-11-26 15:54:21]
+       باتومی به‌جای استانبول میزبان دیدار بشیکتاش و هاپوئل بئرشوا در لیگ اروپا شد
+       https://www.youtube.com/watch?v=NUvQnRYGO_g
+
+    21. [2026-11-26 15:47:39]
+       گلوب اند میل: شبکه‌های تحریم‌شده پرس‌تی‌وی و آرتی در کانادا قابل دسترسی‌اند
+       https://www.youtube.com/watch?v=Koxd7dgsMo4
+
+    22. [2026-11-26 15:43:43]
+       رهبران اتحادیه اروپا برای بررسی بودجه و تامین مالی اوکراین در بروکسل گرد هم آمدند
+       https://www.youtube.com/watch?v=v1wLa6DsaNE
+
+    23. [2026-11-26 15:28:14]
+       مخاطبان ایران‌اینترنشنال از پایان سریع حجم بسته‌های اینترنت با وجود افزایش قیمت خبر دادند
+       https://www.youtube.com/watch?v=a6yaXkypJwo
+
+    24. [2026-11-26 15:09:24]
+       اخبار عصرگاهی | پنج‌شنبه ۵ آذر
+       https://www.youtube.com/watch?v=znZmCB4YuTg
+
+    25. [2026-11-26 15:04:31]
+       وزیر دفاع اسرائیل: حماس خلع سلاح نشود، عملیات تازه‌ای در غزه آغاز می‌کنیم
+       https://www.youtube.com/watch?v=LYPZvuiJbuk
+
+    26. [2026-11-26 15:00:19]
+       پلیس سوئد برای تعقیب سران شبکه‌های تبهکاری در عراق دفتر باز می‌کند
+       https://www.youtube.com/watch?v=XA6dFP3YAFw
+
+    27. [2026-11-26 14:54:57]
        عطا حسینیان: جمهوری اسلامی با وجود کمبود گاز، درآمد صادرات آن را در اولویت قرار داده است
        https://www.youtube.com/watch?v=5lco_HxLcRI
 
-    17. [2026-11-26 14:44:10]
+    28. [2026-11-26 14:44:10]
        پل بی-۱؛ مسیر ارتباطی مجتمع‌ موشکی گرمدره و مقر لشکر ۱۰ سپاه
        https://www.youtube.com/watch?v=ctxO_pK9IPs
 
-    18. [2026-11-26 14:02:06]
-       اکبرین: مهار قاچاق کپتاگون می‌تواند راه گسترش روابط اقتصادی با دمشق را باز کند
+    29. [2026-11-26 14:02:06]
+       محمدجواد اکبرین: مهار قاچاق کپتاگون می‌تواند راه گسترش روابط اقتصادی با دمشق را باز کند
        https://www.youtube.com/watch?v=jTUjYIFd274
 
-    19. [2026-11-26 13:46:10]
+    30. [2026-11-26 13:46:10]
        بیش از سه میلیون قرص کپتاگون در دو عملیات در سوریه توقیف شد
        https://www.youtube.com/watch?v=NBccqTpoRNI
-
-    20. [2026-11-26 13:44:29]
-       تعطیلی کامل خط تولید پالایشگاه نفتی بانکوک در پی آتش‌سوزی
-       https://www.youtube.com/shorts/F9L151mvUng
-
-    21. [2026-11-26 13:24:09]
-       کاظمیان: پیام مجتبی خامنه‌ای می‌تواند تاکید دوباره بر سرکوب خونین معترضان باشد
-       https://www.youtube.com/watch?v=FwuuaVu_-PI
-
-    22. [2026-11-26 12:58:42]
-       تجمع در اربیل در اعتراض به تصمیم نخست‌وزیر عراق برای اعزام نیرو به مرزهای اقلیم کردستان
-       https://www.youtube.com/watch?v=_uEX7x9yi7I
-
-    23. [2026-11-26 12:56:25]
-       درخواست از همه اعضای اتحادیه مدیترانه برای پیوستن به پیمان «عبور بی‌هزینه از تنگه هرمز»
-       https://www.youtube.com/watch?v=RBrd213dkSg
-
-    24. [2026-11-26 12:17:05]
-       انتخابات اسپانیا؛ رقابت چپ و راست بر سر قدرت
-       https://www.youtube.com/watch?v=VEVk1_mzu6A
-
-    25. [2026-11-26 11:13:23]
-       ایمان آقایاری: افزایش هزینه حمل‌ونقل یا مخالفت با آن، هر دو منجر به نارضایتی‌ می‌شود
-       https://www.youtube.com/watch?v=TNT8BJMUw6o
-
-    26. [2026-11-26 11:02:53]
-       معصومه طاهرخانی: دلار تا پایان سال می‌تواند به ۴۰۰ هزار تومان برسد
-       https://www.youtube.com/watch?v=0_xNB1bvu6A
-
-    27. [2026-11-26 10:56:16]
-       اخبار نیم‌روزی | پنجشنبه ۵ آذر
-       https://www.youtube.com/watch?v=Eeu8LmHL8q8
-
-    28. [2026-11-26 10:17:06]
-       بریتانیا ۱۰۰ هزار نظامی سابق را برای احتمال جنگ آماده فراخوان کرد
-       https://www.youtube.com/watch?v=r_BigbEsXKc
-
-    29. [2026-11-26 10:16:19]
-       سخنگوی سپاه: ذخایر موشکی ما از آمریکا خیلی بهتر است
-       https://www.youtube.com/shorts/W1X0w0KfZQA
-
-    30. [2026-11-26 09:57:12]
-       گزارش‌ها از تلاش جمهوری اسلامی برای توسعه تسلیحات شیمیایی و بیولوژیک
-       https://www.youtube.com/watch?v=6X78Z-hSulQ
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار عصرگاهی | پنج‌شنبه ۵ آذر
+       https://soundcloud.com/iranintl/prcn8vb1kxk9
+
+    32. [Unknown]
        اخبار نیم‌روزی | پنجشنبه ۵ آذر
        https://soundcloud.com/iranintl/5qagzoauhgsl
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار بامدادی | پنجشنبه ۵ آذر
        https://soundcloud.com/iranintl/gaodos4g4djs
 
-    33. [Unknown]
+    34. [Unknown]
        سیاست با مراد ویسی: پزشکیان: کاش می‌مردم
        https://soundcloud.com/iranintl/8oomtuqohhji
 
-    34. [Unknown]
+    35. [Unknown]
        برنامه با کامبیز حسینی | روایت‌های مستند زنان ایرانی از خشونت مردان
        https://soundcloud.com/iranintl/dzykl5jf75jy
 
-    35. [Unknown]
+    36. [Unknown]
        چشم‌انداز: همدستی پنهان بخشی از جامعه با حکومت در سرکوب زنان
        https://soundcloud.com/iranintl/g8fbw9lurmoy
 
-    36. [Unknown]
+    37. [Unknown]
        ۲۴ با فرداد فرحزاد: تغییر کامل حکومت ایران؛ راه‌حل اسرائيل برای پایان جنگ
        https://soundcloud.com/iranintl/ff7x9wbqnmag
 
-    37. [Unknown]
+    38. [Unknown]
        تیتراول با نیوشا صارمی: تشدید تنش از هرمز تا دریای سرخ؛ ساخت تأسیسات زیرزمینی مشکوک در بهجت‌آباد
        https://soundcloud.com/iranintl/phx9oj1ru100
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/qu9osy8txkzi
 
-    39. [Unknown]
+    40. [Unknown]
        اخبار نیمروزی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/z6aoi463fb9m
 
-    40. [Unknown]
+    41. [Unknown]
        اخبار بامدادی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/c9ag40inbtdu
 
-    41. [Unknown]
+    42. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/l6g7fbr4s9uj
 
-    42. [Unknown]
+    43. [Unknown]
        سیاست با مراد ویسی: فهرست اهداف احتمالی آمریکا
        https://soundcloud.com/iranintl/z240wiqxxcqg
 
-    43. [Unknown]
+    44. [Unknown]
        برنامه با کامبیز حسینی | مشروب تقلبی چه آسیبی به اطرافیان شما زده؟
        https://soundcloud.com/iranintl/dt8wh58rs8ln
 
-    44. [Unknown]
+    45. [Unknown]
        ۲۴ با فرداد فرحزاد:  طرح دولت ترامپ برای حذف سران جمهوری اسلامی
        https://soundcloud.com/iranintl/z4uzs1ev684v
 
-    45. [Unknown]
+    46. [Unknown]
        چشم‌انداز: دو پیام ویژه حکومت ایران به زنان در یک روز
        https://soundcloud.com/iranintl/cnlfmfchzzwe
 
-    46. [Unknown]
+    47. [Unknown]
        تیتراول با نیوشا صارمی: حمله به بلندترین آسمان‌خراش عربستان در قلب ریاض؛ سایه جنگ تمام‌عیار
        https://soundcloud.com/iranintl/whjiemrxxoh5
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/v67chcl8q8rt
 
-    48. [Unknown]
+    49. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/b5werlqyupux
 
-    49. [Unknown]
+    50. [Unknown]
        اخبار بامدادی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/rhborijsdvty
-
-    50. [Unknown]
-       اخبار شبانگاهی | سه‌شنبه ۳ آذر
-       https://soundcloud.com/iranintl/dwowzjyhemyt
 
 ----------------------------------------
 
@@ -276,84 +276,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     51. [Unknown]
+       جام جهان‌نما ۲۶ نوامبر ۲۰۲۶ / ۵ آذر ۱۴۰۵
+       https://soundcloud.com/bbcpersian/ntvksjre3hwr
+
+    52. [Unknown]
        جام جهان‌نما ۲۵ نوامبر ۲۰۲۶ / ۴ آذر ۱۴۰۵
        https://soundcloud.com/bbcpersian/wo6uyq1did0b
 
-    52. [Unknown]
+    53. [Unknown]
        جام جهان‌نما ۲۴ نوامبر ۲۰۲۶ / ۳ آذر ۱۴۰۵
        https://soundcloud.com/bbcpersian/ws2yiiy7st69
 
-    53. [Unknown]
+    54. [Unknown]
        جام جهان‌نما ۲۳ نوامبر ۲۰۲۶ / ۲ آذر ۱۴۰۵
        https://soundcloud.com/bbcpersian/l7thf8nlpmzj
 
-    54. [Unknown]
+    55. [Unknown]
        جام جهان‌نما ۲۲ نوامبر ۲۰۲۶ / ۱ آذر ۱۴۰۵
        https://soundcloud.com/bbcpersian/taasuomj7aoc
 
-    55. [Unknown]
+    56. [Unknown]
        جام جهان‌نما ۲۱ نوامبر ۲۰۲۶ / ۳۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/xusfnhsbtd54
 
-    56. [Unknown]
+    57. [Unknown]
        جام جهان‌نما ۲۰ نوامبر ۲۰۲۶ / ۲۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/8m96fiuqnglb
 
-    57. [Unknown]
+    58. [Unknown]
        جام جهان‌نما ۱۹ نوامبر ۲۰۲۶ / ۲۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/hd9og3hr3fom
 
-    58. [Unknown]
+    59. [Unknown]
        جام جهان‌نما ۱۸ نوامبر ۲۰۲۶ / ۲۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/beeog0oylhb0
 
-    59. [Unknown]
+    60. [Unknown]
        جام جهان‌نما ۱۷ نوامبر ۲۰۲۶ / ۲۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/9dl6aqcahllf
 
-    60. [Unknown]
+    61. [Unknown]
        جام جهان‌نما ۱۶ نوامبر ۲۰۲۶ / ۲۵ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/tatp9ydcl45u
 
-    61. [Unknown]
+    62. [Unknown]
        جام جهان‌نما ۱۵ نوامبر ۲۰۲۶ / ۲۴ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/p5mqvbvkhif0
 
-    62. [Unknown]
+    63. [Unknown]
        جام جهان‌نما ۱۴ نوامبر ۲۰۲۶ / ۲۳ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vujsixj53sok
 
-    63. [Unknown]
+    64. [Unknown]
        جام جهان‌نما ۱۳ نوامبر ۲۰۲۶ / ۲۲ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/51nd6rwat9ls
 
-    64. [Unknown]
+    65. [Unknown]
        جام جهان‌نما ۱۲ نوامبر ۲۰۲۶ / ۲۱ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/kr48oiad4ovj
 
-    65. [Unknown]
+    66. [Unknown]
        جام جهان‌نما ۱۱ نوامبر ۲۰۲۶ / ۲۰ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/39rga0glqgld
 
-    66. [Unknown]
+    67. [Unknown]
        جام جهان‌نما ۱۰ نوامبر ۲۰۲۶ / ۱۹ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/vg0slahxxaod
 
-    67. [Unknown]
+    68. [Unknown]
        جام جهان‌نما ۹ نوامبر ۲۰۲۶ / ۱۸ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/ux2jhrv9jwdx
 
-    68. [Unknown]
+    69. [Unknown]
        جام جهان‌نما ۸ نوامبر ۲۰۲۶ / ۱۷ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/bswk71jgjx3e
 
-    69. [Unknown]
+    70. [Unknown]
        جام جهان‌نما ۷ نوامبر ۲۰۲۶ / ۱۶ آبان ۱۴۰۵
        https://soundcloud.com/bbcpersian/mkrkfphnzb0u
-
-    70. [Unknown]
-       جام جهان‌نما ۶ نوامبر ۲۰۲۶ / ۱۵ آبان ۱۴۰۵
-       https://soundcloud.com/bbcpersian/aftpn1o6mz2j
 
 ----------------------------------------
 
