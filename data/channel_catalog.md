@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-25T19:01:03.614657+00:00
-Generated (Iran): 2026-11-25T22:31:03.614675+00:00
+Generated (UTC):  2026-11-26T07:00:53.506596+00:00
+Generated (Iran): 2026-11-26T10:30:53.506610+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-25 18:00:00]
+    1. [2026-11-25 19:31:01]
        دلار نزدیک ۳۰۰ هزار تومان؛ ادامه کارزار ترامپ برای انزوای اقتصادی ایران -  ۶۰ دقیقه چهارشنبه ۴ آذر
        https://www.youtube.com/watch?v=vm5PHT6q1Q8
 
-    2. [2026-11-25 17:14:32]
+    2. [2026-11-25 19:18:26]
+       بسنت: جمهوری اسلامی یک قطره نفت هم برای فروش ندارد - گفتگو با مشاور پیشین اقتصادی ترامپ
+       https://www.youtube.com/watch?v=uJeK_25ZqDE
+
+    3. [2026-11-25 19:12:58]
+       رژه کرامپوس‌های نیمه‌دیو در آستانه کریسمس
+       https://www.youtube.com/shorts/_rTAQ9o-SEY
+
+    4. [2026-11-25 17:14:32]
        جام جهان‌نما- دلار پرواز کرد؛مسافران مترو تهران بازرسی شدند- ۴ أذر ۱۴۰۵
        https://www.youtube.com/watch?v=_M93x1Qbczg
 
-    3. [2026-11-25 17:00:26]
+    5. [2026-11-25 17:00:26]
        پرگار پلاس: چین و آمریکا در جدال بر سر قدرت نرم
        https://www.youtube.com/watch?v=lz5rVCWo2vQ
 
-    4. [2026-11-25 16:08:49]
+    6. [2026-11-25 16:08:49]
        نخستین زن متأهل و نخستین مادری که «دختر شایسته جهان» شد
        https://www.youtube.com/shorts/txIfSmWiMgY
 
-    5. [2026-11-25 15:53:49]
+    7. [2026-11-25 15:53:49]
        سفرنخستین فرد پاکستانی  به فضا
        https://www.youtube.com/shorts/4TLgWb6IJJU
 
-    6. [2026-11-25 15:35:50]
+    8. [2026-11-25 15:35:50]
        اعتراض همایون شجریان و سهراب پورناظری به  ممنوعیت تک‌خوانی زنان
        https://www.youtube.com/shorts/w7NWbU75JuA
 
-    7. [2026-11-25 15:00:17]
+    9. [2026-11-25 15:00:17]
        اخبار ساعت شش عصر-۴ آذر ۱۴۰۵- پرونده اکباتان در اعتراضات زن٬ زندگی٬ آزادی
        https://www.youtube.com/watch?v=M0i5wtpIWo8
 
-    8. [2026-11-25 11:00:38]
+    10. [2026-11-25 11:00:38]
        مراسم تشییع غلامرضا نیکخواه
        https://www.youtube.com/shorts/hLvmWabnr-A
 
-    9. [2026-11-25 09:43:59]
+    11. [2026-11-25 09:43:59]
        الکل سمی را چطور تشخیص دهیم؟
        https://www.youtube.com/shorts/t92-iK_GgQw
 
-    10. [2026-11-25 09:28:08]
+    12. [2026-11-25 09:28:08]
        ویدیوهای «اشیای ناشناس پرنده» در خاورمیانه
        https://www.youtube.com/shorts/9W5qqPQiUIQ
 
-    11. [2026-11-24 23:30:33]
+    13. [2026-11-24 23:30:33]
        درگذشت غلامرضا نیکخواه، بازیگر پیشکسوت سینما
        https://www.youtube.com/shorts/lchQdRXhU34
 
-    12. [2026-11-24 23:28:47]
+    14. [2026-11-24 23:28:47]
        تماس تلفنی فاطمه سپهری از زندان
        https://www.youtube.com/shorts/bXGKQPUyHAc
 
-    13. [2026-11-24 19:31:52]
+    15. [2026-11-24 19:31:52]
        چرا حکومت ایران در برابر خواسته‌های زنان کوتاه نمی‌آید؟ ۶۰ دقیقه سه‌شنبه ۳ آذر
        https://www.youtube.com/watch?v=x3rMOnWXmC8
-
-    14. [2026-11-24 19:29:23]
-       خشونت علیه زنان چه ریشه و درمانی دارد؟ صفحه ۲
-       https://www.youtube.com/watch?v=fSxPHJk329E
-
-    15. [2026-11-24 19:09:21]
-       جام جهان‌نما
-       https://www.youtube.com/watch?v=YLzdC_tyy_Q
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-25 18:55:02]
-       ساخت شتابان یک مجموعه زیرزمینی در نزدیکی نطنز
-       https://www.youtube.com/watch?v=fmf7iW4DVUo
+    16. [2026-11-26 04:49:41]
+       اخبار بامدادی | پنجشنبه ۵ آذر
+       https://www.youtube.com/watch?v=L-CypX9-FLo
 
-    17. [2026-11-25 18:43:47]
-       همدستی پنهان بخشی از جامعه با حکومت در سرکوب زنان
-       https://www.youtube.com/shorts/iqMbUcrh4gY
+    17. [2026-11-26 04:48:13]
+       گزارش فایننشال‌تایمز از نقش واحد سایبری سپاه در حمله به سامانه‌های سرمایشی فرانسه
+       https://www.youtube.com/watch?v=4z-UqxN69ms
 
-    18. [2026-11-25 17:32:03]
-       تیتراول با نیوشا صارمی: تشدید تنش‌های منطقه‌ای؛ ترامپ: هدف اسرائیل برای تغییر رژیم ایران شدنی است
-       https://www.youtube.com/watch?v=DaqMWVYsYto
+    18. [2026-11-26 04:39:36]
+       غسان عاشور: قاچاق نفت از عراق، یکی از راه‌های اصلی جمهوری اسلامی برای دور زدن تحریم‌هاست
+       https://www.youtube.com/watch?v=KChylj_0ARo
 
-    19. [2026-11-25 16:42:29]
-       اقتصاد و بازار: سقوط ساعتی ارزش پول ملی؛ گرانی و کیفیت پایین اینترنت در ایران
-       https://www.youtube.com/watch?v=zsNQzI3m0qs
+    19. [2026-11-26 04:36:17]
+       فرزین ندیمی: سایت زیرزمینی اصفهان احتمالا انبار و محل نگهداری موشک‌های سپاه است
+       https://www.youtube.com/watch?v=9XRuI-dI-RE
 
-    20. [2026-11-25 16:29:18]
-       سنتکام ویدیویی از عملیات سوخت‌رسانی به هواپیماهای نظامی آمریکا در خاورمیانه منتشر کرد
-       https://www.youtube.com/shorts/xIMIBgg41X4
+    20. [2026-11-26 04:31:21]
+       واکنش کشورهای آسیایی به تعرفه‌های جدید پیشنهادی ترامپ
+       https://www.youtube.com/watch?v=hrgePA73bp0
 
-    21. [2026-11-25 16:20:35]
-       هشدار دولت یمن درباره آغاز عملیات حزب‌الله برای انتقال منابع و فعالیت‌های خود به حوثی‌ها
-       https://www.youtube.com/watch?v=6PsgfqUDiQg
+    21. [2026-11-26 04:29:12]
+       عرفان قانعی‌فرد: در تفکر خمینیسم جنگ‌افروزی فلسفه بقا و استمرار قدرت است
+       https://www.youtube.com/watch?v=rI7KfsA0iaI
 
-    22. [2026-11-25 15:41:32]
-       گزارش روز با مجتبا پورمحسن: تصمیم اسرائیل برای حمله قطعی شد؛ چراغ سبز ترامپ به جنگ سوم
-       https://www.youtube.com/watch?v=gk4wVR6W_5o
+    22. [2026-11-26 04:23:02]
+       سازمان اطلاعات کانادا برای مقابله با مداخله خارجی با ایرانیان و یهودیان گفت‌وگو می‌کند
+       https://www.youtube.com/watch?v=OHQzpWyFUbI
 
-    23. [2026-11-25 15:23:38]
-       اعتصاب کامیون‌داران؛ وقتی خرج از دخل سبقت می‌گیرد
-       https://www.youtube.com/watch?v=iW3EIxLL4oA
+    23. [2026-11-26 04:19:20]
+       ساخت سریع تاسیسات زیرزمینی مستحکم جمهوری اسلامی در بهجت‌آباد
+       https://www.youtube.com/watch?v=ULrSW-Qi3k8
 
-    24. [2026-11-25 14:56:16]
-       اخبار عصرگاهی | چهارشنبه ۴ آذر
-       https://www.youtube.com/watch?v=bTw5-hQ06xM
+    24. [2026-11-26 04:18:06]
+       گزارش اسرائیل‌هیوم از تلاش چند دهه‌ای جمهوری اسلامی برای توسعه تسلیحات شیمیایی
+       https://www.youtube.com/watch?v=JE2Xyyd3mDc
 
-    25. [2026-11-25 14:17:36]
-       بریتانیا حفاظت از هواپیماهای نظامی خود را در برابر حملات پهپادی افزایش داد
-       https://www.youtube.com/watch?v=ycdU9v8oo10
+    25. [2026-11-25 23:37:14]
+       اخبار شبانگاهی | پنجشنبه ۵ آذر
+       https://www.youtube.com/watch?v=GKYRl7W78PY
 
-    26. [2026-11-25 14:02:22]
-       هواوی در آمریکا به فریب بانک‌ها و پنهان کردن فعالیت در کشورهای تحت تحریم محکوم شد
-       https://www.youtube.com/watch?v=n8CxyEO6tBQ
+    26. [2026-11-25 23:27:16]
+       تلاش‌ها برای تشکیل دولت جدید در اسرائیل
+       https://www.youtube.com/shorts/h-ddXr9UqYQ
 
-    27. [2026-11-25 13:59:29]
-       ورود قایق‌های حامل مهاجران به جزیره ال هیرو اسپانیا
-       https://www.youtube.com/shorts/Lv9St_y8hK4
+    27. [2026-11-25 23:19:44]
+       وزیر خزانه‌داری آمریکا: ایران دیگر حتی یک قطره نفت روی آب برای فروش ندارد
+       https://www.youtube.com/shorts/AnYDZ9SK8Wg
 
-    28. [2026-11-25 13:52:44]
-       انفجار و آتش‌سوزی دو نفتکش دیگر در تنگه هرمز
-       https://www.youtube.com/watch?v=ik2fKNGgDAk
+    28. [2026-11-25 22:45:54]
+       ترامپ تعرفه‌های جدیدی بر واردات از ۱۴ اقتصاد بزرگ جهان اعمال می‌کند
+       https://www.youtube.com/watch?v=A4s-pPBrsZc
 
-    29. [2026-11-25 13:37:07]
-       خشم و اندوه کاربران شبکه‌های اجتماعی در واکنش به احکام اعدام میلاد آرمون و نوید نجاران
-       https://www.youtube.com/watch?v=ZmShvylV-iQ
+    29. [2026-11-25 22:41:34]
+       اختلاف در اسرائیل بر سر زمان اقدام نظامی علیه جمهوری اسلامی
+       https://www.youtube.com/watch?v=dAcnL0ARhuk
 
-    30. [2026-11-25 13:20:20]
-       دولت آمریکا تعرفه‌های گمرکی جدید علیه اتحادیه اروپا و چین وضع می‌کند
-       https://www.youtube.com/watch?v=AjkPAqJ4hdk
+    30. [2026-11-25 22:27:07]
+       دست‌کم ۳۰ کشته در پی واژگونی تانکر سوخت در قاهره
+       https://www.youtube.com/shorts/-roFwtV3q04
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار بامدادی | پنجشنبه ۵ آذر
+       https://soundcloud.com/iranintl/gaodos4g4djs
+
+    32. [Unknown]
+       سیاست با مراد ویسی: پزشکیان: کاش می‌مردم
+       https://soundcloud.com/iranintl/8oomtuqohhji
+
+    33. [Unknown]
+       برنامه با کامبیز حسینی | روایت‌های مستند زنان ایرانی از خشونت مردان
+       https://soundcloud.com/iranintl/dzykl5jf75jy
+
+    34. [Unknown]
+       چشم‌انداز: همدستی پنهان بخشی از جامعه با حکومت در سرکوب زنان
+       https://soundcloud.com/iranintl/g8fbw9lurmoy
+
+    35. [Unknown]
+       ۲۴ با فرداد فرحزاد: تغییر کامل حکومت ایران؛ راه‌حل اسرائيل برای پایان جنگ
+       https://soundcloud.com/iranintl/ff7x9wbqnmag
+
+    36. [Unknown]
        تیتراول با نیوشا صارمی: تشدید تنش از هرمز تا دریای سرخ؛ ساخت تأسیسات زیرزمینی مشکوک در بهجت‌آباد
        https://soundcloud.com/iranintl/phx9oj1ru100
 
-    32. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/qu9osy8txkzi
 
-    33. [Unknown]
+    38. [Unknown]
        اخبار نیمروزی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/z6aoi463fb9m
 
-    34. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/c9ag40inbtdu
 
-    35. [Unknown]
+    40. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/l6g7fbr4s9uj
 
-    36. [Unknown]
+    41. [Unknown]
        سیاست با مراد ویسی: فهرست اهداف احتمالی آمریکا
        https://soundcloud.com/iranintl/z240wiqxxcqg
 
-    37. [Unknown]
+    42. [Unknown]
        برنامه با کامبیز حسینی | مشروب تقلبی چه آسیبی به اطرافیان شما زده؟
        https://soundcloud.com/iranintl/dt8wh58rs8ln
 
-    38. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد:  طرح دولت ترامپ برای حذف سران جمهوری اسلامی
        https://soundcloud.com/iranintl/z4uzs1ev684v
 
-    39. [Unknown]
+    44. [Unknown]
        چشم‌انداز: دو پیام ویژه حکومت ایران به زنان در یک روز
        https://soundcloud.com/iranintl/cnlfmfchzzwe
 
-    40. [Unknown]
+    45. [Unknown]
        تیتراول با نیوشا صارمی: حمله به بلندترین آسمان‌خراش عربستان در قلب ریاض؛ سایه جنگ تمام‌عیار
        https://soundcloud.com/iranintl/whjiemrxxoh5
 
-    41. [Unknown]
+    46. [Unknown]
        اخبار عصرگاهی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/v67chcl8q8rt
 
-    42. [Unknown]
+    47. [Unknown]
        اخبار نیمروزی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/b5werlqyupux
 
-    43. [Unknown]
+    48. [Unknown]
        اخبار بامدادی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/rhborijsdvty
 
-    44. [Unknown]
+    49. [Unknown]
        اخبار شبانگاهی | سه‌شنبه ۳ آذر
        https://soundcloud.com/iranintl/dwowzjyhemyt
 
-    45. [Unknown]
+    50. [Unknown]
        سیاست با مراد ویسی: بحث داغ حمله
        https://soundcloud.com/iranintl/b8bit09d27vz
-
-    46. [Unknown]
-       برنامه با کامبیز حسینی | شکنجه با مجوز حاکمیت؛ برای پایان‌دادن به مجازات شلاق چه باید کرد؟
-       https://soundcloud.com/iranintl/vnyc70hokay5
-
-    47. [Unknown]
-       ۲۴ با فرداد فرحزاد:  رئیس پیشین موساد: باید فورا برای سرنگونی جمهوری اسلامی اقدام نظامی کرد
-       https://soundcloud.com/iranintl/8v08r8qp0gj6
-
-    48. [Unknown]
-       چشم‌انداز: پشت کردن به اصول صریح خمینی برای حفظ نظام
-       https://soundcloud.com/iranintl/bddi65nktdkv
-
-    49. [Unknown]
-       تیتراول با نیوشا صارمی: تشدید رویارویی دریایی تهران و واشینگتن؛ درخواست جنگ تازه در اسرائیل
-       https://soundcloud.com/iranintl/q7zhkyxi7rl7
-
-    50. [Unknown]
-       اخبار عصرگاهی | دوشنبه ۲ آذر
-       https://soundcloud.com/iranintl/d9vllpj0rzml
 
 ----------------------------------------
 
