@@ -1,7 +1,7 @@
 # Channel Catalog
 
-Generated (UTC):  2026-11-27T11:01:02.247405+00:00
-Generated (Iran): 2026-11-27T14:31:02.247428+00:00
+Generated (UTC):  2026-11-27T15:01:00.224003+00:00
+Generated (Iran): 2026-11-27T18:31:00.224023+00:00
 Replaced on every Full Diagnostic run.
 Channel list file: config/saved_channels.txt
 
@@ -34,65 +34,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    1. [2026-11-26 18:30:01]
+    1. [2026-11-27 14:00:00]
+       اخبار ساعت شش عصر
+       https://www.youtube.com/watch?v=C1RAqSGMx6w
+
+    2. [2026-11-27 11:29:25]
+       طوفان و سیل در امریکا همزمان با روز شکرگزاری
+       https://www.youtube.com/shorts/WmVRp4Ms074
+
+    3. [2026-11-27 11:24:14]
+       سناتور افغان تبار استرالیا با کودکش در جلسه حاضر شد
+       https://www.youtube.com/shorts/TrueORuIhCo
+
+    4. [2026-11-26 18:30:01]
        نقش خلا قانونی ناشی از ممنوعیت مشروب‌های الکلی؛ ادامه زن‌کشی در ایران و بیشتر: خبرنگاران
        https://www.youtube.com/watch?v=l_Vajz4Z-uo
 
-    2. [2026-11-26 18:03:00]
+    5. [2026-11-26 18:03:00]
        اثرات جنگ ایران بر جنگ اوکراین - صفحه ۲
        https://www.youtube.com/watch?v=V8GpZfpoZUc
 
-    3. [2026-11-26 17:42:26]
-       جام جهان‌نما
+    6. [2026-11-26 17:42:26]
+       جام جهان‌نما- پنج‌شنبه ۵آذر- اعزام نیرو از بغداد به کردستان عراق
        https://www.youtube.com/watch?v=Gddgp1dH11M
 
-    4. [2026-11-26 16:00:37]
+    7. [2026-11-26 16:00:37]
        رنگآهنگ: گفت‌وگو با اِما، آلبوم مشترک گوگوش و پینک مارتینی، و «کنسرت فرضی» پرستو احمدی
        https://www.youtube.com/watch?v=_sCCLpoL3z8
 
-    5. [2026-11-26 15:00:36]
+    8. [2026-11-26 15:00:36]
        اخبار ساعت شش عصر- پنج‌شنبه  ۵ آذر-اعزام نیرو از بغداد به کردستان عراق
        https://www.youtube.com/watch?v=1wwSG8eqkxo
 
-    6. [2026-11-26 14:41:00]
+    9. [2026-11-26 14:41:00]
        احیای کمجان؛ وقتی حواصیل‌ها برمی‌گردند
        https://www.youtube.com/shorts/5cctzYe9jOg
 
-    7. [2026-11-26 12:41:25]
+    10. [2026-11-26 12:41:25]
        سپاه: شناورهایی که قاچاق سوخت می‌کنند، هدف می‌گیریم
        https://www.youtube.com/shorts/Ow73aq5JiNo
 
-    8. [2026-11-26 11:08:32]
+    11. [2026-11-26 11:08:32]
        رحیم استرلینگ برای رانندگی خطرناک به یک سال حبس تعلیقی محکوم شد
        https://www.youtube.com/shorts/Pbwu2TM0a9Q
 
-    9. [2026-11-25 19:31:01]
+    12. [2026-11-25 19:31:01]
        دلار نزدیک ۳۰۰ هزار تومان؛ ادامه کارزار ترامپ برای انزوای اقتصادی ایران -  ۶۰ دقیقه چهارشنبه ۴ آذر
        https://www.youtube.com/watch?v=vm5PHT6q1Q8
 
-    10. [2026-11-25 19:18:26]
+    13. [2026-11-25 19:18:26]
        بسنت: جمهوری اسلامی یک قطره نفت هم برای فروش ندارد - گفتگو با مشاور پیشین اقتصادی ترامپ
        https://www.youtube.com/watch?v=uJeK_25ZqDE
 
-    11. [2026-11-25 19:12:58]
+    14. [2026-11-25 19:12:58]
        رژه کرامپوس‌های نیمه‌دیو در آستانه کریسمس
        https://www.youtube.com/shorts/_rTAQ9o-SEY
 
-    12. [2026-11-25 17:14:32]
+    15. [2026-11-25 17:14:32]
        جام جهان‌نما- دلار پرواز کرد؛مسافران مترو تهران بازرسی شدند- ۴ أذر ۱۴۰۵
        https://www.youtube.com/watch?v=_M93x1Qbczg
-
-    13. [2026-11-25 17:00:26]
-       پرگار پلاس: چین و آمریکا در جدال بر سر قدرت نرم
-       https://www.youtube.com/watch?v=lz5rVCWo2vQ
-
-    14. [2026-11-25 16:08:49]
-       نخستین زن متأهل و نخستین مادری که «دختر شایسته جهان» شد
-       https://www.youtube.com/shorts/txIfSmWiMgY
-
-    15. [2026-11-25 15:53:49]
-       سفرنخستین فرد پاکستانی  به فضا
-       https://www.youtube.com/shorts/4TLgWb6IJJU
 
 ----------------------------------------
 
@@ -105,65 +105,65 @@ YouTube channels (2)
 
   Videos in RSS (15):
 
-    16. [2026-11-27 10:53:21]
-       حبیب، قهرمان مبارزات UFC، در رقابت شاخ‌به‌شاخ با یک بز تسلیم شد
-       https://www.youtube.com/shorts/2XTObnIlT8o
+    16. [2026-11-27 14:33:24]
+       عطا محامد: اتهام‌زنی به اسرائیل و اوکراین نشانه آشفتگی در واکنش جمهوری اسلامی است
+       https://www.youtube.com/watch?v=2KT2WCLs3QM
 
-    17. [2026-11-27 10:22:07]
+    17. [2026-11-27 14:27:21]
+       مشروبات تقلبی، ممنوعیتی به قیمت جان
+       https://www.youtube.com/watch?v=Y52DRViVUAY
+
+    18. [2026-11-27 14:11:27]
+       ارتش اسرائیل از حمله هوایی به مواضع حزب‌الله در دره بقاع خبر داد
+       https://www.youtube.com/watch?v=WjSyIwxhjDE
+
+    19. [2026-11-27 14:07:16]
+       روح‌الله رحیم‌پور: اختلاف‌ها در اسرائیل بر سر نحوه اقدام نظامی ممکن است کمرنگ‌تر شود
+       https://www.youtube.com/watch?v=3bSfM7LQOMk
+
+    20. [2026-11-27 13:33:26]
+       نان و موشک در دو سوی یک جاده
+       https://www.youtube.com/watch?v=LeeYZ1cjmKI
+
+    21. [2026-11-27 13:18:58]
+       وای‌نت: رییس موساد از حمله اسرائیل به جمهوری اسلامی حتی بدون مشارکت آمریکا حمایت کرد
+       https://www.youtube.com/watch?v=aKbrelPGTFg
+
+    22. [2026-11-27 13:12:53]
+       احزاب کرد سوریه بسته شدن گذرگاه‌های مرزی با اقلیم کردستان عراق را محکوم کردند
+       https://www.youtube.com/watch?v=rwOLpLeVMEA
+
+    23. [2026-11-27 12:53:12]
+       نقش و نگارهای شگفت‌انگیز روی آب‌های یخ‌زده دریای اختسک روسیه
+       https://www.youtube.com/shorts/hMwxTWRNuA8
+
+    24. [2026-11-27 12:36:03]
+       استفاده از ون‌های شرکت گل‌گهر برای سرکوب اعتراضات کرمان
+       https://www.youtube.com/watch?v=iQQ-TGAJXFY
+
+    25. [2026-11-27 12:26:04]
+       رقبای چپ‌گرا و راست‌گرا در انتخابات اسپانیا چه کسانی‌اند؟
+       https://www.youtube.com/watch?v=fbneQTrMGCQ
+
+    26. [2026-11-27 11:49:53]
+       جاری شدن فاضلاب در خیابان‌های چابهار
+       https://www.youtube.com/shorts/hzouxEVyxXY
+
+    27. [2026-11-27 11:06:47]
+       علی‌حسین قاضی‌زاده:‌ کشته شدن شهروندان اروپایی هزینه جمهوری اسلامی را افزایش می‌دهد
+       https://www.youtube.com/watch?v=rMqm2t36S1E
+
+    28. [2026-11-27 11:04:55]
+       اخبار نیم‌روزی | جمعه ۶ آذر
+       https://www.youtube.com/watch?v=GcVnbWn9E74
+
+    29. [2026-11-27 10:22:07]
        طوفان‌های شدید در آمریکا صدها پرواز را لغو و برق هزاران مشترک را قطع کرد
        https://www.youtube.com/watch?v=9rv6wk00Cl0
 
-    18. [2026-11-27 10:06:04]
+    30. [2026-11-27 10:06:04]
        سیلاب شدید خیابان‌های شهر پیورا در پرو را فرا گرفت
        https://www.youtube.com/shorts/pk1NUbK6Y0I
-
-    19. [2026-11-27 09:46:11]
-       حمله پهپادی به ایستگاه رادار کویت؛ دو ایتالیایی کشته شدند
-       https://www.youtube.com/watch?v=wGzZeRenMTA
-
-    20. [2026-11-27 09:33:39]
-       توافق دفاعی مشترک ترکیه، پاکستان و عربستان وارد مرحله اجرا شد
-       https://www.youtube.com/watch?v=56vQygLf2pI
-
-    21. [2026-11-27 09:10:04]
-       طوفان شدید در روز شکرگزاری نیویورک را درنوردید
-       https://www.youtube.com/shorts/LACEh2ftbfs
-
-    22. [2026-11-27 09:08:36]
-       حملات هوایی اسرائیل به مواضع حزب‌الله در شرق لبنان
-       https://www.youtube.com/watch?v=VywKWYYIHH0
-
-    23. [2026-11-27 09:07:31]
-       حسین آقایی: جمهوری اسلامی با گسترش جغرافیای جنگ به دنبال افزایش هزینه‌هاست
-       https://www.youtube.com/watch?v=tqbvY0f1Vms
-
-    24. [2026-11-27 09:00:37]
-       روایت مخاطبان ایران‌اینترنشنال از تعویق دستمزدها و اعتصاب کارگران
-       https://www.youtube.com/watch?v=Okd-LwPlfTU
-
-    25. [2026-11-27 04:58:18]
-       اخبار بامدادی | جمعه ۶ آذر
-       https://www.youtube.com/watch?v=AJszGREgJgI
-
-    26. [2026-11-27 04:51:19]
-       ترامپ: آمریکا در آستانه پیروزی بر جمهوری اسلامی است
-       https://www.youtube.com/shorts/HMEebkzzrlc
-
-    27. [2026-11-27 04:48:17]
-       عرفان قانعی‌فرد: زمان به بزرگ‌ترین متحد جمهوری اسلامی تبدیل شده است
-       https://www.youtube.com/watch?v=lynQwre5Ayo
-
-    28. [2026-11-27 04:43:13]
-       فرزین ندیمی: اسرائیل بدون موافقت ترامپ بعید است عملیات گسترده‌ای علیه ایران انجام دهد
-       https://www.youtube.com/watch?v=Fn25l0gylE0
-
-    29. [2026-11-27 04:41:01]
-       پیشرفت تازه دانشمندان در کاهش نشانه‌های پیری با کمک هوش مصنوعی
-       https://www.youtube.com/watch?v=_l-M8rglhI0
-
-    30. [2026-11-27 04:40:24]
-       ترامپ: آمریکا در آستانه پیروزی بر جمهوری اسلامی است
-       https://www.youtube.com/watch?v=4fts-2uHoGs
 
 ----------------------------------------
 
@@ -186,84 +186,84 @@ SoundCloud sources (2)
   Last posts (20):
 
     31. [Unknown]
+       اخبار نیم‌روزی | جمعه ۶ آذر
+       https://soundcloud.com/iranintl/1bdebx9oserk
+
+    32. [Unknown]
        اخبار بامدادی | جمعه ۶ آذر
        https://soundcloud.com/iranintl/hmka1ncuru14
 
-    32. [Unknown]
+    33. [Unknown]
        اخبار شبانگاهی | جمعه ۶ آذر
        https://soundcloud.com/iranintl/jvfb6htl4h9q
 
-    33. [Unknown]
+    34. [Unknown]
        برنامه با کامبیز حسینی | ناگفته‌های مردم ایران در تریبون آزاد «برنامه»
        https://soundcloud.com/iranintl/vgu1mfi0tj5j
 
-    34. [Unknown]
+    35. [Unknown]
        ۲۴ با فرداد فرحزاد: فشار نتانیاهو بر ترامپ برای حمله فوری به جمهوری اسلامی
        https://soundcloud.com/iranintl/2wuse6o0rq5d
 
-    35. [Unknown]
+    36. [Unknown]
        دومینو: سقوط پرشتاب اقتصاد ایران
        https://soundcloud.com/iranintl/uwnzkdybhv4k
 
-    36. [Unknown]
+    37. [Unknown]
        اخبار عصرگاهی | پنج‌شنبه ۵ آذر
        https://soundcloud.com/iranintl/prcn8vb1kxk9
 
-    37. [Unknown]
+    38. [Unknown]
        اخبار نیم‌روزی | پنجشنبه ۵ آذر
        https://soundcloud.com/iranintl/5qagzoauhgsl
 
-    38. [Unknown]
+    39. [Unknown]
        اخبار بامدادی | پنجشنبه ۵ آذر
        https://soundcloud.com/iranintl/gaodos4g4djs
 
-    39. [Unknown]
+    40. [Unknown]
        سیاست با مراد ویسی: پزشکیان: کاش می‌مردم
        https://soundcloud.com/iranintl/8oomtuqohhji
 
-    40. [Unknown]
+    41. [Unknown]
        برنامه با کامبیز حسینی | روایت‌های مستند زنان ایرانی از خشونت مردان
        https://soundcloud.com/iranintl/dzykl5jf75jy
 
-    41. [Unknown]
+    42. [Unknown]
        چشم‌انداز: همدستی پنهان بخشی از جامعه با حکومت در سرکوب زنان
        https://soundcloud.com/iranintl/g8fbw9lurmoy
 
-    42. [Unknown]
+    43. [Unknown]
        ۲۴ با فرداد فرحزاد: تغییر کامل حکومت ایران؛ راه‌حل اسرائيل برای پایان جنگ
        https://soundcloud.com/iranintl/ff7x9wbqnmag
 
-    43. [Unknown]
+    44. [Unknown]
        تیتراول با نیوشا صارمی: تشدید تنش از هرمز تا دریای سرخ؛ ساخت تأسیسات زیرزمینی مشکوک در بهجت‌آباد
        https://soundcloud.com/iranintl/phx9oj1ru100
 
-    44. [Unknown]
+    45. [Unknown]
        اخبار عصرگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/qu9osy8txkzi
 
-    45. [Unknown]
+    46. [Unknown]
        اخبار نیمروزی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/z6aoi463fb9m
 
-    46. [Unknown]
+    47. [Unknown]
        اخبار بامدادی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/c9ag40inbtdu
 
-    47. [Unknown]
+    48. [Unknown]
        اخبار شبانگاهی | چهارشنبه ۴ آذر
        https://soundcloud.com/iranintl/l6g7fbr4s9uj
 
-    48. [Unknown]
+    49. [Unknown]
        سیاست با مراد ویسی: فهرست اهداف احتمالی آمریکا
        https://soundcloud.com/iranintl/z240wiqxxcqg
 
-    49. [Unknown]
+    50. [Unknown]
        برنامه با کامبیز حسینی | مشروب تقلبی چه آسیبی به اطرافیان شما زده؟
        https://soundcloud.com/iranintl/dt8wh58rs8ln
-
-    50. [Unknown]
-       ۲۴ با فرداد فرحزاد:  طرح دولت ترامپ برای حذف سران جمهوری اسلامی
-       https://soundcloud.com/iranintl/z4uzs1ev684v
 
 ----------------------------------------
 
